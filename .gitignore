@@ -1,0 +1,8 @@
+# vim
+*.swp
+
+# macOS
+.DS_Store
+
+# aider
+.aider*
