@@ -7,7 +7,7 @@ from urllib.parse import urlparse, parse_qs, urlencode
 
 import requests
 
-VERSION = "0.3.2"
+VERSION = "0.4.1"  # Updated version number
 
 BASE_URL = "https://api.prov.vic.gov.au/search/query"
 PARAMS = {
@@ -20,7 +20,6 @@ PARAMS = {
 
 MAX_CONSECUTIVE_FAILURES = 6
 BASE_WAIT_TIME = 63  # seconds
-PROGRESS_FILE = "harvest_progress.json"
 
 
 class TooManyFailedRequestsError(Exception):
@@ -69,38 +68,43 @@ def check_rate_limit(headers):
         time.sleep(2)
 
 
-def save_progress(start, total_docs):
-    with open(PROGRESS_FILE, 'w') as f:
-        json.dump({"start": start, "total_docs": total_docs}, f)
-
-
-def load_progress():
-    if os.path.exists(PROGRESS_FILE):
-        with open(PROGRESS_FILE, 'r') as f:
-            return json.load(f)
+def load_progress(output_file):
+    if not os.path.exists(output_file):
+        return None
+    with open(output_file, 'rb') as f:
+        try:
+            f.seek(-1024, os.SEEK_END)  # Look at the last 1KB of the file
+        except IOError:
+            f.seek(0)
+        last_lines = f.read().decode('utf-8').split('\n')
+        for line in reversed(last_lines):
+            if line.startswith("#RESUME:"):
+                return json.loads(line[8:])
     return None
 
 
-def remove_trailing_bracket(filename):
-    with open(filename, 'rb+') as f:
-        f.seek(-1, os.SEEK_END)
-        if f.read(1) == b']':
+def prepare_output_file(output_file, resume):
+    if resume:
+        with open(output_file, 'r+b') as f:
             f.seek(-1, os.SEEK_END)
+            while f.read(1) != b'\n':
+                f.seek(-2, os.SEEK_CUR)
             f.truncate()
+    else:
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write("[")
 
 
 def stream_records(resume=False, output_file='output.json'):
-    progress = load_progress() if resume else None
+    progress = load_progress(output_file) if resume else None
     start = progress['start'] if progress else 0
     total_docs = progress['total_docs'] if progress else float('inf')
     first_record = not resume
 
     if resume:
         print(f"Resuming from record {start}", file=sys.stderr)
-        remove_trailing_bracket(output_file)
-    else:
-        with open(output_file, 'w') as f:
-            f.write("[")  # Start of JSON array
+
+    prepare_output_file(output_file, resume)
 
     overall_start_time = time.time()
     total_fetched = 0
@@ -118,13 +122,13 @@ def stream_records(resume=False, output_file='output.json'):
             docs = data['response']['docs']
             total_docs = data['response']['numFound']
 
-            with open(output_file, 'a') as f:
+            with open(output_file, 'a', encoding='utf-8') as f:
                 for doc in docs:
                     if not first_record:
-                        f.write(",")  # Add comma between records
+                        f.write(",\n")  # Add comma (JSON) and \n (readability) between records
                     else:
                         first_record = False
-                    json.dump(doc, f)
+                    json.dump(doc, f, ensure_ascii=False)
                     f.flush()  # Ensure the output is written immediately
 
             start += len(docs)
@@ -138,8 +142,6 @@ def stream_records(resume=False, output_file='output.json'):
                   f"Total: {start}/{total_docs}. "
                   f"Overall rate: {overall_rate:.2f} rows/second", file=sys.stderr)
 
-            save_progress(start, total_docs)
-
             if start < total_docs:
                 check_rate_limit(headers)
 
@@ -152,8 +154,11 @@ def stream_records(resume=False, output_file='output.json'):
             file=sys.stderr)
         sys.exit(1)
     finally:
-        with open(output_file, 'a') as f:
+        with open(output_file, 'a', encoding='utf-8') as f:
             f.write("]")  # End of JSON array
+            if start < total_docs:
+                f.write(
+                    f"\n#RESUME:{json.dumps({'start': start, 'total_docs': total_docs})}")
 
 
 def main():
