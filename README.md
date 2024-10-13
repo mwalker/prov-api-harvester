@@ -18,7 +18,7 @@ uv makes it easier.
 The easiest way to run the script from the command line is using uv:
 
 ```
-uv run --with requests prov-api-harvest.py <options>
+uv run prov-api-harvest.py <options>
 ```
 
 ## Licence

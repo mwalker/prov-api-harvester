@@ -1,3 +1,9 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "requests",
+# ]
+# ///
 import json
 import sys
 import time
@@ -7,7 +13,7 @@ from urllib.parse import urlparse, parse_qs, urlencode
 
 import requests
 
-VERSION = "0.4.1"  # Updated version number
+VERSION = "0.4.2"  # Updated version number
 
 BASE_URL = "https://api.prov.vic.gov.au/search/query"
 PARAMS = {
@@ -26,13 +32,15 @@ class TooManyFailedRequestsError(Exception):
     pass
 
 
-def fetch_data(url):
+def fetch_data(url, debug=False):
     consecutive_failures = 0
     while consecutive_failures < MAX_CONSECUTIVE_FAILURES:
         try:
+            if debug:
+                print(f"Fetching data from {url}", file=sys.stderr)
             response = requests.get(url, timeout=60)
             response.raise_for_status()
-            return response.json(), response.headers
+            return response.json(), response.headers, len(response.content)
         except requests.exceptions.RequestException as e:
             consecutive_failures += 1
             wait_time = BASE_WAIT_TIME * consecutive_failures
@@ -95,9 +103,10 @@ def prepare_output_file(output_file, resume):
             f.write("[")
 
 
-def stream_records(resume=False, output_file='output.json'):
+def stream_records(resume=False, output_file='output.json', debug=False):
     progress = load_progress(output_file) if resume else None
     start = progress['start'] if progress else 0
+    total_bytes = progress['total_bytes'] if progress else 0
     total_docs = progress['total_docs'] if progress else float('inf')
     first_record = not resume
 
@@ -114,9 +123,8 @@ def stream_records(resume=False, output_file='output.json'):
             PARAMS['start'] = str(start)
             url = f"{BASE_URL}?{urlencode(PARAMS)}"
 
-            print(f"Fetching data from {url}", file=sys.stderr)
             fetch_start_time = time.time()
-            data, headers = fetch_data(url)
+            data, headers, content_size = fetch_data(url, debug)
             fetch_end_time = time.time()
 
             docs = data['response']['docs']
@@ -133,6 +141,7 @@ def stream_records(resume=False, output_file='output.json'):
 
             start += len(docs)
             total_fetched += len(docs)
+            total_bytes += content_size
 
             fetch_duration = fetch_end_time - fetch_start_time
             overall_duration = fetch_end_time - overall_start_time
@@ -140,7 +149,8 @@ def stream_records(resume=False, output_file='output.json'):
 
             print(f"Fetched {len(docs)} documents in {fetch_duration:.2f} seconds. "
                   f"Total: {start}/{total_docs}. "
-                  f"Overall rate: {overall_rate:.2f} rows/second", file=sys.stderr)
+                  f"Overall rate: {overall_rate:.2f} rows/second. "
+                  f"Downloaded: {content_size} bytes (Total: {total_bytes} bytes)", file=sys.stderr)
 
             if start < total_docs:
                 check_rate_limit(headers)
@@ -158,7 +168,7 @@ def stream_records(resume=False, output_file='output.json'):
             f.write("]")  # End of JSON array
             if start < total_docs:
                 f.write(
-                    f"\n#RESUME:{json.dumps({'start': start, 'total_docs': total_docs})}")
+                    f"\n#RESUME:{json.dumps({'start': start, 'total_bytes': total_bytes, 'total_docs': total_docs})}")
 
 
 def main():
@@ -182,6 +192,10 @@ def main():
         default='output.json',
         help='Output file name')
     parser.add_argument(
+        '--debug',
+        action='store_true',
+        help='Enable debug mode to print additional information')
+    parser.add_argument(
         '--version',
         action='version',
         version=f'%(prog)s {VERSION}')
@@ -193,7 +207,7 @@ def main():
     if args.rows:
         PARAMS['rows'] = str(args.rows)
 
-    stream_records(resume=args.resume, output_file=args.output)
+    stream_records(resume=args.resume, output_file=args.output, debug=args.debug)
 
 
 if __name__ == "__main__":
