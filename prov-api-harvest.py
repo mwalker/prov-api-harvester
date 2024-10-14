@@ -3,15 +3,16 @@
 # dependencies = [
 #     "requests",
 #     "xattr",
+#     "zstandard",
 # ]
 # ///
 
 """
-PROV API Harvester
+PROV API Harvester with Optional zstd Compression
 
 This script harvests data from the Public Record Office Victoria (PROV) API,
-with streaming output and resume capability. It allows for custom queries,
-adjustable batch sizes, and can resume interrupted downloads.
+with streaming output, resume capability, and optional zstd compression. It allows for
+custom queries, adjustable batch sizes, and can resume interrupted downloads.
 
 Usage:
     python prov-api-harvest.py [options]
@@ -20,11 +21,13 @@ Options:
     --query      Custom query to replace the default q parameter
     --rows       Number of rows to fetch per request
     --resume     Resume from last saved progress
-    --output     Output file name (default: output.json)
+    --output     Output file name (default: output.json or output.json.zst if compressed)
+    --compress   Enable zstd compression for output
     --debug      Enable debug mode to print additional information
     --version    Show the version number and exit
 
-The script uses rate limiting and error handling to ensure reliable data retrieval.
+The script uses rate limiting, error handling, and optional zstd compression to ensure
+reliable and efficient data retrieval and storage.
 """
 
 import json
@@ -36,8 +39,9 @@ from urllib.parse import urlencode
 
 import requests
 import xattr
+import zstandard as zstd
 
-VERSION = "0.5.0"  # Updated version number
+VERSION = "0.7.0"  # Updated version number
 
 BASE_URL = "https://api.prov.vic.gov.au/search/query"
 PARAMS = {
@@ -116,6 +120,7 @@ def check_rate_limit(headers):
         headers (dict): The response headers containing rate limit information.
     """
     remaining = int(headers.get('x-ratelimit-remaining-minute', 20))
+    time.sleep(6)
     if remaining < 20:
         print(
             f"Rate limit approaching. Remaining: {remaining}. Sleeping for 2 seconds...",
@@ -159,32 +164,36 @@ def save_progress(output_file, progress_data):
         progress_json.encode('utf-8'))
 
 
-def prepare_output_file(output_file, resume):
+def prepare_output_file(output_file, resume, compress):
     """
     Prepare the output file for writing, either by truncating or appending.
 
     Args:
         output_file (str): The path to the output file.
         resume (bool): If True, prepare for resuming; otherwise, start fresh.
+        compress (bool): If True, use zstd compression; otherwise, use plain text.
     """
-    if resume:
-        with open(output_file, 'r+b') as f:
-            f.seek(-1, os.SEEK_END)
-            while f.read(1) != b'\n':
-                f.seek(-2, os.SEEK_CUR)
-            f.truncate()
-    else:
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write("[")
+    if not resume:
+        if compress:
+            with zstd.open(output_file, 'wb') as f:
+                f.write(b"[")
+        else:
+            with open(output_file, 'wb') as f:
+                f.write(b"[")
 
 
-def stream_records(resume=False, output_file='output.json', debug=False):
+def stream_records(
+        resume=False,
+        output_file='output.json',
+        compress=False,
+        debug=False):
     """
-    Stream records from the PROV API, writing them to the output file.
+    Stream records from the PROV API, optionally compressing and writing them to the output file.
 
     Args:
         resume (bool): If True, resume from the last saved progress.
         output_file (str): The path to the output file.
+        compress (bool): If True, use zstd compression; otherwise, use plain text.
         debug (bool): If True, print debug information.
     """
     progress = load_progress(output_file) if resume else None
@@ -196,54 +205,59 @@ def stream_records(resume=False, output_file='output.json', debug=False):
     if resume:
         print(f"Resuming from record {start}", file=sys.stderr)
 
-    prepare_output_file(output_file, resume)
+    prepare_output_file(output_file, resume, compress)
 
     overall_start_time = time.time()
     total_fetched = 0
 
     try:
-        while start < total_docs:
-            PARAMS['start'] = str(start)
-            url = f"{BASE_URL}?{urlencode(PARAMS)}"
+        file_opener = zstd.open if compress else open
 
-            fetch_start_time = time.time()
-            data, headers, content_size = fetch_data(url, debug)
-            fetch_end_time = time.time()
+        with file_opener(output_file, 'ab') as file:
+            while start < total_docs:
+                PARAMS['start'] = str(start)
+                url = f"{BASE_URL}?{urlencode(PARAMS)}"
 
-            docs = data['response']['docs']
-            total_docs = data['response']['numFound']
+                fetch_start_time = time.time()
+                data, headers, content_size = fetch_data(url, debug)
+                fetch_end_time = time.time()
 
-            with open(output_file, 'a', encoding='utf-8') as f:
+                docs = data['response']['docs']
+                total_docs = data['response']['numFound']
+
                 for doc in docs:
                     if not first_record:
-                        f.write(",\n")
+                        file.write(b",\n")
                     else:
                         first_record = False
-                    json.dump(doc, f, ensure_ascii=False)
-                    f.flush()
+                    json_data = json.dumps(doc, ensure_ascii=False).encode()
+                    file.write(json_data)
+                    file.flush()
 
-            start += len(docs)
-            total_fetched += len(docs)
-            total_bytes += content_size
+                start += len(docs)
+                total_fetched += len(docs)
+                total_bytes += content_size
 
-            # Save progress after each batch
-            save_progress(output_file, {
-                'start': start,
-                'total_bytes': total_bytes,
-                'total_docs': total_docs
-            })
+                # Save progress after each batch
+                save_progress(output_file, {
+                    'start': start,
+                    'total_bytes': total_bytes,
+                    'total_docs': total_docs
+                })
 
-            fetch_duration = fetch_end_time - fetch_start_time
-            overall_duration = fetch_end_time - overall_start_time
-            overall_rate = total_fetched / overall_duration if overall_duration > 0 else 0
+                fetch_duration = fetch_end_time - fetch_start_time
+                overall_duration = fetch_end_time - overall_start_time
+                overall_rate = total_fetched / overall_duration if overall_duration > 0 else 0
 
-            print(f"Fetched {len(docs)} documents in {fetch_duration:.2f} seconds. "
-                  f"Total: {start}/{total_docs}. "
-                  f"Overall rate: {overall_rate:.2f} rows/second. "
-                  f"Downloaded: {content_size} bytes (Total: {total_bytes} bytes)", file=sys.stderr)
+                print(f"Fetched {len(docs)} documents in {fetch_duration:.2f} seconds. "
+                      f"Total: {start}/{total_docs}. "
+                      f"Overall rate: {overall_rate:.2f} rows/second. "
+                      f"Downloaded: {content_size} bytes (Total: {total_bytes} bytes)", file=sys.stderr)
 
-            if start < total_docs:
-                check_rate_limit(headers)
+                if start < total_docs:
+                    check_rate_limit(headers)
+                else:
+                    file.write(b"]")  # End of JSON array
 
     except TooManyFailedRequestsError as e:
         print(f"Error: {e}", file=sys.stderr)
@@ -253,9 +267,6 @@ def stream_records(resume=False, output_file='output.json', debug=False):
             "\nInterrupted. Progress saved. You can resume later using the --resume flag.",
             file=sys.stderr)
         sys.exit(1)
-    finally:
-        with open(output_file, 'a', encoding='utf-8') as f:
-            f.write("]")  # End of JSON array
 
 
 def main():
@@ -263,7 +274,7 @@ def main():
     Main function to parse command-line arguments and initiate the data harvesting process.
     """
     parser = argparse.ArgumentParser(
-        description='Harvest data from PROV API with streaming output and resume capability.')
+        description='Harvest data from PROV API with streaming output, resume capability, and optional zstd compression.')
     parser.add_argument(
         '--query',
         type=str,
@@ -279,8 +290,11 @@ def main():
     parser.add_argument(
         '--output',
         type=str,
-        default='output.json',
-        help='Output file name')
+        help='Output file name (default: output.json or output.json.zst if compressed)')
+    parser.add_argument(
+        '--compress',
+        action='store_true',
+        help='Enable zstd compression for output')
     parser.add_argument(
         '--debug',
         action='store_true',
@@ -297,9 +311,15 @@ def main():
     if args.rows:
         PARAMS['rows'] = str(args.rows)
 
+    if args.output:
+        output_file = args.output
+    else:
+        output_file = 'output.json.zst' if args.compress else 'output.json'
+
     stream_records(
         resume=args.resume,
-        output_file=args.output,
+        output_file=output_file,
+        compress=args.compress,
         debug=args.debug)
 
 
