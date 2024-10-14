@@ -2,18 +2,42 @@
 # requires-python = ">=3.13"
 # dependencies = [
 #     "requests",
+#     "xattr",
 # ]
 # ///
+
+"""
+PROV API Harvester
+
+This script harvests data from the Public Record Office Victoria (PROV) API,
+with streaming output and resume capability. It allows for custom queries,
+adjustable batch sizes, and can resume interrupted downloads.
+
+Usage:
+    python prov-api-harvest.py [options]
+
+Options:
+    --query      Custom query to replace the default q parameter
+    --rows       Number of rows to fetch per request
+    --resume     Resume from last saved progress
+    --output     Output file name (default: output.json)
+    --debug      Enable debug mode to print additional information
+    --version    Show the version number and exit
+
+The script uses rate limiting and error handling to ensure reliable data retrieval.
+"""
+
 import json
 import sys
 import time
 import argparse
 import os
-from urllib.parse import urlparse, parse_qs, urlencode
+from urllib.parse import urlencode
 
 import requests
+import xattr
 
-VERSION = "0.4.2"  # Updated version number
+VERSION = "0.5.0"  # Updated version number
 
 BASE_URL = "https://api.prov.vic.gov.au/search/query"
 PARAMS = {
@@ -26,13 +50,30 @@ PARAMS = {
 
 MAX_CONSECUTIVE_FAILURES = 6
 BASE_WAIT_TIME = 63  # seconds
+PROGRESS_XATTR_NAME = "org.gunzel.prov-api-harvester.progress"
 
 
 class TooManyFailedRequestsError(Exception):
-    pass
+    """
+    Custom exception raised when the maximum number of consecutive
+    failed requests is reached.
+    """
 
 
 def fetch_data(url, debug=False):
+    """
+    Fetch data from the given URL with error handling and retries.
+
+    Args:
+        url (str): The URL to fetch data from.
+        debug (bool): If True, print debug information.
+
+    Returns:
+        tuple: A tuple containing the JSON response, headers, and content length.
+
+    Raises:
+        TooManyFailedRequestsError: If the maximum number of retries is exceeded.
+    """
     consecutive_failures = 0
     while consecutive_failures < MAX_CONSECUTIVE_FAILURES:
         try:
@@ -68,6 +109,12 @@ def fetch_data(url, debug=False):
 
 
 def check_rate_limit(headers):
+    """
+    Check the rate limit from the response headers and sleep if necessary.
+
+    Args:
+        headers (dict): The response headers containing rate limit information.
+    """
     remaining = int(headers.get('x-ratelimit-remaining-minute', 20))
     if remaining < 20:
         print(
@@ -77,21 +124,49 @@ def check_rate_limit(headers):
 
 
 def load_progress(output_file):
+    """
+    Load the progress from the output file's extended attribute if it exists.
+
+    Args:
+        output_file (str): The path to the output file.
+
+    Returns:
+        dict or None: The progress data if found, None otherwise.
+    """
     if not os.path.exists(output_file):
         return None
-    with open(output_file, 'rb') as f:
-        try:
-            f.seek(-1024, os.SEEK_END)  # Look at the last 1KB of the file
-        except IOError:
-            f.seek(0)
-        last_lines = f.read().decode('utf-8').split('\n')
-        for line in reversed(last_lines):
-            if line.startswith("#RESUME:"):
-                return json.loads(line[8:])
-    return None
+
+    try:
+        progress_data = xattr.getxattr(
+            output_file, PROGRESS_XATTR_NAME).decode('utf-8')
+        return json.loads(progress_data)
+    except (OSError, ValueError):
+        return None
+
+
+def save_progress(output_file, progress_data):
+    """
+    Save the progress data to the output file's extended attribute.
+
+    Args:
+        output_file (str): The path to the output file.
+        progress_data (dict): The progress data to save.
+    """
+    progress_json = json.dumps(progress_data)
+    xattr.setxattr(
+        output_file,
+        PROGRESS_XATTR_NAME,
+        progress_json.encode('utf-8'))
 
 
 def prepare_output_file(output_file, resume):
+    """
+    Prepare the output file for writing, either by truncating or appending.
+
+    Args:
+        output_file (str): The path to the output file.
+        resume (bool): If True, prepare for resuming; otherwise, start fresh.
+    """
     if resume:
         with open(output_file, 'r+b') as f:
             f.seek(-1, os.SEEK_END)
@@ -104,6 +179,14 @@ def prepare_output_file(output_file, resume):
 
 
 def stream_records(resume=False, output_file='output.json', debug=False):
+    """
+    Stream records from the PROV API, writing them to the output file.
+
+    Args:
+        resume (bool): If True, resume from the last saved progress.
+        output_file (str): The path to the output file.
+        debug (bool): If True, print debug information.
+    """
     progress = load_progress(output_file) if resume else None
     start = progress['start'] if progress else 0
     total_bytes = progress['total_bytes'] if progress else 0
@@ -133,15 +216,22 @@ def stream_records(resume=False, output_file='output.json', debug=False):
             with open(output_file, 'a', encoding='utf-8') as f:
                 for doc in docs:
                     if not first_record:
-                        f.write(",\n")  # Add comma (JSON) and \n (readability) between records
+                        f.write(",\n")
                     else:
                         first_record = False
                     json.dump(doc, f, ensure_ascii=False)
-                    f.flush()  # Ensure the output is written immediately
+                    f.flush()
 
             start += len(docs)
             total_fetched += len(docs)
             total_bytes += content_size
+
+            # Save progress after each batch
+            save_progress(output_file, {
+                'start': start,
+                'total_bytes': total_bytes,
+                'total_docs': total_docs
+            })
 
             fetch_duration = fetch_end_time - fetch_start_time
             overall_duration = fetch_end_time - overall_start_time
@@ -166,12 +256,12 @@ def stream_records(resume=False, output_file='output.json', debug=False):
     finally:
         with open(output_file, 'a', encoding='utf-8') as f:
             f.write("]")  # End of JSON array
-            if start < total_docs:
-                f.write(
-                    f"\n#RESUME:{json.dumps({'start': start, 'total_bytes': total_bytes, 'total_docs': total_docs})}")
 
 
 def main():
+    """
+    Main function to parse command-line arguments and initiate the data harvesting process.
+    """
     parser = argparse.ArgumentParser(
         description='Harvest data from PROV API with streaming output and resume capability.')
     parser.add_argument(
@@ -207,7 +297,10 @@ def main():
     if args.rows:
         PARAMS['rows'] = str(args.rows)
 
-    stream_records(resume=args.resume, output_file=args.output, debug=args.debug)
+    stream_records(
+        resume=args.resume,
+        output_file=args.output,
+        debug=args.debug)
 
 
 if __name__ == "__main__":
