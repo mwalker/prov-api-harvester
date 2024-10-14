@@ -25,6 +25,7 @@ Options:
     --compress   Enable zstd compression for output
     --debug      Enable debug mode to print additional information
     --version    Show the version number and exit
+    --wait       Additional wait time between requests in seconds (default: 0)
 
 The script uses rate limiting, error handling, and optional zstd compression to ensure
 reliable and efficient data retrieval and storage.
@@ -41,7 +42,7 @@ import requests
 import xattr
 import zstandard as zstd
 
-VERSION = "0.7.0"  # Updated version number
+VERSION = "0.8.0"  # Updated version number
 
 BASE_URL = "https://api.prov.vic.gov.au/search/query"
 PARAMS = {
@@ -112,15 +113,16 @@ def fetch_data(url, debug=False):
         f"Failed to fetch data after {MAX_CONSECUTIVE_FAILURES} consecutive attempts. Exiting.")
 
 
-def check_rate_limit(headers):
+def check_rate_limit(headers, wait_time):
     """
     Check the rate limit from the response headers and sleep if necessary.
 
     Args:
         headers (dict): The response headers containing rate limit information.
+        wait_time (int): The wait time between requests in seconds.
     """
     remaining = int(headers.get('x-ratelimit-remaining-minute', 20))
-    time.sleep(6)
+    time.sleep(wait_time)
     if remaining < 20:
         print(
             f"Rate limit approaching. Remaining: {remaining}. Sleeping for 2 seconds...",
@@ -186,7 +188,8 @@ def stream_records(
         resume=False,
         output_file='output.json',
         compress=False,
-        debug=False):
+        debug=False,
+        wait_time=0):
     """
     Stream records from the PROV API, optionally compressing and writing them to the output file.
 
@@ -195,8 +198,17 @@ def stream_records(
         output_file (str): The path to the output file.
         compress (bool): If True, use zstd compression; otherwise, use plain text.
         debug (bool): If True, print debug information.
+        wait_time (int): Wait time between requests in seconds.
     """
-    progress = load_progress(output_file) if resume else None
+    in_progress_file = f"{output_file}.in-progress"
+
+    if resume and not os.path.exists(in_progress_file):
+        print(
+            f"Error: Cannot resume. File {in_progress_file} does not exist.",
+            file=sys.stderr)
+        sys.exit(1)
+
+    progress = load_progress(in_progress_file) if resume else None
     start = progress['start'] if progress else 0
     total_bytes = progress['total_bytes'] if progress else 0
     total_docs = progress['total_docs'] if progress else float('inf')
@@ -205,7 +217,7 @@ def stream_records(
     if resume:
         print(f"Resuming from record {start}", file=sys.stderr)
 
-    prepare_output_file(output_file, resume, compress)
+    prepare_output_file(in_progress_file, resume, compress)
 
     overall_start_time = time.time()
     total_fetched = 0
@@ -213,7 +225,7 @@ def stream_records(
     try:
         file_opener = zstd.open if compress else open
 
-        with file_opener(output_file, 'ab') as file:
+        with file_opener(in_progress_file, 'ab') as file:
             while start < total_docs:
                 PARAMS['start'] = str(start)
                 url = f"{BASE_URL}?{urlencode(PARAMS)}"
@@ -239,7 +251,7 @@ def stream_records(
                 total_bytes += content_size
 
                 # Save progress after each batch
-                save_progress(output_file, {
+                save_progress(in_progress_file, {
                     'start': start,
                     'total_bytes': total_bytes,
                     'total_docs': total_docs
@@ -255,9 +267,16 @@ def stream_records(
                       f"Downloaded: {content_size} bytes (Total: {total_bytes} bytes)", file=sys.stderr)
 
                 if start < total_docs:
-                    check_rate_limit(headers)
+                    check_rate_limit(headers, wait_time)
                 else:
                     file.write(b"]")  # End of JSON array
+
+        # Remove progress xattr and rename file when complete
+        xattr.removexattr(in_progress_file, PROGRESS_XATTR_NAME)
+        os.rename(in_progress_file, output_file)
+        print(
+            f"Download complete. Output saved to {output_file}",
+            file=sys.stderr)
 
     except TooManyFailedRequestsError as e:
         print(f"Error: {e}", file=sys.stderr)
@@ -303,6 +322,11 @@ def main():
         '--version',
         action='version',
         version=f'%(prog)s {VERSION}')
+    parser.add_argument(
+        '--wait',
+        type=int,
+        default=0,
+        help='Wait time between requests in seconds (default: 0)')
     args = parser.parse_args()
 
     if args.query:
@@ -316,11 +340,18 @@ def main():
     else:
         output_file = 'output.json.zst' if args.compress else 'output.json'
 
+    # Add .zst extension if compress is True and extension is not already
+    # present
+    if args.compress and not (output_file.endswith(
+            '.zst') or output_file.endswith('.zstd')):
+        output_file += '.zst'
+
     stream_records(
         resume=args.resume,
         output_file=output_file,
         compress=args.compress,
-        debug=args.debug)
+        debug=args.debug,
+        wait_time=args.wait)
 
 
 if __name__ == "__main__":
