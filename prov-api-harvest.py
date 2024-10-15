@@ -19,13 +19,17 @@ Usage:
 
 Options:
     --query      Custom query to replace the default q parameter
+    --series     One or more positive integers representing series IDs to query
+    --iiif       Retrieve only records with IIIF metadata
+    --output     Output file name (default: harvest.json or harvest.json.zst if compressed)
     --rows       Number of rows to fetch per request
     --resume     Resume from last saved progress
-    --output     Output file name (default: output.json or output.json.zst if compressed)
     --compress   Enable zstd compression for output
-    --debug      Enable debug mode to print additional information
-    --version    Show the version number and exit
     --wait       Additional wait time between requests in seconds (default: 0)
+    --sort       Sorting option for the query results (score, title or default: identifier)
+    --debug      Debug mode to print additional information, specify more to get more
+    --start      Starting index for the query (for debugging purposes)
+    --version    Show the version number and exit
 
 The script uses rate limiting, error handling, and optional zstd compression to ensure
 reliable and efficient data retrieval and storage.
@@ -42,7 +46,7 @@ import requests
 import xattr
 import zstandard as zstd
 
-VERSION = "0.8.0"  # Updated version number
+VERSION = "0.8.5"
 
 BASE_URL = "https://api.prov.vic.gov.au/search/query"
 PARAMS = {
@@ -65,13 +69,13 @@ class TooManyFailedRequestsError(Exception):
     """
 
 
-def fetch_data(url, debug=False):
+def fetch_data(url, debug_level=0):
     """
     Fetch data from the given URL with error handling and retries.
 
     Args:
         url (str): The URL to fetch data from.
-        debug (bool): If True, print debug information.
+        debug_level (int): Debug level (0: no debug, 1: basic debug, 2: verbose debug with headers).
 
     Returns:
         tuple: A tuple containing the JSON response, headers, and content length.
@@ -82,7 +86,7 @@ def fetch_data(url, debug=False):
     consecutive_failures = 0
     while consecutive_failures < MAX_CONSECUTIVE_FAILURES:
         try:
-            if debug:
+            if debug_level >= 1:
                 print(f"Fetching data from {url}", file=sys.stderr)
             response = requests.get(url, timeout=60)
             response.raise_for_status()
@@ -107,8 +111,8 @@ def fetch_data(url, debug=False):
                     file=sys.stderr)
 
             time.sleep(wait_time)
-            print("Retrying request...", file=sys.stderr)
-
+            if debug_level >= 1:
+                print("Retrying request...", file=sys.stderr)
     raise TooManyFailedRequestsError(
         f"Failed to fetch data after {MAX_CONSECUTIVE_FAILURES} consecutive attempts. Exiting.")
 
@@ -186,10 +190,11 @@ def prepare_output_file(output_file, resume, compress):
 
 def stream_records(
         resume=False,
-        output_file='output.json',
+        output_file='harvest.json',
         compress=False,
-        debug=False,
-        wait_time=0):
+        debug_level=0,
+        wait_time=0,
+        start_index=0):
     """
     Stream records from the PROV API, optionally compressing and writing them to the output file.
 
@@ -197,8 +202,9 @@ def stream_records(
         resume (bool): If True, resume from the last saved progress.
         output_file (str): The path to the output file.
         compress (bool): If True, use zstd compression; otherwise, use plain text.
-        debug (bool): If True, print debug information.
+        debug_level (int): Debug level (0: no debug, 1: basic debug, 2: verbose debug with headers).
         wait_time (int): Wait time between requests in seconds.
+        start_index (int): Starting index for the query (for debugging purposes).
     """
     in_progress_file = f"{output_file}.in-progress"
 
@@ -209,13 +215,15 @@ def stream_records(
         sys.exit(1)
 
     progress = load_progress(in_progress_file) if resume else None
-    start = progress['start'] if progress else 0
+    start = progress['start'] if progress else start_index
     total_bytes = progress['total_bytes'] if progress else 0
     total_docs = progress['total_docs'] if progress else float('inf')
     first_record = not resume
 
     if resume:
         print(f"Resuming from record {start}", file=sys.stderr)
+    elif start_index > 0:
+        print(f"Starting from record {start_index}", file=sys.stderr)
 
     prepare_output_file(in_progress_file, resume, compress)
 
@@ -231,7 +239,7 @@ def stream_records(
                 url = f"{BASE_URL}?{urlencode(PARAMS)}"
 
                 fetch_start_time = time.time()
-                data, headers, content_size = fetch_data(url, debug)
+                data, headers, content_size = fetch_data(url, debug_level)
                 fetch_end_time = time.time()
 
                 docs = data['response']['docs']
@@ -266,6 +274,22 @@ def stream_records(
                       f"Overall rate: {overall_rate:.2f} rows/second. "
                       f"Downloaded: {content_size} bytes (Total: {total_bytes} bytes)", file=sys.stderr)
 
+                if debug_level >= 1:
+                    print("Debug information:", file=sys.stderr)
+                if debug_level >= 2:
+                    print(
+                        f"x-ratelimit-remaining-minute: {headers.get('x-ratelimit-remaining-minute', 'N/A')}",
+                        file=sys.stderr)
+                    print(
+                        f"x-ratelimit-remaining-hour: {headers.get('x-ratelimit-remaining-hour', 'N/A')}",
+                        file=sys.stderr)
+                    print(
+                        f"x-kong-upstream-latency: {headers.get('x-kong-upstream-latency', 'N/A')}",
+                        file=sys.stderr)
+                    print(
+                        f"x-kong-proxy-latency: {headers.get('x-kong-proxy-latency', 'N/A')}",
+                        file=sys.stderr)
+
                 if start < total_docs:
                     check_rate_limit(headers, wait_time)
                 else:
@@ -288,6 +312,33 @@ def stream_records(
         sys.exit(1)
 
 
+def process_query_arguments(args):
+    """
+    Process the query-related arguments (series, query, and iiif) and generate the appropriate query string.
+
+    Args:
+        args (Namespace): The parsed command-line arguments.
+
+    Returns:
+        str: The query string for the API request.
+    """
+    query_parts = []
+
+    if args.series:
+        series_str = " ".join(map(str, args.series))
+        query_parts.append(f"(series_id:({series_str}))")
+    elif args.query:
+        query_parts.append(f"({args.query})")
+
+    if args.iiif:
+        query_parts.append("(iiif-manifest:(*))")
+
+    if not query_parts:
+        return "*:*"
+
+    return " AND ".join(query_parts)
+
+
 def main():
     """
     Main function to parse command-line arguments and initiate the data harvesting process.
@@ -297,7 +348,20 @@ def main():
     parser.add_argument(
         '--query',
         type=str,
-        help='Custom query to replace the default q parameter')
+        help='Custom query to replace the default q parameter, overridden by --series')
+    parser.add_argument(
+        '--series',
+        type=int,
+        nargs='+',
+        help='One or more positive integers representing series IDs to query, overrides --query')
+    parser.add_argument(
+        '--iiif',
+        action='store_true',
+        help='Retrieve only records with IIIF metadata')
+    parser.add_argument(
+        '--output',
+        type=str,
+        help='Output file name (default: harvest.json or harvest.json.zst if compressed)')
     parser.add_argument(
         '--rows',
         type=int,
@@ -307,30 +371,45 @@ def main():
         action='store_true',
         help='Resume from last saved progress')
     parser.add_argument(
-        '--output',
-        type=str,
-        help='Output file name (default: output.json or output.json.zst if compressed)')
-    parser.add_argument(
         '--compress',
         action='store_true',
         help='Enable zstd compression for output')
     parser.add_argument(
+        '--wait',
+        type=int,
+        default=0,
+        help='Additional wait time between requests in seconds (default: 0)')
+    parser.add_argument(
+        '--sort',
+        choices=['identifier', 'score', 'title'],
+        default='identifier',
+        help='Sorting option for the query results (default: identifier)')
+    parser.add_argument(
         '--debug',
-        action='store_true',
-        help='Enable debug mode to print additional information')
+        action='count',
+        default=0,
+        help='Enable debug mode. Use more for more verbose information.')
+    parser.add_argument(
+        '--start',
+        type=int,
+        default=0,
+        help='Starting index for the query (for debugging purposes)')
     parser.add_argument(
         '--version',
         action='version',
         version=f'%(prog)s {VERSION}')
-    parser.add_argument(
-        '--wait',
-        type=int,
-        default=0,
-        help='Wait time between requests in seconds (default: 0)')
     args = parser.parse_args()
 
-    if args.query:
-        PARAMS['q'] = args.query
+    PARAMS['q'] = process_query_arguments(args)
+
+    if args.sort == 'identifier':
+        # Keep the default sort parameter
+        pass
+    elif args.sort == 'title':
+        PARAMS['sort'] = 'Series_title asc'
+    elif args.sort == 'score':
+        # Remove the sort parameter
+        PARAMS.pop('sort', None)
 
     if args.rows:
         PARAMS['rows'] = str(args.rows)
@@ -338,7 +417,7 @@ def main():
     if args.output:
         output_file = args.output
     else:
-        output_file = 'output.json.zst' if args.compress else 'output.json'
+        output_file = 'harvest.json.zst' if args.compress else 'harvest.json'
 
     # Add .zst extension if compress is True and extension is not already
     # present
@@ -350,8 +429,9 @@ def main():
         resume=args.resume,
         output_file=output_file,
         compress=args.compress,
-        debug=args.debug,
-        wait_time=args.wait)
+        debug_level=args.debug,
+        wait_time=args.wait,
+        start_index=args.start)
 
 
 if __name__ == "__main__":
