@@ -1,0 +1,52 @@
+iname: Harvest and track PROV API data
+
+on:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - 'prov-api-harvest.py'
+      - 'prov-api-map.py'
+      - 'prov-api-track.py'
+  workflow_dispatch:
+  schedule:
+  - cron: '42 6 * * *'
+
+jobs:
+  oai-harvester:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Install uv
+      uses: astral-sh/setup-uv@v3
+    - name: Harvest PROV API Data
+      run: |
+        uv run prov-api-track.py --type function
+        uv run prov-api-track.py --type agency
+        uv run prov-api-track.py --type series
+        uv run prov-api-track.py --type consignment
+    - name: Generate commit message
+      run: |
+        echo "$(date -u)" > /tmp/commit.txt
+        echo "" >> /tmp/commit.txt
+        uv run --with csv-diff csv-diff --format=json --key=citation "prov-functions.json" "prov-functions-$(date -I).json" >> /tmp/commit.txt
+        echo "" >> /tmp/commit.txt
+        uv run --with csv-diff csv-diff --format=json --key=citation "prov-agencies.json" "prov-agencies-$(date -I).json" >> /tmp/commit.txt
+        echo "" >> /tmp/commit.txt
+        uv run --with csv-diff csv-diff --format=json --key=citation "prov-series.json" "prov-series-$(date -I).json" >> /tmp/commit.txt
+        echo "" >> /tmp/commit.txt
+        uv run --with csv-diff csv-diff --format=json --key=citation "prov-consignments.json" "prov-consignments-$(date -I).json" >> /tmp/commit.txt
+    - name: Update data
+      run: |
+        mv "prov-functions-$(date -I).json" "prov-oai-functions.json"
+        mv "prov-agencies-$(date -I).json" "prov-oai-agencies.json"
+        mv "prov-series-$(date -I).json" "prov-oai-series.json"
+        mv "prov-consignments-$(date -I).json" "prov-oai-consignments.json"
+    - name: Commit and push
+      run: |
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        git commit -F /tmp/commit.txt || exit 0
+        git pull --rebase
+        git push

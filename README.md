@@ -1,21 +1,21 @@
 # PROV API Harvester
 
-Version 0.1.0
-
 ## Description
 
-PROV API Harvester is a python script designed to harvest metadata records from the [Public Record Office Victoria (PROV) API](https://prov.vic.gov.au/prov-collection-api).
+PROV API Harvester is a  collection of python scripts designed to harvest metadata records from the [Public Record Office Victoria (PROV) API](https://prov.vic.gov.au/prov-collection-api).
 
 ## Requirements
 
 - Python 3
 - requests
+- xattr
+- zstandard
 
 uv makes it easier.
 
 ## Usage
 
-The easiest way to run the script from the command line is using uv:
+The easiest way to run the scripts from the command line is using uv:
 
 ```
 uv run prov-api-harvest.py <options>
