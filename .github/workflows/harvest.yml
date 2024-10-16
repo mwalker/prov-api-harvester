@@ -1,4 +1,4 @@
-iname: Harvest and track PROV API data
+name: Harvest and track PROV API data
 
 on:
   push:
@@ -13,7 +13,7 @@ on:
   - cron: '42 6 * * *'
 
 jobs:
-  oai-harvester:
+  api-harvester:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -38,10 +38,10 @@ jobs:
         uv run --with csv-diff csv-diff --format=json --key=citation "prov-consignments.json" "prov-consignments-$(date -I).json" >> /tmp/commit.txt
     - name: Update data
       run: |
-        mv "prov-functions-$(date -I).json" "prov-oai-functions.json"
-        mv "prov-agencies-$(date -I).json" "prov-oai-agencies.json"
-        mv "prov-series-$(date -I).json" "prov-oai-series.json"
-        mv "prov-consignments-$(date -I).json" "prov-oai-consignments.json"
+        mv "prov-functions-$(date -I).json" "prov-functions.json"
+        mv "prov-agencies-$(date -I).json" "prov-agencies.json"
+        mv "prov-series-$(date -I).json" "prov-series.json"
+        mv "prov-consignments-$(date -I).json" "prov-consignments.json"
     - name: Commit and push
       run: |
         git config user.name "Automated"
