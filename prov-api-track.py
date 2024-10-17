@@ -24,7 +24,7 @@ from datetime import date
 
 import requests
 
-VERSION = "0.1.5"
+VERSION = "0.1.6"
 
 BASE_URL = "https://api.prov.vic.gov.au/search/query"
 PARAMS = {
@@ -39,21 +39,23 @@ BASE_WAIT_TIME = 63
 
 def normalise_keys(docs):
     """
-    Normalize the keys across all documents to ensure consistent structure.
+    Normalize the keys across all documents to ensure consistent structure and order.
 
     Args:
         docs (list): List of dictionaries representing documents.
 
     Returns:
-        list: List of dictionaries with normalized keys.
+        list: List of dictionaries with normalized and alphabetically sorted keys.
     """
     all_keys = set()
     for doc in docs:
         all_keys.update(doc.keys())
 
+    sorted_keys = sorted(all_keys)
+
     normalised_docs = []
     for doc in docs:
-        normalised_doc = {key: doc.get(key, None) for key in all_keys}
+        normalised_doc = {key: doc.get(key, None) for key in sorted_keys}
         normalised_docs.append(normalised_doc)
 
     return normalised_docs
