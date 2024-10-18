@@ -326,7 +326,8 @@ def process_query_arguments(args):
 
     if args.series:
         series_str = " ".join(map(str, args.series))
-        query_parts.append(f"(series_id:({series_str}))")
+        # Series and Items have a series_id, but Consignment we have to find using the parent id
+        query_parts.append(f"(series_id:({series_str}) OR (category:(Consignment) AND parents.ids:(VPRS{series_str})))")
     elif args.query:
         query_parts.append(f"({args.query})")
 
