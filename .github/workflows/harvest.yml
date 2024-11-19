@@ -37,8 +37,8 @@ jobs:
         uv run --with csv-diff csv-diff --format=json --key=citation "prov-series.json" "prov-series-$(date -I).json" >> /tmp/commit.txt
         echo "" >> /tmp/commit.txt
         echo -n "Consignments: " >> /tmp/commit.txt
-        ls -l
-        uv run --with csv-diff csv-diff --format=json --key=citation "prov-consignments.json" "prov-consignments-$(date -I).json" >> /tmp/commit.txt
+        ls -l >> /tmp/commit.txt
+        #uv run --with csv-diff csv-diff --format=json --key=citation "prov-consignments.json" "prov-consignments-$(date -I).json" >> /tmp/commit.txt
     - name: Update data
       run: |
         mv "prov-functions-$(date -I).json" "prov-functions.json"
