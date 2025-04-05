@@ -4677,6 +4677,39 @@
     "use_for": null
   },
   {
+    "_id": "2E3A601B-F3AD-11E9-AE98-C1A092CEFED5",
+    "_version_": 1828489321361965056,
+    "category": "Function",
+    "citation": "VF 220",
+    "date_range": [
+      "[1753 TO 3000]"
+    ],
+    "description": null,
+    "do_not_use_for": null,
+    "end_dt": "3000",
+    "entity": "Function",
+    "identifier.PID.id": "2E3A601B-F3AD-11E9-AE98-C1A092CEFED5",
+    "identifier.PROV_ACM.id": "VF 220",
+    "jurisdictional_coverage": null,
+    "name.preferred.date_range": [
+      "[1753 TO 3000]"
+    ],
+    "name.preferred.end_dt": [
+      "3000"
+    ],
+    "name.preferred.start_dt": [
+      "1753"
+    ],
+    "name.preferred.title": [
+      "Economic development"
+    ],
+    "start_dt": "1753",
+    "status": "Published",
+    "timestamp": 1743745084,
+    "title": "Economic development",
+    "use_for": null
+  },
+  {
     "_id": "2E3ECCF1-F3AD-11E9-AE98-2B9A8A6348AB",
     "_version_": 1816061751793287168,
     "category": "Function",
