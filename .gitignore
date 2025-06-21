@@ -9,3 +9,5 @@
 
 # aider
 .aider*
+
+*.tar.gz

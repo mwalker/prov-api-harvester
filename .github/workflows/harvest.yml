@@ -25,19 +25,7 @@ jobs:
         uv run prov-api-track.py --type consignment
     - name: Generate commit message
       run: |
-        echo "$(date -u)" > /tmp/commit.txt
-        echo "" >> /tmp/commit.txt
-        echo -n "Functions: " >> /tmp/commit.txt
-        uv run --with csv-diff csv-diff --format=json --key=citation "prov-functions.json" "prov-functions-$(date -I).json" >> /tmp/commit.txt || echo "csv-diff failed for 'prov-functions.json'" >> /tmp/commit.txt
-        echo "" >> /tmp/commit.txt
-        echo -n "Agencies: " >> /tmp/commit.txt
-        uv run --with csv-diff csv-diff --format=json --key=citation "prov-agencies.json" "prov-agencies-$(date -I).json" >> /tmp/commit.txt || echo "csv-diff failed for 'prov-agencies.json'" >> /tmp/commit.txt
-        echo "" >> /tmp/commit.txt
-        echo -n "Series: " >> /tmp/commit.txt
-        uv run --with csv-diff csv-diff --format=json --key=citation "prov-series.json" "prov-series-$(date -I).json" >> /tmp/commit.txt || echo "csv-diff failed for 'prov-series.json'" >> /tmp/commit.txt
-        echo "" >> /tmp/commit.txt
-        echo -n "Consignments: " >> /tmp/commit.txt
-        uv run --with csv-diff csv-diff --format=json --key=citation "prov-consignments.json" "prov-consignments-$(date -I).json" >> /tmp/commit.txt || echo "csv-diff failed for 'prov-consignments.json'" >> /tmp/commit.txt
+        uv run scripts/generate-commit-message.py > /tmp/commit.txt
     - name: Update data
       run: |
         mv "prov-functions-$(date -I).json" "prov-functions.json"

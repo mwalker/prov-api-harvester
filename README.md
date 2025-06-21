@@ -40,6 +40,8 @@ This repo is also set up to track data for PROV functions, agencies, series and 
 - [prov-series.json](prov-series.json)
 - [prov-consignments.json](prov-consignments.json)
 
+In June 2025 the initial automated commits were regenerated using a new commit message generator that builds on the default csv-diff behaviour to specifically list summaries of new additions (for all types) and openings (for series and consignments only). This means that all the previous commit ids have changed and the references to them in github actions will no longer work. The infrastructure to do this again in the future has been left in place in case of future improvements to the commit messages that justify it.
+
 ## Licence
 
 This project is open source and is licenced under the Apache License, Version 2.0, ([LICENSE](LICENSE) or
