@@ -10,7 +10,6 @@ PROV API Harvester is a collection of python scripts designed to harvest metadat
 - Python 3
 - ijson
 - requests
-- xattr
 - zstandard
 
 uv makes it easier, the dependencies are all specified in the inline metadata.
@@ -26,9 +25,9 @@ uv run prov-harvest-stats.py <options>
 uv run prov-api-track.py <options>
 ```
 
-*Warning*: A full harvest will take at least 6 hours and uncompressed is of the order of 22GB. I'd strongly suggest using the optional zstd compression, which will bring it down to under 2GB. Recompressing with zstd -5 will get you close to 1GB.
+*Warning*: A full harvest using --series-batch will take over one hour and uncompressed is of the order of 22GB (using the traditional mode will take over eight hours). I'd strongly suggest using the optional zstd compression, which will bring it down to under 2GB. Recompressing with zstd -5 will get you close to 1GB.
 
-Extracting the stats from the full harvest takes about a half hour but the file is a much more manageable 7MB or so. I will keep a reasonably up to date copy: [prov-stats.json](prov-stats.json)
+Extracting the stats from the full harvest takes about six minutes but the file is a much more manageable 7MB or so. I will keep a reasonably up to date copy: [prov-stats.json](prov-stats.json)
 
 
 ## Tracking
