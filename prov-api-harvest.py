@@ -174,7 +174,12 @@ class FileManager:
                     f"  Inferred compression from file extension: {output_file}",
                     file=sys.stderr)
         else:
-            output_file = 'harvest.json.zst' if args.compress else 'harvest.json'
+            # Auto-name output file based on series number if --series is provided
+            if hasattr(args, 'series') and args.series and len(args.series) == 1:
+                series_number = args.series[0]
+                output_file = f'{series_number}.json'
+            else:
+                output_file = 'harvest.json'
 
         # Add .zst extension if compress is True and extension is not already
         # present
