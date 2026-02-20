@@ -37,6 +37,7 @@ from textual import on
 from textual.app import App, ComposeResult
 from textual.binding import Binding
 from textual.containers import Horizontal, Vertical
+from rich.markup import escape as rich_escape
 from textual.widgets import DataTable, Footer, Header, Input, Static
 
 
@@ -358,9 +359,10 @@ class ProvConfigApp(App):
         series_preview = ", ".join(row.shared_series[:8])
         if len(row.shared_series) > 8:
             series_preview += f", ... (+{len(row.shared_series) - 8} more)"
+        title = rich_escape(row.title)
         panel.update(
             f"[bold]{row.citation}[/bold]{seed_label}  {row.date_range}\n"
-            f"{row.title}\n"
+            f"{title}\n"
             f"Shared series ({row.shared_count}): {series_preview}"
         )
 
