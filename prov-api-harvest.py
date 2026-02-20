@@ -860,29 +860,34 @@ def stream_records_in_series_batches(args, file_manager):
     total_bytes = 0
 
     with file_manager.open_for_writing() as file:
-        # First, query for Functions and Agencies
-        print("Fetching Functions and Agencies...", file=sys.stderr)
+        # First, query for Functions and Agencies (skip if --iiif since
+        # these record types don't have IIIF metadata)
+        if args.iiif:
+            print("Skipping Functions and Agencies (--iiif specified, these records don't have IIIF metadata)",
+                  file=sys.stderr)
+        else:
+            print("Fetching Functions and Agencies...", file=sys.stderr)
 
-        category_params = PARAMS.copy()
-        category_params['q'] = "category:(Function OR Agency)"
+            category_params = PARAMS.copy()
+            category_params['q'] = "category:(Function OR Agency)"
 
-        debug_level = args.debug
-        if debug_level >= 1:
+            debug_level = args.debug
+            if debug_level >= 1:
+                print(
+                    f"  Query: {
+                        category_params['q']}",
+                    file=sys.stderr)
+
+            fetched, bytes_downloaded, final_total = process_paginated_query(
+                file, category_params, "Function/Agency", debug_level, args.wait,
+                True, overall_start_time
+            )
+
+            total_fetched += fetched
+            total_bytes += bytes_downloaded
             print(
-                f"  Query: {
-                    category_params['q']}",
+                f"Completed Functions and Agencies. Total documents so far: {total_fetched}",
                 file=sys.stderr)
-
-        fetched, bytes_downloaded, final_total = process_paginated_query(
-            file, category_params, "Function/Agency", debug_level, args.wait,
-            True, overall_start_time
-        )
-
-        total_fetched += fetched
-        total_bytes += bytes_downloaded
-        print(
-            f"Completed Functions and Agencies. Total documents so far: {total_fetched}",
-            file=sys.stderr)
 
         # Process the pre-calculated optimal batches
         total_batches = len(all_batches)
@@ -914,7 +919,7 @@ def stream_records_in_series_batches(args, file_manager):
 
             fetched, bytes_downloaded, final_total = process_paginated_query(
                 file, batch_params, "batch", debug_level, args.wait,
-                False, overall_start_time, total_fetched
+                total_fetched == 0, overall_start_time, total_fetched
             )
 
             total_fetched += fetched
