@@ -24,6 +24,7 @@ Options:
     --max-per-batch   Maximum results per batch before splitting (default: 200000, used with --series-batch)
     --max-series-per-batch  Maximum series per batch to prevent overlength request errors (default: 200, used with --series-batch)
     --include-related-entities  Always include relatedEntity records (otherwise only if >1M total records)
+    --no-related-entities  Skip relatedEntity records even on full harvests
     --iiif       Retrieve only records with IIIF metadata
     --output     Output file name (default: harvest.json or harvest.json.zst if compressed)
     --rows       Number of rows to fetch per request (default: 1000)
@@ -946,11 +947,16 @@ def stream_records_in_series_batches(args, file_manager):
 
         # Only fetch related entities if:
         # 1. Not using --iiif (these records don't have IIIF metadata), AND
-        # 2. Flag is explicitly specified, OR we're doing a full harvest (no series range limits)
+        # 2. Not explicitly excluded with --no-related-entities, AND
+        # 3. Flag is explicitly specified, OR we're doing a full harvest (no series range limits)
         include_related = args.include_related_entities
+        exclude_related = args.no_related_entities
         full_harvest = args.series_min == 1 and args.series_max is None
         if args.iiif:
             print("Skipping relatedEntity records (--iiif specified, these records don't have IIIF metadata)",
+                  file=sys.stderr)
+        elif exclude_related:
+            print("Skipping relatedEntity records (--no-related-entities specified)",
                   file=sys.stderr)
         elif include_related or full_harvest:
             reason = "flag specified" if include_related else "full harvest"
@@ -1041,6 +1047,10 @@ def main():
         '--include-related-entities',
         action='store_true',
         help='Always include relatedEntity records (otherwise only included if >1M total records harvested)')
+    parser.add_argument(
+        '--no-related-entities',
+        action='store_true',
+        help='Skip relatedEntity records even on full harvests')
     parser.add_argument(
         '--iiif',
         action='store_true',
