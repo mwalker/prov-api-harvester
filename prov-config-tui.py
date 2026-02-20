@@ -183,6 +183,7 @@ class AgencyRow:
         title: str,
         date_range: str,
         shared_count: int,
+        total_series_count: int,
         shared_series: list[str],
         is_seed: bool,
         tracked: bool = False,
@@ -192,6 +193,7 @@ class AgencyRow:
         self.title = title
         self.date_range = date_range
         self.shared_count = shared_count
+        self.total_series_count = total_series_count
         self.shared_series = shared_series
         self.is_seed = is_seed
         self.tracked = tracked
@@ -322,6 +324,7 @@ class ProvConfigApp(App):
                 tracked = False
 
             series_list = shared_series_map.get(agency_num, [])
+            total_series_count = len(agency_to_series.get(agency_num, []))
             self.agency_rows.append(
                 AgencyRow(
                     agency_id=agency_num,
@@ -329,6 +332,7 @@ class ProvConfigApp(App):
                     title=agency.get("title", ""),
                     date_range=date_range,
                     shared_count=shared_count,
+                    total_series_count=total_series_count,
                     shared_series=sorted(set(series_list)),
                     is_seed=is_seed,
                     tracked=tracked,
@@ -362,8 +366,9 @@ class ProvConfigApp(App):
         table.add_column("Citation", key="col1")
         table.add_column("Title", key="col2")
         table.add_column("Dates", key="col3")
-        table.add_column("Shared", key="col4")
-        table.add_column("Seed", key="col5")
+        table.add_column("Total", key="col4")
+        table.add_column("Shared", key="col5")
+        table.add_column("Seed", key="col6")
         self._populate_table()
         self._update_status()
 
@@ -439,6 +444,7 @@ class ProvConfigApp(App):
                     row.citation,
                     row.title[:60],
                     row.date_range,
+                    str(row.total_series_count),
                     str(row.shared_count),
                     "●" if row.is_seed else "",
                     key=row.citation,
