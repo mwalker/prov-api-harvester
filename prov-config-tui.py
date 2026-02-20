@@ -193,16 +193,11 @@ class ProvConfigApp(App):
     }
     #detail-panel {
         dock: bottom;
-        height: 5;
+        height: auto;
+        max-height: 7;
         padding: 0 1;
         background: $surface;
         border-top: solid $primary;
-    }
-    #help-text {
-        dock: bottom;
-        height: 3;
-        padding: 0 1;
-        color: $text-muted;
     }
     DataTable {
         height: 1fr;
@@ -214,9 +209,9 @@ class ProvConfigApp(App):
         Binding("s", "save", "Save config"),
         Binding("t", "toggle_tracked", "Toggle tracked", show=True),
         Binding("i", "toggle_series", "Toggle series", show=True),
-        Binding("space", "toggle_tracked_and_advance", "Toggle+next", show=False),
-        Binding("j", "cursor_down", "Down", show=False),
-        Binding("k", "cursor_up", "Up", show=False),
+        Binding("space", "toggle_tracked_and_advance", "Toggle+next", show=True),
+        Binding("j", "cursor_down", "Down", show=True),
+        Binding("k", "cursor_up", "Up", show=True),
         Binding("g", "cursor_top", "Top", show=False),
         Binding("G", "cursor_bottom", "Bottom", show=False, key_display="shift+g"),
         Binding("/", "focus_filter", "Filter", show=True),
@@ -298,10 +293,6 @@ class ProvConfigApp(App):
             yield Input(placeholder="Type to filter agencies...", id="filter-input")
         yield DataTable(id="agency-table")
         yield Static("", id="detail-panel")
-        yield Static(
-            "[space] toggle+next  [t] toggle tracked  [i] toggle series  [j/k] nav  [s] save  [/] filter  [q] quit",
-            id="help-text",
-        )
         yield Footer()
 
     def on_mount(self) -> None:
