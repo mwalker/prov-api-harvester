@@ -80,38 +80,34 @@ def extract_agency_ids_from_series(series_record: dict) -> set[int]:
 # ── Discovery logic ─────────────────────────────────────────────────────────
 
 
-def discover_related(
+def discover_related_agencies(
     seed_ids: set[int],
     all_series: list[dict],
     all_agencies: list[dict],
-) -> tuple[list[dict], list[dict], dict[int, list[str]], dict[str, set[int]]]:
+) -> tuple[list[dict], dict[int, list[str]]]:
     """
-    Find all agencies and series related to the seed agencies.
+    Find all agencies related to the seed agencies via shared series.
 
     Returns:
         agencies: list of agency records (sorted by citation)
-        series: list of series records related to seed agencies (sorted by citation)
-        agency_series_map: {agency_numeric_id: [list of series citations]}
-        series_agency_map: {series_citation: set of agency_numeric_ids}
+        shared_series_map: {agency_numeric_id: [list of shared series citations]}
     """
     # Find series that involve any seed agency
     matched_series = []
-    series_agency_map: dict[str, set[int]] = {}
     for series in all_series:
         series_agency_ids = extract_agency_ids_from_series(series)
         if series_agency_ids & seed_ids:
             matched_series.append(series)
-            series_agency_map[series.get("citation", "?")] = series_agency_ids
 
-    # Build agency→series map
-    agency_series_map: dict[int, list[str]] = {}
+    # Build agency→shared-series map (only seed-related series, for the shared count)
+    shared_series_map: dict[int, list[str]] = {}
     for series in matched_series:
         agency_ids = extract_agency_ids_from_series(series)
         citation = series.get("citation", "?")
         for aid in agency_ids:
-            agency_series_map.setdefault(aid, []).append(citation)
+            shared_series_map.setdefault(aid, []).append(citation)
 
-    all_related_ids = set(agency_series_map.keys())
+    all_related_ids = set(shared_series_map.keys())
 
     # Extract agency records
     matched_agencies = []
@@ -126,15 +122,29 @@ def discover_related(
 
     matched_agencies.sort(key=agency_sort_key)
 
-    # Sort series by citation numerically
-    def series_sort_key(s):
-        cit = s.get("citation", "")
-        m = re.match(r"^VPRS\s+(\d+)$", cit)
-        return int(m.group(1)) if m else 999999
+    return matched_agencies, shared_series_map
 
-    matched_series.sort(key=series_sort_key)
 
-    return matched_agencies, matched_series, agency_series_map, series_agency_map
+def build_series_index(
+    all_series: list[dict],
+) -> tuple[dict[int, list[str]], dict[str, dict]]:
+    """
+    Build indexes over the full series dataset.
+
+    Returns:
+        agency_to_series: {agency_numeric_id: [series citations]}
+        series_by_citation: {series_citation: series_record}
+    """
+    agency_to_series: dict[int, list[str]] = {}
+    series_by_citation: dict[str, dict] = {}
+    for series in all_series:
+        citation = series.get("citation", "")
+        if not citation:
+            continue
+        series_by_citation[citation] = series
+        for aid in extract_agency_ids_from_series(series):
+            agency_to_series.setdefault(aid, []).append(citation)
+    return agency_to_series, series_by_citation
 
 
 # ── Config I/O ───────────────────────────────────────────────────────────────
@@ -257,10 +267,9 @@ class ProvConfigApp(App):
         self,
         seed_ids: set[int],
         agencies: list[dict],
-        matched_series: list[dict],
-        agency_series_map: dict[int, list[str]],
-        series_agency_map: dict[str, set[int]],
-        all_agencies: list[dict],
+        shared_series_map: dict[int, list[str]],
+        agency_to_series: dict[int, list[str]],
+        series_by_citation: dict[str, dict],
         config_path: Path,
         existing_config: dict | None = None,
     ):
@@ -271,22 +280,19 @@ class ProvConfigApp(App):
         self._dirty = False
         self.view_mode = "agencies"  # or "series"
 
-        # Build agency id→citation lookup
-        agency_id_to_citation: dict[int, str] = {}
-        for agency in all_agencies:
-            num = agency_id_from_citation(agency.get("citation", ""))
-            if num is not None:
-                agency_id_to_citation[num] = agency["citation"]
+        # Store indexes for dynamic series lookup
+        self.agency_to_series = agency_to_series
+        self.series_by_citation = series_by_citation
 
         # Build existing config lookups
         prev_tracked: set[str] = set()
-        prev_excluded_series: set[str] = set()
+        self.excluded_series: set[str] = set()
         if existing_config:
             if "tracked" in existing_config:
                 for entry in existing_config["tracked"]:
                     prev_tracked.add(entry["citation"])
             if "series" in existing_config:
-                prev_excluded_series = set(
+                self.excluded_series = set(
                     existing_config["series"].get("excluded", [])
                 )
 
@@ -300,7 +306,7 @@ class ProvConfigApp(App):
             if agency_num is None:
                 continue
             is_seed = agency_num in seed_ids
-            shared_count = len(agency_series_map.get(agency_num, []))
+            shared_count = len(shared_series_map.get(agency_num, []))
             date_range = agency.get("start_dt") or ""
             end = agency.get("end_dt")
             if date_range and end:
@@ -315,7 +321,7 @@ class ProvConfigApp(App):
             else:
                 tracked = False
 
-            series_list = agency_series_map.get(agency_num, [])
+            series_list = shared_series_map.get(agency_num, [])
             self.agency_rows.append(
                 AgencyRow(
                     agency_id=agency_num,
@@ -329,34 +335,10 @@ class ProvConfigApp(App):
                 )
             )
 
-        # Build series rows
-        self.series_rows: list[SeriesRow] = []
-        for series in matched_series:
-            citation = series.get("citation", "")
-            date_range = series.get("start_dt") or ""
-            end = series.get("end_dt")
-            if date_range and end:
-                date_range = f"{date_range}–{end}"
-            elif date_range:
-                date_range = f"{date_range}–"
-
-            # Map numeric agency IDs to citations
-            agency_ids = series_agency_map.get(citation, set())
-            agency_cites = sorted(
-                agency_id_to_citation.get(aid, f"VA {aid}") for aid in agency_ids
-            )
-
-            included = citation not in prev_excluded_series
-
-            self.series_rows.append(
-                SeriesRow(
-                    citation=citation,
-                    title=series.get("title", ""),
-                    date_range=date_range,
-                    agency_citations=agency_cites,
-                    included=included,
-                )
-            )
+        # Build agency id→citation lookup from agency_rows
+        self._agency_id_to_citation: dict[int, str] = {
+            r.agency_id: r.citation for r in self.agency_rows
+        }
 
     def compose(self) -> ComposeResult:
         yield Header()
@@ -399,19 +381,48 @@ class ProvConfigApp(App):
         self._update_status()
 
     def _get_visible_series(self) -> list[SeriesRow]:
-        """Get series rows that belong to currently tracked agencies."""
+        """Get all series for currently tracked agencies."""
         tracked_ids = {r.agency_id for r in self.agency_rows if r.tracked}
+
+        # Collect all unique series citations across all tracked agencies
+        seen: set[str] = set()
+        for aid in tracked_ids:
+            for cit in self.agency_to_series.get(aid, []):
+                seen.add(cit)
+
+        # Build SeriesRow objects from the full index
         visible = []
-        for sr in self.series_rows:
-            # Check if any agency on this series is tracked
-            series_agency_ids = set()
-            for ar in self.agency_rows:
-                if ar.citation in sr.agency_citations or any(
-                    f"VA {ar.agency_id}" == ac for ac in sr.agency_citations
-                ):
-                    series_agency_ids.add(ar.agency_id)
-            if series_agency_ids & tracked_ids:
-                visible.append(sr)
+        for cit in sorted(seen, key=lambda c: (
+            int(m.group(1)) if (m := re.match(r"^VPRS\s+(\d+)$", c)) else 999999
+        )):
+            series = self.series_by_citation.get(cit)
+            if series is None:
+                continue
+
+            date_range = series.get("start_dt") or ""
+            end = series.get("end_dt")
+            if date_range and end:
+                date_range = f"{date_range}–{end}"
+            elif date_range:
+                date_range = f"{date_range}–"
+
+            # Which tracked agencies have this series
+            series_agency_ids = extract_agency_ids_from_series(series)
+            agency_cites = sorted(
+                self._agency_id_to_citation.get(aid, f"VA {aid}")
+                for aid in series_agency_ids
+                if aid in tracked_ids
+            )
+
+            visible.append(
+                SeriesRow(
+                    citation=cit,
+                    title=series.get("title", ""),
+                    date_range=date_range,
+                    agency_citations=agency_cites,
+                    included=cit not in self.excluded_series,
+                )
+            )
         return visible
 
     def _populate_table(self) -> None:
@@ -480,14 +491,25 @@ class ProvConfigApp(App):
                 f"Shared series ({row.shared_count}): {series_preview}"
             )
         else:
-            row = next((r for r in self.series_rows if r.citation == key), None)
-            if row is None:
+            series = self.series_by_citation.get(key)
+            if series is None:
                 panel.update("")
                 return
-            title = rich_escape(row.title)
-            agencies_str = ", ".join(row.agency_citations)
+            title = rich_escape(series.get("title", ""))
+            date_range = series.get("start_dt") or ""
+            end = series.get("end_dt")
+            if date_range and end:
+                date_range = f"{date_range}–{end}"
+            elif date_range:
+                date_range = f"{date_range}–"
+            agency_ids = extract_agency_ids_from_series(series)
+            agencies_str = ", ".join(sorted(
+                self._agency_id_to_citation.get(aid, f"VA {aid}")
+                for aid in agency_ids
+            ))
+            included = "included" if key not in self.excluded_series else "excluded"
             panel.update(
-                f"[bold]{row.citation}[/bold]  {row.date_range}\n"
+                f"[bold]{key}[/bold]  {date_range}  [{included}]\n"
                 f"{title}\n"
                 f"Agencies: {agencies_str}"
             )
@@ -544,11 +566,12 @@ class ProvConfigApp(App):
             row.tracked = not row.tracked
             self._refresh_current_row_toggle(row.tracked)
         else:
-            row = next((r for r in self.series_rows if r.citation == key), None)
-            if row is None:
-                return
-            row.included = not row.included
-            self._refresh_current_row_toggle(row.included)
+            if key in self.excluded_series:
+                self.excluded_series.discard(key)
+                self._refresh_current_row_toggle(True)
+            else:
+                self.excluded_series.add(key)
+                self._refresh_current_row_toggle(False)
 
         self._dirty = True
         self._update_status()
@@ -580,23 +603,22 @@ class ProvConfigApp(App):
                     {"citation": row.citation, "title": row.title}
                 )
 
-        excluded_series = []
-        visible = self._get_visible_series()
-        for row in visible:
-            if not row.included:
-                excluded_series.append(row.citation)
+        # Only save exclusions for series that are currently visible
+        visible_citations = {r.citation for r in self._get_visible_series()}
+        excluded = sorted(self.excluded_series & visible_citations)
 
         save_config(
             self.config_path,
             list(self.seed_ids),
             tracked_agencies,
-            excluded_series,
+            excluded,
         )
         self._dirty = False
         self._update_status()
+        included_count = len(visible_citations) - len(excluded)
         self.notify(
             f"Saved {len(tracked_agencies)} agencies, "
-            f"{len(visible) - len(excluded_series)}/{len(visible)} series "
+            f"{included_count}/{len(visible_citations)} series "
             f"to {self.config_path}"
         )
 
@@ -708,21 +730,24 @@ def main():
     print(f"  {len(all_agencies)} agency records", file=sys.stderr)
 
     # Discover relationships
-    print("Discovering related agencies and series...", file=sys.stderr)
-    agencies, matched_series, agency_series_map, series_agency_map = discover_related(
+    print("Discovering related agencies...", file=sys.stderr)
+    agencies, shared_series_map = discover_related_agencies(
         seed_ids, all_series, all_agencies
     )
     print(f"  Found {len(agencies)} related agencies", file=sys.stderr)
-    print(f"  Found {len(matched_series)} related series", file=sys.stderr)
+
+    # Build full series index
+    print("Indexing series...", file=sys.stderr)
+    agency_to_series, series_by_citation = build_series_index(all_series)
+    print(f"  Indexed {len(series_by_citation)} series", file=sys.stderr)
 
     # Launch TUI
     app = ProvConfigApp(
         seed_ids=seed_ids,
         agencies=agencies,
-        matched_series=matched_series,
-        agency_series_map=agency_series_map,
-        series_agency_map=series_agency_map,
-        all_agencies=all_agencies,
+        shared_series_map=shared_series_map,
+        agency_to_series=agency_to_series,
+        series_by_citation=series_by_citation,
         config_path=config_path,
         existing_config=existing_config,
     )
