@@ -254,7 +254,8 @@ class ProvConfigApp(App):
     BINDINGS = [
         Binding("q", "quit", "Quit"),
         Binding("s", "save", "Save config"),
-        Binding("tab", "switch_view", "Switch view", show=True, priority=True),
+        Binding("tab", "switch_view", "All series", show=True, priority=True),
+        Binding("enter", "view_agency_series", "Agency series", show=True, priority=True),
         Binding("t", "toggle_item", "Toggle", show=True),
         Binding("space", "toggle_and_advance", "Toggle+next", show=True),
         Binding("j", "cursor_down", "Down", show=True),
@@ -262,7 +263,7 @@ class ProvConfigApp(App):
         Binding("g", "cursor_top", "Top", show=False),
         Binding("G", "cursor_bottom", "Bottom", show=False, key_display="shift+g"),
         Binding("/", "focus_filter", "Filter", show=True),
-        Binding("escape", "clear_filter", "Clear filter", show=False),
+        Binding("escape", "clear_or_back", "Back/Clear", show=False),
     ]
 
     def __init__(
@@ -281,6 +282,7 @@ class ProvConfigApp(App):
         self.filter_text = ""
         self._dirty = False
         self.view_mode = "agencies"  # or "series"
+        self.series_filter_agency: int | None = None  # set when drilling into one agency
 
         # Store indexes for dynamic series lookup
         self.agency_to_series = agency_to_series
@@ -386,12 +388,19 @@ class ProvConfigApp(App):
         self._update_status()
 
     def _get_visible_series(self) -> list[SeriesRow]:
-        """Get all series for currently tracked agencies."""
+        """Get series for the current view scope."""
         tracked_ids = {r.agency_id for r in self.agency_rows if r.tracked}
 
-        # Collect all unique series citations across all tracked agencies
+        if self.series_filter_agency is not None:
+            # Drill-down: only series for one specific agency
+            scope_ids = {self.series_filter_agency}
+        else:
+            # All tracked agencies
+            scope_ids = tracked_ids
+
+        # Collect all unique series citations across scoped agencies
         seen: set[str] = set()
-        for aid in tracked_ids:
+        for aid in scope_ids:
             for cit in self.agency_to_series.get(aid, []):
                 seen.add(cit)
 
@@ -535,12 +544,21 @@ class ProvConfigApp(App):
             self.query_one("#status-bar", Static).update(
                 f"[bold]Agencies[/bold]  |  Seeds: {seed_str}  |  "
                 f"{len(self.agency_rows)} related  |  {tracked_count} tracked  |  "
-                f"{included_count}/{len(visible_series)} series{dirty}  [dim]Tab→Series[/dim]"
+                f"{included_count}/{len(visible_series)} series{dirty}  [dim]Tab→Series  Enter→Drill[/dim]"
+            )
+        elif self.series_filter_agency is not None:
+            agency_cite = self._agency_id_to_citation.get(
+                self.series_filter_agency, f"VA {self.series_filter_agency}"
+            )
+            self.query_one("#status-bar", Static).update(
+                f"[bold]Series[/bold] for [bold]{agency_cite}[/bold]  |  "
+                f"{len(visible_series)} series  |  "
+                f"{included_count} included{dirty}  [dim]Esc→Back  Tab→All series[/dim]"
             )
         else:
             self.query_one("#status-bar", Static).update(
                 f"[bold]Series[/bold]  |  {len(visible_series)} from {tracked_count} tracked agencies  |  "
-                f"{included_count} included{dirty}  [dim]Tab→Agencies[/dim]"
+                f"{included_count} included{dirty}  [dim]Esc→Back  Tab→Agencies[/dim]"
             )
 
     def _refresh_current_row_toggle(self, is_on: bool) -> None:
@@ -551,14 +569,33 @@ class ProvConfigApp(App):
         table.update_cell(key, "col0", "✓" if is_on else " ")
 
     def action_switch_view(self) -> None:
+        """Tab: toggle between agencies and all-tracked-agencies series."""
         self.filter_text = ""
         self.query_one("#filter-input", Input).value = ""
         if self.view_mode == "agencies":
             self.view_mode = "series"
+            self.series_filter_agency = None
             self._setup_series_view()
         else:
             self.view_mode = "agencies"
+            self.series_filter_agency = None
             self._setup_agency_view()
+
+    def action_view_agency_series(self) -> None:
+        """Enter: drill into series for the selected agency."""
+        if self.view_mode != "agencies":
+            return
+        key = self._get_selected_key()
+        if key is None:
+            return
+        row = next((r for r in self.agency_rows if r.citation == key), None)
+        if row is None:
+            return
+        self.filter_text = ""
+        self.query_one("#filter-input", Input).value = ""
+        self.series_filter_agency = row.agency_id
+        self.view_mode = "series"
+        self._setup_series_view()
 
     def action_toggle_item(self) -> None:
         key = self._get_selected_key()
@@ -631,17 +668,23 @@ class ProvConfigApp(App):
     def action_focus_filter(self) -> None:
         self.query_one("#filter-input", Input).focus()
 
-    def action_clear_filter(self) -> None:
+    def action_clear_or_back(self) -> None:
         inp = self.query_one("#filter-input", Input)
         if inp.has_focus:
             inp.value = ""
             self.filter_text = ""
             self._populate_table()
             self.query_one("#data-table", DataTable).focus()
-        else:
+        elif self.filter_text:
             self.filter_text = ""
             inp.value = ""
             self._populate_table()
+        elif self.view_mode == "series":
+            self.view_mode = "agencies"
+            self.series_filter_agency = None
+            self.filter_text = ""
+            inp.value = ""
+            self._setup_agency_view()
 
     @on(Input.Changed, "#filter-input")
     def on_filter_changed(self, event: Input.Changed) -> None:
