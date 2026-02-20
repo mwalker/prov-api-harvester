@@ -255,7 +255,7 @@ class ProvConfigApp(App):
         Binding("q", "quit", "Quit"),
         Binding("s", "save", "Save config"),
         Binding("tab", "switch_view", "All series", show=True, priority=True),
-        Binding("enter", "view_agency_series", "Agency series", show=True, priority=True),
+        Binding("d", "view_agency_series", "Drill down", show=True),
         Binding("t", "toggle_item", "Toggle", show=True),
         Binding("space", "toggle_and_advance", "Toggle+next", show=True),
         Binding("j", "cursor_down", "Down", show=True),
