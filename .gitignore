@@ -11,3 +11,6 @@
 .aider*
 
 *.tar.gz
+
+# Python
+__pycache__/
