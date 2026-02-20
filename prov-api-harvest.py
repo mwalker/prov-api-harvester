@@ -945,11 +945,14 @@ def stream_records_in_series_batches(args, file_manager):
                   f"Batches remaining: {remaining_batches}", file=sys.stderr)
 
         # Only fetch related entities if:
-        # 1. Flag is explicitly specified, OR
-        # 2. We're doing a full harvest (no series range limits)
+        # 1. Not using --iiif (these records don't have IIIF metadata), AND
+        # 2. Flag is explicitly specified, OR we're doing a full harvest (no series range limits)
         include_related = args.include_related_entities
         full_harvest = args.series_min == 1 and args.series_max is None
-        if include_related or full_harvest:
+        if args.iiif:
+            print("Skipping relatedEntity records (--iiif specified, these records don't have IIIF metadata)",
+                  file=sys.stderr)
+        elif include_related or full_harvest:
             reason = "flag specified" if include_related else "full harvest"
             print(
                 f"Fetching relatedEntity records ({reason})...",
