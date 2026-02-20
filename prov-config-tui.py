@@ -21,8 +21,9 @@ The tool:
     1. Takes seed agency IDs (or loads them from an existing config)
     2. Loads prov-series.json and prov-agencies.json
     3. Discovers all agencies that share series with the seeds
-    4. Presents a TUI to toggle tracking and series inclusion per agency
-    5. Saves selections to a TOML config file
+    4. Agency view: toggle which agencies to track
+    5. Series view: toggle which series to include (Tab to switch)
+    6. Saves selections to a TOML config file
 """
 
 import argparse
@@ -33,15 +34,15 @@ import tomllib
 from pathlib import Path
 
 import tomli_w
+from rich.markup import escape as rich_escape
 from textual import on
 from textual.app import App, ComposeResult
 from textual.binding import Binding
-from textual.containers import Horizontal, Vertical
-from rich.markup import escape as rich_escape
+from textual.containers import Horizontal
 from textual.widgets import DataTable, Footer, Header, Input, Static
 
 
-VERSION = "0.1.0"
+VERSION = "0.2.0"
 
 
 # ── Data helpers (shared with prov-postprocess.py) ──────────────────────────
@@ -79,34 +80,38 @@ def extract_agency_ids_from_series(series_record: dict) -> set[int]:
 # ── Discovery logic ─────────────────────────────────────────────────────────
 
 
-def discover_related_agencies(
+def discover_related(
     seed_ids: set[int],
     all_series: list[dict],
     all_agencies: list[dict],
-) -> tuple[list[dict], dict[int, list[str]]]:
+) -> tuple[list[dict], list[dict], dict[int, list[str]], dict[str, set[int]]]:
     """
-    Find all agencies related to the seed agencies via shared series.
+    Find all agencies and series related to the seed agencies.
 
     Returns:
         agencies: list of agency records (sorted by citation)
-        shared_series_map: {agency_numeric_id: [list of series citations]}
+        series: list of series records related to seed agencies (sorted by citation)
+        agency_series_map: {agency_numeric_id: [list of series citations]}
+        series_agency_map: {series_citation: set of agency_numeric_ids}
     """
     # Find series that involve any seed agency
     matched_series = []
+    series_agency_map: dict[str, set[int]] = {}
     for series in all_series:
         series_agency_ids = extract_agency_ids_from_series(series)
         if series_agency_ids & seed_ids:
             matched_series.append(series)
+            series_agency_map[series.get("citation", "?")] = series_agency_ids
 
-    # Collect all agency IDs from matched series + map which series each agency appears in
-    shared_series_map: dict[int, list[str]] = {}
+    # Build agency→series map
+    agency_series_map: dict[int, list[str]] = {}
     for series in matched_series:
         agency_ids = extract_agency_ids_from_series(series)
         citation = series.get("citation", "?")
         for aid in agency_ids:
-            shared_series_map.setdefault(aid, []).append(citation)
+            agency_series_map.setdefault(aid, []).append(citation)
 
-    all_related_ids = set(shared_series_map.keys())
+    all_related_ids = set(agency_series_map.keys())
 
     # Extract agency records
     matched_agencies = []
@@ -115,13 +120,21 @@ def discover_related_agencies(
         if agency_num is not None and agency_num in all_related_ids:
             matched_agencies.append(agency)
 
-    # Sort by citation numerically
-    def sort_key(a):
+    def agency_sort_key(a):
         num = agency_id_from_citation(a.get("citation", ""))
         return num if num is not None else 999999
 
-    matched_agencies.sort(key=sort_key)
-    return matched_agencies, shared_series_map
+    matched_agencies.sort(key=agency_sort_key)
+
+    # Sort series by citation numerically
+    def series_sort_key(s):
+        cit = s.get("citation", "")
+        m = re.match(r"^VPRS\s+(\d+)$", cit)
+        return int(m.group(1)) if m else 999999
+
+    matched_series.sort(key=series_sort_key)
+
+    return matched_agencies, matched_series, agency_series_map, series_agency_map
 
 
 # ── Config I/O ───────────────────────────────────────────────────────────────
@@ -132,10 +145,16 @@ def load_config(path: Path) -> dict:
         return tomllib.load(f)
 
 
-def save_config(path: Path, seed_ids: list[int], tracked: list[dict]) -> None:
+def save_config(
+    path: Path,
+    seed_ids: list[int],
+    tracked_agencies: list[dict],
+    excluded_series: list[str],
+) -> None:
     doc = {
         "seed": {"agencies": [f"VA {aid}" for aid in sorted(seed_ids)]},
-        "tracked": tracked,
+        "tracked": tracked_agencies,
+        "series": {"excluded": sorted(excluded_series)},
     }
     with open(path, "wb") as f:
         tomli_w.dump(doc, f)
@@ -145,7 +164,7 @@ def save_config(path: Path, seed_ids: list[int], tracked: list[dict]) -> None:
 
 
 class AgencyRow:
-    """In-memory state for one row in the table."""
+    """In-memory state for one agency in the table."""
 
     def __init__(
         self,
@@ -157,7 +176,6 @@ class AgencyRow:
         shared_series: list[str],
         is_seed: bool,
         tracked: bool = False,
-        include_series: bool = False,
     ):
         self.agency_id = agency_id
         self.citation = citation
@@ -167,7 +185,24 @@ class AgencyRow:
         self.shared_series = shared_series
         self.is_seed = is_seed
         self.tracked = tracked
-        self.include_series = include_series
+
+
+class SeriesRow:
+    """In-memory state for one series in the table."""
+
+    def __init__(
+        self,
+        citation: str,
+        title: str,
+        date_range: str,
+        agency_citations: list[str],
+        included: bool = True,
+    ):
+        self.citation = citation
+        self.title = title
+        self.date_range = date_range
+        self.agency_citations = agency_citations
+        self.included = included
 
 
 class ProvConfigApp(App):
@@ -207,9 +242,9 @@ class ProvConfigApp(App):
     BINDINGS = [
         Binding("q", "quit", "Quit"),
         Binding("s", "save", "Save config"),
-        Binding("t", "toggle_tracked", "Toggle tracked", show=True),
-        Binding("i", "toggle_series", "Toggle series", show=True),
-        Binding("space", "toggle_tracked_and_advance", "Toggle+next", show=True),
+        Binding("tab", "switch_view", "Switch view", show=True, priority=True),
+        Binding("t", "toggle_item", "Toggle", show=True),
+        Binding("space", "toggle_and_advance", "Toggle+next", show=True),
         Binding("j", "cursor_down", "Down", show=True),
         Binding("k", "cursor_up", "Up", show=True),
         Binding("g", "cursor_top", "Top", show=False),
@@ -222,7 +257,10 @@ class ProvConfigApp(App):
         self,
         seed_ids: set[int],
         agencies: list[dict],
-        shared_series_map: dict[int, list[str]],
+        matched_series: list[dict],
+        agency_series_map: dict[int, list[str]],
+        series_agency_map: dict[str, set[int]],
+        all_agencies: list[dict],
         config_path: Path,
         existing_config: dict | None = None,
     ):
@@ -231,22 +269,38 @@ class ProvConfigApp(App):
         self.config_path = config_path
         self.filter_text = ""
         self._dirty = False
+        self.view_mode = "agencies"  # or "series"
 
-        # Build existing config lookup
-        prev_tracked: dict[str, dict] = {}
-        if existing_config and "tracked" in existing_config:
-            for entry in existing_config["tracked"]:
-                prev_tracked[entry["citation"]] = entry
+        # Build agency id→citation lookup
+        agency_id_to_citation: dict[int, str] = {}
+        for agency in all_agencies:
+            num = agency_id_from_citation(agency.get("citation", ""))
+            if num is not None:
+                agency_id_to_citation[num] = agency["citation"]
 
-        # Build row state
-        self.rows: list[AgencyRow] = []
+        # Build existing config lookups
+        prev_tracked: set[str] = set()
+        prev_excluded_series: set[str] = set()
+        if existing_config:
+            if "tracked" in existing_config:
+                for entry in existing_config["tracked"]:
+                    prev_tracked.add(entry["citation"])
+            if "series" in existing_config:
+                prev_excluded_series = set(
+                    existing_config["series"].get("excluded", [])
+                )
+
+        has_prev_config = bool(existing_config and "tracked" in existing_config)
+
+        # Build agency rows
+        self.agency_rows: list[AgencyRow] = []
         for agency in agencies:
             citation = agency.get("citation", "")
             agency_num = agency_id_from_citation(citation)
             if agency_num is None:
                 continue
             is_seed = agency_num in seed_ids
-            shared_count = len(shared_series_map.get(agency_num, []))
+            shared_count = len(agency_series_map.get(agency_num, []))
             date_range = agency.get("start_dt") or ""
             end = agency.get("end_dt")
             if date_range and end:
@@ -254,19 +308,15 @@ class ProvConfigApp(App):
             elif date_range:
                 date_range = f"{date_range}–"
 
-            # Restore previous config or default seeds to tracked
-            if citation in prev_tracked:
-                tracked = True
-                include_series = prev_tracked[citation].get("include_series", False)
+            if has_prev_config:
+                tracked = citation in prev_tracked
             elif is_seed:
                 tracked = True
-                include_series = True
             else:
                 tracked = False
-                include_series = False
 
-            series_list = shared_series_map.get(agency_num, [])
-            self.rows.append(
+            series_list = agency_series_map.get(agency_num, [])
+            self.agency_rows.append(
                 AgencyRow(
                     agency_id=agency_num,
                     citation=citation,
@@ -276,86 +326,171 @@ class ProvConfigApp(App):
                     shared_series=sorted(set(series_list)),
                     is_seed=is_seed,
                     tracked=tracked,
-                    include_series=include_series,
+                )
+            )
+
+        # Build series rows
+        self.series_rows: list[SeriesRow] = []
+        for series in matched_series:
+            citation = series.get("citation", "")
+            date_range = series.get("start_dt") or ""
+            end = series.get("end_dt")
+            if date_range and end:
+                date_range = f"{date_range}–{end}"
+            elif date_range:
+                date_range = f"{date_range}–"
+
+            # Map numeric agency IDs to citations
+            agency_ids = series_agency_map.get(citation, set())
+            agency_cites = sorted(
+                agency_id_to_citation.get(aid, f"VA {aid}") for aid in agency_ids
+            )
+
+            included = citation not in prev_excluded_series
+
+            self.series_rows.append(
+                SeriesRow(
+                    citation=citation,
+                    title=series.get("title", ""),
+                    date_range=date_range,
+                    agency_citations=agency_cites,
+                    included=included,
                 )
             )
 
     def compose(self) -> ComposeResult:
         yield Header()
-        seed_str = ", ".join(f"VA {sid}" for sid in sorted(self.seed_ids))
-        tracked_count = sum(1 for r in self.rows if r.tracked)
-        yield Static(
-            f"Seeds: {seed_str}  |  {len(self.rows)} related agencies  |  {tracked_count} tracked",
-            id="status-bar",
-        )
+        yield Static("", id="status-bar")
         with Horizontal(id="filter-row"):
             yield Static("Filter:", id="filter-label")
-            yield Input(placeholder="Type to filter agencies...", id="filter-input")
-        yield DataTable(id="agency-table")
+            yield Input(placeholder="Type to filter...", id="filter-input")
+        yield DataTable(id="data-table")
         yield Static("", id="detail-panel")
         yield Footer()
 
     def on_mount(self) -> None:
-        table = self.query_one("#agency-table", DataTable)
+        self._setup_agency_view()
+
+    def _setup_agency_view(self) -> None:
+        table = self.query_one("#data-table", DataTable)
+        table.clear(columns=True)
         table.cursor_type = "row"
         table.zebra_stripes = True
-        table.add_column("Tracked", key="tracked")
-        table.add_column("Series", key="series")
-        table.add_column("Citation", key="citation")
-        table.add_column("Title", key="title")
-        table.add_column("Dates", key="dates")
-        table.add_column("Shared", key="shared")
-        table.add_column("Seed", key="seed")
+        table.add_column("Tracked", key="col0")
+        table.add_column("Citation", key="col1")
+        table.add_column("Title", key="col2")
+        table.add_column("Dates", key="col3")
+        table.add_column("Shared", key="col4")
+        table.add_column("Seed", key="col5")
         self._populate_table()
+        self._update_status()
+
+    def _setup_series_view(self) -> None:
+        table = self.query_one("#data-table", DataTable)
+        table.clear(columns=True)
+        table.cursor_type = "row"
+        table.zebra_stripes = True
+        table.add_column("Included", key="col0")
+        table.add_column("Citation", key="col1")
+        table.add_column("Title", key="col2")
+        table.add_column("Dates", key="col3")
+        table.add_column("Agencies", key="col4")
+        self._populate_table()
+        self._update_status()
+
+    def _get_visible_series(self) -> list[SeriesRow]:
+        """Get series rows that belong to currently tracked agencies."""
+        tracked_ids = {r.agency_id for r in self.agency_rows if r.tracked}
+        visible = []
+        for sr in self.series_rows:
+            # Check if any agency on this series is tracked
+            series_agency_ids = set()
+            for ar in self.agency_rows:
+                if ar.citation in sr.agency_citations or any(
+                    f"VA {ar.agency_id}" == ac for ac in sr.agency_citations
+                ):
+                    series_agency_ids.add(ar.agency_id)
+            if series_agency_ids & tracked_ids:
+                visible.append(sr)
+        return visible
 
     def _populate_table(self) -> None:
-        table = self.query_one("#agency-table", DataTable)
+        table = self.query_one("#data-table", DataTable)
         table.clear()
         filter_lower = self.filter_text.lower()
-        for row in self.rows:
-            if filter_lower and filter_lower not in row.citation.lower() and filter_lower not in row.title.lower():
-                continue
-            table.add_row(
-                "✓" if row.tracked else " ",
-                "✓" if row.include_series else " ",
-                row.citation,
-                row.title[:60],
-                row.date_range,
-                str(row.shared_count),
-                "●" if row.is_seed else "",
-                key=row.citation,
-            )
 
-    def _get_selected_row(self) -> AgencyRow | None:
-        table = self.query_one("#agency-table", DataTable)
+        if self.view_mode == "agencies":
+            for row in self.agency_rows:
+                if filter_lower and filter_lower not in row.citation.lower() and filter_lower not in row.title.lower():
+                    continue
+                table.add_row(
+                    "✓" if row.tracked else " ",
+                    row.citation,
+                    row.title[:60],
+                    row.date_range,
+                    str(row.shared_count),
+                    "●" if row.is_seed else "",
+                    key=row.citation,
+                )
+        else:
+            for row in self._get_visible_series():
+                if filter_lower and filter_lower not in row.citation.lower() and filter_lower not in row.title.lower():
+                    continue
+                table.add_row(
+                    "✓" if row.included else " ",
+                    row.citation,
+                    row.title[:60],
+                    row.date_range,
+                    ", ".join(row.agency_citations[:3])
+                    + (f" +{len(row.agency_citations) - 3}" if len(row.agency_citations) > 3 else ""),
+                    key=row.citation,
+                )
+
+    def _get_selected_key(self) -> str | None:
+        table = self.query_one("#data-table", DataTable)
         if table.row_count == 0:
             return None
         try:
             cell_key = table.coordinate_to_cell_key((table.cursor_row, 0))
-            citation = str(cell_key.row_key.value)
+            return str(cell_key.row_key.value)
         except Exception:
             return None
-        for row in self.rows:
-            if row.citation == citation:
-                return row
-        return None
 
     def _update_detail(self) -> None:
-        row = self._get_selected_row()
+        key = self._get_selected_key()
         panel = self.query_one("#detail-panel", Static)
-        if row is None:
+
+        if key is None:
             panel.update("")
             return
-        seed_label = " (seed)" if row.is_seed else ""
-        series_preview = ", ".join(row.shared_series[:8])
-        if len(row.shared_series) > 8:
-            series_preview += f", ... (+{len(row.shared_series) - 8} more)"
-        title = rich_escape(row.title)
-        panel.update(
-            f"[bold]{row.citation}[/bold]{seed_label}  {row.date_range}\n"
-            f"{title}\n"
-            f"Shared series ({row.shared_count}): {series_preview}"
-        )
+
+        if self.view_mode == "agencies":
+            row = next((r for r in self.agency_rows if r.citation == key), None)
+            if row is None:
+                panel.update("")
+                return
+            seed_label = " (seed)" if row.is_seed else ""
+            series_preview = ", ".join(row.shared_series[:8])
+            if len(row.shared_series) > 8:
+                series_preview += f", ... (+{len(row.shared_series) - 8} more)"
+            title = rich_escape(row.title)
+            panel.update(
+                f"[bold]{row.citation}[/bold]{seed_label}  {row.date_range}\n"
+                f"{title}\n"
+                f"Shared series ({row.shared_count}): {series_preview}"
+            )
+        else:
+            row = next((r for r in self.series_rows if r.citation == key), None)
+            if row is None:
+                panel.update("")
+                return
+            title = rich_escape(row.title)
+            agencies_str = ", ".join(row.agency_citations)
+            panel.update(
+                f"[bold]{row.citation}[/bold]  {row.date_range}\n"
+                f"{title}\n"
+                f"Agencies: {agencies_str}"
+            )
 
     @on(DataTable.RowHighlighted)
     def on_row_highlighted(self, event: DataTable.RowHighlighted) -> None:
@@ -363,75 +498,107 @@ class ProvConfigApp(App):
 
     def _update_status(self) -> None:
         seed_str = ", ".join(f"VA {sid}" for sid in sorted(self.seed_ids))
-        tracked_count = sum(1 for r in self.rows if r.tracked)
-        series_count = sum(1 for r in self.rows if r.tracked and r.include_series)
+        tracked_count = sum(1 for r in self.agency_rows if r.tracked)
+        visible_series = self._get_visible_series()
+        included_count = sum(1 for r in visible_series if r.included)
         dirty = " [unsaved]" if self._dirty else ""
-        self.query_one("#status-bar", Static).update(
-            f"Seeds: {seed_str}  |  {len(self.rows)} related agencies  |  "
-            f"{tracked_count} tracked  |  {series_count} with series{dirty}"
-        )
 
-    def _refresh_current_row(self, row: AgencyRow) -> None:
-        table = self.query_one("#agency-table", DataTable)
-        table.update_cell(row.citation, "tracked", "✓" if row.tracked else " ")
-        table.update_cell(row.citation, "series", "✓" if row.include_series else " ")
+        if self.view_mode == "agencies":
+            self.query_one("#status-bar", Static).update(
+                f"[bold]Agencies[/bold]  |  Seeds: {seed_str}  |  "
+                f"{len(self.agency_rows)} related  |  {tracked_count} tracked  |  "
+                f"{included_count}/{len(visible_series)} series{dirty}  [dim]Tab→Series[/dim]"
+            )
+        else:
+            self.query_one("#status-bar", Static).update(
+                f"[bold]Series[/bold]  |  {len(visible_series)} from {tracked_count} tracked agencies  |  "
+                f"{included_count} included{dirty}  [dim]Tab→Agencies[/dim]"
+            )
 
-    def action_toggle_tracked(self) -> None:
-        row = self._get_selected_row()
-        if row is None:
+    def _refresh_current_row_toggle(self, is_on: bool) -> None:
+        key = self._get_selected_key()
+        if key is None:
             return
-        row.tracked = not row.tracked
-        if not row.tracked:
-            row.include_series = False
+        table = self.query_one("#data-table", DataTable)
+        table.update_cell(key, "col0", "✓" if is_on else " ")
+
+    def action_switch_view(self) -> None:
+        self.filter_text = ""
+        self.query_one("#filter-input", Input).value = ""
+        if self.view_mode == "agencies":
+            self.view_mode = "series"
+            self._setup_series_view()
+        else:
+            self.view_mode = "agencies"
+            self._setup_agency_view()
+
+    def action_toggle_item(self) -> None:
+        key = self._get_selected_key()
+        if key is None:
+            return
+
+        if self.view_mode == "agencies":
+            row = next((r for r in self.agency_rows if r.citation == key), None)
+            if row is None:
+                return
+            row.tracked = not row.tracked
+            self._refresh_current_row_toggle(row.tracked)
+        else:
+            row = next((r for r in self.series_rows if r.citation == key), None)
+            if row is None:
+                return
+            row.included = not row.included
+            self._refresh_current_row_toggle(row.included)
+
         self._dirty = True
-        self._refresh_current_row(row)
         self._update_status()
 
-    def action_toggle_tracked_and_advance(self) -> None:
-        self.action_toggle_tracked()
-        table = self.query_one("#agency-table", DataTable)
+    def action_toggle_and_advance(self) -> None:
+        self.action_toggle_item()
+        table = self.query_one("#data-table", DataTable)
         table.action_cursor_down()
 
     def action_cursor_down(self) -> None:
-        self.query_one("#agency-table", DataTable).action_cursor_down()
+        self.query_one("#data-table", DataTable).action_cursor_down()
 
     def action_cursor_up(self) -> None:
-        self.query_one("#agency-table", DataTable).action_cursor_up()
+        self.query_one("#data-table", DataTable).action_cursor_up()
 
     def action_cursor_top(self) -> None:
-        table = self.query_one("#agency-table", DataTable)
+        table = self.query_one("#data-table", DataTable)
         table.move_cursor(row=0)
 
     def action_cursor_bottom(self) -> None:
-        table = self.query_one("#agency-table", DataTable)
+        table = self.query_one("#data-table", DataTable)
         table.move_cursor(row=table.row_count - 1)
 
-    def action_toggle_series(self) -> None:
-        row = self._get_selected_row()
-        if row is None:
-            return
-        row.include_series = not row.include_series
-        if row.include_series:
-            row.tracked = True
-        self._dirty = True
-        self._refresh_current_row(row)
-        self._update_status()
-
     def action_save(self) -> None:
-        tracked = []
-        for row in self.rows:
+        tracked_agencies = []
+        for row in self.agency_rows:
             if row.tracked:
-                tracked.append(
-                    {
-                        "citation": row.citation,
-                        "title": row.title,
-                        "include_series": row.include_series,
-                    }
+                tracked_agencies.append(
+                    {"citation": row.citation, "title": row.title}
                 )
-        save_config(self.config_path, list(self.seed_ids), tracked)
+
+        excluded_series = []
+        visible = self._get_visible_series()
+        for row in visible:
+            if not row.included:
+                excluded_series.append(row.citation)
+
+        save_config(
+            self.config_path,
+            list(self.seed_ids),
+            tracked_agencies,
+            excluded_series,
+        )
         self._dirty = False
         self._update_status()
-        self.notify(f"Saved {len(tracked)} tracked agencies to {self.config_path}")
+        self.notify(
+            f"Saved {len(tracked_agencies)} agencies, "
+            f"{len(visible) - len(excluded_series)}/{len(visible)} series "
+            f"to {self.config_path}"
+        )
 
     def action_focus_filter(self) -> None:
         self.query_one("#filter-input", Input).focus()
@@ -442,7 +609,7 @@ class ProvConfigApp(App):
             inp.value = ""
             self.filter_text = ""
             self._populate_table()
-            self.query_one("#agency-table", DataTable).focus()
+            self.query_one("#data-table", DataTable).focus()
         else:
             self.filter_text = ""
             inp.value = ""
@@ -455,11 +622,14 @@ class ProvConfigApp(App):
 
     @on(Input.Submitted, "#filter-input")
     def on_filter_submitted(self, event: Input.Submitted) -> None:
-        self.query_one("#agency-table", DataTable).focus()
+        self.query_one("#data-table", DataTable).focus()
 
     def action_quit(self) -> None:
         if self._dirty:
-            self.notify("Unsaved changes! Press [s] to save or [q] again to quit.", severity="warning")
+            self.notify(
+                "Unsaved changes! Press [s] to save or [q] again to quit.",
+                severity="warning",
+            )
             self._dirty = False  # allow second q to quit
             return
         self.exit()
@@ -538,17 +708,21 @@ def main():
     print(f"  {len(all_agencies)} agency records", file=sys.stderr)
 
     # Discover relationships
-    print("Discovering related agencies...", file=sys.stderr)
-    agencies, shared_series_map = discover_related_agencies(
+    print("Discovering related agencies and series...", file=sys.stderr)
+    agencies, matched_series, agency_series_map, series_agency_map = discover_related(
         seed_ids, all_series, all_agencies
     )
     print(f"  Found {len(agencies)} related agencies", file=sys.stderr)
+    print(f"  Found {len(matched_series)} related series", file=sys.stderr)
 
     # Launch TUI
     app = ProvConfigApp(
         seed_ids=seed_ids,
         agencies=agencies,
-        shared_series_map=shared_series_map,
+        matched_series=matched_series,
+        agency_series_map=agency_series_map,
+        series_agency_map=series_agency_map,
+        all_agencies=all_agencies,
         config_path=config_path,
         existing_config=existing_config,
     )
