@@ -153,6 +153,7 @@ class AgencyRow:
         title: str,
         date_range: str,
         shared_count: int,
+        shared_series: list[str],
         is_seed: bool,
         tracked: bool = False,
         include_series: bool = False,
@@ -162,6 +163,7 @@ class AgencyRow:
         self.title = title
         self.date_range = date_range
         self.shared_count = shared_count
+        self.shared_series = shared_series
         self.is_seed = is_seed
         self.tracked = tracked
         self.include_series = include_series
@@ -187,6 +189,13 @@ class ProvConfigApp(App):
     #filter-label {
         width: auto;
         padding: 1 1 0 0;
+    }
+    #detail-panel {
+        dock: bottom;
+        height: 5;
+        padding: 0 1;
+        background: $surface;
+        border-top: solid $primary;
     }
     #help-text {
         dock: bottom;
@@ -260,6 +269,7 @@ class ProvConfigApp(App):
                 tracked = False
                 include_series = False
 
+            series_list = shared_series_map.get(agency_num, [])
             self.rows.append(
                 AgencyRow(
                     agency_id=agency_num,
@@ -267,6 +277,7 @@ class ProvConfigApp(App):
                     title=agency.get("title", ""),
                     date_range=date_range,
                     shared_count=shared_count,
+                    shared_series=sorted(set(series_list)),
                     is_seed=is_seed,
                     tracked=tracked,
                     include_series=include_series,
@@ -285,6 +296,7 @@ class ProvConfigApp(App):
             yield Static("Filter:", id="filter-label")
             yield Input(placeholder="Type to filter agencies...", id="filter-input")
         yield DataTable(id="agency-table")
+        yield Static("", id="detail-panel")
         yield Static(
             "[space] toggle+next  [t] toggle tracked  [i] toggle series  [j/k] nav  [s] save  [/] filter  [q] quit",
             id="help-text",
@@ -335,6 +347,26 @@ class ProvConfigApp(App):
             if row.citation == citation:
                 return row
         return None
+
+    def _update_detail(self) -> None:
+        row = self._get_selected_row()
+        panel = self.query_one("#detail-panel", Static)
+        if row is None:
+            panel.update("")
+            return
+        seed_label = " (seed)" if row.is_seed else ""
+        series_preview = ", ".join(row.shared_series[:8])
+        if len(row.shared_series) > 8:
+            series_preview += f", ... (+{len(row.shared_series) - 8} more)"
+        panel.update(
+            f"[bold]{row.citation}[/bold]{seed_label}  {row.date_range}\n"
+            f"{row.title}\n"
+            f"Shared series ({row.shared_count}): {series_preview}"
+        )
+
+    @on(DataTable.RowHighlighted)
+    def on_row_highlighted(self, event: DataTable.RowHighlighted) -> None:
+        self._update_detail()
 
     def _update_status(self) -> None:
         seed_str = ", ".join(f"VA {sid}" for sid in sorted(self.seed_ids))
