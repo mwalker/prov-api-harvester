@@ -204,6 +204,11 @@ class ProvConfigApp(App):
         Binding("s", "save", "Save config"),
         Binding("t", "toggle_tracked", "Toggle tracked", show=True),
         Binding("i", "toggle_series", "Toggle series", show=True),
+        Binding("space", "toggle_tracked_and_advance", "Toggle+next", show=False),
+        Binding("j", "cursor_down", "Down", show=False),
+        Binding("k", "cursor_up", "Up", show=False),
+        Binding("g", "cursor_top", "Top", show=False),
+        Binding("G", "cursor_bottom", "Bottom", show=False, key_display="shift+g"),
         Binding("/", "focus_filter", "Filter", show=True),
         Binding("escape", "clear_filter", "Clear filter", show=False),
     ]
@@ -281,7 +286,7 @@ class ProvConfigApp(App):
             yield Input(placeholder="Type to filter agencies...", id="filter-input")
         yield DataTable(id="agency-table")
         yield Static(
-            "[t] toggle tracked  [i] toggle series  [s] save  [/] filter  [q] quit",
+            "[space] toggle+next  [t] toggle tracked  [i] toggle series  [j/k] nav  [s] save  [/] filter  [q] quit",
             id="help-text",
         )
         yield Footer()
@@ -356,6 +361,25 @@ class ProvConfigApp(App):
         self._dirty = True
         self._refresh_current_row(row)
         self._update_status()
+
+    def action_toggle_tracked_and_advance(self) -> None:
+        self.action_toggle_tracked()
+        table = self.query_one("#agency-table", DataTable)
+        table.action_cursor_down()
+
+    def action_cursor_down(self) -> None:
+        self.query_one("#agency-table", DataTable).action_cursor_down()
+
+    def action_cursor_up(self) -> None:
+        self.query_one("#agency-table", DataTable).action_cursor_up()
+
+    def action_cursor_top(self) -> None:
+        table = self.query_one("#agency-table", DataTable)
+        table.move_cursor(row=0)
+
+    def action_cursor_bottom(self) -> None:
+        table = self.query_one("#agency-table", DataTable)
+        table.move_cursor(row=table.row_count - 1)
 
     def action_toggle_series(self) -> None:
         row = self._get_selected_row()
