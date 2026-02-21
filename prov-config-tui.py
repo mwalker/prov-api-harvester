@@ -579,7 +579,7 @@ class ProvConfigApp(App):
         except Exception:
             return None
 
-    def _move_cursor_to_key(self, key: str) -> None:
+    def _move_cursor_to_key(self, key: str, center: bool = False) -> None:
         """Move the DataTable cursor to the row with the given key."""
         table = self.query_one("#data-table", DataTable)
         for idx in range(table.row_count):
@@ -587,9 +587,21 @@ class ProvConfigApp(App):
                 cell_key = table.coordinate_to_cell_key((idx, 0))
                 if str(cell_key.row_key.value) == key:
                     table.move_cursor(row=idx)
+                    if center:
+                        self.set_timer(
+                            0.05, lambda: self._scroll_cursor_center()
+                        )
                     return
             except Exception:
                 continue
+
+    def _scroll_cursor_center(self) -> None:
+        """Scroll so the current cursor row is vertically centred."""
+        table = self.query_one("#data-table", DataTable)
+        row = table.cursor_coordinate.row
+        visible = table.scrollable_content_region.height
+        target = row - visible // 2
+        table.scroll_to(y=max(0, target), animate=False)
 
     def _update_detail(self) -> None:
         key = self._get_selected_key()
@@ -715,7 +727,7 @@ class ProvConfigApp(App):
             self.view_mode = "series"
             self._setup_series_view()
             if restore_key is not None:
-                self._move_cursor_to_key(restore_key)
+                self._move_cursor_to_key(restore_key, center=True)
         elif self.view_mode == "agencies":
             self.view_mode = "series"
             self.series_filter_agency = None
@@ -852,7 +864,7 @@ class ProvConfigApp(App):
             inp.value = ""
             self._setup_series_view()
             if restore_key is not None:
-                self._move_cursor_to_key(restore_key)
+                self._move_cursor_to_key(restore_key, center=True)
         elif self.view_mode == "series":
             restore_key = self._last_agency_key
             self.view_mode = "agencies"
