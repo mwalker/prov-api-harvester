@@ -390,8 +390,9 @@ class ProvConfigApp(App):
         table.add_column("Title", key="col2")
         table.add_column("Dates", key="col3")
         table.add_column("Total", key="col4")
-        table.add_column("Shared", key="col5")
-        table.add_column("Seed", key="col6")
+        table.add_column("Selected", key="col5")
+        table.add_column("Shared", key="col6")
+        table.add_column("Seed", key="col7")
         self._populate_table()
         self._update_status()
 
@@ -500,15 +501,22 @@ class ProvConfigApp(App):
         filter_lower = self.filter_text.lower()
 
         if self.view_mode == "agencies":
+            tracked_ids = {r.agency_id for r in self.agency_rows if r.tracked}
             for row in self.agency_rows:
                 if filter_lower and filter_lower not in row.citation.lower() and filter_lower not in row.title.lower():
                     continue
+                series_cits = self.agency_to_series.get(row.agency_id, [])
+                selected = sum(
+                    1 for c in series_cits
+                    if self._is_series_included(c, tracked_ids)
+                )
                 table.add_row(
                     "✓" if row.tracked else " ",
                     row.citation,
                     row.title[:60],
                     row.date_range,
                     str(row.total_series_count),
+                    str(selected),
                     str(row.shared_count),
                     "●" if row.is_seed else "",
                     key=row.citation,
