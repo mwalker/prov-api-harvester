@@ -168,11 +168,15 @@ def save_config(
     seed_ids: list[int],
     tracked_agencies: list[dict],
     excluded_series: list[str],
+    included_series: list[str] | None = None,
 ) -> None:
+    series_section: dict = {"excluded": sorted(excluded_series)}
+    if included_series:
+        series_section["included"] = sorted(included_series)
     doc = {
         "seed": {"agencies": [f"VA {aid}" for aid in sorted(seed_ids)]},
         "tracked": tracked_agencies,
-        "series": {"excluded": sorted(excluded_series)},
+        "series": series_section,
     }
     with open(path, "wb") as f:
         tomli_w.dump(doc, f)
@@ -306,6 +310,7 @@ class ProvConfigApp(App):
         # Build existing config lookups
         prev_tracked: set[str] = set()
         self.excluded_series: set[str] = set()
+        self.included_series: set[str] = set()
         if existing_config:
             if "tracked" in existing_config:
                 for entry in existing_config["tracked"]:
@@ -313,6 +318,9 @@ class ProvConfigApp(App):
             if "series" in existing_config:
                 self.excluded_series = set(
                     existing_config["series"].get("excluded", [])
+                )
+                self.included_series = set(
+                    existing_config["series"].get("included", [])
                 )
 
         has_prev_config = bool(existing_config and "tracked" in existing_config)
@@ -424,15 +432,15 @@ class ProvConfigApp(App):
         self._update_status()
 
     def _is_series_included(self, cit: str, tracked_ids: set[int]) -> bool:
-        """Determine if a series should be included based on defaults and overrides.
+        """Determine if a series should be included.
 
-        Default: tracked agencies get all series selected, non-tracked agencies
-        get only shared series selected.  Explicit deselection (excluded_series)
-        overrides any default selection.
+        Priority: explicit exclusion > explicit inclusion > default.
+        Default: tracked agencies get all series, others only shared.
         """
-        # Explicit deselection overrides default selection
         if cit in self.excluded_series:
             return False
+        if cit in self.included_series:
+            return True
         # Series from a tracked agency: included by default
         series = self.series_by_citation.get(cit)
         if series is not None:
@@ -761,13 +769,15 @@ class ProvConfigApp(App):
         else:
             tracked_ids = {r.agency_id for r in self.agency_rows if r.tracked}
             if self._is_series_included(key, tracked_ids):
+                # Currently included → exclude it
+                self.included_series.discard(key)
                 self.excluded_series.add(key)
                 self._refresh_current_row_toggle(False)
             else:
+                # Currently excluded → include it
                 self.excluded_series.discard(key)
-                self._refresh_current_row_toggle(
-                    self._is_series_included(key, tracked_ids)
-                )
+                self.included_series.add(key)
+                self._refresh_current_row_toggle(True)
 
         self._dirty = True
         self._update_status()
@@ -799,15 +809,17 @@ class ProvConfigApp(App):
                     {"citation": row.citation, "title": row.title}
                 )
 
-        # Only save exclusions for series that are currently visible
+        # Only save overrides for series that are currently visible
         visible_citations = {r.citation for r in self._get_visible_series()}
         excluded = sorted(self.excluded_series & visible_citations)
+        included = sorted(self.included_series & visible_citations)
 
         save_config(
             self.config_path,
             list(self.seed_ids),
             tracked_agencies,
             excluded,
+            included,
         )
         self._dirty = False
         self._update_status()
