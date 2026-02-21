@@ -253,6 +253,10 @@ class ProvConfigApp(App):
         padding: 0 1;
         background: $surface;
         border-top: solid $primary;
+        overflow-y: auto;
+    }
+    #detail-panel.expanded {
+        max-height: 50%;
     }
     DataTable {
         height: 1fr;
@@ -376,6 +380,7 @@ class ProvConfigApp(App):
         self._setup_agency_view()
 
     def _setup_agency_view(self) -> None:
+        self.query_one("#detail-panel", Static).remove_class("expanded")
         table = self.query_one("#data-table", DataTable)
         table.clear(columns=True)
         table.cursor_type = "row"
@@ -391,6 +396,7 @@ class ProvConfigApp(App):
         self._update_status()
 
     def _setup_series_view(self) -> None:
+        self.query_one("#detail-panel", Static).remove_class("expanded")
         table = self.query_one("#data-table", DataTable)
         table.clear(columns=True)
         table.cursor_type = "row"
@@ -404,6 +410,7 @@ class ProvConfigApp(App):
         self._update_status()
 
     def _setup_series_detail_view(self) -> None:
+        self.query_one("#detail-panel", Static).add_class("expanded")
         table = self.query_one("#data-table", DataTable)
         table.clear(columns=True)
         table.cursor_type = "row"
