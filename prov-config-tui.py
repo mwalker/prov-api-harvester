@@ -283,6 +283,7 @@ class ProvConfigApp(App):
         self._dirty = False
         self.view_mode = "agencies"  # or "series"
         self.series_filter_agency: int | None = None  # set when drilling into one agency
+        self._last_agency_key: str | None = None  # agency to re-select on back
 
         # Store indexes for dynamic series lookup
         self.agency_to_series = agency_to_series
@@ -507,6 +508,18 @@ class ProvConfigApp(App):
         except Exception:
             return None
 
+    def _move_cursor_to_key(self, key: str) -> None:
+        """Move the DataTable cursor to the row with the given key."""
+        table = self.query_one("#data-table", DataTable)
+        for idx in range(table.row_count):
+            try:
+                cell_key = table.coordinate_to_cell_key((idx, 0))
+                if str(cell_key.row_key.value) == key:
+                    table.move_cursor(row=idx)
+                    return
+            except Exception:
+                continue
+
     def _update_detail(self) -> None:
         key = self._get_selected_key()
         panel = self.query_one("#detail-panel", Static)
@@ -603,9 +616,12 @@ class ProvConfigApp(App):
             self.series_filter_agency = None
             self._setup_series_view()
         else:
+            restore_key = self._last_agency_key
             self.view_mode = "agencies"
             self.series_filter_agency = None
             self._setup_agency_view()
+            if restore_key is not None:
+                self._move_cursor_to_key(restore_key)
 
     def action_view_agency_series(self) -> None:
         """Enter: drill into series for the selected agency."""
@@ -619,6 +635,7 @@ class ProvConfigApp(App):
             return
         self.filter_text = ""
         self.query_one("#filter-input", Input).value = ""
+        self._last_agency_key = row.citation
         self.series_filter_agency = row.agency_id
         self.view_mode = "series"
         self._setup_series_view()
@@ -709,11 +726,14 @@ class ProvConfigApp(App):
             inp.value = ""
             self._populate_table()
         elif self.view_mode == "series":
+            restore_key = self._last_agency_key
             self.view_mode = "agencies"
             self.series_filter_agency = None
             self.filter_text = ""
             inp.value = ""
             self._setup_agency_view()
+            if restore_key is not None:
+                self._move_cursor_to_key(restore_key)
 
     @on(Input.Changed, "#filter-input")
     def on_filter_changed(self, event: Input.Changed) -> None:
