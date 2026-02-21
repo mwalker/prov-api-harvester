@@ -341,6 +341,11 @@ class ProvConfigApp(App):
                 )
             )
 
+        # Build set of shared series citations (series connecting to seed agencies)
+        self.shared_series_set: set[str] = set()
+        for series_list in shared_series_map.values():
+            self.shared_series_set.update(series_list)
+
         # Build agency id→citation lookup from agency_rows
         self._agency_id_to_citation: dict[int, str] = {
             r.agency_id: r.citation for r in self.agency_rows
@@ -386,6 +391,26 @@ class ProvConfigApp(App):
         table.add_column("Agencies", key="col4")
         self._populate_table()
         self._update_status()
+
+    def _is_series_included(self, cit: str, tracked_ids: set[int]) -> bool:
+        """Determine if a series should be included based on defaults and overrides.
+
+        Default: tracked agencies get all series selected, non-tracked agencies
+        get only shared series selected.  Explicit deselection (excluded_series)
+        overrides any default selection.
+        """
+        # Explicit deselection overrides default selection
+        if cit in self.excluded_series:
+            return False
+        # Series from a tracked agency: included by default
+        series = self.series_by_citation.get(cit)
+        if series is not None:
+            if extract_agency_ids_from_series(series) & tracked_ids:
+                return True
+        # Shared series (connects to seed agencies): included by default
+        if cit in self.shared_series_set:
+            return True
+        return False
 
     def _get_visible_series(self) -> list[SeriesRow]:
         """Get series for the current view scope."""
@@ -434,7 +459,7 @@ class ProvConfigApp(App):
                     title=series.get("title", ""),
                     date_range=date_range,
                     agency_citations=agency_cites,
-                    included=cit not in self.excluded_series,
+                    included=self._is_series_included(cit, tracked_ids),
                 )
             )
         return visible
@@ -522,7 +547,8 @@ class ProvConfigApp(App):
                 self._agency_id_to_citation.get(aid, f"VA {aid}")
                 for aid in agency_ids
             ))
-            included = "included" if key not in self.excluded_series else "excluded"
+            tracked_ids = {r.agency_id for r in self.agency_rows if r.tracked}
+            included = "included" if self._is_series_included(key, tracked_ids) else "excluded"
             panel.update(
                 f"[bold]{key}[/bold]  {date_range}  [{included}]\n"
                 f"{title}\n"
@@ -609,12 +635,15 @@ class ProvConfigApp(App):
             row.tracked = not row.tracked
             self._refresh_current_row_toggle(row.tracked)
         else:
-            if key in self.excluded_series:
-                self.excluded_series.discard(key)
-                self._refresh_current_row_toggle(True)
-            else:
+            tracked_ids = {r.agency_id for r in self.agency_rows if r.tracked}
+            if self._is_series_included(key, tracked_ids):
                 self.excluded_series.add(key)
                 self._refresh_current_row_toggle(False)
+            else:
+                self.excluded_series.discard(key)
+                self._refresh_current_row_toggle(
+                    self._is_series_included(key, tracked_ids)
+                )
 
         self._dirty = True
         self._update_status()
