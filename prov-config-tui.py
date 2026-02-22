@@ -220,12 +220,14 @@ class SeriesRow:
         title: str,
         date_range: str,
         agency_citations: list[str],
+        creating_agency_citations: list[str],
         included: bool = True,
     ):
         self.citation = citation
         self.title = title
         self.date_range = date_range
         self.agency_citations = agency_citations
+        self.creating_agency_citations = creating_agency_citations
         self.included = included
 
 
@@ -414,7 +416,8 @@ class ProvConfigApp(App):
         table.add_column("Citation", key="col1")
         table.add_column("Title", key="col2")
         table.add_column("Dates", key="col3")
-        table.add_column("Agencies", key="col4")
+        table.add_column("Creating", key="col4")
+        table.add_column("Agencies", key="col5")
         self._populate_table()
         self._update_status()
 
@@ -492,12 +495,20 @@ class ProvConfigApp(App):
                 if aid in tracked_ids
             )
 
+            # Creating agencies (all, not just tracked)
+            ca_ids = series.get("creating_agents.creating_agency_id") or []
+            creating_cites = [
+                self._agency_id_to_citation.get(int(aid), f"VA {aid}")
+                for aid in ca_ids
+            ]
+
             visible.append(
                 SeriesRow(
                     citation=cit,
                     title=series.get("title", ""),
                     date_range=date_range,
                     agency_citations=agency_cites,
+                    creating_agency_citations=creating_cites,
                     included=self._is_series_included(cit, tracked_ids),
                 )
             )
@@ -533,13 +544,19 @@ class ProvConfigApp(App):
             for row in self._get_visible_series():
                 if filter_lower and filter_lower not in row.citation.lower() and filter_lower not in row.title.lower():
                     continue
+                creating = ", ".join(row.creating_agency_citations[:3])
+                if len(row.creating_agency_citations) > 3:
+                    creating += f" +{len(row.creating_agency_citations) - 3}"
+                agencies = ", ".join(row.agency_citations[:3])
+                if len(row.agency_citations) > 3:
+                    agencies += f" +{len(row.agency_citations) - 3}"
                 table.add_row(
                     "✓" if row.included else " ",
                     row.citation,
                     row.title[:60],
                     row.date_range,
-                    ", ".join(row.agency_citations[:3])
-                    + (f" +{len(row.agency_citations) - 3}" if len(row.agency_citations) > 3 else ""),
+                    creating,
+                    agencies,
                     key=row.citation,
                 )
         elif self.view_mode == "series_detail":
