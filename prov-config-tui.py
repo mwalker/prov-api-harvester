@@ -38,7 +38,7 @@ from rich.markup import escape as rich_escape
 from textual import on
 from textual.app import App, ComposeResult
 from textual.binding import Binding
-from textual.containers import Horizontal
+from textual.containers import Horizontal, VerticalScroll
 from textual.widgets import DataTable, Footer, Header, Input, Static
 
 
@@ -252,16 +252,15 @@ class ProvConfigApp(App):
         width: auto;
         padding: 1 1 0 0;
     }
-    #detail-panel {
+    #detail-scroll {
         dock: bottom;
         height: auto;
         max-height: 7;
         padding: 0 1;
         background: $surface;
         border-top: solid $primary;
-        overflow-y: auto;
     }
-    #detail-panel.expanded {
+    #detail-scroll.expanded {
         max-height: 50%;
     }
     DataTable {
@@ -383,14 +382,15 @@ class ProvConfigApp(App):
             yield Static("Filter:", id="filter-label")
             yield Input(placeholder="Type to filter...", id="filter-input")
         yield DataTable(id="data-table")
-        yield Static("", id="detail-panel")
+        with VerticalScroll(id="detail-scroll"):
+            yield Static("", id="detail-panel")
         yield Footer()
 
     def on_mount(self) -> None:
         self._setup_agency_view()
 
     def _setup_agency_view(self) -> None:
-        self.query_one("#detail-panel", Static).remove_class("expanded")
+        self.query_one("#detail-scroll", VerticalScroll).remove_class("expanded")
         table = self.query_one("#data-table", DataTable)
         table.clear(columns=True)
         table.cursor_type = "row"
@@ -407,7 +407,7 @@ class ProvConfigApp(App):
         self._update_status()
 
     def _setup_series_view(self) -> None:
-        self.query_one("#detail-panel", Static).add_class("expanded")
+        self.query_one("#detail-scroll", VerticalScroll).add_class("expanded")
         table = self.query_one("#data-table", DataTable)
         table.clear(columns=True)
         table.cursor_type = "row"
@@ -652,7 +652,7 @@ class ProvConfigApp(App):
                 f"[bold]Function/Content:[/bold]\n{func_text}\n\n"
                 f"[bold]How to Use:[/bold]\n{use_text}"
             )
-            panel.scroll_home(animate=False)
+            self.query_one("#detail-scroll", VerticalScroll).scroll_home(animate=False)
 
     @on(DataTable.RowHighlighted)
     def on_row_highlighted(self, event: DataTable.RowHighlighted) -> None:
@@ -773,10 +773,10 @@ class ProvConfigApp(App):
         table.move_cursor(row=table.row_count - 1)
 
     def action_scroll_detail_down(self) -> None:
-        self.query_one("#detail-panel", Static).scroll_relative(y=3, animate=False)
+        self.query_one("#detail-scroll", VerticalScroll).scroll_relative(y=3, animate=False)
 
     def action_scroll_detail_up(self) -> None:
-        self.query_one("#detail-panel", Static).scroll_relative(y=-3, animate=False)
+        self.query_one("#detail-scroll", VerticalScroll).scroll_relative(y=-3, animate=False)
 
     def action_save(self) -> None:
         tracked_agencies = []
