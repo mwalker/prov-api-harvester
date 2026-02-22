@@ -273,11 +273,13 @@ class ProvConfigApp(App):
         Binding("q", "quit", "Quit"),
         Binding("s", "save", "Save config"),
         Binding("tab", "switch_view", "All series", show=True, priority=True),
-        Binding("d", "view_agency_series", "Drill down", show=True),
+        Binding("d", "view_agency_series", "Drill down", show=False),
         Binding("t", "toggle_item", "Toggle", show=True),
         Binding("space", "toggle_and_advance", "Toggle+next", show=True),
         Binding("j", "cursor_down", "Down", show=True),
         Binding("k", "cursor_up", "Up", show=True),
+        Binding("J", "scroll_detail_down", "Detail↓", show=True, key_display="shift+j"),
+        Binding("K", "scroll_detail_up", "Detail↑", show=True, key_display="shift+k"),
         Binding("g", "cursor_top", "Top", show=False),
         Binding("G", "cursor_bottom", "Bottom", show=False, key_display="shift+g"),
         Binding("/", "focus_filter", "Filter", show=True),
@@ -668,7 +670,7 @@ class ProvConfigApp(App):
             self.query_one("#status-bar", Static).update(
                 f"[bold]Agencies[/bold]  |  Seeds: {seed_str}  |  "
                 f"{len(self.agency_rows)} related  |  {tracked_count} tracked  |  "
-                f"{included_count}/{len(visible_series)} series{dirty}  [dim]Tab→Series  Enter→Drill[/dim]"
+                f"{included_count}/{len(visible_series)} series{dirty}  [dim]Tab→Series  d→Drill[/dim]"
             )
         elif self.series_filter_agency is not None:
             agency_cite = self._agency_id_to_citation.get(
@@ -677,12 +679,12 @@ class ProvConfigApp(App):
             self.query_one("#status-bar", Static).update(
                 f"[bold]Series[/bold] for [bold]{agency_cite}[/bold]  |  "
                 f"{len(visible_series)} series  |  "
-                f"{included_count} included{dirty}  [dim]Esc→Back  Tab→All series[/dim]"
+                f"{included_count} included{dirty}  [dim]Esc→Back  Tab→All series  J/K→Scroll detail[/dim]"
             )
         else:
             self.query_one("#status-bar", Static).update(
                 f"[bold]Series[/bold]  |  {len(visible_series)} from {tracked_count} tracked agencies  |  "
-                f"{included_count} included{dirty}  [dim]Esc→Back  Tab→Agencies[/dim]"
+                f"{included_count} included{dirty}  [dim]Esc→Back  Tab→Agencies  J/K→Scroll detail[/dim]"
             )
 
     def _refresh_current_row_toggle(self, is_on: bool) -> None:
@@ -769,6 +771,12 @@ class ProvConfigApp(App):
     def action_cursor_bottom(self) -> None:
         table = self.query_one("#data-table", DataTable)
         table.move_cursor(row=table.row_count - 1)
+
+    def action_scroll_detail_down(self) -> None:
+        self.query_one("#detail-panel", Static).scroll_relative(y=3, animate=False)
+
+    def action_scroll_detail_up(self) -> None:
+        self.query_one("#detail-panel", Static).scroll_relative(y=-3, animate=False)
 
     def action_save(self) -> None:
         tracked_agencies = []
