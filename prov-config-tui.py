@@ -657,6 +657,10 @@ class ProvConfigApp(App):
     @on(DataTable.RowHighlighted)
     def on_row_highlighted(self, event: DataTable.RowHighlighted) -> None:
         self._update_detail()
+        # After the detail panel resizes, the selected row may end up hidden.
+        # Re-scroll the cursor into view after layout settles.
+        table = self.query_one("#data-table", DataTable)
+        self.call_after_refresh(table._scroll_cursor_into_view)
 
     def _update_status(self) -> None:
         seed_str = ", ".join(f"VA {sid}" for sid in sorted(self.seed_ids))
