@@ -651,10 +651,15 @@ class ProvConfigApp(App):
     @on(DataTable.RowHighlighted)
     def on_row_highlighted(self, event: DataTable.RowHighlighted) -> None:
         self._update_detail()
-        # After the detail panel resizes, the selected row may end up hidden.
-        # Re-scroll the cursor into view after layout settles.
+        self.call_after_refresh(self._center_cursor)
+
+    def _center_cursor(self) -> None:
+        """Scroll the DataTable so the cursor row is vertically centered."""
         table = self.query_one("#data-table", DataTable)
-        self.call_after_refresh(table._scroll_cursor_into_view)
+        row = table.cursor_row
+        visible = table.scrollable_content_region.height
+        target = row - visible // 2
+        table.scroll_to(y=max(0, target), animate=False)
 
     def _update_status(self) -> None:
         seed_str = ", ".join(f"VA {sid}" for sid in sorted(self.seed_ids))
