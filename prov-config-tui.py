@@ -299,11 +299,9 @@ class ProvConfigApp(App):
         self.config_path = config_path
         self.filter_text = ""
         self._dirty = False
-        self.view_mode = "agencies"  # "agencies", "series", or "series_detail"
+        self.view_mode = "agencies"  # "agencies" or "series"
         self.series_filter_agency: int | None = None  # set when drilling into one agency
         self._last_agency_key: str | None = None  # agency to re-select on back
-        self._last_series_key: str | None = None  # series to re-select on back
-        self._detail_series_citation: str | None = None  # series being inspected
 
         # Store indexes for dynamic series lookup
         self.agency_to_series = agency_to_series
@@ -407,7 +405,7 @@ class ProvConfigApp(App):
         self._update_status()
 
     def _setup_series_view(self) -> None:
-        self.query_one("#detail-panel", Static).remove_class("expanded")
+        self.query_one("#detail-panel", Static).add_class("expanded")
         table = self.query_one("#data-table", DataTable)
         table.clear(columns=True)
         table.cursor_type = "row"
@@ -418,19 +416,6 @@ class ProvConfigApp(App):
         table.add_column("Dates", key="col3")
         table.add_column("Creating", key="col4")
         table.add_column("Agencies", key="col5")
-        self._populate_table()
-        self._update_status()
-
-    def _setup_series_detail_view(self) -> None:
-        self.query_one("#detail-panel", Static).add_class("expanded")
-        table = self.query_one("#data-table", DataTable)
-        table.clear(columns=True)
-        table.cursor_type = "row"
-        table.zebra_stripes = True
-        table.add_column("Role", key="col0")
-        table.add_column("Citation", key="col1")
-        table.add_column("Title", key="col2")
-        table.add_column("Dates", key="col3")
         self._populate_table()
         self._update_status()
 
@@ -559,33 +544,6 @@ class ProvConfigApp(App):
                     agencies,
                     key=row.citation,
                 )
-        elif self.view_mode == "series_detail":
-            series = self.series_by_citation.get(self._detail_series_citation or "")
-            if series is None:
-                return
-            # Creating agencies
-            ca_ids = series.get("creating_agents.creating_agency_id") or []
-            ca_titles = series.get("creating_agents.title") or []
-            ca_dates = series.get("creating_agents.date_ranges") or []
-            for i, aid in enumerate(ca_ids):
-                cite = f"VA {aid}"
-                title = (ca_titles[i] if i < len(ca_titles) else "")[:60]
-                dates = ca_dates[i] if i < len(ca_dates) else ""
-                if filter_lower and filter_lower not in cite.lower() and filter_lower not in title.lower():
-                    continue
-                table.add_row("Creating", cite, title, dates, key=f"ca-{aid}")
-            # Responsible agencies
-            ra_ids = series.get("responsible_agents.resp_agency_id") or []
-            ra_titles = series.get("responsible_agents.title") or []
-            ra_dates = series.get("responsible_agents.date_ranges") or []
-            for i, aid in enumerate(ra_ids):
-                cite = f"VA {aid}"
-                title = (ra_titles[i] if i < len(ra_titles) else "")[:60]
-                dates = ra_dates[i] if i < len(ra_dates) else ""
-                if filter_lower and filter_lower not in cite.lower() and filter_lower not in title.lower():
-                    continue
-                table.add_row("Responsible", cite, title, dates, key=f"ra-{aid}")
-
     def _get_selected_key(self) -> str | None:
         table = self.query_one("#data-table", DataTable)
         if table.row_count == 0:
@@ -678,27 +636,21 @@ class ProvConfigApp(App):
                 resp_parts.append(f"{cite} {t}" if t else cite)
             resp_str = ", ".join(resp_parts) if resp_parts else "(none)"
 
-            panel.update(
-                f"[bold]{key}[/bold]  {date_range}  [{included}]\n"
-                f"{title}\n"
-                f"Creating: {rich_escape(creating_str)}\n"
-                f"Responsible: {rich_escape(resp_str)}"
-            )
-        elif self.view_mode == "series_detail":
-            series = self.series_by_citation.get(self._detail_series_citation or "")
-            if series is None:
-                panel.update("")
-                return
-            title = rich_escape(series.get("title", ""))
+            # Function/Content and How to Use
             func_raw = series.get("function_content") or []
             func_text = rich_escape(strip_html(" ".join(func_raw))) if func_raw else "(none)"
             use_raw = series.get("how_to_use") or []
             use_text = rich_escape(strip_html(" ".join(use_raw))) if use_raw else "(none)"
+
             panel.update(
-                f"[bold]{self._detail_series_citation}[/bold]  {title}\n\n"
+                f"[bold]{key}[/bold]  {date_range}  [{included}]\n"
+                f"{title}\n"
+                f"Creating: {rich_escape(creating_str)}\n"
+                f"Responsible: {rich_escape(resp_str)}\n\n"
                 f"[bold]Function/Content:[/bold]\n{func_text}\n\n"
                 f"[bold]How to Use:[/bold]\n{use_text}"
             )
+            panel.scroll_home(animate=False)
 
     @on(DataTable.RowHighlighted)
     def on_row_highlighted(self, event: DataTable.RowHighlighted) -> None:
@@ -708,16 +660,6 @@ class ProvConfigApp(App):
         seed_str = ", ".join(f"VA {sid}" for sid in sorted(self.seed_ids))
         tracked_count = sum(1 for r in self.agency_rows if r.tracked)
         dirty = " [unsaved]" if self._dirty else ""
-
-        if self.view_mode == "series_detail":
-            cit = self._detail_series_citation or ""
-            series = self.series_by_citation.get(cit)
-            title = (series.get("title", "") if series else "")[:50]
-            self.query_one("#status-bar", Static).update(
-                f"[bold]Series Detail[/bold]  |  {cit}  {title}{dirty}  "
-                f"[dim]Esc→Back[/dim]"
-            )
-            return
 
         visible_series = self._get_visible_series()
         included_count = sum(1 for r in visible_series if r.included)
@@ -754,15 +696,7 @@ class ProvConfigApp(App):
         """Tab: toggle between agencies and all-tracked-agencies series."""
         self.filter_text = ""
         self.query_one("#filter-input", Input).value = ""
-        if self.view_mode == "series_detail":
-            # Back to series first
-            restore_key = self._last_series_key
-            self._detail_series_citation = None
-            self.view_mode = "series"
-            self._setup_series_view()
-            if restore_key is not None:
-                self._move_cursor_to_key(restore_key, center=True)
-        elif self.view_mode == "agencies":
+        if self.view_mode == "agencies":
             self.view_mode = "series"
             self.series_filter_agency = None
             self._setup_series_view()
@@ -789,23 +723,12 @@ class ProvConfigApp(App):
             self.series_filter_agency = row.agency_id
             self.view_mode = "series"
             self._setup_series_view()
-        elif self.view_mode == "series":
-            if key not in self.series_by_citation:
-                return
-            self.filter_text = ""
-            self.query_one("#filter-input", Input).value = ""
-            self._last_series_key = key
-            self._detail_series_citation = key
-            self.view_mode = "series_detail"
-            self._setup_series_detail_view()
 
     def action_toggle_item(self) -> None:
         key = self._get_selected_key()
         if key is None:
             return
 
-        if self.view_mode == "series_detail":
-            return
         if self.view_mode == "agencies":
             row = next((r for r in self.agency_rows if r.citation == key), None)
             if row is None:
@@ -890,15 +813,6 @@ class ProvConfigApp(App):
             self.filter_text = ""
             inp.value = ""
             self._populate_table()
-        elif self.view_mode == "series_detail":
-            restore_key = self._last_series_key
-            self._detail_series_citation = None
-            self.view_mode = "series"
-            self.filter_text = ""
-            inp.value = ""
-            self._setup_series_view()
-            if restore_key is not None:
-                self._move_cursor_to_key(restore_key, center=True)
         elif self.view_mode == "series":
             restore_key = self._last_agency_key
             self.view_mode = "agencies"
