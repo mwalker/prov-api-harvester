@@ -254,14 +254,10 @@ class ProvConfigApp(App):
     }
     #detail-scroll {
         dock: bottom;
-        height: auto;
-        max-height: 7;
+        height: 50%;
         padding: 0 1;
         background: $surface;
         border-top: solid $primary;
-    }
-    #detail-scroll.expanded {
-        max-height: 50%;
     }
     DataTable {
         height: 1fr;
@@ -390,7 +386,6 @@ class ProvConfigApp(App):
         self._setup_agency_view()
 
     def _setup_agency_view(self) -> None:
-        self.query_one("#detail-scroll", VerticalScroll).remove_class("expanded")
         table = self.query_one("#data-table", DataTable)
         table.clear(columns=True)
         table.cursor_type = "row"
@@ -407,7 +402,6 @@ class ProvConfigApp(App):
         self._update_status()
 
     def _setup_series_view(self) -> None:
-        self.query_one("#detail-scroll", VerticalScroll).add_class("expanded")
         table = self.query_one("#data-table", DataTable)
         table.clear(columns=True)
         table.cursor_type = "row"
