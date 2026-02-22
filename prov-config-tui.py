@@ -655,17 +655,34 @@ class ProvConfigApp(App):
                 date_range = f"{date_range}–{end}"
             elif date_range:
                 date_range = f"{date_range}–"
-            agency_ids = extract_agency_ids_from_series(series)
-            agencies_str = ", ".join(sorted(
-                self._agency_id_to_citation.get(aid, f"VA {aid}")
-                for aid in agency_ids
-            ))
             tracked_ids = {r.agency_id for r in self.agency_rows if r.tracked}
             included = "included" if self._is_series_included(key, tracked_ids) else "excluded"
+
+            # Creating agencies
+            ca_ids = series.get("creating_agents.creating_agency_id") or []
+            ca_titles = series.get("creating_agents.title") or []
+            creating_parts = []
+            for i, aid in enumerate(ca_ids):
+                cite = self._agency_id_to_citation.get(int(aid), f"VA {aid}")
+                t = ca_titles[i] if i < len(ca_titles) else ""
+                creating_parts.append(f"{cite} {t}" if t else cite)
+            creating_str = ", ".join(creating_parts) if creating_parts else "(none)"
+
+            # Responsible agencies
+            ra_ids = series.get("responsible_agents.resp_agency_id") or []
+            ra_titles = series.get("responsible_agents.title") or []
+            resp_parts = []
+            for i, aid in enumerate(ra_ids):
+                cite = self._agency_id_to_citation.get(int(aid), f"VA {aid}")
+                t = ra_titles[i] if i < len(ra_titles) else ""
+                resp_parts.append(f"{cite} {t}" if t else cite)
+            resp_str = ", ".join(resp_parts) if resp_parts else "(none)"
+
             panel.update(
                 f"[bold]{key}[/bold]  {date_range}  [{included}]\n"
                 f"{title}\n"
-                f"Agencies: {agencies_str}"
+                f"Creating: {rich_escape(creating_str)}\n"
+                f"Responsible: {rich_escape(resp_str)}"
             )
         elif self.view_mode == "series_detail":
             series = self.series_by_citation.get(self._detail_series_citation or "")
