@@ -652,7 +652,7 @@ class ProvConfigApp(App):
                 f"[bold]Function/Content:[/bold]\n{func_text}\n\n"
                 f"[bold]How to Use:[/bold]\n{use_text}"
             )
-            self.query_one("#detail-scroll", VerticalScroll).scroll_home(animate=False)
+        self.query_one("#detail-scroll", VerticalScroll).scroll_home(animate=False)
 
     @on(DataTable.RowHighlighted)
     def on_row_highlighted(self, event: DataTable.RowHighlighted) -> None:
