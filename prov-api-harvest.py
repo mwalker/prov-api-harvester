@@ -347,9 +347,6 @@ def stream_records(args, file_manager):
     """
     Stream records from the PROV API, optionally compressing, and then writing them to the output file.
 
-    When --series is provided with more IDs than --max-series-per-batch, the series list is
-    automatically split into batched queries to avoid URL length errors.
-
     Args:
         args: Command line arguments containing all configuration options.
         file_manager: An initialised FileManager.
@@ -357,81 +354,26 @@ def stream_records(args, file_manager):
     debug_level = args.debug
     wait_time = args.wait
 
-    # Determine if we need to batch series queries
-    needs_series_batching = (args.series and
-                             len(args.series) > args.max_series_per_batch)
-
-    if needs_series_batching:
-        max_series = args.max_series_per_batch
-        series_ids = sorted(args.series)
-        batches = [series_ids[i:i + max_series]
-                   for i in range(0, len(series_ids), max_series)]
-        print(
-            f"Splitting {len(series_ids)} series into {len(batches)} batches "
-            f"(max {max_series} series per batch)",
-            file=sys.stderr)
-    else:
-        batches = None
-
     file_manager.prepare_for_writing()
 
-    overall_start_time = time.time()
     total_fetched = 0
-    total_bytes = 0
 
     with file_manager.open_for_writing() as file:
-        if batches:
-            total_batches = len(batches)
-            for batch_idx, batch in enumerate(batches):
-                batch_number = batch_idx + 1
+        # Set up parameters for the query
+        query_params = PARAMS.copy()
 
-                print(
-                    f"Processing batch {batch_number}/{total_batches}: "
-                    f"{len(batch)} series (IDs {batch[0]}-{batch[-1]})",
-                    file=sys.stderr)
+        # Process the query using unified function
+        fetched, bytes_downloaded, final_total = process_paginated_query(
+            file, query_params, "", debug_level, wait_time,
+            True
+        )
 
-                query = create_series_query(batch, debug_level)
-                if args.iiif:
-                    query += " AND (iiif-manifest:(*))"
-
-                batch_params = PARAMS.copy()
-                batch_params['q'] = query
-
-                is_first = (batch_idx == 0)
-                fetched, bytes_downloaded, final_total = process_paginated_query(
-                    file, batch_params, f"batch {batch_number}", debug_level,
-                    wait_time, is_first, overall_start_time, total_fetched
-                )
-
-                total_fetched += fetched
-                total_bytes += bytes_downloaded
-
-                overall_duration = time.time() - overall_start_time
-                overall_rate = total_fetched / \
-                    overall_duration if overall_duration > 0 else 0
-                remaining_batches = total_batches - batch_number
-                print(
-                    f"Completed batch {batch_number}/{total_batches}. "
-                    f"Total documents: {total_fetched}. "
-                    f"Overall rate: {overall_rate:.2f} rows/second. "
-                    f"Batches remaining: {remaining_batches}",
-                    file=sys.stderr)
-        else:
-            query_params = PARAMS.copy()
-            fetched, bytes_downloaded, final_total = process_paginated_query(
-                file, query_params, "", debug_level, wait_time,
-                True
-            )
-            total_fetched = fetched
+        total_fetched = fetched
 
     file_manager.finalise()
     print(
         f"Download complete. Output saved to {file_manager.output_file}",
         file=sys.stderr)
-    if total_fetched > 0 and batches:
-        print(
-            f"Total documents processed: {total_fetched}",
-            file=sys.stderr)
 
 
 def get_series_estimated_counts(args):
@@ -557,11 +499,21 @@ def get_series_estimated_counts(args):
                     else:
                         all_series_counts[series_id] = count
 
-        # Apply client-side filtering for series range
-        min_series = args.series_min
-        max_series = args.series_max
-
-        if min_series > 1 or max_series is not None:
+        # Apply client-side filtering
+        if args.series:
+            # Filter to explicit series list
+            series_set = set(args.series)
+            series_counts = {
+                sid: count for sid, count in all_series_counts.items()
+                if sid in series_set}
+            print(
+                f"  Filtered to {len(series_counts)} of {len(args.series)} "
+                f"requested series (from {len(all_series_counts)} total)",
+                file=sys.stderr)
+        elif args.series_min > 1 or args.series_max is not None:
+            # Filter to series range
+            min_series = args.series_min
+            max_series = args.series_max
             series_counts = {}
             for sid, count in all_series_counts.items():
                 if min_series <= sid and (
@@ -918,29 +870,33 @@ def stream_records_in_series_batches(args, file_manager):
     total_bytes = 0
 
     with file_manager.open_for_writing() as file:
-        # First, query for Functions and Agencies
-        print("Fetching Functions and Agencies...", file=sys.stderr)
+        first_record = True
 
-        category_params = PARAMS.copy()
-        category_params['q'] = "category:(Function OR Agency)"
+        # Fetch Functions and Agencies (skip for explicit series lists)
+        if not args.series:
+            print("Fetching Functions and Agencies...", file=sys.stderr)
 
-        debug_level = args.debug
-        if debug_level >= 1:
+            category_params = PARAMS.copy()
+            category_params['q'] = "category:(Function OR Agency)"
+
+            debug_level = args.debug
+            if debug_level >= 1:
+                print(
+                    f"  Query: {
+                        category_params['q']}",
+                    file=sys.stderr)
+
+            fetched, bytes_downloaded, final_total = process_paginated_query(
+                file, category_params, "Function/Agency", debug_level, args.wait,
+                True, overall_start_time
+            )
+
+            total_fetched += fetched
+            total_bytes += bytes_downloaded
+            first_record = False
             print(
-                f"  Query: {
-                    category_params['q']}",
+                f"Completed Functions and Agencies. Total documents so far: {total_fetched}",
                 file=sys.stderr)
-
-        fetched, bytes_downloaded, final_total = process_paginated_query(
-            file, category_params, "Function/Agency", debug_level, args.wait,
-            True, overall_start_time
-        )
-
-        total_fetched += fetched
-        total_bytes += bytes_downloaded
-        print(
-            f"Completed Functions and Agencies. Total documents so far: {total_fetched}",
-            file=sys.stderr)
 
         # Process the pre-calculated optimal batches
         total_batches = len(all_batches)
@@ -972,11 +928,12 @@ def stream_records_in_series_batches(args, file_manager):
 
             fetched, bytes_downloaded, final_total = process_paginated_query(
                 file, batch_params, "batch", debug_level, args.wait,
-                False, overall_start_time, total_fetched
+                first_record, overall_start_time, total_fetched
             )
 
             total_fetched += fetched
             total_bytes += bytes_downloaded
+            first_record = False
 
             # Log discrepancy if significant
             actual_count = final_total
@@ -1001,7 +958,8 @@ def stream_records_in_series_batches(args, file_manager):
         # 1. Flag is explicitly specified, OR
         # 2. We're doing a full harvest (no series range limits)
         include_related = args.include_related_entities
-        full_harvest = args.series_min == 1 and args.series_max is None
+        full_harvest = (not args.series and
+                        args.series_min == 1 and args.series_max is None)
         if include_related or full_harvest:
             reason = "flag specified" if include_related else "full harvest"
             print(
@@ -1158,12 +1116,12 @@ def main():
             # Remove the sort parameter
             PARAMS.pop('sort', None)
 
-        if args.series_batch:
+        if args.series_batch or (
+                args.series and len(args.series) > args.max_series_per_batch):
             stream_records_in_series_batches(args, file_manager)
             return
 
-        if not (args.series and len(args.series) > args.max_series_per_batch):
-            PARAMS['q'] = process_query_arguments(args)
+        PARAMS['q'] = process_query_arguments(args)
 
         stream_records(args, file_manager)
 
