@@ -347,6 +347,9 @@ def stream_records(args, file_manager):
     """
     Stream records from the PROV API, optionally compressing, and then writing them to the output file.
 
+    When --series is provided with more IDs than --max-series-per-batch, the series list is
+    automatically split into batched queries to avoid URL length errors.
+
     Args:
         args: Command line arguments containing all configuration options.
         file_manager: An initialised FileManager.
@@ -354,50 +357,21 @@ def stream_records(args, file_manager):
     debug_level = args.debug
     wait_time = args.wait
 
-    file_manager.prepare_for_writing()
+    # Determine if we need to batch series queries
+    needs_series_batching = (args.series and
+                             len(args.series) > args.max_series_per_batch)
 
-    total_fetched = 0
-
-    with file_manager.open_for_writing() as file:
-        # Set up parameters for the query
-        query_params = PARAMS.copy()
-
-        # Process the query using unified function
-        fetched, bytes_downloaded, final_total = process_paginated_query(
-            file, query_params, "", debug_level, wait_time,
-            True
-        )
-
-        total_fetched = fetched
-
-    file_manager.finalise()
-    print(
-        f"Download complete. Output saved to {file_manager.output_file}",
-        file=sys.stderr)
-
-
-def stream_records_for_series_list(args, file_manager):
-    """
-    Stream records for a specific list of series IDs, batching into multiple
-    queries if the list exceeds --max-series-per-batch to avoid URL length errors.
-
-    Args:
-        args (Namespace): The parsed command-line arguments.
-        file_manager: An initialised FileManager.
-    """
-    debug_level = args.debug
-    max_series = args.max_series_per_batch
-    series_ids = sorted(args.series)
-
-    # Split into batches respecting max_series_per_batch
-    batches = [series_ids[i:i + max_series]
-               for i in range(0, len(series_ids), max_series)]
-
-    total_batches = len(batches)
-    print(
-        f"Splitting {len(series_ids)} series into {total_batches} batches "
-        f"(max {max_series} series per batch)",
-        file=sys.stderr)
+    if needs_series_batching:
+        max_series = args.max_series_per_batch
+        series_ids = sorted(args.series)
+        batches = [series_ids[i:i + max_series]
+                   for i in range(0, len(series_ids), max_series)]
+        print(
+            f"Splitting {len(series_ids)} series into {len(batches)} batches "
+            f"(max {max_series} series per batch)",
+            file=sys.stderr)
+    else:
+        batches = None
 
     file_manager.prepare_for_writing()
 
@@ -406,46 +380,58 @@ def stream_records_for_series_list(args, file_manager):
     total_bytes = 0
 
     with file_manager.open_for_writing() as file:
-        for batch_idx, batch in enumerate(batches):
-            batch_number = batch_idx + 1
+        if batches:
+            total_batches = len(batches)
+            for batch_idx, batch in enumerate(batches):
+                batch_number = batch_idx + 1
 
-            print(
-                f"Processing batch {batch_number}/{total_batches}: "
-                f"{len(batch)} series (IDs {batch[0]}-{batch[-1]})",
-                file=sys.stderr)
+                print(
+                    f"Processing batch {batch_number}/{total_batches}: "
+                    f"{len(batch)} series (IDs {batch[0]}-{batch[-1]})",
+                    file=sys.stderr)
 
-            query = create_series_query(batch, debug_level)
-            if args.iiif:
-                query += " AND (iiif-manifest:(*))"
+                query = create_series_query(batch, debug_level)
+                if args.iiif:
+                    query += " AND (iiif-manifest:(*))"
 
-            batch_params = PARAMS.copy()
-            batch_params['q'] = query
+                batch_params = PARAMS.copy()
+                batch_params['q'] = query
 
-            is_first = (batch_idx == 0)
+                is_first = (batch_idx == 0)
+                fetched, bytes_downloaded, final_total = process_paginated_query(
+                    file, batch_params, f"batch {batch_number}", debug_level,
+                    wait_time, is_first, overall_start_time, total_fetched
+                )
+
+                total_fetched += fetched
+                total_bytes += bytes_downloaded
+
+                overall_duration = time.time() - overall_start_time
+                overall_rate = total_fetched / \
+                    overall_duration if overall_duration > 0 else 0
+                remaining_batches = total_batches - batch_number
+                print(
+                    f"Completed batch {batch_number}/{total_batches}. "
+                    f"Total documents: {total_fetched}. "
+                    f"Overall rate: {overall_rate:.2f} rows/second. "
+                    f"Batches remaining: {remaining_batches}",
+                    file=sys.stderr)
+        else:
+            query_params = PARAMS.copy()
             fetched, bytes_downloaded, final_total = process_paginated_query(
-                file, batch_params, f"batch {batch_number}", debug_level,
-                args.wait, is_first, overall_start_time, total_fetched
+                file, query_params, "", debug_level, wait_time,
+                True
             )
-
-            total_fetched += fetched
-            total_bytes += bytes_downloaded
-
-            overall_duration = time.time() - overall_start_time
-            overall_rate = total_fetched / \
-                overall_duration if overall_duration > 0 else 0
-            remaining_batches = total_batches - batch_number
-            print(
-                f"Completed batch {batch_number}/{total_batches}. "
-                f"Total documents: {total_fetched}. "
-                f"Overall rate: {overall_rate:.2f} rows/second. "
-                f"Batches remaining: {remaining_batches}",
-                file=sys.stderr)
+            total_fetched = fetched
 
     file_manager.finalise()
     print(
         f"Download complete. Output saved to {file_manager.output_file}",
         file=sys.stderr)
-    print(f"Total documents processed: {total_fetched}", file=sys.stderr)
+    if total_fetched > 0 and batches:
+        print(
+            f"Total documents processed: {total_fetched}",
+            file=sys.stderr)
 
 
 def get_series_estimated_counts(args):
@@ -1176,11 +1162,8 @@ def main():
             stream_records_in_series_batches(args, file_manager)
             return
 
-        if args.series and len(args.series) > args.max_series_per_batch:
-            stream_records_for_series_list(args, file_manager)
-            return
-
-        PARAMS['q'] = process_query_arguments(args)
+        if not (args.series and len(args.series) > args.max_series_per_batch):
+            PARAMS['q'] = process_query_arguments(args)
 
         stream_records(args, file_manager)
 
