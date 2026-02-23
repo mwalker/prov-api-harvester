@@ -190,20 +190,25 @@ class FileManager:
         # Update args with final output file
         args.output = output_file
 
-        return cls(output_file, args.compress)
+        return cls(output_file, args.compress, args.compression_level)
 
-    def __init__(self, output_file, compress=False):
+    def __init__(self, output_file, compress=False, compression_level=3):
         """
         Initialise file manager.
 
         Args:
             output_file (str): Path to the final output file
             compress (bool): Whether to use compression
+            compression_level (int): Zstd compression level (1-22, default 3)
         """
         self.output_file = output_file
         self.incomplete_file = f"{output_file}.incomplete"
         self.compress = compress
-        self.file_opener = zstd.open if compress else open
+        if compress:
+            cctx = zstd.ZstdCompressor(level=compression_level)
+            self.file_opener = lambda f, mode: zstd.open(f, mode, cctx=cctx)
+        else:
+            self.file_opener = open
 
     def check_existing_files(self):
         """
@@ -1066,6 +1071,11 @@ def main():
         '--compress',
         action='store_true',
         help='Enable zstd compression for output')
+    parser.add_argument(
+        '--compression-level',
+        type=int,
+        default=3,
+        help='Zstd compression level, 1 (fastest) to 22 (smallest) (default: 3)')
     parser.add_argument(
         '--wait',
         type=int,
