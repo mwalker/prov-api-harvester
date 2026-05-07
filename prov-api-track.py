@@ -2,6 +2,7 @@
 # requires-python = ">=3.13"
 # dependencies = [
 #     "requests",
+#     "truststore",
 # ]
 # ///
 
@@ -22,9 +23,13 @@ import argparse
 from urllib.parse import urlencode
 from datetime import date
 
+# chase intermediate certificates automatically
+import truststore
+truststore.inject_into_ssl()
+
 import requests
 
-VERSION = "0.1.6"
+VERSION = "0.1.7"
 
 BASE_URL = "https://api.prov.vic.gov.au/search/query"
 PARAMS = {
