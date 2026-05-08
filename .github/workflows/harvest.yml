@@ -22,8 +22,9 @@ jobs:
         CERT_PEM=$(echo | openssl s_client -connect api.prov.vic.gov.au:443 2>/dev/null | openssl x509)
         AIA_URL=$(echo "$CERT_PEM" | openssl x509 -noout -text | grep "CA Issuers" | sed 's/.*URI://' | tr -d '[:space:]')
         curl -sL -o /tmp/intermediate.der "$AIA_URL"
-        openssl x509 -inform DER -in /tmp/intermediate.der -out /usr/local/share/ca-certificates/prov-intermediate.crt 2>/dev/null || \
-          cp /tmp/intermediate.der /usr/local/share/ca-certificates/prov-intermediate.crt
+        openssl x509 -inform DER -in /tmp/intermediate.der -out /tmp/prov-intermediate.crt 2>/dev/null || \
+          cp /tmp/intermediate.der /tmp/prov-intermediate.crt
+        sudo cp /tmp/prov-intermediate.crt /usr/local/share/ca-certificates/prov-intermediate.crt
         sudo update-ca-certificates
     - name: Harvest PROV API Data
       env:
