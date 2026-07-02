@@ -100395,14 +100395,14 @@
   },
   {
     "_id": "DD0C0443-F3AB-11E9-AE98-25A486CDDA42",
-    "_version_": 1839092942041513984,
+    "_version_": 1869533520402055168,
     "category": "Agency",
     "citation": "VA 5042",
     "date_range": [
-      "[1869 TO 1969]"
+      "[1869 TO 1970]"
     ],
-    "description": null,
-    "end_dt": "1969",
+    "description": "This school first opened in 1869 as Lilliput Common School. Classes were held in a small wooden schoolhouse with shingle roof on a two-acre site in Lilliput, north-east Victoria. A two-roomed teacher&rsquo;s residence was built in 1870.<br />\r\n<br />\r\nThe school was renamed Lilliput State School around 1873. This was due to the Education Act (Vic) 1872, which established the Victorian Education Department (VA 714) and a subsequent change to school naming conventions.<br />\r\n<br />\r\nEnrolment in 1874 was 68, resulting in the schoolhouse being overcrowded. Some students were taught in a mia-mia (a large temporary shelter made from bark, branches, leaves and grass, used by some Indigenous Australians). A new classroom replaced the mia-mia later the same year.<br />\r\n<br />\r\nTwo rooms were added to the teacher&rsquo;s residence in 1878, and in 1888 the school grounds were enlarged.<br />\r\n<br />\r\nIn 1904 the teacher&rsquo;s residence burned down. In 1912 a new wooden schoolhouse was built as the original one had been damaged by termites. The old schoolhouse was sold and moved off-site in 1915.<br />\r\n<br />\r\nBy 1940 only 8 students were enrolled at the school. In 1944 this had dwindled to 5, resulting in the school being temporarily closed. It reopened 3 years later in 1947 as a family with 5 children had moved to the area, bringing enrolment up to 9.<br />\r\n<br />\r\nLilliput State School was officially closed in 1970.",
+    "end_dt": "1970",
     "end_dt_qual": null,
     "entity": "Agent",
     "identifier.PID.id": "DD0C0443-F3AB-11E9-AE98-25A486CDDA42",
@@ -100415,17 +100415,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1869 TO 1969]",
-    "name.official_title.end_dt": "1969",
+    "name.official_title.date_range": "[1869 TO 1970]",
+    "name.official_title.end_dt": "1970",
     "name.official_title.end_dt_qual": null,
     "name.official_title.start_dt": "1869",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Lilliput (Primary School No. 1015; previously known as Black Dog Creek Common School)",
+    "name.official_title.title": "Lilliput State School (School No. 1015; previously known as Lilliput Common School 1869 \u2013 1873)",
     "start_dt": "1869",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857896,
-    "title": "Lilliput (Primary School No. 1015; previously known as Black Dog Creek Common School)"
+    "timestamp": 1782885526,
+    "title": "Lilliput State School (School No. 1015; previously known as Lilliput Common School 1869 \u2013 1873)"
   },
   {
     "_id": "EFD0DB3D-F3AB-11E9-AE98-8FB9BEBD5F96",
