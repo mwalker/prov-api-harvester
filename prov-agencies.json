@@ -65135,13 +65135,13 @@
   },
   {
     "_id": "31E37CEC-F3AB-11E9-AE98-B1D9B6F07AEE",
-    "_version_": 1866996806539280384,
+    "_version_": 1869624118131818496,
     "category": "Agency",
     "citation": "VA 3811",
     "date_range": [
       "[1969 TO 1993]"
     ],
-    "description": null,
+    "description": "Ballarat Primary School (School No. 4981) (VA 3811) was a coeducational primary school located in Ballarat East.<br />\r\n<br />\r\nThe school first opened in 1969 as Ballarat State School out of six classrooms on a site on Richards Street, Ballarat East. It was often referred to as the Ballarat (Richards St), or Richards Street School, likely to avoid confusion with other schools in Ballarat at the time.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Ballarat Primary School.<br />\r\n<br />\r\nAt the end of 1993, Ballarat Primary School (School No. 4981) closed and merged with Golden Point Primary School (School No. 1493) (VA 3839) and Eureka Primary School (School No. 1071) (VA 3834) to form Canadian Lead Primary School (School No. 5383) (VA 5820). The Richards Street site was retained as a campus for Canadian Lead Primary School until a new school building was opened in 1997, after which the site was sold for housing.&nbsp;",
     "end_dt": "1993",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -65155,17 +65155,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1969 TO 1993]",
-    "name.official_title.end_dt": "1993",
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": "1969",
+    "name.official_title.start_dt": null,
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Ballarat - Richards Street (Primary School No.4981)",
+    "name.official_title.title": null,
     "start_dt": "1969",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1780478477,
-    "title": "Ballarat - Richards Street (Primary School No.4981)"
+    "timestamp": 1782974922,
+    "title": "Ballarat Primary School (School No. 4981; previously known as Ballarat State School 1969 - 1970; also known as Richards Street Primary School)"
   },
   {
     "_id": "31E52A9E-F3AB-11E9-AE98-E90CBE0BB50A",
@@ -66087,13 +66087,13 @@
   },
   {
     "_id": "44E81C1B-F3AB-11E9-AE98-9B01A67FAECC",
-    "_version_": 1839092942708408320,
+    "_version_": 1869624118132867077,
     "category": "Agency",
     "citation": "VA 3839",
     "date_range": [
       "[1875 TO 1993]"
     ],
-    "description": null,
+    "description": "Golden Point Primary School (School No. 1493) (VA 3839) was a coeducational primary school located in Ballarat.<br />\r\n<br />\r\nThe school first opened in 1875 as Golden Point State School, out of a purpose-built building erected on a site bounded by Grant, English and Dunn Streets. Initial enrolment was 920 students. From 1876, night school was offered for students aged 12 to 20.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Golden Point Primary School.<br />\r\n<br />\r\nAt the end of 1993, Golden Point Primary School closed and merged with Ballarat Primary School (School No. 4981) (VA 3811) and Eureka Primary School (School No. 1071) (VA 3834) to form Canadian Lead Primary School (School No. 5383) (VA 5820). In 2006, the Golden Point site was sold in two halves, the northern section of land to Ballarat Goldfields and southern section of the site with the school buildings to community groups.&nbsp;<br />\r\n<br />\r\nGolden Point Primary School (School No. 1493) should not be confused with Golden Point Common School (School No. 286), which operated from 1856 to 1877.",
     "end_dt": "1993",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -66107,17 +66107,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1875 TO 1993]",
-    "name.official_title.end_dt": "1993",
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": "1875",
+    "name.official_title.start_dt": null,
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Golden Point (Primary School No.1493)",
+    "name.official_title.title": null,
     "start_dt": "1875",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857963,
-    "title": "Golden Point (Primary School No.1493)"
+    "timestamp": 1782975224,
+    "title": "Golden Point Primary School (School No. 1493; previously known as Golden Point State School 1875 \u2013 c.1970)"
   },
   {
     "_id": "44EA17ED-F3AB-11E9-AE98-7740D22089AC",
@@ -69317,7 +69317,7 @@
   },
   {
     "_id": "5328F1CA-F3AB-11E9-AE98-A5A6E951DB4D",
-    "_version_": 1867540389489016832,
+    "_version_": 1869624118097215489,
     "category": "Agency",
     "citation": "VA 3934",
     "date_range": [
@@ -69346,7 +69346,7 @@
     "start_dt": "1879",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1780988139,
+    "timestamp": 1782966041,
     "title": "Scotsburn Primary School (School No. 2176; previously known as Burnt Hill State School 1879 \u2013 1880; Scott\u2019s Marsh State School 1880 \u2013 1889; Scotsburn State School 1889 \u2013 circa 1970)"
   },
   {
@@ -114146,6 +114146,40 @@
     "title": "Hesket Primary School (School No. 1004; previously The American Steam Sawmill School 1870-1879; Hesket State School 1879-1970)"
   },
   {
+    "_id": "54762266-3F26-11EF-A95C-69448F0BB2F4",
+    "_version_": 1869624118098264072,
+    "category": "Agency",
+    "citation": "VA 5509",
+    "date_range": [
+      "[1956 TO 2010]"
+    ],
+    "description": "Clayton Primary School (School No. 4747) (VA 5509) was a government primary school located on Browns Road, Clayton, in Melbourne&rsquo;s south-eastern suburbs.<br />\r\n<br />\r\nThe school opened in February 1956 during a period of residential growth in the Clayton area after World War 2. Opening enrolment was 316 students, increasing to almost 600 students by the following year.<br />\r\n<br />\r\nThe school initially comprised eight classrooms. Five additional classrooms were added in 1957, increasing the total to thirteen. A further two classrooms were added in 1965.<br />\r\n<br />\r\nEnrolment declined to 169 students by 1996 and to 61 students by 2010.<br />\r\n<br />\r\nClayton Primary School permanently closed in December 2010.<br />\r\n<br />\r\nClayton Primary School should not be confused with Clayton North Primary School (School No. 734), which operated nearby from 1865 and was previously named Clayton&rsquo;s Road State School and Clayton State School.&nbsp;<br />\r\n&nbsp;",
+    "end_dt": "2010",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "54762266-3F26-11EF-A95C-69448F0BB2F4",
+    "identifier.PROV_ACM.id": "VA 5509",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1956",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1782966074,
+    "title": "Clayton Primary School (School No. 4747; also known as Brown\u2019s Road State School)"
+  },
+  {
     "_id": "64A1B0F8-3F26-11EF-A95C-DDF923229EF0",
     "_version_": 1844981742594686980,
     "category": "Agency",
@@ -115267,13 +115301,13 @@
   },
   {
     "_id": "A3C22955-85DA-11EF-80A4-7D1B22EA837F",
-    "_version_": 1869352326691553280,
+    "_version_": 1869624118057369600,
     "category": "Agency",
     "citation": "VA 5591",
     "date_range": [
       "[1891 TO 1994]"
     ],
-    "description": "Gellibrand Primary School (School No. 2740) (VA 5591) opened in June 1891 as Gellibrand River East State School. The government coeducational school was located in the township of Gellibrand in the Otway Ranges of south western Victoria. The school was situated on the eastern side of the Gellibrand River, from which its original name was derived.<br />\r\n<br />\r\nThe school initially operated from a portable building designed to accommodate 30 students. In 1892, there were 22 students in attendance.<br />\r\n<br />\r\nIn 1904, Gellibrand River East and Moorbanool State School (School No. 3247) entered into a half time arrangement, sharing a single teacher who divided their time between the two schools. It is unclear how long this arrangement remained in place.<br />\r\n<br />\r\nThe school was renamed Gellibrand State School in June 1912. At the time, the school was experiencing overcrowding, with average attendance ranging between 39 and 45 students. Around this period, an additional half acre was added to the school site and a five room detached teacher&#39;s residence was constructed, being completed in<br />\r\nFebruary 1913. Extensions to the school building were completed in March 1914.<br />\r\n<br />\r\nBy the 1950s, attendance had increased to more than 60 students. The Education Department (VA 714) approved the construction of a larger school on a more central site within the township. The new school buildings were occupied in 1957, and a new teacher&#39;s residence was also constructed.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to broaden the use of the term &lsquo;State School&rsquo; to include all government schools, rather than referring exclusively to primary-level schools. Subsequently, all primary schools began to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Gellibrand Primary School around this time.<br />\r\n<br />\r\nIn April 1994, Gellibrand Primary School merged with Lavers Hill Consolidated School (School No. 6231), Kawarren Primary School (School No. 3894) (VA 5635) and Barongarook Primary School (School No. 2210) (VA 5634) to form Lavers Hill P-12 College. The newly merged school retained the entity number 6231 and operated as a four site school under a single principal and school council. &nbsp;The Gellibrand campus closed in 2008, and the school buildings were demolished in June 2017.<br />\r\n&nbsp;",
+    "description": "Gellibrand Primary School (School No. 2740) (VA 5591) opened in June 1891 as Gellibrand River East State School. The government coeducational school was located in the township of Gellibrand in the Otway Ranges of south western Victoria. The school was situated on the eastern side of the Gellibrand River, from which its original name was derived.<br />\r\n<br />\r\nThe school initially operated from a portable building designed to accommodate 30 students. In 1892, there were 22 students in attendance.<br />\r\n<br />\r\nIn 1904, Gellibrand River East and Moorbanool State School (School No. 3247) entered into a half time arrangement, sharing a single teacher who divided their time between the two schools. It is unclear how long this arrangement remained in place.<br />\r\n<br />\r\nThe school was renamed Gellibrand State School in June 1912. At the time, the school was experiencing overcrowding, with average attendance ranging between 39 and 45 students. Around this period, an additional half acre was added to the school site and a five room detached teacher&#39;s residence was constructed, being completed in February 1913. Extensions to the school building were completed in March 1914.<br />\r\n<br />\r\nBy the 1950s, attendance had increased to more than 60 students. The Education Department (VA 714) approved the construction of a larger school on a more central site within the township. The new school buildings were occupied in 1957, and a new teacher&#39;s residence was also constructed.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to broaden the use of the term &lsquo;State School&rsquo; to include all government schools, rather than referring exclusively to primary-level schools. Subsequently, all primary schools began to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Gellibrand Primary School around this time.<br />\r\n<br />\r\nIn April 1994, Gellibrand Primary School merged with Lavers Hill Consolidated School (School No. 6231), Kawarren Primary School (School No. 3894) (VA 5635) and Barongarook Primary School (School No. 2210) (VA 5634) to form Lavers Hill P-12 College. The newly merged school retained the entity number 6231 and operated as a four site school under a single principal and school council. &nbsp;The Gellibrand campus closed in 2008, and the school buildings were demolished in June 2017.<br />\r\n&nbsp;",
     "end_dt": "1994",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -115296,7 +115330,7 @@
     "start_dt": "1891",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1782709929,
+    "timestamp": 1782951289,
     "title": "Gellibrand Primary School (School No. 2740; previously known as Gellibrand River East State School 1881 \u2013 1912; Gellibrand State School 1912 \u2013 circa 1970)"
   },
   {
