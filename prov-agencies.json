@@ -118524,6 +118524,40 @@
     "title": "Legal and Social Issues Committee [Legislative Assembly]"
   },
   {
+    "_id": "1FA96E54-EA86-11F0-8856-45997C10BC38",
+    "_version_": 1871345460221837312,
+    "category": "Agency",
+    "citation": "VA 5799",
+    "date_range": [
+      "[1856 TO 3000]"
+    ],
+    "description": "Newport Lakes Primary School (School No. 113) (VA 5799) is a coeducational primary school located in the suburb of Newport, in Melbourne&rsquo;s inner west, directly north of Williamstown.<br />\r\n<br />\r\nThe school first opened in 1856 as Cambridge National School, under the National School Board (VA 919). It was the first national vested school to be established in the Williamstown area. It moved sites several times in its early years and was likely known as the Geelong Junction School and the Williamstown Junction School based on its location at those times. The school also became known colloquially for many years as Kohry&rsquo;s School, after Samuel George Kohry, who taught at the school from 1866 to 1893.<br />\r\n<br />\r\nIn 1862, through the Common Schools Act, the Victorian Parliament created a single Board of Education (VA 713). With the passing of this act, the school was re-named Cambridge Common School and was given the number 113. &nbsp;<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Cambridge State School. &nbsp;<br />\r\n<br />\r\nIn 1886, the Newport train station was built. The school adopted the name of Newport State School that same year, moving to a permanent site on Elizabeth Street, Newport.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Newport Primary School. In 2000, the school name was changed again to Newport Lakes Primary School.&nbsp;<br />\r\n<br />\r\nThe school was significantly damaged by a fire in 1967, with eight classrooms destroyed and many records lost. The school was rebuilt in 1968.<br />\r\n<br />\r\nAs of 2026, Newport Lakes Primary School continues to operate, and is the oldest continually operating government primary school in the Western Metropolitan Region of Melbourne.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "1FA96E54-EA86-11F0-8856-45997C10BC38",
+    "identifier.PROV_ACM.id": "VA 5799",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1856",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1784647765,
+    "title": "Newport Lakes Primary School (School No. 113; previously known as Cambridge National School 1856 \u2013 c.1863; Cambridge Common School c.1863 \u2013 c.1873; Cambridge State School c.1873 \u2013 1886; Newport State School 1886 \u2013 c.1970; Newport Primary School c.1970 - 2000; also known as Kohry\u2019s School; Geelong Junction School; Williamstown Junction School)"
+  },
+  {
     "_id": "2D3D95B7-F681-11F0-8856-274D9FD92D3D",
     "_version_": 1858748706968305664,
     "category": "Agency",
