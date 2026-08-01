@@ -116320,6 +116320,40 @@
     "title": "Maryborough Education Centre (School No. 8845; also known as MEC; previously known as Maryborough Community Education Precinct 2005 \u2013 2005)"
   },
   {
+    "_id": "373688D6-DF60-11EF-80A4-57A83C865E65",
+    "_version_": 1872251430030540803,
+    "category": "Agency",
+    "citation": "VA 5626",
+    "date_range": [
+      "[1872 TO 3000]"
+    ],
+    "description": "Moorabbin Primary School (School No. 1111) (VA 5626) is a coeducational primary school located in Melbourne&rsquo;s south-eastern suburbs.<br />\r\n<br />\r\nThe school first opened in 1872, replacing Moorabbin Common School (School No. 422) which closed in September 1872. It was known at this time as South Brighton, or Brighton South, State School. The Education Act of 1872 established the Victorian Education Department (VA 714) and the school accordingly became Brighton South State School in 1873. The school name was changed to Moorabbin State School in 1909.<br />\r\n<br />\r\nFrom 1962, Moorabbin State School became a designated training school for Toorak Teachers&rsquo; College, and subsequently for Frankston Teachers&rsquo; College as well.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Moorabbin Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Moorabbin Primary School continues to operate.<br />\r\n<br />\r\nMoorabbin Primary School (School No. 1111) should not be confused with Moorabbin Common School (School No. 422), which operated from 1854 to 1872, or Tucker Road Bentleigh Primary School (School No. 4687) (VA 5649), which was known as Moorabbin Primary School until 2002.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "373688D6-DF60-11EF-80A4-57A83C865E65",
+    "identifier.PROV_ACM.id": "VA 5626",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1872 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1872",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Moorabbin Primary School (School No. 1111; previously known as South Brighton Common School 1872 \u2013 c.1873; South Brighton State School c.1873 \u2013 c.1909; Moorabbin State School c.1909 \u2013 c.1970)",
+    "start_dt": "1872",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1785479706,
+    "title": "Moorabbin Primary School (School No. 1111; previously known as South Brighton Common School 1872 \u2013 c.1873; South Brighton State School c.1873 \u2013 c.1909; Moorabbin State School c.1909 \u2013 c.1970)"
+  },
+  {
     "_id": "694C7EB8-DF60-11EF-80A4-B925F2C4E6A0",
     "_version_": 1858839303521566724,
     "category": "Agency",
@@ -117848,6 +117882,74 @@
     "title": "Manor Lakes P-12 College (School No. 8848; previously known as Manor Lakes P-12 Specialist College 2009 - 2011)"
   },
   {
+    "_id": "0B2B2212-26FE-11F0-8D1F-C36BA7D0FD2F",
+    "_version_": 1872251430046269440,
+    "category": "Agency",
+    "citation": "VA 5685",
+    "date_range": [
+      "[1874 TO 3000]"
+    ],
+    "description": "Tallangatta Primary School (School No. 1365) (VA 5685) is a small rural primary school located in north-east Victoria, east of Wodonga.<br />\r\n<br />\r\nThe school was officially established as Tallangatta State School in 1874. It had been preceded by Tallangatta Rural School No. 82, which had been operating since 1869. The Education Department (VA 714) purchased the rural school building to use for the new Tallangatta State School.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide change in the use of the term &ldquo;State school&rdquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &ldquo;primary school&rdquo; in the name. Accordingly, the school name was changed to Tallangatta Primary School.&nbsp;<br />\r\n<br />\r\nIn 1989, Bullioh Primary School (School No. 2495) (VA 3212) closed and merged with Tallangatta Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Tallangatta Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "0B2B2212-26FE-11F0-8D1F-C36BA7D0FD2F",
+    "identifier.PROV_ACM.id": "VA 5685",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1874 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1874",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Tallangatta Primary School (School No. 1365; previously known as Tallangatta State School 1874 \u2013 c.1970)",
+    "start_dt": "1874",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1785480115,
+    "title": "Tallangatta Primary School (School No. 1365; previously known as Tallangatta State School 1874 \u2013 c.1970)"
+  },
+  {
+    "_id": "363A3C4A-26FE-11F0-8D1F-BBDAC661A320",
+    "_version_": 1872251430081921029,
+    "category": "Agency",
+    "citation": "VA 5689",
+    "date_range": [
+      "[1882 TO 3000]"
+    ],
+    "description": "Menzies Creek Primary School (School No. 2457) (VA 5689) is a coeducational primary school located in in the Dandenong Ranges, east of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1882 as Menzies Creek State School, on land donated by a member of the local community. &nbsp;In 1917, the school name was changed to Aura State School, before reverting back to Menzies Creek State School in 1923. Following a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name, the school became known as Menzies Creek Primary School.&nbsp;<br />\r\n<br />\r\nOver its years of operation, Menzies Creek Primary School has seen a number of changes. Due to periods of low enrolments, significant illness in the community and damage from both floods and fires, the school has been closed and reopened several times, and has on occasion been worked as a part-time school.&nbsp;<br />\r\n<br />\r\nIn 1935, the school was destroyed in an accidental fire. Classes were held in the nearby St Cuthbert&rsquo;s Church until the school was rebuilt in 1936. Since that time, a number of additional rooms have been added to the site, and additional land acquired, included four new classrooms, library and community rooms in 2009. A new junior school and library were completed in 2012, when Menzies Creek Primary School celebrated its 130th birthday.&nbsp;<br />\r\n<br />\r\nAs of 2026, Menzies Creek Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "363A3C4A-26FE-11F0-8D1F-BBDAC661A320",
+    "identifier.PROV_ACM.id": "VA 5689",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1882 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1882",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Menzies Creek Primary School (School No. 2457; previously known as Menzies Creek State School 1882 \u2013 1917, 1923 \u2013 c.1970; Aura State School 1917 - 1923)",
+    "start_dt": "1882",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1785481438,
+    "title": "Menzies Creek Primary School (School No. 2457; previously known as Menzies Creek State School 1882 \u2013 1917, 1923 \u2013 c.1970; Aura State School 1917 - 1923)"
+  },
+  {
     "_id": "400F2C41-26FE-11F0-8D1F-F7ECB63D5311",
     "_version_": 1866181433024839680,
     "category": "Agency",
@@ -117880,6 +117982,40 @@
     "status": "Published",
     "timestamp": 1779690086,
     "title": "Gembrook Primary School (School No. 2506; previously known as Gembrook North State School 1878 - 1909 and Gembrook State School c. 1909 \u2013 1970)"
+  },
+  {
+    "_id": "6931B7B2-26FE-11F0-8D1F-F13D15084091",
+    "_version_": 1872251430045220864,
+    "category": "Agency",
+    "citation": "VA 5693",
+    "date_range": [
+      "[1866 TO 3000]"
+    ],
+    "description": "Darraweit Guim Primary School (School No. 878) (VA 5693) is a small rural primary school located in the Macedon Ranges, approximately 60 kilometres north of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school was first opened in 1866 in a building owned by the Wesleyan Church, before officially becoming Darraweit Guim Common School under the Board of Education (VA 713) in 1867. In 1870, a single-room bluestone school building was erected.&nbsp;<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Darraweit Guim State School.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Darraweit Guim Primary School.<br />\r\n<br />\r\nAs of 2026, Darraweit Guim Primary School continues to operate. While the school site has changed and developed over the years, sometimes in response to flooding and fires in the region, the original bluestone building is still in use.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "6931B7B2-26FE-11F0-8D1F-F13D15084091",
+    "identifier.PROV_ACM.id": "VA 5693",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1866 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1866",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Darraweit Guim Primary School (School No. 878; previously known as Darraweit Guim Common School 1867 \u2013 c.1873; Darraweit Guim State School c.1973 \u2013 1970)",
+    "start_dt": "1866",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1785480099,
+    "title": "Darraweit Guim Primary School (School No. 878; previously known as Darraweit Guim Common School 1867 \u2013 c.1873; Darraweit Guim State School c.1973 \u2013 1970)"
   },
   {
     "_id": "EAACD0CE-2A11-11F0-8D1F-D13FF4A9FB3D",
@@ -117982,6 +118118,142 @@
     "status": "Published",
     "timestamp": 1766465663,
     "title": "Omeo Waterworks Trust"
+  },
+  {
+    "_id": "F27D381F-5709-11F0-8856-7B990CC6D270",
+    "_version_": 1872251430079823881,
+    "category": "Agency",
+    "citation": "VA 5709",
+    "date_range": [
+      "[1927 TO 3000]"
+    ],
+    "description": "Briar Hill Primary School (School No. 4341) (VA 5709) is a coeducational primary school located in the suburb of Briar Hill, in Melbourne&rsquo;s north-east.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1927 as Briar Hill State School, for which the Education Department (VA 714) acquired a two-acre site and erected a two-room school building. Additional rooms were built to meet increasing demand in the following decades.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Briar Hill Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Briar Hill Primary School continues to operate, offering a Steiner Influenced Curriculum alongside the Victorian Curriculum.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "F27D381F-5709-11F0-8856-7B990CC6D270",
+    "identifier.PROV_ACM.id": "VA 5709",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1927 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1927",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Briar Hill Primary School (School No. 4341; previously known as Briar Hill State School 1927 \u2013 c.1970)",
+    "start_dt": "1927",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1785481369,
+    "title": "Briar Hill Primary School (School No. 4341; previously known as Briar Hill State School 1927 \u2013 c.1970)"
+  },
+  {
+    "_id": "18A681A0-570A-11F0-8856-6D875103C4C7",
+    "_version_": 1872251430084018182,
+    "category": "Agency",
+    "citation": "VA 5710",
+    "date_range": [
+      "[1924 TO 3000]"
+    ],
+    "description": "Footscray North Primary School (School No. 4160) (VA 5710) is a coeducational primary school located in Melbourne&rsquo;s inner western suburbs.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1924 as Footscray North State School, out of a large brick building erected on a site the Education Department (VA 714) had purchased in 1920.&nbsp;<br />\r\n<br />\r\nAdditional rooms were added to the site in the following years, including a caretaker&rsquo;s residence in 1928, two classrooms in 1943, and two rooms for specialised learning in 1949. The latter rooms were subsequently transferred to the adjacent Footscray North Special School (School No. 4792; later known as Rosamond Special School) (VA 5310) when it was taken over by the Education Department in 1957.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Footscray North Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Footscray North Primary School continues to operate.&nbsp;<br />\r\n<br />\r\nFootscray North Primary School (School No. 4160) should not be confused with Rosamond Special School (School No. 4792) (VA 5310), which was known as Footscray North Special School from 1943 to 1977.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "18A681A0-570A-11F0-8856-6D875103C4C7",
+    "identifier.PROV_ACM.id": "VA 5710",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1924 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1924",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Footscray North Primary School (School No. 4160; previously known as Footscray North State School 1924 \u2013 c.1970)",
+    "start_dt": "1924",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1785481537,
+    "title": "Footscray North Primary School (School No. 4160; previously known as Footscray North State School 1924 \u2013 c.1970)"
+  },
+  {
+    "_id": "41D43182-570A-11F0-8856-3922AD6549FA",
+    "_version_": 1872251430077726724,
+    "category": "Agency",
+    "citation": "VA 5712",
+    "date_range": [
+      "[1861 TO 3000]"
+    ],
+    "description": "Tylden Primary School (School No. 621) (VA 5712) is a coeducational primary school located in the Macedon Ranges, approximately 70 kilometres north of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1861 as Tylden National School. In 1862, through the Common Schools Act, the Victorian Parliament created a single Board of Education (VA 713). With the passing of this act, the school was re-named Tylden Common School and was given the number 621. In 1864 the land for a new school was bought, with a one room brick schoolhouse completed in 1871.<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Tylden State School.<br />\r\n<br />\r\nIn the 1960s, a number of schools in the area closed and the students transferred to Tylden Primary School. The closed schools included East Trentham State School (School No. 943), North Blackwood State School (School No. 1636), Chanter&rsquo;s Lane State School (School No. 923) and Spring Hill State School. An extra classroom was built in 1968 to accommodate the additional students.&nbsp;<br />\r\n<br />\r\nFollowing a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name, the school became known as Tylden Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Tylden Primary School continues to operate. New buildings have been erected over the years, including a new brick building in 2004, but the original building also remains in use as an art studio.&nbsp;<br />\r\n<br />\r\nTylden Primary School (School No. 621) should not be confused with Tylden Presbyterian School (School No. 630), which operated from 1861 to 1864, or Tylden South School (School No. 633), which operated from 1858 to 1894.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "41D43182-570A-11F0-8856-3922AD6549FA",
+    "identifier.PROV_ACM.id": "VA 5712",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1861",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1785481271,
+    "title": "Tylden Primary School (School No. 621; previously known as Tylden National School 1861 \u2013 1862; Tylden Common School 1862 \u2013 1873; Tylden State School 1889 \u2013 c.1970)"
+  },
+  {
+    "_id": "4F79B173-570A-11F0-8856-731588C4738D",
+    "_version_": 1872251430007472128,
+    "category": "Agency",
+    "citation": "VA 5713",
+    "date_range": [
+      "[1858 TO 3000]"
+    ],
+    "description": "Wahgunyah Primary School (School No. 644) (VA 5713) is a coeducational primary school located in the small rural town of Wahgunyah, on the Murray River in north-eastern Victoria.&nbsp;<br />\r\n<br />\r\nThe school was first established in 1858 as Wahgunyah National School, to meet the needs of farming families in the district. Children had been previously privately tutored, until a parcel of land was donated by local John Foord to erect the building for Wahgunyah National School on the corner of McDonnel and Victoria Streets.<br />\r\n<br />\r\nIn 1862, through the Common Schools Act, the Victorian Parliament created a single Board of Education (VA 713). With the passing of this act, the school was re-named Wahgunyah Common School and was given the number 644.<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Wahgunyah State School. In 1878, a new school building was erected to meet growing enrolments.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Wahgunyah Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Wahgunyah Primary School continues to operate. A new school building was erected in 2011, however the 1878 building continues to be used as a library, music room and kitchen.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "4F79B173-570A-11F0-8856-731588C4738D",
+    "identifier.PROV_ACM.id": "VA 5713",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1858",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1785465509,
+    "title": "Wahgunyah Primary School (School No. 644; Wahgunyah National School 1858 \u2013 1863; Wahgunyah Common School 1863 \u2013 c.1872; Wahgunyah State School c.1872 \u2013 c.1970)"
   },
   {
     "_id": "2E93467F-6110-11F0-8856-15702C22BCC2",
