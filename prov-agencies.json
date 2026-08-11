@@ -117610,6 +117610,74 @@
     "title": "Kaneira West State School (School No. 3887)"
   },
   {
+    "_id": "040FEE50-0864-11F0-8D1F-19B70113E307",
+    "_version_": 1873157399466999816,
+    "category": "Agency",
+    "citation": "VA 5673",
+    "date_range": [
+      "[1964 TO 3000]"
+    ],
+    "description": "Koonung Secondary College (School No. 7954) (VA 5677) is a coeducational government secondary school located in Mont Albert North, in Melbourne&#39;s eastern suburbs.<br />\r\n<br />\r\nThe school was established in 1964 as Box Hill North High School when the secondary department of Mont Albert Central School (School No. 3943) was separated to form a new government secondary school. The newly established school was assigned School No. 7954 and initially operated from five classrooms and two portable classrooms on the shared site of the former Mont Albert Central School (subsequently known as Mont Albert State School). Opening enrolment was 168 students.<br />\r\n<br />\r\nLater in 1964, the school name was changed to Koonung High School. In December 1965, the school relocated to a new site on Elgar Road. Enrolment had increased to 276 students by this time and rose to 462 students by 1966. The new school facilities included science, domestic arts and woodwork rooms, together with general classrooms, staff rooms and an administration block. Enrolment increased to 785 students by 1969.<br />\r\n<br />\r\nIn June 1977, the Koonung Centre, comprising a hall, theatre and library complex, was officially opened.<br />\r\n<br />\r\nIn 1982, a fire destroyed the administrative core of the school, including the staff rooms, bursar&#39;s office, canteen and mathematics rooms.<br />\r\n<br />\r\nIn 1990, the school was renamed Koonung Secondary College following the implementation of the Change of School Name and Reclassification of Schools Executive Memorandum No. 314 issued by the Ministry of Education (VA 1112).<br />\r\n<br />\r\nIn 1992, the college celebrated its 20th anniversary of the Box Hill-Matsudo Sister City relationship established between students at Koonung High School and Matsudo Municipal Senior High School in Matsudo City, Chiba, Japan.<br />\r\n<br />\r\nIn the 2019&ndash;20 State Budget, the school received funding to demolish the former multipurpose block and construct a new classroom wing. The project was completed in 2022. An inclusive learning space was added to the site in 2023. &nbsp;Further works are planned for the Library, Gym and Creative Arts precinct.&nbsp;<br />\r\n<br />\r\nEnrolment in 2024 was 1,175 students. As of 2026, Koonung Secondary College remains in operation.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "040FEE50-0864-11F0-8D1F-19B70113E307",
+    "identifier.PROV_ACM.id": "VA 5673",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1964",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1786322790,
+    "title": "Koonung Secondary College (School No. 7954; previously known as Box Hill North High School 1964 \u2013 1964; Koonung High School 1964 \u2013 1990)"
+  },
+  {
+    "_id": "16D7D2A1-0864-11F0-8D1F-1DC449881D50",
+    "_version_": 1873157399466999815,
+    "category": "Agency",
+    "citation": "VA 5674",
+    "date_range": [
+      "[1929 TO 1954]"
+    ],
+    "description": "Riachella State School (School No. 4331) (VA 5674) was a coeducational government primary school located in the rural locality of Riachella in western Victoria (north of Stawell and Grampians National Park).<br />\r\n<br />\r\nThe school opened in January 1929 and operated from a single wooden classroom.<br />\r\n<br />\r\nRiachella State School permanently closed in December 1954 due to low enrolment.<br />\r\n<br />\r\nRiachella State School should not be confused with the earlier former Riachella State School (School No. 2674) which operated from 1885 &ndash; 1893.",
+    "end_dt": "1954",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "16D7D2A1-0864-11F0-8D1F-1DC449881D50",
+    "identifier.PROV_ACM.id": "VA 5674",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1929",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1786322755,
+    "title": "Riachella State School (School No. 4331)"
+  },
+  {
     "_id": "4F9E46F2-0864-11F0-8D1F-6DB135B53C60",
     "_version_": 1866272032611631104,
     "category": "Agency",
@@ -117948,6 +118016,108 @@
     "status": "Published",
     "timestamp": 1785480115,
     "title": "Tallangatta Primary School (School No. 1365; previously known as Tallangatta State School 1874 \u2013 c.1970)"
+  },
+  {
+    "_id": "16D1288F-26FE-11F0-8D1F-370A035D7BAA",
+    "_version_": 1873157399472242689,
+    "category": "Agency",
+    "citation": "VA 5686",
+    "date_range": [
+      "[1917 TO 3000]"
+    ],
+    "description": "Elwood Primary School (School No. 3942) (VA 5686) is a coeducational government primary school located in Elwood, an inner bayside suburb of Melbourne.<br />\r\n<br />\r\nThe school opened as Elwood Central School in June 1917. It initially operated from a two storey brick building containing twelve classrooms and opened with an enrolment of 450 students.<br />\r\n<br />\r\nIn 1926, an infants block was constructed on a separate site opposite the school. Additional classrooms and adjoining land were acquired over subsequent years to accommodate increasing enrolments, which at times exceeded 1,000 students.<br />\r\n<br />\r\nIn 1956, Elwood Central School was separated into primary and secondary schools. The primary school became known as Elwood State School.<br />\r\n<br />\r\nIn 1970, there was a statewide change in the use of the term &ldquo;State school&rdquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &ldquo;primary school&rdquo; in the name. Accordingly, the school name was changed to Elwood Primary School around this time.&nbsp;<br />\r\n<br />\r\nIn 2014, the school had an enrolment of 740 students. In 2018, a new modular building was constructed to replace older classrooms. Enrolment in 2024 was approximately 650 students.<br />\r\n<br />\r\nThe school forms part of the Elwood Learning Hub, an education precinct comprising Poets Grove Family and Children&#39;s Centre, Elwood Primary School, and Elwood College (School No. 7810) (VA 5726).<br />\r\n<br />\r\nAs of 2026, Elwood Primary School remains in operation.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "16D1288F-26FE-11F0-8D1F-370A035D7BAA",
+    "identifier.PROV_ACM.id": "VA 5686",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1917",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1786322893,
+    "title": "Elwood Primary School (School No. 3942; previously known as Elwood Central School 1917 \u2013 1956; Elwood State School 1956 \u2013 circa 1970)"
+  },
+  {
+    "_id": "20A88986-26FE-11F0-8D1F-7B43E1A5F0E0",
+    "_version_": 1873157399459659776,
+    "category": "Agency",
+    "citation": "VA 5687",
+    "date_range": [
+      "[1873 TO 3000]"
+    ],
+    "description": "Maldon Primary School (School No. 1254) (VA 5687) was established in August 1873 as Maldon State School. It replaced several church and private schools that had operated in the district since the late 1850s. Classes were initially held in the Church of England and Methodist school buildings, with an enrolment of 300 students.<br />\r\n<br />\r\nIn 1875, the school relocated to a permanent brick building comprising five large classrooms, three smaller classrooms, and an administrative office. The building was designed to accommodate 750 students.<br />\r\n<br />\r\nFrom 1910 to 1920, the operation of deep gold mines in the district contributed to an increase in enrolment, with attendance reaching 640 students. Enrolments later declined following the end of the gold mining period, before increasing again during the 1950s in association with the construction of the Cairn Curran Reservoir. A teachers&#39; residence was added to the site in 1954 and sold in 1962.<br />\r\n<br />\r\nIn 1970, a statewide decision was made to broaden the use of the term &#39;State School&#39; to include all government schools, rather than referring exclusively to primary level schools. Subsequently, all primary schools began to use &#39;Primary School&#39; in their names. The school was accordingly renamed Maldon Primary School around this time, when attendance was approximately 120 students.<br />\r\n<br />\r\nIn 2024, the school had an enrolment of 83 students. &nbsp;In 2026, Maldon Primary School continues to operate from its original brick school building.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "20A88986-26FE-11F0-8D1F-7B43E1A5F0E0",
+    "identifier.PROV_ACM.id": "VA 5687",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1873",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1786320359,
+    "title": "Maldon Primary School (School No. 1254; previously known as Maldon State School 1873 \u2013 circa 1970)"
+  },
+  {
+    "_id": "2C606A53-26FE-11F0-8D1F-BBAE365CD142",
+    "_version_": 1873157399462805515,
+    "category": "Agency",
+    "citation": "VA 5688",
+    "date_range": [
+      "[1889 TO 3000]"
+    ],
+    "description": "Research Primary School (School No. 2959) (VA 5688) is located in semi-rural surroundings on the north eastern outskirts of Melbourne, within the Shire of Nillumbik.<br />\r\n<br />\r\nThe school was established in 1889 and was first known as Research Gully State School during the gold mining period. It initially operated from a leased four room cottage with 37 students. In March 1891, the school moved to a permanent site purchased by the Education Department (VA 714), where a new wooden building was erected.<br />\r\n<br />\r\nFollowing the Second World War, enrolments increased in the area and additional rooms were added to the school. In 1964, a portable classroom was relocated from Koonung Heights State School (School No. 4727) (VA 3607) and re-erected on the Research State School site. Further classroom additions were made in 1970, at which time enrolment was recorded at 247 students.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to broaden the use of the term &lsquo;State School&rsquo; to include all government schools, rather than referring exclusively to primary-level schools. Subsequently, all primary schools began to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Research Primary School around this time<br />\r\n<br />\r\nIn 2022, an upgrade and modernisation project was completed, replacing and refurbishing earlier classrooms and facilities to provide contemporary learning spaces. The school facilities include purpose built learning spaces across two buildings, an administrative and arts building, a gym, and a library portable building.<br />\r\n<br />\r\nIn 2025, the school continues to operate with a census enrolment of 244 students.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "2C606A53-26FE-11F0-8D1F-BBAE365CD142",
+    "identifier.PROV_ACM.id": "VA 5688",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1889",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1786321747,
+    "title": "Research Primary School (School No. 2959; previously known as Research Gully State School 1889 \u2013 1891; Research State School 1891 \u2013 circa 1970)"
   },
   {
     "_id": "363A3C4A-26FE-11F0-8D1F-BBDAC661A320",
@@ -119100,5 +119270,39 @@
     "status": "Published",
     "timestamp": 1775572193,
     "title": "Cassilis Courts"
+  },
+  {
+    "_id": "8572C079-5EF3-11F1-8856-E30B58741761",
+    "_version_": 1873157399458611204,
+    "category": "Agency",
+    "citation": "VA 5848",
+    "date_range": [
+      "[1885 TO 3000]"
+    ],
+    "description": "Myrrhee Primary School (School No. 2677) (VA 5848) is a government primary school situated on 100 acres of bushland in the rural Myrrhee Valley in Victoria&rsquo;s High Country.<br />\r\n<br />\r\nThe school initially operated from a bark-roofed building on a local resident&rsquo;s property. The building had originally been erected for church services by various denominations. The date on which the school first commenced operation remains subject to further research. In its early years, the school operated part-time with Willow Bank School, formerly Boggy Creek Upper School (School No. 2676). The two schools likely shared a single teacher, who divided their time between both sites.<br />\r\n<br />\r\nA school building was constructed around 1876. In October 1885, the school was officially opened by the Department of Education (VA 714).<br />\r\n<br />\r\nA fire swept through the district in 1901, destroying both the school building and the teacher&rsquo;s residence. The school temporarily operated from Tyrrell&rsquo;s hop shed until a replacement school building was completed and opened on a new site in 1903.<br />\r\n<br />\r\nA teacher&rsquo;s residence was added to the site in 1952. In 1963, a new school building comprising two classrooms, a long corridor and an entrance area was constructed.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to broaden the use of the term &lsquo;State School&rsquo; to include all government schools, rather than referring exclusively to primary-level schools. Subsequently, all primary schools began to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Myrrhee Primary School around this time.<br />\r\n<br />\r\nIn January 1997, Fifteen Mile Creek Camp opened as an alternative education setting and campus of Myrrhee Primary School. On 19 January 2010, the campus became part of Bogong Outdoor Education Centre, subsequently known as Outdoor School (School No. 7618).<br />\r\n<br />\r\nAs of 2024, Myrrhee Primary School formed part of the King Valley Cluster, a network of rural primary schools comprising Moyhu Primary School (School No. 1335), Myrrhee Primary School, Whitfield Primary School (School No. 2441), Greta Valley Primary School (School No. 5398), and Broken Creek Primary School (School No. 862) (VA 5782).<br />\r\n<br />\r\nEnrolment in 2024 was 35 students. As of 2026, the school remains in operation.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "8572C079-5EF3-11F1-8856-E30B58741761",
+    "identifier.PROV_ACM.id": "VA 5848",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1885",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1786320221,
+    "title": "Myrrhee Primary School (School No. 2677; previously known as Boggy Creek Upper School; Myrrhee State School 1885 \u2013 circa 1970)"
   }
 ]
