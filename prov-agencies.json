@@ -61931,13 +61931,13 @@
   },
   {
     "_id": "286CD9C7-F3AB-11E9-AE98-93291EEFBF33",
-    "_version_": 1866996806731169792,
+    "_version_": 1873519786606985216,
     "category": "Agency",
     "citation": "VA 3716",
     "date_range": [
       "[1994 TO 3000]"
     ],
-    "description": null,
+    "description": "City of Port Phillip (VA 3716) was constituted in 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. City of Port Phillip was appointed as a successor in law for the following councils:\r\n<ul>\r\n\t<li>Port Melbourne (Borough 1884-1893; Town 1893-1919; City 1919-1994, previously known as Sandridge (Municipal District 1860-1863; Borough 1863-1884)) (VA 859),</li>\r\n\t<li>South Melbourne (formerly Emerald Hill; Municipal District 1855-1863; Borough 1863-1872; Town 1872-1883; City 1883-1994) (VA 748) and</li>\r\n\t<li>St Kilda (Municipal District 1855-1863; Borough 1863-1890; City 1890-1994) (VA 2503).&nbsp;<br />\r\n\t&nbsp;</li>\r\n</ul>\r\nAny rights, assets and liabilities of the abolished councils have been assumed by City of Port Phillip as their successor in law.",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -61960,7 +61960,7 @@
     "start_dt": "1994",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1780478503,
+    "timestamp": 1786662697,
     "title": "Port Phillip (City 1994-ct)"
   },
   {
