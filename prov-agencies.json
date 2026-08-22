@@ -83597,13 +83597,13 @@
   },
   {
     "_id": "8CC5EF53-F3AB-11E9-AE98-4DE5824A720D",
-    "_version_": 1839092941716455424,
+    "_version_": 1874154061511524352,
     "category": "Agency",
     "citation": "VA 4430",
     "date_range": [
       "[1915 TO 3000]"
     ],
-    "description": null,
+    "description": "Beaumaris Primary School (School No. 3899) (VA 4430) is a co-educational government primary school located in Beaumaris, in Melbourne&#39;s bayside suburbs.<br />\r\n<br />\r\nThe school opened in May 1915 as Beaumaris State School, initially leasing Beaumaris Hall. By 1917, enrolment had reached 41 students. During the same year, the Education Department (VA 714) purchased a site in Dalgetty Road and provided a pavilion-style building with three sides made up of half walls topped by canvas-covered sliding panels, with no heating.<br />\r\n<br />\r\nAround 1934, a new two-room brick building was erected by the Department to replace the pavilion.<br />\r\n<br />\r\nEnrolment continued to increase over the following decades, reaching 960 students by 1968. At this time, the school had twenty-four classrooms, a library, and art, craft, and multipurpose rooms.<br />\r\n<br />\r\nIn 1970, a statewide decision broadened the use of the term &#39;State School&#39; to include all government schools, rather than referring exclusively to primary-level schools. Primary schools then adopted the term &#39;Primary School&#39;, and the school name was changed to Beaumaris Primary School around this time.<br />\r\n<br />\r\nIn 2019, a new architect-designed modular building was constructed to replace Block C.<br />\r\n<br />\r\nIn 2025, Beaumaris Primary School remains in operation with an enrolment of 554 students.<br />\r\n<br />\r\nBeaumaris Primary School should not be confused with Cheltenham Primary School (School No. 84), which operated as Beaumaris Common School from 1863 to 1872 and as Beaumaris State School until 1885, when it was renamed Cheltenham State School.<br />\r\n&nbsp;",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -83626,8 +83626,8 @@
     "start_dt": "1915",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857848,
-    "title": "Beaumaris (Primary School No. 3899)"
+    "timestamp": 1787280161,
+    "title": "Beaumaris Primary School (School No. 3899; previously known as Beaumaris State School 1915 \u2013 circa 1970)"
   },
   {
     "_id": "8CC775F5-F3AB-11E9-AE98-2141E8A43141",
@@ -116524,6 +116524,40 @@
     "title": "Kaladbro State School (School No. 2397; previously known as Ardno State School 1881-1882)"
   },
   {
+    "_id": "864CCEBE-DF6B-11EF-80A4-A5EB4C5EEF83",
+    "_version_": 1874154061512572928,
+    "category": "Agency",
+    "citation": "VA 5634",
+    "date_range": [
+      "[1879 TO 1994]"
+    ],
+    "description": "Barongarook Primary School (School No. 2210) (VA 5634) was a co-educational government primary school located in Barongarook, a rural village approximately 10 km south of Colac in western Victoria.<br />\r\n<br />\r\nThe school opened in December 1879 as Barongarook Forest School, operating from a timber building with an attached teacher&#39;s residence. The name was likely changed to Barongarook East State School in 1898, although both names continued to be used interchangeably until the early 1900s.<br />\r\n<br />\r\nThe school was temporarily closed between 1902 and 1903.<br />\r\n<br />\r\nThe school name was changed again around 1920, when it was shortened to Barongarook State School following the arrival of the railway in the district.<br />\r\n<br />\r\nDuring the 1990s, the Kennett government undertook a program of school closures and mergers across Victoria. In April 1994, Barongarook Primary School merged with Lavers Hill Consolidated School (School No. 6231), Kawarren Primary School (School No. 3894) (VA 5635), and Gellibrand Primary School (School No. 2740) (VA 5591) to form Lavers Hill P-12 College. The merged entity retained school number 6231 and operated as a four-site school under a single principal and school council. The Barongarook campus closed in 2009 and was subsequently used for adult education classes until 2016.<br />\r\n<br />\r\nBarongarook Primary School should not be confused with Barongarook West State School (School No. 1803), which opened in 1873 and closed in 1951 following consolidation into Lavers Hill Group School (School No. 3569); the latter was renamed and renumbered Lavers Hill Consolidated School (School No. 6231) in 1953.<br />\r\n&nbsp;",
+    "end_dt": "1994",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "864CCEBE-DF6B-11EF-80A4-A5EB4C5EEF83",
+    "identifier.PROV_ACM.id": "VA 5634",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1879",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1787280169,
+    "title": "Barongarook Primary School (School No. 2210; previously known as Barongarook Forest State School 1879 \u2013 circa 1898; Barongarook East circa 1989 \u2013 circa 1920; Barongarook State School circa 1920 \u2013 circa 1970)"
+  },
+  {
     "_id": "AE4B2660-DF6B-11EF-80A4-B5BC9DFB1EAD",
     "_version_": 1872160832166559745,
     "category": "Agency",
@@ -118188,6 +118222,74 @@
     "title": "Gembrook Primary School (School No. 2506; previously known as Gembrook North State School 1878 - 1909 and Gembrook State School c. 1909 \u2013 1970)"
   },
   {
+    "_id": "53A8916E-26FE-11F0-8D1F-EF5CC417A967",
+    "_version_": 1874154061518864384,
+    "category": "Agency",
+    "citation": "VA 5691",
+    "date_range": [
+      "[1875 TO 3000]"
+    ],
+    "description": "Dookie Primary School (School No. 1527) (VA 5691) is a coeducational government primary school located in Dookie, a small rural township situated between Shepparton and Benalla in northern Victoria.<br />\r\n<br />\r\nThe school opened in 1875 as Dookie South State School at Cashel. In October 1893, the school building was relocated approximately one mile south of Dookie, and the school name was changed to Dookie State School in 1894.<br />\r\n<br />\r\nIn 1907, the school relocated to a new site on land donated by a local resident. The former school building was converted into a teacher&#39;s residence in 1910. An additional classroom was added in 1927.<br />\r\n<br />\r\nThe school was partly destroyed by fire in 1962.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to broaden the use of the term &lsquo;State School&rsquo; to include all government schools, rather than referring exclusively to primary level schools. Subsequently, all primary schools began to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Dookie Primary School around this time.<br />\r\n<br />\r\nIn 2024, Dookie Primary School remains in operation with an enrolment of 15 students.<br />\r\n&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "53A8916E-26FE-11F0-8D1F-EF5CC417A967",
+    "identifier.PROV_ACM.id": "VA 5691",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1875",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1787280212,
+    "title": "Dookie Primary School (School No. 1527; previously known as Dookie South State School 1875 \u2013 1894; Dookie State School 1894 \u2013 circa 1970)"
+  },
+  {
+    "_id": "5E1EF08B-26FE-11F0-8D1F-E5827AA6A117",
+    "_version_": 1874154061516767232,
+    "category": "Agency",
+    "citation": "VA 5692",
+    "date_range": [
+      "[1864 TO 3000]"
+    ],
+    "description": "Diamond Creek Primary School (School No. 1003) (VA 5692) is a coeducational government primary school located in Diamond Creek, in Melbourne&rsquo;s north eastern suburbs.<br />\r\n<br />\r\nThe school opened in 1864 and initially operated as a Methodist school conducted from a barn with a paling roof and board sides. Opening enrolment was 59 students.<br />\r\n<br />\r\nIn July 1870, the school began operating from a one room building provided by the Board of Education (VA 713). At this time, the school was likely known as Nillumbik Common School, although it may also have been known as Nillumbik Federal School.&nbsp;<br />\r\n<br />\r\nFollowing the introduction of the Education Act of 1872, which established the Victorian Education Department (VA 714), the school became known as Nillumbik State School. A second classroom was added in 1877.<br />\r\n<br />\r\nIn 1923, the school name was changed to Diamond Creek State School to align with the name of the local post office and railway station.<br />\r\n<br />\r\nTwo classrooms were added in 1957 in response to increasing enrolments. By 1969, the school comprised eleven classrooms.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to broaden the use of the term &lsquo;State School&rsquo; to include all government schools, rather than referring exclusively to primary-level schools. Subsequently, all primary schools began to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Diamond Creek Primary School at this time.<br />\r\n<br />\r\nBetween 1984 and 1985, a school hall was added to the site.&nbsp;<br />\r\n<br />\r\nIn 2025, Diamond Creek Primary School remains in operation with an enrolment of 234 students. The school comprises four main buildings, including the original school building, which remains in use.<br />\r\n&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "5E1EF08B-26FE-11F0-8D1F-E5827AA6A117",
+    "identifier.PROV_ACM.id": "VA 5692",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1864",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1787280204,
+    "title": "Diamond Creek Primary School (School No. 1003; previously known as Nillumbik Common School 1870 \u2013 circa 1875; Nilumbik State School circa 1875 \u2013 1923; Diamond Creek State School 1923 \u2013 1970)"
+  },
+  {
     "_id": "6931B7B2-26FE-11F0-8D1F-F13D15084091",
     "_version_": 1872251430045220864,
     "category": "Agency",
@@ -118356,6 +118458,74 @@
     "status": "Published",
     "timestamp": 1785863313,
     "title": "Tecoma Primary School (School No. 3356; previously known as Upper Ferntree Gully State School 1900 \u2013 1903; Upwey State School 1903 \u2013 1908; Belgrave State School 1908 \u2013 1961; Tecoma State School 1961 \u2013 circa 1970)"
+  },
+  {
+    "_id": "AD37840B-4016-11F0-8D1F-6D72446D2FDD",
+    "_version_": 1874154061509427203,
+    "category": "Agency",
+    "citation": "VA 5701",
+    "date_range": [
+      "[1914 TO 1940]"
+    ],
+    "description": "Tarrangower State School (School No. 3852) (VA 5701) opened in 1914. The school was located in the rural locality of Tarrangower, a historic mountain area in the Mount Alexander Shire of central Victoria, and operated from a new wooden school building.<br />\r\n<br />\r\nTarrangower State School permanently closed in 1940, and the school building was subsequently relocated to Porcupine Flat State School (School No. 513).<br />\r\n<br />\r\nPrior to opening, records associated with School No. 3852 include references to the names Broken Back (or Brokenback) State School and Deepdene State School, although the reasons these names were not adopted are unclear and subject to further research.<br />\r\n<br />\r\nTarrangower State School should not be confused with Broken Back State School (School No. 2018), also recorded as Brokenback State School, which operated from 1877 to 1894, or Deepdene State School (School No. 3680), which opened in 1911.<br />\r\n&nbsp;",
+    "end_dt": "1940",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "AD37840B-4016-11F0-8D1F-6D72446D2FDD",
+    "identifier.PROV_ACM.id": "VA 5701",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1914",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1787280154,
+    "title": "Tarrangower State School (School No. 3852)"
+  },
+  {
+    "_id": "E7BBD9CE-40ED-11F0-8D1F-9FC2A8FD3467",
+    "_version_": 1874154061515718656,
+    "category": "Agency",
+    "citation": "VA 5705",
+    "date_range": [
+      "[1867 TO 3000]"
+    ],
+    "description": "Camberwell Primary School (School No. 888) (VA 5705) is a co-educational government primary school located in Melbourne&#39;s eastern suburbs. &nbsp;The school opened in 1867 as Camberwell Common School with an enrolment of 24 students. By the third week of operation, enrolment had increased to 80 students.<br />\r\n<br />\r\nIn 1868, the school relocated to a new brick building designed to accommodate 150 students.<br />\r\n<br />\r\nFollowing the introduction of the Education Act (Vic) 1872, which established the Victorian Education Department (VA 714), the school became known as Camberwell State School between 1873 and 1878.<br />\r\n<br />\r\nEnrolment continued to increase, reaching 1,000 students by 1900. Additional classrooms were constructed to accommodate the growing student population. In 1907, woodwork instruction for boys commenced in a leased building.<br />\r\n<br />\r\nIn 1923, enrolment reached 1,065 students and electricity was introduced to the school. In 1926, Camberwell State School became a Central School, providing education for Grades 7 and 8 in addition to the primary grades. Owing to accommodation pressures, a nearby church hall was leased for use as classrooms. A new woodwork building was also opened during this period. In 1928, a library funded through fundraising by the Mother&#39;s Club was opened.<br />\r\n<br />\r\nThe school was remodelled in 1930, when enrolment comprised 509 primary students and 144 secondary students.<br />\r\n<br />\r\nIn 1948, a school canteen was constructed using funds raised by the Mother&#39;s Club. In 1950, the school became a training school, providing teaching experience for student teachers.<br />\r\n<br />\r\nIn 1970, the central classes were discontinued. During the same year, there was a statewide decision to broaden the use of the term &lsquo;State School&rsquo; to include all government schools, rather than referring exclusively to primary level schools. Subsequently, all primary schools began to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Camberwell Primary School.<br />\r\n<br />\r\nIn 1990, a two classroom relocatable building was added to accommodate students attending the French School. In 1991, 63 preparatory students commenced a French language immersion program. By 1995, enrolment in the program had increased to 289 students across Preparatory to Grade 4.<br />\r\n<br />\r\nEnrolment in 1997 was 394 students.<br />\r\n<br />\r\nIn 2025, Camberwell Primary School remains in operation with an enrolment of 556 students and operates across two campuses. The Senior Campus is located on the original school site and comprises 22 permanent classrooms, two relocatable classrooms, a library, makerspace, visual arts and performing arts rooms, and administration facilities. The Junior Campus is located on the former Our Lady of Victories Primary School site on Reserve Road and comprises nine classrooms, visual arts facilities, and additional administrative offices.<br />\r\n&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "E7BBD9CE-40ED-11F0-8D1F-9FC2A8FD3467",
+    "identifier.PROV_ACM.id": "VA 5705",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1867",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1787280193,
+    "title": "Camberwell Primary School (School No. 888; previously known as Camberwell Common School 1867 \u2013 circa 1875; Camberwell State School circa 1875 \u2013 1926; Camberwell Central School 1926 \u2013 1970)"
   },
   {
     "_id": "B58B1D69-4CB5-11F0-8856-6D036A65E997",
@@ -118562,6 +118732,74 @@
     "title": "Mount Buller and Mount Stirling Alpine Resort Management Board"
   },
   {
+    "_id": "20401D07-65D4-11F0-8856-073AA929FC43",
+    "_version_": 1874154061519912960,
+    "category": "Agency",
+    "citation": "VA 5716",
+    "date_range": [
+      "[1885 TO 3000]"
+    ],
+    "description": "Lakes Entrance Primary School (School No. 2672) (VA 5716) is a co-educational government primary school located in Lakes Entrance, a coastal town in eastern Victoria.<br />\r\n<br />\r\nThe school opened in May 1885 as Cunninghame State School in the township of Cunninghame, the former name of Lakes Entrance. The original school site was located on Bulmer Street along the Cunninghame Arm of the Reeves River and was established to serve the developing fishing and port settlement.<br />\r\n<br />\r\nThe town&#39;s name was officially changed from Cunninghame to Lakes Entrance in 1915.<br />\r\n<br />\r\nIn June 1926, the school relocated to a larger site on Myer Street, where a new school building had been constructed. It is likely that the school name was changed to Lakes Entrance State School at this time.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to broaden the use of the term &lsquo;State School&rsquo; to include all government schools, rather than referring exclusively to primary level schools. Subsequently, all primary schools began to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Lakes Entrance Primary School around this time.<br />\r\n<br />\r\nThe 1990s marked a significant era of transformation in education throughout Victoria, as the Jeff Kennett government initiated numerous school closures and mergers across the state. In 1992, Kalimna West Primary School (School No. 3364) (VA 3322) was merged with Lakes Entrance Primary School, which retained School No. 2672. The former Kalimna West Primary School site was subsequently sold for conversion to a private residence.<br />\r\n<br />\r\nIn 2014, Lakes Entrance Primary School had an enrolment of 193 students. In 2024, the school remains in operation with an enrolment of 195 students.<br />\r\n&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "20401D07-65D4-11F0-8856-073AA929FC43",
+    "identifier.PROV_ACM.id": "VA 5716",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1885",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1787280223,
+    "title": "Lakes Entrance Primary School (School No. 2672; previously known as Cunninghame State School 1885 \u2013 circa 1926; Lakes Entrance State School circa 1926 \u2013 circa 1970)"
+  },
+  {
+    "_id": "2D028FF8-65D4-11F0-8856-05EB5CFD369A",
+    "_version_": 1874154061509427202,
+    "category": "Agency",
+    "citation": "VA 5717",
+    "date_range": [
+      "[1910 TO 1926]"
+    ],
+    "description": "Boys State School (School No. 3638) (VA 5717) was a government primary school likely located near Leongatha, in South Gippsland, Victoria.<br />\r\n<br />\r\nThe school opened in 1910 and operated from a leased wooden building.<br />\r\n<br />\r\nBoys State School closed permanently in 1926.",
+    "end_dt": "1926",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "2D028FF8-65D4-11F0-8856-05EB5CFD369A",
+    "identifier.PROV_ACM.id": "VA 5717",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1910",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1787280144,
+    "title": "Boys State School (School No. 3638)"
+  },
+  {
     "_id": "39C3A359-65D4-11F0-8856-211599C2DB39",
     "_version_": 1849689010339840008,
     "category": "Agency",
@@ -118594,6 +118832,40 @@
     "status": "Published",
     "timestamp": 1763963687,
     "title": "Bungeeltap State School (School No. 1751)"
+  },
+  {
+    "_id": "BD0E8086-66A0-11F0-8856-05269599F563",
+    "_version_": 1874154061513621504,
+    "category": "Agency",
+    "citation": "VA 5733",
+    "date_range": [
+      "[1884 TO 3000]"
+    ],
+    "description": "Launching Place Primary School (School No. 2599) (VA 5733) is a coeducational government primary school located in Launching Place, in the Yarra Valley approximately 65 kilometres east of Melbourne.<br />\r\n<br />\r\nThe school opened in July 1884 as Launching Place State School. Local residents had petitioned for a school in the early 1880s and organised a working bee to construct a school building on the west side of the Don River. The building was subsequently leased for use as a government school.<br />\r\n<br />\r\nWhen the school opened, it operated on a part time basis with Woori Yallock State School (School No. 1259) (VA 5318). The two schools shared a single teacher, who divided their time between both sites. In 1886, when Woori Yallock State School returned to full time operation, Launching Place State School was attached on a part time basis to Hoddles Creek State School (School No. 2541) (VA 5678).<br />\r\n<br />\r\nIn July 1891, the school relocated to a new site and a new timber school building was opened. The school continued to operate on a part time basis with Hoddles Creek State School until 1892, when it became a full time school. In August 1894, Launching Place State School closed.<br />\r\n<br />\r\nLaunching Place State School reopened between 1926 and 1927 after more than thirty years without a local school.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to broaden the use of the term &lsquo;State School&rsquo; to include all government schools, rather than referring exclusively to primary-level schools. Subsequently, all primary schools began to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Launching Place Primary School around this time.<br />\r\n<br />\r\nEnrolment in 1972 was approximately 48 students.<br />\r\n<br />\r\nIn 2025, Launching Place Primary School remains in operation with an enrolment of approximately 140 students.<br />\r\n&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "BD0E8086-66A0-11F0-8856-05269599F563",
+    "identifier.PROV_ACM.id": "VA 5733",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1884",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1787280180,
+    "title": "Launching Place Primary School (School No. 2599; previously known as Launching Place State School 1884 \u2013 circa 1970; also known as Don School)"
   },
   {
     "_id": "C884E8D6-6B4E-11F0-8856-99BB888AA8B9",
@@ -118662,6 +118934,40 @@
     "status": "Published",
     "timestamp": 1780478496,
     "title": "Alpine Resorts Victoria"
+  },
+  {
+    "_id": "440EF9A1-7416-11F0-8856-DDF406198C7D",
+    "_version_": 1874154061902643203,
+    "category": "Agency",
+    "citation": "VA 5737",
+    "date_range": [
+      "[1934 TO 3000]"
+    ],
+    "description": "Upwey Primary School (School No. 4530) (VA 5737) is a co-educational government primary school located in Upwey, among the Dandenong Ranges in Melbourne&#39;s eastern suburbs. The school opened in August 1934 as Upwey State School, initially operating from the Church of England Hall at the corner of Morris Road and Burwood Avenue.<br />\r\n<br />\r\nThree years later, in 1937, a separate Higher Elementary School was established on a new site in Collier Avenue, purchased with contributions from the Department, the Ferntree Gully Council and local residents. This school became Upwey High School (School No. 8415) in 1945. Around the 1950s or 1960s, a fire destroyed many Upwey Primary School records that had been stored at Upwey High School.<br />\r\n<br />\r\nPrimary classes moved into the new site in 1946, occupying a double-storey brick building.<br />\r\n<br />\r\nIn 1970, a statewide decision changed the use of the term &#39;State School&#39;. It now covered all primary, secondary and technical schools, not just primary schools. Primary schools adopted the term &#39;Primary School&#39; in their name. The school name changed to Upwey Primary School around this time.<br />\r\n<br />\r\nBy 2025, Upwey Primary School had grown beyond the original historic school building. The site included four main buildings, an indoor multi-purpose hall, classrooms, an art room, a STEM room, a computer lab, a library and an administration building.<br />\r\n<br />\r\nIn 2026, the school remains in operation with an enrolment of 126 students.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "440EF9A1-7416-11F0-8856-DDF406198C7D",
+    "identifier.PROV_ACM.id": "VA 5737",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1934",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1787294800,
+    "title": "Upwey Primary School (School No. 4530; previously known as Upwey State School 1934 \u2013 1970)"
   },
   {
     "_id": "B4E11A2B-9424-11F0-8856-91D4AAA0F891",
