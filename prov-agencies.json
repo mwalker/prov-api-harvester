@@ -27755,13 +27755,13 @@
   },
   {
     "_id": "8BF9467F-F3AA-11E9-AE98-AFD9EFC5A684",
-    "_version_": 1839092940102696961,
+    "_version_": 1874697548237635584,
     "category": "Agency",
     "citation": "VA 2482",
     "date_range": [
       "[1957 TO 1994]"
     ],
-    "description": "This council was abolished on 18 November 1994 as part of a statewide program of local government reform enacted between 1993 and 1995.  The reform process reduced the number of councils from 210 to 78.  The Shire of Moira (VA 3705) has been appointed as the successor in law of the Shire of Numurkah II and has assumed its rights, assets and liabilities.<br/>",
+    "description": "This council was abolished on 18 November 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. The Shire of Moira (VA 3705) has been appointed as the successor in law of the Shire of Numurkah II and has assumed its rights, assets and liabilities, which included water and sewerage functions.",
     "end_dt": "1994",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -27784,7 +27784,7 @@
     "start_dt": "1957",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857678,
+    "timestamp": 1787798902,
     "title": "Numurkah II (Shire 1957-1994)"
   },
   {
@@ -46393,7 +46393,7 @@
   },
   {
     "_id": "EFDEDA88-F3AA-11E9-AE98-C1B1376B3217",
-    "_version_": 1866996806534037504,
+    "_version_": 1874697547195351044,
     "category": "Agency",
     "citation": "VA 3258",
     "date_range": [
@@ -46422,7 +46422,7 @@
     "start_dt": "1889",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1780478476,
+    "timestamp": 1787709235,
     "title": "Darriman State School (School No. 3013)"
   },
   {
@@ -119610,5 +119610,39 @@
     "status": "Published",
     "timestamp": 1786320221,
     "title": "Myrrhee Primary School (School No. 2677; previously known as Boggy Creek Upper School; Myrrhee State School 1885 \u2013 circa 1970)"
+  },
+  {
+    "_id": "2D36EE28-898B-11F1-9CAC-0368D77A3C25",
+    "_version_": 1874697548432670720,
+    "category": "Agency",
+    "citation": "VA 5861",
+    "date_range": [
+      "[1891 TO 1983]"
+    ],
+    "description": "The Kilmore Waterworks Trust was established in 1891.<br />\r\n<br />\r\nUnder Section 8 of the <em>Water and Sewerage Authorities (Restructuring) Act 1983</em> (No. 9895) many Waterworks Trusts and Sewerage Authorities were abolished. Water Boards replaced Waterworks Trusts and Sewerage Authorities, or the functions were transferred to Municipalities. The body which the functions of Kilmore&#39;s water management were transferred to from 1983 was likely the Shire of Kilmore Water Board (VA 2233). In 1994, the&nbsp;Goulburn Valley Region Water Authority (VA 4243) assumed all relevant water management functions.",
+    "end_dt": "1983",
+    "end_dt_qual": "?",
+    "entity": "Agent",
+    "identifier.PID.id": "2D36EE28-898B-11F1-9CAC-0368D77A3C25",
+    "identifier.PROV_ACM.id": "VA 5861",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1891",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1787803033,
+    "title": "Kilmore Waterworks Trust"
   }
 ]
