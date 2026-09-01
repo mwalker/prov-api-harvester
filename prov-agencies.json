@@ -24967,13 +24967,13 @@
   },
   {
     "_id": "7DA44CA1-F3AA-11E9-AE98-3BC0B5F04FD1",
-    "_version_": 1839092940033490945,
+    "_version_": 1875059935444729858,
     "category": "Agency",
     "citation": "VA 2395",
     "date_range": [
       "[1857 TO 1994]"
     ],
-    "description": null,
+    "description": "Broadmeadows was declared as a road district in 27 November 1857 under the <em>Act for making and improving Roads in the Colony of Victoria</em> (Victoria Government Gazette No. 138, November 27 1857). Broadmeadows was then proclaimed a Shire on 27 January 1871, and a City on 30 May 1956.<br />\r\n<br />\r\nThis council was abolished in 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. Hume City Council (VA 3695) has was appointed as the successor in law of the City of Broadmeadows and assumed its rights, assets and liabilities.",
     "end_dt": "1994",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -24996,7 +24996,7 @@
     "start_dt": "1857",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857666,
+    "timestamp": 1788145088,
     "title": "Broadmeadows (Road District 1857-1871; Shire 1871- 1956; City 1956-1994)"
   },
   {
@@ -26667,13 +26667,13 @@
   },
   {
     "_id": "8BAEA8AC-F3AA-11E9-AE98-BDCDBAFCEEAA",
-    "_version_": 1839092940075433984,
+    "_version_": 1875059935482478600,
     "category": "Agency",
     "citation": "VA 2449",
     "date_range": [
       "[1856 TO 1875]"
     ],
-    "description": null,
+    "description": "Kilmore was first incorporated as a road district in 1857, declared a borough in 1863 and a shire in 1875. The establishment of each are subject to further research.",
     "end_dt": "1875",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -26696,7 +26696,7 @@
     "start_dt": "1856",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857673,
+    "timestamp": 1788154749,
     "title": "Kilmore I (Municipal District 1856-1863; Borough 1863-1875)"
   },
   {
@@ -67141,13 +67141,13 @@
   },
   {
     "_id": "45228C4B-F3AB-11E9-AE98-B9BB066B7382",
-    "_version_": 1839092942734622720,
+    "_version_": 1875059935448924160,
     "category": "Agency",
     "citation": "VA 3870",
     "date_range": [
       "[1900 TO 1993]"
     ],
-    "description": "Port Welshpool Primary School (School No. 3375) (VA 3870) was a co-educational primary school located in South Gippsland.<br />\r\n<br />\r\nThe school first opened in 1900 as Port Welshpool State School. It was run out of a rented building until 1915, when a new site was established for the school North of the town. A building from another town was moved onto the site to house the 30 students enrolled. This building was burned down, however, in 1934 and schooling was moved to the nearby public hall. Another building was subsequently brought to the site and used for the next 25 years. It was replaced in 1957 by a new prefabricated school on a new site near the township, on the corner of Stewart and Dobson Streets.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Port Welshpool Primary School.&nbsp;<br />\r\n<br />\r\nEnrolment numbers declined and at the end of 1993, Port Welshpool Primary School was closed and merged with Welshpool Primary School (School No. 3011) to form the new Welshpool and District Primary School (School No. 5396). The new school took over the former Welshpool Primary<br />\r\nschool site, and the Port Welshpool school building was demolished to make way for a private residence.",
+    "description": "Port Welshpool Primary School (School No. 3375) (VA 3870) was a co-educational primary school located in South Gippsland.<br />\r\n<br />\r\nThe school first opened in 1900 as Port Welshpool State School. It was run out of a rented building until 1915, when a new site was established for the school North of the town. A building from another town was moved onto the site to house the 30 students enrolled. This building was burned down, however, in 1934 and schooling was moved to the nearby public hall. Another building was subsequently brought to the site and used for the next 25 years. It was replaced in 1957 by a new prefabricated school on a new site near the township, on the corner of Stewart and Dobson Streets.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Port Welshpool Primary School.&nbsp;<br />\r\n<br />\r\nEnrolment numbers declined and at the end of 1993, Port Welshpool Primary School was closed and merged with Welshpool Primary School (School No. 3011) to form the new Welshpool and District Primary School (School No. 5396). The new school took over the former Welshpool Primary school site, and the Port Welshpool school building was demolished to make way for a private residence.",
     "end_dt": "1993",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -67170,7 +67170,7 @@
     "start_dt": "1900",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857968,
+    "timestamp": 1788145315,
     "title": "Port Welshpool Primary School (School No. 3375; previously known as Port Welshpool State School 1900 \u2013 c. 1970)"
   },
   {
@@ -119613,13 +119613,13 @@
   },
   {
     "_id": "2D36EE28-898B-11F1-9CAC-0368D77A3C25",
-    "_version_": 1874697548432670720,
+    "_version_": 1875059935409078272,
     "category": "Agency",
     "citation": "VA 5861",
     "date_range": [
       "[1891 TO 1983]"
     ],
-    "description": "The Kilmore Waterworks Trust was established in 1891.<br />\r\n<br />\r\nUnder Section 8 of the <em>Water and Sewerage Authorities (Restructuring) Act 1983</em> (No. 9895) many Waterworks Trusts and Sewerage Authorities were abolished. Water Boards replaced Waterworks Trusts and Sewerage Authorities, or the functions were transferred to Municipalities. The body which the functions of Kilmore&#39;s water management were transferred to from 1983 was likely the Shire of Kilmore Water Board (VA 2233). In 1994, the&nbsp;Goulburn Valley Region Water Authority (VA 4243) assumed all relevant water management functions.",
+    "description": "The Kilmore Waterworks Trust was established in 1891.<br />\r\n<br />\r\nUnder Section 8 of the <em>Water and Sewerage Authorities (Restructuring) Act 1983</em> (No. 9895) many Waterworks Trusts and Sewerage Authorities were abolished. Water Boards replaced Waterworks Trusts and Sewerage Authorities, or the functions were transferred to Municipalities. The body which the functions of Kilmore&#39;s water management were transferred to from 1983 was likely the Shire of Kilmore Water Board (VA 2233); however this is subject to further research. Subsequently, in 1994, the&nbsp;Goulburn Valley Region Water Authority (VA 4243) assumed all relevant water management functions.",
     "end_dt": "1983",
     "end_dt_qual": "?",
     "entity": "Agent",
@@ -119642,7 +119642,7 @@
     "start_dt": "1891",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1787803033,
+    "timestamp": 1788132687,
     "title": "Kilmore Waterworks Trust"
   }
 ]
