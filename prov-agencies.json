@@ -119172,6 +119172,40 @@
     "title": "Beechworth Correctional Centre"
   },
   {
+    "_id": "A3CCDD06-BDF3-11F0-8856-5951ED319F78",
+    "_version_": 1875331726450884608,
+    "category": "Agency",
+    "citation": "VA 5770",
+    "date_range": [
+      "[1880 TO 3000]"
+    ],
+    "description": "Magpie Primary School (School No. 2271) (VA 5770) is a co-educational government primary school located in Magpie, approximately 5 km south of Ballarat.<br />\r\n<br />\r\nThe school opened in 1880 in a new brick building, replacing the former Magpie Gully State School (School No. 425), and initially accommodated 122 pupils.<br />\r\n<br />\r\nThe school closed in 1894 during a period of retrenchment and remained closed for twenty-one years. Following representations to the Victorian Government, the school was renovated and reopened between 1913 and 1916. Further renovations took place in 1923. A school plantation was later established and maintained by a school committee and parent group, eventually covering an area of 15 acres.<br />\r\n<br />\r\nFrom 1986, the school&#39;s classrooms consisted entirely of relocatable buildings. In May 2011, the school underwent a substantial refurbishment, including new classrooms, new toilets and the completion of upgrades to the administration building, which by that time was 131 years old. In 2015, an art and community shed was added to the site, used for both student and community purposes.<br />\r\n<br />\r\nEnrolment was 52 students in 2014. In 2025, Magpie Primary School remains in operation with an enrolment of 102 students.<br />\r\n<br />\r\nMagpie Primary School should not be confused with Magpie Gully State School (School No. 425), which operated nearby from 1857 to 1880.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "A3CCDD06-BDF3-11F0-8856-5951ED319F78",
+    "identifier.PROV_ACM.id": "VA 5770",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1880",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788404678,
+    "title": "Magpie Primary School (School No. 2271; previously known as Magpie Gully State School 1880 \u2013 1892; Magpie State School 1892 \u2013 circa 1970)"
+  },
+  {
     "_id": "957296B4-BDF4-11F0-8856-EB4F6FC3EFDA",
     "_version_": 1852859903637454853,
     "category": "Agency",
@@ -119304,6 +119338,40 @@
     "status": "Published",
     "timestamp": 1764571327,
     "title": "Series-Agency Relationship Publishing Issue Test Agency"
+  },
+  {
+    "_id": "061E0C1D-C97E-11F0-8856-6D057DA6F74E",
+    "_version_": 1875331726457176080,
+    "category": "Agency",
+    "citation": "VA 5780",
+    "date_range": [
+      "[1925 TO 3000]"
+    ],
+    "description": "Mount Alexander College (School No. 7763) (VA 5780) is a coeducational government secondary school located in Flemington, in Melbourne&#39;s inner northern suburbs.&nbsp;<br />\r\n<br />\r\nThe early administrative history of the school is unclear and subject to further research. It is not known precisely when the secondary department became administratively separate from Flemington Primary School (School No. 250) (VA 5784), which was known as Flemington State School at the time. &nbsp;It is unclear when the school was assigned the school number 7763.<br />\r\n<br />\r\nThe Flemington School of Domestic Arts opened in 1925 and catered exclusively for girls in Forms 1 to 3. The school operated from a large brick building formerly occupied by Flemington State School, which had relocated across the road at the end of 1924.<br />\r\n<br />\r\nIn 1931, the school was renamed Flemington Girls&#39; Secondary School. It was renamed Flemington Girls&#39; High School in 1966 and Debney Park High School in 1973. In 1990, the school became Debney Park Secondary College following the implementation of the Change of School Name and Reclassification of Schools Executive Memorandum No. 314 issued by the Ministry of Education (VA 1112).<br />\r\n<br />\r\nIn 1992, the Flemington English Language Centre relocated from Flemington Secondary College (School No. 7835) (VA 3773) to the Debney Park Secondary College site. The centre remained there until 1999, when it closed and merged with the Maribyrnong English Language Centre campus of Maribyrnong College (School No. 8015).<br />\r\n<br />\r\nDuring the mid 1990s, the school&#39;s two storey rendered brick building was demolished due to severe cracking, despite its inclusion on the Government Historic Buildings Register.<br />\r\n<br />\r\nIn 2012, the school was renamed Mount Alexander College.<br />\r\n<br />\r\nIn 2023, construction was completed on a five storey learning hub incorporating an amphitheatre and central square.<br />\r\n<br />\r\nAs of 2025, Mount Alexander College remains in operation with an enrolment of approximately 785 students.<br />\r\n<br />\r\nFor further information, researchers should also consult records relating to Flemington Secondary College (School No. 7835) (VA 3773), which operated from 1964 to 1992, and Flemington Primary School (School No. 250) (VA 5784), which opened as a National School in 1858. The administrative histories of these schools are closely connected, and the precise relationships between them remain subject to further research.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "061E0C1D-C97E-11F0-8856-6D057DA6F74E",
+    "identifier.PROV_ACM.id": "VA 5780",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1925",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788405817,
+    "title": "Mount Alexander College (School No. 7763; also known as MAC; previously known as Flemington Domestic Arts School 1925 \u2013 1931; Flemington Girls\u2019 Secondary School 1931 \u2013 1966; Flemington Girls High School 1966 \u2013 1973; Debney Park High School 1973 \u2013 1983; Debney Park Secondary College 1983 \u2013 2011)"
   },
   {
     "_id": "FFD3A3D6-DAD3-11F0-8856-8F2B7696CFA2",
