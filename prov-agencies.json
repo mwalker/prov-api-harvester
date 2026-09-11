@@ -26667,7 +26667,7 @@
   },
   {
     "_id": "8BAEA8AC-F3AA-11E9-AE98-BDCDBAFCEEAA",
-    "_version_": 1875059935482478600,
+    "_version_": 1875965904791011329,
     "category": "Agency",
     "citation": "VA 2449",
     "date_range": [
@@ -26696,7 +26696,7 @@
     "start_dt": "1856",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788154749,
+    "timestamp": 1788913998,
     "title": "Kilmore I (Municipal District 1856-1863; Borough 1863-1875)"
   },
   {
@@ -27007,13 +27007,13 @@
   },
   {
     "_id": "8BC787F1-F3AA-11E9-AE98-937C467A078F",
-    "_version_": 1839092940083822592,
+    "_version_": 1875965904779476992,
     "category": "Agency",
     "citation": "VA 2460",
     "date_range": [
       "[1864 TO 1994]"
     ],
-    "description": "On 23 December 1864 an Order in Council redefined and renamed the Heathcote Road District as the Shire of McIvor.  (The Road District had only been established on 15 June 1863.)<br/><br/>Local Government Reform 1993-1995<br/><br/>This council was abolished on 18 November 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. The Greater Bendigo City Council (VA 3689), Mitchell Shire Council (VA 3704) and Strathbogie Shire Council VA 3720) have been appointed as the successor in law of the Shire of McIvor and have assumed its rights, assets and liabilities.",
+    "description": "On 23 December 1864 an Order in Council redefined and renamed the Heathcote Road District as the Shire of McIvor. (The Road District had only been established on 15 June 1863.)<br />\r\n<br />\r\nLocal Government Reform 1993-1995<br />\r\n<br />\r\nThis council was abolished on 18 November 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. The Greater Bendigo City Council (VA 3689), Mitchell Shire Council (VA 3704) and Strathbogie Shire Council VA 3720) have been appointed as the successor in law of the Shire of McIvor and have assumed its rights, assets and liabilities.",
     "end_dt": "1994",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -27036,7 +27036,7 @@
     "start_dt": "1864",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857674,
+    "timestamp": 1788913801,
     "title": "McIvor (Shire 1864-1994)"
   },
   {
@@ -59381,13 +59381,13 @@
   },
   {
     "_id": "27EB743E-F3AB-11E9-AE98-977A089B247D",
-    "_version_": 1866996806542426112,
+    "_version_": 1875965904937811968,
     "category": "Agency",
     "citation": "VA 3641",
     "date_range": [
       "[1874 TO 1992]"
     ],
-    "description": null,
+    "description": "Port Melbourne Primary School (School No. 1427) (VA 3641) was a coeducational primary school located on Nott Street, Port Melbourne.<br />\r\n<br />\r\nThe school first opened in 1874 as Sandridge State School, out of a red brick building on Nott Street. It replaced Sandridge National School (School No. 542), Sandridge Wesleyan School (School No. 590) and Sandridge Catholic School (School No. 602), which all closed when the State school opened. At the time the area was the Borough of Sandridge, before the Borough of Port Melbourne was proclaimed in 1884. It seems likely the school became known as Port Melbourne State School from this time.&nbsp;<br />\r\n<br />\r\nIn 1889, Graham Street State School (School No. 2932) (VA 5711) was opened as an annex to Nott Street, in response to significantly rising enrolments. They operated in partnership until 1908 when the two schools were formally separated. While both schools were called Port Melbourne, they were typically differentiated by street address and were known as Nott Street State School and Graham Street State School. &nbsp;<br />\r\n<br />\r\nFollowing a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name, the school became known as Nott Street Primary School.&nbsp;<br />\r\n<br />\r\nIn 1992, due to falling enrolments, Nott Street Primary School was closed and merged with Graham Street Primary School, which officially changed its name to Port Melbourne Primary School in 2000. Port Phillip Specialist School (School No. 5145) relocated onto the vacated Nott Steet site in 1996.<br />\r\n<br />\r\nPort Melbourne Primary School (Nott Street) (School No. 1427) should not be confused with Port Melbourne Primary School (Graham Street) (School No. 2932) which opened in 1889 and as of 2026 continues to operate.",
     "end_dt": "1992",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -59401,17 +59401,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1874 TO 1992]",
-    "name.official_title.end_dt": "1992",
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": "1874",
+    "name.official_title.start_dt": null,
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Port Melbourne - Nott Street (Primary School No.1427; previously known as Sandridge 1874-1884)",
+    "name.official_title.title": null,
     "start_dt": "1874",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1780478478,
-    "title": "Port Melbourne - Nott Street (Primary School No.1427; previously known as Sandridge 1874-1884)"
+    "timestamp": 1788937316,
+    "title": "Port Melbourne Primary School (School No. 1427; previously known as Sandridge State School 1874 \u2013 c.1884; Port Melbourne State School c.1884 \u2013 c.1970; also known as Nott Street Primary School)"
   },
   {
     "_id": "27ECACBF-F3AB-11E9-AE98-A9411DAD5F05",
@@ -61217,13 +61217,13 @@
   },
   {
     "_id": "284617BB-F3AB-11E9-AE98-D18B8011F0AF",
-    "_version_": 1866996806606389248,
+    "_version_": 1875965904792059908,
     "category": "Agency",
     "citation": "VA 3695",
     "date_range": [
       "[1994 TO 3000]"
     ],
-    "description": null,
+    "description": "Hume City Council (VA 3695) was established in 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. Hume City Council was appointed as the successor in law of Bulla Shire (VA 2396), and partially City of Broadmeadows (VA 2395) and City of Keilor (VA 987);&nbsp;assuming their rights, assets and liabilities.",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -61246,7 +61246,7 @@
     "start_dt": "1994",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1780478487,
+    "timestamp": 1788914269,
     "title": "Hume (City 1994-ct)"
   },
   {
@@ -61523,13 +61523,13 @@
   },
   {
     "_id": "2855F64E-F3AB-11E9-AE98-099A8AD29DCE",
-    "_version_": 1866996805765431296,
+    "_version_": 1875965904795205634,
     "category": "Agency",
     "citation": "VA 3704",
     "date_range": [
       "[1994 TO 3000]"
     ],
-    "description": null,
+    "description": "Mitchell Shire Council (VA 3704) was established in 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. Mitchell Shire Council was appointed as the successor in law of Shire of Pyalong (VA 2492), Shire of Kilmore (VA 3735), Rural City of Seymour (VA 2506) and partially Shire of McIvor (VA 2460); assuming their rights, assets and liabilities.",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -61552,7 +61552,7 @@
     "start_dt": "1994",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1780478398,
+    "timestamp": 1788914311,
     "title": "Mitchell (Shire 1994-ct)"
   },
   {
@@ -62577,13 +62577,13 @@
   },
   {
     "_id": "31621752-F3AB-11E9-AE98-4D1345BAF626",
-    "_version_": 1839092943009349632,
+    "_version_": 1875965904792059905,
     "category": "Agency",
     "citation": "VA 3735",
     "date_range": [
       "[1875 TO 1995]"
     ],
-    "description": null,
+    "description": "The Shire of Kilmore was established in 1875, electing its first president in the week of 22 January 1875. The particulars of its establishment are subject to further research.",
     "end_dt": "1995",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -62602,12 +62602,12 @@
     "name.official_title.end_dt_qual": null,
     "name.official_title.start_dt": "1875",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Kilmore II (Shire 1875-1995)",
+    "name.official_title.title": "Kilmore II (Shire 1875 - 1995)",
     "start_dt": "1875",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753858002,
-    "title": "Kilmore II (Shire 1875-1995)"
+    "timestamp": 1788914032,
+    "title": "Kilmore II (Shire 1875 - 1995)"
   },
   {
     "_id": "31639DF4-F3AB-11E9-AE98-B981C954186B",
@@ -89920,6 +89920,40 @@
     "title": "Doncaster Park Primary School (School No. 4861; previously known as Doncaster Park State School 1962 \u2013 c.1970)"
   },
   {
+    "_id": "B728759E-F3AB-11E9-AE98-414FD80FDDAD",
+    "_version_": 1875965904825614337,
+    "category": "Agency",
+    "citation": "VA 4646",
+    "date_range": [
+      "[1957 TO 1997]"
+    ],
+    "description": "Eastmoor Primary School (School No. 4790) (VA 4646) was a coeducational primary school in Bentleigh East, in Melbourne&rsquo;s southeastern suburbs.&nbsp;<br />\r\n<br />\r\nIt first opened in 1957 as Eastmoor State School, in response to rapid development in the City of Moorabbin area. The initial eight-room building was rapidly expanded to meet enrolment demands.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Eastmoor Primary School.&nbsp;<br />\r\n<br />\r\nIn 1998, Eastmoor Primary School was closed and merged with Tucker Road Bentleigh Primary School (School No. 4687) (VA 45649). Some of the Eastmoor site was repurposed as the Southern Autistic School (School No. 5253), and some became a housing estate.",
+    "end_dt": "1997",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "B728759E-F3AB-11E9-AE98-414FD80FDDAD",
+    "identifier.PROV_ACM.id": "VA 4646",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1957",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923383,
+    "title": "Eastmoor Primary School (School No. 4790; previously known as Eastmoor State School 1957 - 1970)"
+  },
+  {
     "_id": "B74B8E26-F3AB-11E9-AE98-EB42DD2E98E1",
     "_version_": 1866996806199541760,
     "category": "Agency",
@@ -106583,19 +106617,21 @@
   },
   {
     "_id": "FC263203-66C7-11ED-B1A7-89FFA3F49399",
-    "_version_": 1866996806552911872,
+    "_version_": 1875965904904257536,
     "category": "Agency",
     "citation": "VA 5275",
     "date_range": [
       "[1855 TO 3000]"
     ],
-    "description": "<p style=\"margin-bottom:0cm; margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">Taradale Primary School opened as Taradale National School on 1 April 1855. There were 27 students initially enrolled at the school with an average attendance of 18 students.</span></span></span><br />\r\n<br />\r\n<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">Additions to the schoolhouse were made in 1874. By 1877 the average student attendance grew to 205.</span></span></span><br />\r\n<br />\r\n<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">As mining was the predominant occupation in the region, the school provided night classes for pupils aged between 12 to 35 years of age.</span></span></span><br />\r\n<br />\r\n<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">The original timber residential building was replaced in the early 1900s.</span></span></span><br />\r\n<br />\r\n<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">During the period of the first World War, 1914 &ndash; 1918, the school&rsquo;s population had fallen to approximately 75 students, and this number remained steady until the 1930s. </span></span></span><br />\r\n<br />\r\n<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">Due to the decline in mining and commerce in the 1930s, the population of Taradale dropped. During this time school enrolments averaged between 20 to 30 students. By 1967 the enrolments stood at 31 pupils.</span></span></span><br />\r\n<br />\r\n<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">In 1968, much of the flooring in the original bluestone and brick building was replaced, and in 1970 the school named was changed to Taradale Primary School.</span></span></span><br />\r\n<br />\r\n<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">In 1995, the building from the closed Metcalfe Primary School No. 851 was moved to Taradale and used as a multi-purpose room.</span></span></span><br />\r\n<br />\r\n<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">In 2005, Taradale Primary School celebrated its 150<sup>th</sup> anniversary with a plaque being dedicated at the entrance of the school building. The original school building is still in use today [2022].</span></span></span></p>\r\n",
+    "description": "<p style=\"margin-bottom:0cm; margin:0cm 0cm 8pt\">Taradale Primary School (School No. 614) (VA 5275) is a rural primary school located in the Yarra Valley, 65 kilometres east of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school was first established in 1855 as Taradale National School, under the National School Board (VA 919), serving a primarily gold mining community. In 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). &nbsp;With the passing of this act, the school was re-named Taradale Common School and was given the number 614.<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Taradale State School.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Taradale Primary School.<br />\r\n<br />\r\nAs of 2026, Taradale Primary School continues to operate, with the original building still in use.<br />\r\n<br />\r\nTaradale Primary School (School No. 614) should not be confused with Taradale Catholic Church School (School No. 636) which operated from 1857 to 1863.</p>\r\n",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
     "identifier.PID.id": "FC263203-66C7-11ED-B1A7-89FFA3F49399",
     "identifier.PROV_ACM.id": "VA 5275",
-    "jurisdictional_coverage": null,
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
     "name.aka.date_range": null,
     "name.aka.end_dt": null,
     "name.aka.end_dt_qual": null,
@@ -106610,8 +106646,8 @@
     "start_dt": "1855",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1780478478,
-    "title": "Taradale Primary School (formerly Taradale National School, Taradale Common School, Taradale State School)"
+    "timestamp": 1788924324,
+    "title": "Taradale Primary School (School No. 614; previously known as Taradale National School 1855 \u2013 1862; Taradale Common School 1862 \u2013 1873; Taradale State School 1873 \u2013 c.1970)"
   },
   {
     "_id": "FC3C2B04-66C7-11ED-B1A7-0FF58B67836E",
@@ -114146,6 +114182,40 @@
     "title": "Hesket Primary School (School No. 1004; previously The American Steam Sawmill School 1870-1879; Hesket State School 1879-1970)"
   },
   {
+    "_id": "033ED040-3F26-11EF-A95C-4F0858BBE9E7",
+    "_version_": 1875965904841342977,
+    "category": "Agency",
+    "citation": "VA 5508",
+    "date_range": [
+      "[1872 TO 3000]"
+    ],
+    "description": "Mansfield Primary School (School No. 1112) (VA 5508) is a government primary school located in Mansfield, in the foothills of the Victorian Alps.<br />\r\n<br />\r\nThe school first opened in 1872 as Mansfield Common School, replacing the previous Mansfield Common School (School No. 429).&nbsp;<br />\r\n<br />\r\nAround 1873 the school changed its name to Mansfield State School. This was due to the Education Act (Vic) 1872, which established the Victorian Education Department (VA 714) and a subsequent change to school naming conventions.<br />\r\n<br />\r\nIn 1911, an Agricultural School was erected on the Mansfield State School site, offering secondary classes. From 1924, the two schools combined to become Mansfield Higher Elementary School. In 1963, Mansfield High School was opened and secondary classes moved to the new school, with Mansfield State School reverting back to a primary school.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Mansfield Primary School.&nbsp;<br />\r\n<br />\r\nMansfield Primary School celebrated 150 years in 2022, and as of 2026 continues to operate.<br />\r\n<br />\r\nMansfield Primary School (School No. 1112) should not be confused with Mansfield Common School (School No. 429) which operated from 1858 to 1872.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "033ED040-3F26-11EF-A95C-4F0858BBE9E7",
+    "identifier.PROV_ACM.id": "VA 5508",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1872",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923649,
+    "title": "Mansfield Primary School (School No. 1112; previously known as Mansfield Common School 1872 \u2013 c.1873; Mansfield State School c.1873 \u2013 1924, 1963 \u2013 c.1970; Mansfield Higher Elementary School 1924 - 1963)"
+  },
+  {
     "_id": "54762266-3F26-11EF-A95C-69448F0BB2F4",
     "_version_": 1869624118098264072,
     "category": "Agency",
@@ -115128,6 +115198,40 @@
     "status": "Published",
     "timestamp": 1782207790,
     "title": "Sandhill Lake State School (School No. 4797)"
+  },
+  {
+    "_id": "3725F977-643E-11EF-80A4-1D3945D2A6AD",
+    "_version_": 1875965904827711488,
+    "category": "Agency",
+    "citation": "VA 5583",
+    "date_range": [
+      "[1878 TO 1970]"
+    ],
+    "description": "Boxwood State School (School No. 2089) (VA 5583) was a small government primary school located in the Goulburn region of northern Victoria.<br />\r\n<br />\r\nThe school first opened in 1878 as Lime Kilns State School. It closed in 1918 due to low enrolments, before reopening in 1923 on a new site and under the new name of Boxwood State School.<br />\r\n<br />\r\nBoxwood State School continued to struggle with low enrolments, becoming unstaffed in 1951. It reopened in 1954 as a full-time school but closed for the final time in 1970.",
+    "end_dt": "1970",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "3725F977-643E-11EF-80A4-1D3945D2A6AD",
+    "identifier.PROV_ACM.id": "VA 5583",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1878",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923403,
+    "title": "Boxwood State School (School No. 2089; previously known as Lime Kilns State School 1878 \u2013 c.1918)"
   },
   {
     "_id": "451C7F98-643E-11EF-80A4-7D5D58A516B0",
@@ -116354,6 +116458,40 @@
     "title": "Moorabbin Primary School (School No. 1111; previously known as South Brighton Common School 1872 \u2013 c.1873; South Brighton State School c.1873 \u2013 c.1909; Moorabbin State School c.1909 \u2013 c.1970)"
   },
   {
+    "_id": "4A74AE97-DF60-11EF-80A4-8FE0A3236DCE",
+    "_version_": 1875965904826662912,
+    "category": "Agency",
+    "citation": "VA 5627",
+    "date_range": [
+      "[1863 TO 1947]"
+    ],
+    "description": "Couangalt State School (School No. 702) (VA 5627) was a government primary school located on Couangalt Road, Gisborne South, in the Macedon Ranges north of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1863 as Cabbage Tree Hill Common School. The Education Act of 1872 established the Victorian Education Department (VA 714) which marked a change to school naming conventions, with the school becoming Cabbage Tree Hill State School. &nbsp;<br />\r\n<br />\r\nIn 1885, the school name was changed to Couangalt State School.<br />\r\n<br />\r\nCouangalt State School closed in 1947 due to low enrolments.&nbsp;",
+    "end_dt": "1947",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "4A74AE97-DF60-11EF-80A4-8FE0A3236DCE",
+    "identifier.PROV_ACM.id": "VA 5627",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1863",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923394,
+    "title": "Couangalt State School (School No. 702; previously known as Cabbage Tree Hill Common School 1863 \u2013 c.1873; Cabbage Tree Hill State School c.1873 \u2013 1885)"
+  },
+  {
     "_id": "694C7EB8-DF60-11EF-80A4-B925F2C4E6A0",
     "_version_": 1858839303521566724,
     "category": "Agency",
@@ -116590,6 +116728,40 @@
     "status": "Published",
     "timestamp": 1785374280,
     "title": "Murrungowar State School (School No. 3692)"
+  },
+  {
+    "_id": "C71B8951-DF6B-11EF-80A4-153467D0B39A",
+    "_version_": 1875965904825614336,
+    "category": "Agency",
+    "citation": "VA 5637",
+    "date_range": [
+      "[1901 TO 1960]"
+    ],
+    "description": "Mafeking State School (School No. 3388) (VA 5637) was a small rural primary school associated with the Mafeking goldfield near Ararat. Mafeking was a smaller township in the Mount William gold district. &nbsp;&nbsp;<br />\r\n<br />\r\nIt first opened in 1901 in a single-room building belonging to miners, before moving into a large hall owned by the hotel keeper. The building was destroyed by fire in 1910 and the school closed. In 1939, a new school building was built by the local community and Mafeking State School reopened. It closed once more in 1944 before reopening in 1948.&nbsp;<br />\r\n<br />\r\nMafeking State School closed for the final time in 1960.<br />\r\n<br />\r\nThe school may have initially opened under the name Mount William State School but was otherwise known as Mafeking State School.",
+    "end_dt": "1960",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "C71B8951-DF6B-11EF-80A4-153467D0B39A",
+    "identifier.PROV_ACM.id": "VA 5637",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1901",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923372,
+    "title": "Mafeking State School (School No. 3388; also known as Mount William State School)"
   },
   {
     "_id": "D94AD722-DF6B-11EF-80A4-2F16B095056D",
@@ -116896,6 +117068,108 @@
     "status": "Published",
     "timestamp": 1772601367,
     "title": "West Creek Primary School (School No. 4620; previously known as West Creek State School 1947 \u2013 c.1970)"
+  },
+  {
+    "_id": "010E7A4B-DF6D-11EF-80A4-7F35F31B6864",
+    "_version_": 1875965904827711489,
+    "category": "Agency",
+    "citation": "VA 5647",
+    "date_range": [
+      "[1874 TO 3000]"
+    ],
+    "description": "Dandenong Primary School (School No. 1403) (VA 5647) is a government primary school located in the southeastern suburbs of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1874 as Dandenong State School. In 1881 the school moved to a new site with a purpose-built brick school building. Several additions were made to the school site and facilities over the years to meet increasing enrolment demands.<br />\r\n<br />\r\nIn 1894, the nearby Hallam State School became an adjunct to Dandenong State School, with older students from Hallam attending classes at Dandenong. In 1904 Hallam was separated from Dandenong and moved to its own site on Hallam&rsquo;s Road.&nbsp;<br />\r\n<br />\r\nIn 1962, Dandenong State School became a designated training school for Frankston Teachers&rsquo; College.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Dandenong Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Dandenong Primary School continues to operate.<br />\r\n<br />\r\nDandenong Primary School (School No. 1403) should not be confused with Dandenong Church of England School (School No. 186) which operated from 1855 until 1874, or with the following similarly named schools:\r\n<ul>\r\n\t<li>Dandenong South Primary School (School No. 4810) (VA 5848), open since 1961</li>\r\n\t<li>Dandenong North Primary School (School No. 4723), open since 1954</li>\r\n\t<li>Dandenong West Primary School (School No. 4217), open since 1925</li>\r\n\t<li>Mount Dandenong Primary School (School No. 3284), open since 1897</li>\r\n</ul>\r\n",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "010E7A4B-DF6D-11EF-80A4-7F35F31B6864",
+    "identifier.PROV_ACM.id": "VA 5647",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1874",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923417,
+    "title": "Dandenong Primary School (School No. 1403; previously known as Dandenong State School 1874 \u2013 c.1970)"
+  },
+  {
+    "_id": "133DA10C-DF6D-11EF-80A4-7D08833EDF59",
+    "_version_": 1875965904823517184,
+    "category": "Agency",
+    "citation": "VA 5648",
+    "date_range": [
+      "[1922 TO 1970]"
+    ],
+    "description": "Mininera East State School (School No. 4095) (VA 5648) was a government primary school located in south-west Victoria, in the Rural City of Ararat.<br />\r\n<br />\r\nThe school was opened in 1922, in response to children in the area having to travel large distance to access other schools in the area.&nbsp;<br />\r\n<br />\r\nMininera East State School closed in 1970, likely due to declining enrolments.&nbsp;<br />\r\n<br />\r\nMininera East State School (School No. 4095) should not be confused with Mininera Primary School (School No. 3851) (VA 3861) which operated from 1914 to 1975.",
+    "end_dt": "1970",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "133DA10C-DF6D-11EF-80A4-7D08833EDF59",
+    "identifier.PROV_ACM.id": "VA 5648",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1922",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923312,
+    "title": "Mininera East State School (School No. 4095)"
+  },
+  {
+    "_id": "23047A5D-DF6D-11EF-80A4-7D28E5932154",
+    "_version_": 1875965904820371456,
+    "category": "Agency",
+    "citation": "VA 5649",
+    "date_range": [
+      "[1954 TO 3000]"
+    ],
+    "description": "Tucker Road Bentleigh Primary School (School No. 4687) (VA 5649) is a coeducational primary school located in Melbourne&rsquo;s southeast suburbs.<br />\r\n<br />\r\nThe school first opened in 1954 as Moorabbin State School, with eight classrooms, an office and two staffrooms on a site on Tucker Road, Bentleigh. Rapidly increasing enrolments saw additional facilities built in the following years, and some students were sent to neighbouring schools to meet the demand.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Moorabbin Primary School.&nbsp;<br />\r\n<br />\r\nIn 1998, the nearby Eastmoor Primary School (School No. 4790) (VA 4646) was closed and merged with Moorabbin Primary School. The Eastmoor school site was repurposed for the Southern Autistic School.<br />\r\n<br />\r\nIn 2002, Moorabbin Primary School was officially changed to Tucker Road Bentleigh Primary School. As of 2026, Tucker Road Bentleigh Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "23047A5D-DF6D-11EF-80A4-7D28E5932154",
+    "identifier.PROV_ACM.id": "VA 5649",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1954",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923217,
+    "title": "Tucker Road Bentleigh Primary School (School No. 4687; previously known as Moorabbin State School 1954 \u2013 1970; Moorabbin Primary School 1970 - 2002)"
   },
   {
     "_id": "A1C4C02E-DF6D-11EF-80A4-F903B33D41E7",
@@ -118494,6 +118768,40 @@
     "title": "Tarrangower State School (School No. 3852)"
   },
   {
+    "_id": "B95D68DC-4016-11F0-8D1F-D7BF3B53D2CB",
+    "_version_": 1875965904841342976,
+    "category": "Agency",
+    "citation": "VA 5702",
+    "date_range": [
+      "[1993 TO 3000]"
+    ],
+    "description": "Monterey Secondary College (School No. 8809) (VA 5702) is coeducational high school located in Frankston North, in Melbourne&rsquo;s southeastern suburbs.<br />\r\n<br />\r\nThe school first opened in 1993 as the result of a merger between Monterey High School (School No. 8067) (VA 5818) and Monterey Technical School (School No. 7254) (VA 5813). The high school became campus number one of Monterey Secondary College, and the technical school became campus number two. At the end of 1994 the school was consolidated onto a single campus, the former technical school site on Silvertop Street.<br />\r\n<br />\r\nAs of 2026, Monterey Secondary College continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "B95D68DC-4016-11F0-8D1F-D7BF3B53D2CB",
+    "identifier.PROV_ACM.id": "VA 5702",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1993",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923640,
+    "title": "Monterey Secondary College (School No. 8809)"
+  },
+  {
     "_id": "E7BBD9CE-40ED-11F0-8D1F-9FC2A8FD3467",
     "_version_": 1874154061515718656,
     "category": "Agency",
@@ -118562,6 +118870,40 @@
     "title": "Tyabb Railway Station Primary School (School No. 3544; previously known as Tyabb Railway Station State School 1907 \u2013 circa 1970)"
   },
   {
+    "_id": "C722980A-4CB5-11F0-8856-6116AFDA8DE8",
+    "_version_": 1875965904832954369,
+    "category": "Agency",
+    "citation": "VA 5708",
+    "date_range": [
+      "[1994 TO 3000]"
+    ],
+    "description": "Neerim District Rural Primary School (School No. 5394) (VA 5708) is a small rural primary school located at Neerim Junction in West Gippsland.<br />\r\n<br />\r\nThe school first opened in 1994 as the result of a merger between Neerim East Primary School (School No. 3158) (VA 3933) and Nayook Primary School (School No. 3227) (VA 3932). It was established on the Nayook Primary School site.&nbsp;<br />\r\n<br />\r\nIn 2021, the school became unstaffed and closed, likely due to low enrolments, before reopening in 2025 with 15 students.&nbsp;<br />\r\n<br />\r\nAs of 2026, Neerim District Rural Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "C722980A-4CB5-11F0-8856-6116AFDA8DE8",
+    "identifier.PROV_ACM.id": "VA 5708",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1994",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923502,
+    "title": "Neerim District Rural Primary School (School No. 5394)"
+  },
+  {
     "_id": "F27D381F-5709-11F0-8856-7B990CC6D270",
     "_version_": 1872251430079823881,
     "category": "Agency",
@@ -118628,6 +118970,40 @@
     "status": "Published",
     "timestamp": 1785481537,
     "title": "Footscray North Primary School (School No. 4160; previously known as Footscray North State School 1924 \u2013 c.1970)"
+  },
+  {
+    "_id": "38173661-570A-11F0-8856-49742335E140",
+    "_version_": 1875965904814080000,
+    "category": "Agency",
+    "citation": "VA 5711",
+    "date_range": [
+      "[1889 TO 3000]"
+    ],
+    "description": "Port Melbourne Primary School (School No. 2932) (VA 5711) is a coeducational primary school located on Graham Street, Port Melbourne.<br />\r\n<br />\r\nThe school first opened in 1889, as an annex to the over-enrolled Nott Street Primary School (School No. 1427; also known as Port Melbourne Primary School) (VA 3641). They operated in partnership until 1908 when the two schools were formally separated. While both schools were called Port Melbourne, they were typically differentiated by street address and were known as Graham Street State School and Nott Street State School respectively. &nbsp;<br />\r\n<br />\r\nFollowing a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name, the school became known as Port Melbourne, or Graham Street, Primary School.&nbsp;<br />\r\n<br />\r\nIn 1992, due to falling enrolments, Nott Street Primary School was closed and merged with Graham Street Primary School on the Graham Street site.&nbsp;<br />\r\n<br />\r\nIn 2000, the Graham Street school name was officially changed to be simply Port Melbourne Primary School, no more official references to Graham Street. Around the same time, several other schools in the surrounding area closed or amalgamated due to falling enrolments, leading to a boom for Port Melbourne Primary School in comparison. The original buildings were renovated and several new facilities were erected to meet growing demand.<br />\r\n<br />\r\nAs of 2026 Port Melbourne Primary School continues to operate.&nbsp;<br />\r\n<br />\r\nPort Melbourne Primary School (Graham Street) (School No. 2932) should not be confused with Port Melbourne Primary School (Nott Street) (School No. 1427) which operated from 1874 to 1992.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "38173661-570A-11F0-8856-49742335E140",
+    "identifier.PROV_ACM.id": "VA 5711",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1889",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923111,
+    "title": "Port Melbourne Primary School (School No. 2932; previously known as Port Melbourne State School 1889 \u2013 c.1970; also known as Graham Street Primary School)"
   },
   {
     "_id": "41D43182-570A-11F0-8856-3922AD6549FA",
@@ -118732,6 +119108,40 @@
     "title": "Mount Buller and Mount Stirling Alpine Resort Management Board"
   },
   {
+    "_id": "0FDE8A56-65D4-11F0-8856-11DBE79D6DBD",
+    "_version_": 1875965904815128576,
+    "category": "Agency",
+    "citation": "VA 5715",
+    "date_range": [
+      "[1891 TO 3000]"
+    ],
+    "description": "Sunshine Primary School (School No. 3113) (VA 5715) is a government primary school located in Melbourne&rsquo;s inner west suburbs.<br />\r\n<br />\r\nThe school first opened in 1891, when it was known variously as Braybrook Junction or Braybrook South State School. In 1893 it was amalgamated with Braybrook State School (School No. 1102), before reopening as its own entity in 1903.<br />\r\n<br />\r\nAround 1909, the school name changed to Sunshine State School, after the area became known as Sunshine in 1907.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Sunshine Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Sunshine Primary School continues to operate.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "0FDE8A56-65D4-11F0-8856-11DBE79D6DBD",
+    "identifier.PROV_ACM.id": "VA 5715",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1891",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923120,
+    "title": "Sunshine Primary School (School No. 3113; previously known as Braybrook Junction, or Braybrook South, State School 1891 \u2013 c.1909; Sunshine State School c.1909 - 1970)"
+  },
+  {
     "_id": "20401D07-65D4-11F0-8856-073AA929FC43",
     "_version_": 1874154061519912960,
     "category": "Agency",
@@ -118834,6 +119244,210 @@
     "title": "Bungeeltap State School (School No. 1751)"
   },
   {
+    "_id": "4382733A-65D4-11F0-8856-DB1C0C40856C",
+    "_version_": 1875965904830857216,
+    "category": "Agency",
+    "citation": "VA 5719",
+    "date_range": [
+      "[1925 TO 2000]"
+    ],
+    "description": "Point Gellibrand Girls Secondary College (School No. 8229) was an all-girls government high school located in Williamstown, in Melbourne&rsquo;s western suburbs.<br />\r\n<br />\r\nThe school first opened in 1925 as Williamstown Domestic Arts School. In the 1950s the name was changed to Williamstown Girls Secondary College, and it changed names several time in the following decades. In 1966 it became Williamstown Girls&rsquo; High School, in recognition of the school offering fulling academic classes up to and including to all senior levels. In 1973 it changed name to Point Gellibrand High School, and in 1992 its final name became Point Gellibrand Girls Secondary College.<br />\r\n<br />\r\nAt the end of 2000, Point Gellibrand Girls&rsquo; Secondary College was closed and merged with Williamstown High School (School No. 8475) (VA 5840), with the Point Gellibrand site becoming the second campus of Williamstown High School.",
+    "end_dt": "2000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "4382733A-65D4-11F0-8856-DB1C0C40856C",
+    "identifier.PROV_ACM.id": "VA 5719",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1925",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923460,
+    "title": "Point Gellibrand Girls Secondary College (School No. 8229; previously known as Williamstown Domestic Arts School 1925 \u2013 1950s; Williamstown Girls Secondary College 1950s \u2013 1966; Williamstown Girls\u2019 High School 1966 \u2013 1973; Point Gellibrand High School 1973 - 1992)"
+  },
+  {
+    "_id": "6941B04E-65D4-11F0-8856-11BDA0D7533B",
+    "_version_": 1875965904897966084,
+    "category": "Agency",
+    "citation": "VA 5723",
+    "date_range": [
+      "[1928 TO 3000]"
+    ],
+    "description": "Canterbury Girls&rsquo; Secondary College (School No. 7690) (VA 5723) is an all-girls secondary school located in Canterbury, in Melbourne&rsquo;s eastern suburbs.&nbsp;<br />\r\n<br />\r\nThe school was first opened in 1928 as East Camberwell Domestic Arts School, on a site on Mangarra Road shared with Camberwell East Elementary School (School No. 4130) until the 1940s. Its location on Mangarra Road led to the school being known colloquially as Mangarra for many years.<br />\r\n<br />\r\nThe school gradually shifted from being a predominantly domestic arts school to academic high school, and in 1958 the school name was accordingly changed to Camberwell Girls&rsquo; High School. In 1961 this was updated to Canterbury Girls&rsquo; High School, to match the name of its immediate locality. In 1989, the school underwent a final name change to Canterbury Girls&rsquo; Secondary College following the Change of School Name and Reclassification of Schools Executive Memorandum No 314 from the Ministry of Education (VA 1112).&nbsp;<br />\r\n<br />\r\nAs of 2026, Canterbury Girls&rsquo; Secondary College continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "6941B04E-65D4-11F0-8856-11BDA0D7533B",
+    "identifier.PROV_ACM.id": "VA 5723",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1928",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923984,
+    "title": "Canterbury Girls\u2019 Secondary College (School No. 7690; previously known as East Camberwell Domestic Arts School 1928 \u2013 1958; Camberwell Girls\u2019 High School 1958 \u2013 1961; Canterbury Girls\u2019 High School 1961 - 1989; also known as Mangarra)"
+  },
+  {
+    "_id": "81906024-65D4-11F0-8856-AF8C59628B3B",
+    "_version_": 1875965904894820352,
+    "category": "Agency",
+    "citation": "VA 5725",
+    "date_range": [
+      "[1871 TO 3000]"
+    ],
+    "description": "Dartmoor Primary School (School No. 1035) (VA 5725) is a rural primary school located in the Glenelg region of western Victoria, situated 30 kilometres east of the South Australian border.<br />\r\n<br />\r\nThe school was originally opened as a Church of England school, before formally opening as Dartmoor Common School in 1871. The Education Act of 1872 established the Victorian Education Department (VA 714) which marked a further change, with the school becoming Dartmoor State School sometime after 1873. Due to low enrolments, Dartmoor State School was worked part-time with Glenaulin State School (School No. 2653) (VA 3303) from 1884 to 1889.&nbsp;<br />\r\n<br />\r\nThe school initially operated out of the Church of England building, leased by the Education Department, until a new building was erected in 1878. In 1887, the building was destroyed by a storm, with a new building not erected until 1913.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Dartmoor Primary School.<br />\r\n<br />\r\nAs of 2026, Dartmoor Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "81906024-65D4-11F0-8856-AF8C59628B3B",
+    "identifier.PROV_ACM.id": "VA 5725",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1871",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923730,
+    "title": "Dartmoor Primary School (School No. 1035; previously known as Dartmoor Common School 1871 \u2013 c.1873; Dartmoor State School c.1873 \u2013 1970)"
+  },
+  {
+    "_id": "96D97122-65D4-11F0-8856-174AF367F5E8",
+    "_version_": 1875965904852877312,
+    "category": "Agency",
+    "citation": "VA 5727",
+    "date_range": [
+      "[1881 TO 3000]"
+    ],
+    "description": "Epsom Primary School (School No. 2367) (VA 5727) is a government primary school located 8 kilometres north of Bendigo.<br />\r\n<br />\r\nThe school first opened in 1881 as Epsom State School, replacing Epsom Church of England School (School No. 221). In 1896, the Epsom State School became an adjunct to White Hills State School (School No. 1916), running classes only for very young children, before operating as a separate entity once more from 1906.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Epsom Primary School.<br />\r\n<br />\r\nAs of 2026, Epsom Primary School continues to operate.<br />\r\n<br />\r\nEpsom Primary School (School No. 20367) should not be confused with Epsom Church of England School (School No. 221) which operated from 1856 to 1881 or Epsom Catholic School (School No. 240) which operated from 1856 to 1876.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "96D97122-65D4-11F0-8856-174AF367F5E8",
+    "identifier.PROV_ACM.id": "VA 5727",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1881",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923688,
+    "title": "Epsom Primary School (School No. 2367; previously known as Epsom State School 1881 \u2013 c.1970)"
+  },
+  {
+    "_id": "A1308967-65D4-11F0-8856-738928E70E96",
+    "_version_": 1875965904843440136,
+    "category": "Agency",
+    "citation": "VA 5728",
+    "date_range": [
+      "[1995 TO 3000]"
+    ],
+    "description": "Gormandale And District Primary School (School No. 5442) (VA 5728) is a government primary school located in Gormandale, 22 kilometres south-east of Traralgon in the Latrobe Valley, east of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in July 1995, as the result of a merger between several small schools in the area. These schools included Gormandale Primary School (School No. 2482), Gormandale East Primary School (School No. 2877) and Carrajung Primary School (School No. 3545) (VA 5855).&nbsp;<br />\r\n<br />\r\nAs of 2026, Gormandale And District Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "A1308967-65D4-11F0-8856-738928E70E96",
+    "identifier.PROV_ACM.id": "VA 5728",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1995",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923661,
+    "title": "Gormandale And District Primary School (School No. 5442)"
+  },
+  {
+    "_id": "B2DCEBA5-65D4-11F0-8856-C9F2D7F0B914",
+    "_version_": 1875965904842391552,
+    "category": "Agency",
+    "citation": "VA 5730",
+    "date_range": [
+      "[1994 TO 3000]"
+    ],
+    "description": "Harcourt Valley Primary School (School No. 5404) (VA 5730) is a small rural primary school located in central Victoria.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1994 as the result of a merger between Harcourt Primary School (School No. 299) (VA 3845) and Harcourt North Primary School (School No. 4043) (VA 3846) due to declining enrolments. The new Harcourt Valley Primary School continued to use the Harcourt site while the Harcourt North site was closed.<br />\r\n<br />\r\nAs of 2026, Harcourt Valley Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "B2DCEBA5-65D4-11F0-8856-C9F2D7F0B914",
+    "identifier.PROV_ACM.id": "VA 5730",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1994",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923657,
+    "title": "Harcourt Valley Primary School (School No. 5404)"
+  },
+  {
     "_id": "BD0E8086-66A0-11F0-8856-05269599F563",
     "_version_": 1874154061513621504,
     "category": "Agency",
@@ -118902,6 +119516,40 @@
     "title": "Victorian Prison Industries Commission (trading as Correctional Enterprises c.1994-1996)"
   },
   {
+    "_id": "C9280D22-71C0-11F0-8856-55899DCA7C68",
+    "_version_": 1875965904818274304,
+    "category": "Agency",
+    "citation": "VA 5735",
+    "date_range": [
+      "[1874 TO 3000]"
+    ],
+    "description": "San Remo Primary School (School No. 1369) (VA 5735) is a government primary school located at the south-east of Westernport Bay, south-east of Melbourne. It serves the communities of both San Remo and Phillip Island.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1874 as Griffiths Point State School, before changing its name to San Remo State School in 1889. Due to fluctuating enrolments, the school had several periods of both closure and of being worked part-time with neighbouring schools until 1910, when it became a full-time school on an ongoing basis. The school was moved from its original site to a new location in 1948.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to San Remo Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, San Remo Primary School continues to operate, on the same site it has occupied since 1948.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "C9280D22-71C0-11F0-8856-55899DCA7C68",
+    "identifier.PROV_ACM.id": "VA 5735",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1874",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788923154,
+    "title": "San Remo Primary School (School No. 1369; previously known as Griffiths Point State School 1874 \u2013 1889; San Remo State School 1889 - 1970)"
+  },
+  {
     "_id": "DB88F243-71C0-11F0-8856-3586C4842BD5",
     "_version_": 1866996806713344000,
     "category": "Agency",
@@ -118968,6 +119616,414 @@
     "status": "Published",
     "timestamp": 1787294800,
     "title": "Upwey Primary School (School No. 4530; previously known as Upwey State School 1934 \u2013 1970)"
+  },
+  {
+    "_id": "5D6BA487-8169-11F0-8856-87C70C561E09",
+    "_version_": 1875965904900063240,
+    "category": "Agency",
+    "citation": "VA 5738",
+    "date_range": [
+      "[1894 TO 3000]"
+    ],
+    "description": "Yarra Junction Primary School (School No. 3216) (VA 5738) is a rural primary school located in the Yarra Valley, 65 kilometres east of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school was first established in 1894 as Little Yarra Junction State School, operating out of the leased Wesleyan Church. In 1906 the Education Department had a new wooden building erected, and in 1908 the school name was changed to just Yarra Junction State School.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Yarra Junction Primary School.<br />\r\n<br />\r\nAs of 2026, Yarra Junction Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "5D6BA487-8169-11F0-8856-87C70C561E09",
+    "identifier.PROV_ACM.id": "VA 5738",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1894",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788924129,
+    "title": "Yarra Junction Primary School (School No. 3216; previously known as Little Yarra Junction State School 1894 \u2013 1908; Yarra Junction State School 1908 \u2013 c.1970)"
+  },
+  {
+    "_id": "86146CFA-8169-11F0-8856-C18761FF7B8E",
+    "_version_": 1875965904908451841,
+    "category": "Agency",
+    "citation": "VA 5741",
+    "date_range": [
+      "[1877 TO 3000]"
+    ],
+    "description": "Raywood Primary School (School No. 1844) (VA 5741) is a small rural primary school located in the town of Raywood, north-west of Bendigo.&nbsp;<br />\r\n<br />\r\nThe school was first established in 1877 as Raywood State School. It replaced Raywood Catholic Church School (School No. 761) but operated out of a newly erected brick building.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Raywood Primary School.<br />\r\n<br />\r\nAs of 2026, Raywood Primary School continues to operate.<br />\r\n<br />\r\nRaywood Primary School (School No. 1844) should not be confused with Raywood Catholic Church School (School No. 761), which operated from 1864 to 1877.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "86146CFA-8169-11F0-8856-C18761FF7B8E",
+    "identifier.PROV_ACM.id": "VA 5741",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1877",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788924516,
+    "title": "Raywood Primary School (School No. 1844; previously known as Raywood State School 1877 \u2013 c.1970)"
+  },
+  {
+    "_id": "9FEA801C-8169-11F0-8856-7758D4A1ED8D",
+    "_version_": 1875965904910548997,
+    "category": "Agency",
+    "citation": "VA 5743",
+    "date_range": [
+      "[1924 TO 3000]"
+    ],
+    "description": "Nungurner Primary School (School No. 4226) (VA 5743) is a small rural primary school located between Lakes Entrance and Metung, in the Gippsland Lakes region of eastern Victoria.&nbsp;<br />\r\n<br />\r\nThe school was first established in 1924 as Nungurner State School, initially operating out of the Nungurner Hall. In 1963 the Education Department provided the first of several dedicated classroom buildings on a new site.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Nungurner Primary School.<br />\r\n<br />\r\nAs of 2026, Nungurner Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "9FEA801C-8169-11F0-8856-7758D4A1ED8D",
+    "identifier.PROV_ACM.id": "VA 5743",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1924",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788924757,
+    "title": "Nungurner Primary School (School No. 4226; previously known as Nungurner State School 1924 \u2013 c.1970)"
+  },
+  {
+    "_id": "AB2A98CD-8169-11F0-8856-11621BB22482",
+    "_version_": 1875965904912646144,
+    "category": "Agency",
+    "citation": "VA 5744",
+    "date_range": [
+      "[1912 TO 3000]"
+    ],
+    "description": "Wonthaggi North Primary School (School No. 3716) (VA 5744) is a government primary school located on the Bass Coast, southeast of Melbourne.<br />\r\n<br />\r\nThe school was first established in 1912 as an adjunct to Wonthaggi State School (School No. 3650), teaching junior classes. It was assigned the school number 3716 at this time, but wasn&rsquo;t proclaimed a separate school entity until 1919, when it officially became Edgerton State School. The name of the area was changed from Edgerton to Wonthaggi North in 1924, and the school name was changed to Wonthaggi North State School accordingly. In the same year, a school building was erected on the corner of Government Road (later White Road) and Wentworth Road.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Wonthaggi North Primary School.<br />\r\n<br />\r\nAs of 2026, Wonthaggi North Primary School continues to operate.<br />\r\n<br />\r\nWonthaggi North Primary School (School No. 3716) should not be confused with Glen Alvie Primary School (School No. 3203) (VA 5351), which was known as Wonthaggi North State School from 1893 to 1901.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "AB2A98CD-8169-11F0-8856-11621BB22482",
+    "identifier.PROV_ACM.id": "VA 5744",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1912",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788924988,
+    "title": "Wonthaggi North Primary School (School No. 3716; previously known as Edgerton State School 1912 \u2013 1924; Wonthaggi North State School 1924 \u2013 c.1970)"
+  },
+  {
+    "_id": "B77DCF2E-8169-11F0-8856-17258D2044AE",
+    "_version_": 1875965904914743297,
+    "category": "Agency",
+    "citation": "VA 5745",
+    "date_range": [
+      "[1873 TO 3000]"
+    ],
+    "description": "Woodside Primary School (School No. 1176) (VA 5745) is a small rural primary school located in Wellington Shire, in Victoria&rsquo;s south-east.<br />\r\n<br />\r\nThe school was first established in 1873 as Woodside State School, replacing Woodside Rural School (School No. 130). In 1875, a new wooden school building was erected. In 1909, Woodside State School was worked part-time with Darriman West State School (School No. 3070) (VA 4455) and in 1920 a new timber school building was erected.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Woodside Primary School.<br />\r\n<br />\r\nAs of 2026, Woodside Primary School continues to operate. A new school building was erected in 2010 but the 1920s building continues to be used as well.&nbsp;<br />\r\n<br />\r\nWoodside Primary School (School No. 1176) should not be confused with Woodside Rural School (School No. 130) which operated from 1871 to 1873.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "B77DCF2E-8169-11F0-8856-17258D2044AE",
+    "identifier.PROV_ACM.id": "VA 5745",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1873",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788929103,
+    "title": "Woodside Primary School (School No. 1176; previously known as Woodside State School 1873 \u2013 1970)"
+  },
+  {
+    "_id": "C315088F-8169-11F0-8856-AFE426425B37",
+    "_version_": 1875965904915791887,
+    "category": "Agency",
+    "citation": "VA 5746",
+    "date_range": [
+      "[2010 TO 3000]"
+    ],
+    "description": "William Ruthven Primary School (School No. 5544) (VA 5746) is a government primary school located in Reservoir, in Melbourne&rsquo;s northern suburbs.<br />\r\n<br />\r\nThe school first opened in 2010 as the result of a merger between Ruthven Primary School (School No. 4956) and the primary school component of Merrilands College (School No. 6240). It was briefly located on the former Ruthven Primary School site on Glasgow Avenue in 2011, before officially moving to a newly built school at 60 Merrilands Road in 2012.<br />\r\n<br />\r\nAs of 2026, William Ruthven Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "C315088F-8169-11F0-8856-AFE426425B37",
+    "identifier.PROV_ACM.id": "VA 5746",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "2010",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788929207,
+    "title": "William Ruthven Primary School (School No. 5544)"
+  },
+  {
+    "_id": "F17D38B0-8169-11F0-8856-33C1AEF95046",
+    "_version_": 1875965904916840454,
+    "category": "Agency",
+    "citation": "VA 5747",
+    "date_range": [
+      "[1877 TO 3000]"
+    ],
+    "description": "White Hills Primary School (School No. 1916) (VA 5747) is a government primary school located on the north-eastern edge of Bendigo.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1877 as White Hills State School, at a site on Napier Street. It immediately succeeded White Hills Common School (School No. 663).&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to White Hills Primary School.<br />\r\n<br />\r\nIn 1983, White Hills Primary School relocated to a new school on Plumridge Street.&nbsp;<br />\r\n<br />\r\nAs of 2026, White Hills Primary School continues to operate.<br />\r\n<br />\r\nWhite Hills Primary School (School No. 1916) should not be confused with White Hills Common School (School No. 663) which operated from 1855 until 1877, or White Hills Wesleyan School (School No. 671) which operated from 1853 to 1870.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "F17D38B0-8169-11F0-8856-33C1AEF95046",
+    "identifier.PROV_ACM.id": "VA 5747",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1877",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788929293,
+    "title": "White Hills Primary School (School No. 1916; previously known as White Hills State School 1877 \u2013 c.1970)"
+  },
+  {
+    "_id": "FC5DCC41-8169-11F0-8856-BD2694858451",
+    "_version_": 1875965904922083332,
+    "category": "Agency",
+    "citation": "VA 5748",
+    "date_range": [
+      "[1858 TO 3000]"
+    ],
+    "description": "St Andrews Primary School (School No. 128) (VA 5748) is a government primary school located in the township of St Andrews, along Diamond Creek north-east of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1858 as a Church of England School, known as Caledonia School for its location at the Caledonian Diggings. In 1867 it became a Common School, and the name was changed to Queenstown Common School. The Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Queenstown State School. A new wooden school building was finished in 1887.<br />\r\n<br />\r\nIn 1956, the school name was changed to St Andrews State School, though it was likely referred to it as such prior to this official change.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to St Andrews Primary School.<br />\r\n<br />\r\nIn 1984 a new school was built on a new site, and the old school building/s became the St Andrews Community Centre.<br />\r\n<br />\r\nAs of 2026, St Andrews Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "FC5DCC41-8169-11F0-8856-BD2694858451",
+    "identifier.PROV_ACM.id": "VA 5748",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1858",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788929731,
+    "title": "St Andrews Primary School (School No. 128; previously known as Caledonia Church of England School 1858 \u2013 1867; Queenstown Common School 1867 \u2013 c.1873; Queenstown State School c.1873 \u2013 1956; St Andrews State School 1956 \u2013 1970)"
+  },
+  {
+    "_id": "0853A062-816A-11F0-8856-63933937197F",
+    "_version_": 1875965904927326208,
+    "category": "Agency",
+    "citation": "VA 5749",
+    "date_range": [
+      "[1912 TO 1936]"
+    ],
+    "description": "Britannia Creek State School (School No. 3746) (VA 5749) was a government primary school located in the Britannia Creek locality in the Yarra Valley, east of Melbourne.<br />\r\n<br />\r\nThe school opened in 1912 to meet the needs of the community that had emerged around a wood distillation plant. In 1926, the school burned down in a bushfire. While classes did continue in a private house, from 1934 Britannia Creek State School was worked part-time with Dalry Road State School (School No. 3909).<br />\r\n<br />\r\nBritannia Creek State School closed in 1936.&nbsp;<br />\r\n<br />\r\nBritannia Creek State School (School No. 3746) should not be confused with Upper Britannia Creek State School (School No. 4040) which operated from 1920 to 1931.",
+    "end_dt": "1936",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "0853A062-816A-11F0-8856-63933937197F",
+    "identifier.PROV_ACM.id": "VA 5749",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1912",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788929855,
+    "title": "Britannia Creek State School (School No. 3746)"
+  },
+  {
+    "_id": "13F2C903-816A-11F0-8856-2FC291320814",
+    "_version_": 1875965904928374786,
+    "category": "Agency",
+    "citation": "VA 5750",
+    "date_range": [
+      "[1875 TO 3000]"
+    ],
+    "description": "Macedon Primary School (School No. 1660) (VA 5750) is a government primary school located in the semi-rural community of Macedon, north-west of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in in 1875 as Macedon State School. It took over from the previous Macedon Common School (School No. 431), continuing on the same site but with a newly erected one-room school building.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Macedon Primary School.<br />\r\n<br />\r\nAs of 2026, Macedon Primary School continues to operate.&nbsp;<br />\r\n<br />\r\nMacedon Primary School (School No. 1660) should not be confused with Macedon Common School (School No. 431), which operated from 1859 to 1875, Macedon Village Settlement School (School No. 3259), which operated from 1896 to 1918 or Mount Macedon Primary School (School No. 415) (VA 5277) which has operated since 1858.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "13F2C903-816A-11F0-8856-2FC291320814",
+    "identifier.PROV_ACM.id": "VA 5750",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1875",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788930010,
+    "title": "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+  },
+  {
+    "_id": "1FB6DEC4-816A-11F0-8856-A72731C92A90",
+    "_version_": 1875965904931520521,
+    "category": "Agency",
+    "citation": "VA 5751",
+    "date_range": [
+      "[1952 TO 3000]"
+    ],
+    "description": "Ouyen P-12 College (School No. 8220) (VA 5751) is a primary and secondary school located in the rural township of Ouyen in the Mallee region of north-west Victoria.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1952 as Ouyen High School, when the Higher Elementary classes of the-then Ouyen State School (School No. 3615) were formally separated out into a new entity.<br />\r\n<br />\r\nIn 1990 the school underwent a name change to Ouyen Secondary College following the Change of School Name and Reclassification of Schools Executive Memorandum No 314 from the Ministry of Education (VA 1112).<br />\r\n<br />\r\nIn 2009, Ouyen Secondary College (School No. 8220) was merged with Ouyen Primary School (School No. 3615) to form Ouyen P-12 College (School No. 8220). Initially operating as a multi-campus school across both sites, the school consolidated on the former secondary school site on Fuller Street from 2014.<br />\r\n<br />\r\nAs of 2026, Ouyen P-12 College continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "1FB6DEC4-816A-11F0-8856-A72731C92A90",
+    "identifier.PROV_ACM.id": "VA 5751",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1952",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788930257,
+    "title": "Ouyen P-12 College (School No. 8220; previously known as Ouyen High School 1952 \u2013 1990; Ouyen Secondary College 1990 - 2009)"
+  },
+  {
+    "_id": "2A600EA5-816A-11F0-8856-0FEF5F21BFC5",
+    "_version_": 1875965904934666245,
+    "category": "Agency",
+    "citation": "VA 5752",
+    "date_range": [
+      "[1962 TO 3000]"
+    ],
+    "description": "Vermont Secondary College (School No. 8420) (VA 5752) is a government secondary school located in the outer eastern suburbs of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1962 as Vermont High School. Classes were initially held at Parkmore State School (School No. 4881) and Nunawading High School (School No. 8195) before moving to its own premises later in the year.&nbsp;<br />\r\n<br />\r\nIn 1990 the school underwent a name change to Vermont Secondary College following the Change of School Name and Reclassification of Schools Executive Memorandum No 314 from the Ministry of Education (VA 1112).<br />\r\n<br />\r\nAs of 2026, Vermont Secondary College continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "2A600EA5-816A-11F0-8856-0FEF5F21BFC5",
+    "identifier.PROV_ACM.id": "VA 5752",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1962",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788930918,
+    "title": "Vermont Secondary College (School No. 8420; previously known as Vermont High School 1962 \u2013 1990)"
   },
   {
     "_id": "B4E11A2B-9424-11F0-8856-91D4AAA0F891",
@@ -119140,6 +120196,176 @@
     "title": "Her Majesty's Prison, Tarrengower"
   },
   {
+    "_id": "A4415BD8-9E7E-11F0-8856-B321DCFF9FA2",
+    "_version_": 1875965904981852160,
+    "category": "Agency",
+    "citation": "VA 5760",
+    "date_range": [
+      "[1865 TO 3000]"
+    ],
+    "description": "Lancefield Primary School (School No. 707) (VA 5760) is a government primary school located in the semi-rural township of Lancefield, in the Macedon Ranges north of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1865 as Lancefield Common School. The Education Act of 1872 established the Victorian Education Department (VA 714) which marked a change to school naming conventions, with the school becoming Lancefield State School. In 1875 a new brick building was completed on the intersection of High Street and Park Street.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Lancefield Primary School.<br />\r\n<br />\r\nAs of 2026, Lancefield Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "A4415BD8-9E7E-11F0-8856-B321DCFF9FA2",
+    "identifier.PROV_ACM.id": "VA 5760",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1865",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788997613,
+    "title": "Lancefield Primary School (School No. 707; previously known as Lancefield Common School 1865 \u2013 1873; Lancefield State School 1873 \u2013 1970)"
+  },
+  {
+    "_id": "D3403CA6-A26E-11F0-8856-495BBDE2C293",
+    "_version_": 1875965904989192192,
+    "category": "Agency",
+    "citation": "VA 5761",
+    "date_range": [
+      "[1874 TO 3000]"
+    ],
+    "description": "Specimen Hill Primary School (School No. 1316) (VA 5761) is a government primary school located in Bendigo, in what was one of the largest gold mining areas in Victoria.<br />\r\n<br />\r\nThe school first opened in 1874 as Specimen Hill State School. It replaced Specimen Hill State School (School No. 592), which had first opened as a Wesleyan school in 1857, before coming under the Education Department in 1873. School No. 592 was closed when the new School No. 1316 opened.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Specimen Hill Primary School.<br />\r\n<br />\r\nAs of 2026, Specimen Hill Primary School continues to operate.<br />\r\n<br />\r\nSpecimen Hill Primary School (School No. 1316) should not be confused with Specimen Hill State School (School No. 592) which operated from 1857 to 1874, or Eureka Primary School (School No. 1071) which was known as Specimen Hill in its early history.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "D3403CA6-A26E-11F0-8856-495BBDE2C293",
+    "identifier.PROV_ACM.id": "VA 5761",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1874",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788997912,
+    "title": "Specimen Hill Primary School (School No. 1316; previously known as Specimen Hill State School 1874 \u2013 1970)"
+  },
+  {
+    "_id": "E781A1A1-A26E-11F0-8856-41B037B8CB72",
+    "_version_": 1875965904993386496,
+    "category": "Agency",
+    "citation": "VA 5762",
+    "date_range": [
+      "[1890 TO 3000]"
+    ],
+    "description": "Metung Primary School (School No. 3050) (VA 5762) is a government primary school located on the Gippsland Lakes, between Bairnsdale and Lakes Entrance in south-western Victoria.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1890 as Metung State School. It utilised various local rooms before a dedicated school building was erected in 1916.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Metung Primary School.<br />\r\n<br />\r\nAs of 2026, Metung Primary School continues to operate, with the original school building still in use.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "E781A1A1-A26E-11F0-8856-41B037B8CB72",
+    "identifier.PROV_ACM.id": "VA 5762",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1890",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788998128,
+    "title": "Metung Primary School (School No. 3050; previously known as Metung State School 1890 - 1970)"
+  },
+  {
+    "_id": "F9DBA8FC-A26E-11F0-8856-7100BF056030",
+    "_version_": 1875965905003872256,
+    "category": "Agency",
+    "citation": "VA 5763",
+    "date_range": [
+      "[1875 TO 3000]"
+    ],
+    "description": "Tallarook Primary School (School No. 1488) (VA 5763) is a rural primary school located in north-west Victoria.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1875 as Tallarook State School, out of a brick school building. It immediately succeeded Tallarook School (School No. 754), which had been operating since 1864.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Tallarook Primary School.<br />\r\n<br />\r\nAs of 2026, Tallarook Primary School continues to operate, with the original school building still in use.<br />\r\n<br />\r\nTallarook Primary School (School No. 1488) should not be confused with Tallarook School (School No. 754), which operated from 1864 to 1874, or Tallarook Flat State School (School No. 826), which operated from 1867 to 1892.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "F9DBA8FC-A26E-11F0-8856-7100BF056030",
+    "identifier.PROV_ACM.id": "VA 5763",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1875",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788999207,
+    "title": "Tallarook Primary School (School No. 1488; previously known as Tallarook State School 1874 - 1970)"
+  },
+  {
+    "_id": "05913FD3-A26F-11F0-8856-09E5FBA3EF93",
+    "_version_": 1875965905009115136,
+    "category": "Agency",
+    "citation": "VA 5764",
+    "date_range": [
+      "[1959 TO 3000]"
+    ],
+    "description": "Tullamarine Primary School (School No. 4852) (VA 5764) is a government primary school located in Melbourne&rsquo;s north-west suburbs, closeby to Melbourne Airport.<br />\r\n<br />\r\nThe school first opened in 1959 as Tullamarine State School. Several other schools had opened and closed in the area over the years, including Tullamarine State School (School No. 2613) which opened in 1884 and didn&rsquo;t close until 1961. In 1961, the newer Tullamarine State School (School No. 4852) was moved to a new site to coincide with the development of Melbourne Tullamarine Airport nearby.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Tullamarine Primary School.<br />\r\n<br />\r\nAs of 2026, Tullamarine Primary School continues to operate.<br />\r\n<br />\r\nTullamarine Primary School (School No. 4852) should not be confused with the following similarly named schools:\r\n<ul>\r\n\t<li>Tullamarine Common School (School No. 735), years active 1864 to 1868&nbsp;</li>\r\n\t<li>Tullamarine National School (School No. 619; also known as Tullamarine Island School), years active 1859 to 1882</li>\r\n\t<li>Tullamarine State School (School No. 632), years active 1858 to 1884</li>\r\n\t<li>Tullamarine State School (School No. 2613) (VA 5778), years active 1884 to 1961</li>\r\n</ul>\r\n",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "05913FD3-A26F-11F0-8856-09E5FBA3EF93",
+    "identifier.PROV_ACM.id": "VA 5764",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1959",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1788999483,
+    "title": "Tullamarine Primary School (School No. 4852; previously known as Tullamarine State School 1959 - 1970)"
+  },
+  {
     "_id": "AEDD28A7-A7D4-11F0-8856-43525CEAB4D1",
     "_version_": 1868718147967647744,
     "category": "Agency",
@@ -119170,6 +120396,108 @@
     "status": "Published",
     "timestamp": 1782103609,
     "title": "Beechworth Correctional Centre"
+  },
+  {
+    "_id": "10E4A3C4-B2CB-11F0-8856-3BDEFF426D04",
+    "_version_": 1875965905225121798,
+    "category": "Agency",
+    "citation": "VA 5766",
+    "date_range": [
+      "[1877 TO 3000]"
+    ],
+    "description": "Plenty Parklands Primary School (School No. 1915) (VA 5766) is a government primary school located in Melbourne&rsquo;s northern suburbs.<br />\r\n<br />\r\nThe school first opened in 1877 as Janefield State School, at a site on the corner of Plenty Road and the Metropolitan Ring Road. It replaced the previous Janefield State School (School No. 329), which had been operating since 1849. Janefield State School was closed from 1985 to 1902, primarily due to the depression at the time. When it reopened in 1903, it did so with the new name Bundoora State School.<br />\r\n<br />\r\n&nbsp;In 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Bundoora Primary School. This should not be confused with Greenwood Primary School, school no. 4944, opened in 1967, which was renamed to Bundoora Primary School in 2006, which as of 2026, continues to operate.<br />\r\n<br />\r\nFrom 1999, the school moved to a new site on Blossom Park Drive, Mill Park, and at the same time the school name was changed to Plenty Parklands Primary School.<br />\r\n<br />\r\nAs of 2026, Plenty Parklands Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "10E4A3C4-B2CB-11F0-8856-3BDEFF426D04",
+    "identifier.PROV_ACM.id": "VA 5766",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1877",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789000063,
+    "title": "Plenty Parklands Primary School (School No. 1915; previously known as Janefield State School 1877 \u2013 1902; Bundoora State School 1903 \u2013 1970; Bundoora Primary School 1970 - 1998)"
+  },
+  {
+    "_id": "1E8827E9-B2CB-11F0-8856-FB3B2A62656B",
+    "_version_": 1875965905351999489,
+    "category": "Agency",
+    "citation": "VA 5767",
+    "date_range": [
+      "[1887 TO 3000]"
+    ],
+    "description": "Middle Park Primary School (School No. 2815) (VA 5767) is a government primary school located in Melbourne&rsquo;s south, between Port Phillip Bay and Albert Park Lake.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1887 as Mills Street State School but within the first month of operation the name was changed to Middle Park State School. In 1916 it became the first Central School in Victoria, offering classes up to year 8 as a feeder to Melbourne High School (School No. 8025). This continued until 1968, when changes to secondary schooling in the State led to the closure of the central classes. It appears to have been referred to as both Middle Park State School and Middle Park Central School during this period.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Middle Park Primary School.<br />\r\n<br />\r\nAs of 2026, Middle Park Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "1E8827E9-B2CB-11F0-8856-FB3B2A62656B",
+    "identifier.PROV_ACM.id": "VA 5767",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1887",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789014902,
+    "title": "Middle Park Primary School (School No. 2815; previously know as Mills Street State School 1887 - 1887; Middle Park State School 1887 \u2013 1970; also known as Middle Park Central School)"
+  },
+  {
+    "_id": "2E783427-B2CB-11F0-8856-8378BDA06B58",
+    "_version_": 1875965905353048064,
+    "category": "Agency",
+    "citation": "VA 5768",
+    "date_range": [
+      "[1873 TO 3000]"
+    ],
+    "description": "Quarry Hill Primary School (School No. 1165) is a government primary school located in Bendigo.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1873 as Sandhurst East State School. It replaced Charcoal Gully Common School (School No. 137), which had operated since 1857. A brick school building was provided, while the former Charcoal Gully building was used as an infant room. Additional rooms were built in the following rooms to meet increasing enrolments.&nbsp;<br />\r\n<br />\r\nIn 1893, Sandhurst East State School became an adjunct of Gravel Hill State School (School No. 1566) (VA 3591), with only classes 1 and 2 remaining at Sandhurst East while the rest travelled to Gravel Hill. In 1907 it resumed operation as a separate school and in 1908, it was renamed Quarry Hill State School. In 1910, a new site was purchased on Peel Street and a new brick school building completed in 1911.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Quarry Hill Primary School.<br />\r\n<br />\r\nAs of 2026, Quarry Hill Primary School continues to operate, with the 1911 brick building still in use.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "2E783427-B2CB-11F0-8856-8378BDA06B58",
+    "identifier.PROV_ACM.id": "VA 5768",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1873",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789014911,
+    "title": "Quarry Hill Primary School (School No. 1165; previously known as Sandhurst East State School 1873 \u2013 1908; Quarry Hill State School 1908 \u2013 1970)"
   },
   {
     "_id": "A3CCDD06-BDF3-11F0-8856-5951ED319F78",
@@ -119204,6 +120532,74 @@
     "status": "Published",
     "timestamp": 1788404678,
     "title": "Magpie Primary School (School No. 2271; previously known as Magpie Gully State School 1880 \u2013 1892; Magpie State School 1892 \u2013 circa 1970)"
+  },
+  {
+    "_id": "AF900867-BDF3-11F0-8856-B57F95A08C50",
+    "_version_": 1875965905354096640,
+    "category": "Agency",
+    "citation": "VA 5771",
+    "date_range": [
+      "[1958 TO 3000]"
+    ],
+    "description": "Mount Pleasant Road Nunawading Primary School (School No. 4808) (VA 5771) is a government primary school located in Nunawading, in Melbourne&rsquo;s eastern suburbs.<br />\r\n<br />\r\nThe school first opened in 1958 as Nunawading South State School.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Nunawading South Primary School.<br />\r\n<br />\r\nIn 2005, the school changed its name to Mount Pleasant Road Nunawading Primary School, however it is often referred to as simply Mount Pleasant Road Primary School.&nbsp;<br />\r\n<br />\r\nThe school received new facilities in 2015 and, as of 2026, Mount Pleasant Road Nunawading Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "AF900867-BDF3-11F0-8856-B57F95A08C50",
+    "identifier.PROV_ACM.id": "VA 5771",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1958",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789014918,
+    "title": "Mount Pleasant Road Nunawading Primary School (School No. 4808; previously known as Nunawading South Primary School 1958 \u2013 1970; Nunawading South Primary School 1970 \u2013 2005; also known as Mount Pleasant Road Primary School)"
+  },
+  {
+    "_id": "7FCE4660-BDF4-11F0-8856-01AF4A11FC06",
+    "_version_": 1875965905356193792,
+    "category": "Agency",
+    "citation": "VA 5774",
+    "date_range": [
+      "[1957 TO 2008]"
+    ],
+    "description": "Sunvale Primary School (School No. 4818) (VA 5774) was a government primary school located in Sunshine, in Melbourne&rsquo;s western suburbs.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1957 as Sunvale State School, to relieve congestion at both Sunshine State School (School No. 3113) (VA 5715) and Sunshine East State School (School No. 4645).&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Sunvale Primary School.<br />\r\n<br />\r\nAt the end of 2008, Sunvale Primary School was closed and merged with Sunshine East Primary School (School No. 4645) and Braybrook Primary School (School No. 1102) to form the new Sunshine Harvester Primary School (School No. 5526). All former Sunvale Primary School buildings were subsequently demolished.",
+    "end_dt": "2008",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "7FCE4660-BDF4-11F0-8856-01AF4A11FC06",
+    "identifier.PROV_ACM.id": "VA 5774",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1957",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789032832,
+    "title": "Sunvale Primary School (School No. 4818; previously known as Sunvale State School 1957 - 1970)"
   },
   {
     "_id": "957296B4-BDF4-11F0-8856-EB4F6FC3EFDA",
@@ -119372,6 +120768,74 @@
     "status": "Published",
     "timestamp": 1788405817,
     "title": "Mount Alexander College (School No. 7763; also known as MAC; previously known as Flemington Domestic Arts School 1925 \u2013 1931; Flemington Girls\u2019 Secondary School 1931 \u2013 1966; Flemington Girls High School 1966 \u2013 1973; Debney Park High School 1973 \u2013 1983; Debney Park Secondary College 1983 \u2013 2011)"
+  },
+  {
+    "_id": "11F7A5AE-C97E-11F0-8856-231F0B395A4A",
+    "_version_": 1875965905722146816,
+    "category": "Agency",
+    "citation": "VA 5781",
+    "date_range": [
+      "[1887 TO 3000]"
+    ],
+    "description": "Merri-bek Primary School (School No. 2837) (VA 5781) is a government primary school located in Coburg, in Melbourne&rsquo;s inner-northern suburbs.<br />\r\n<br />\r\nThe school first opened in 1887 as Moreland State School, to meet the needs of a rapidly developing area. The original brick school building erected on a site on Station Ave was significantly added to in the following years, as enrolments continued to rise. At one point in the 1920s, enrolment rose to 2,400 students, the largest in any Victorian government school, with several halls having to be rented in the area to meet demand.<br />\r\n<br />\r\nFrom 1926, Moreland State School became a Central school offering higher elementary classes, until these were taken over by Moreland High School (School No. 8080) (VA 3783) in 1947.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Moreland Primary School. &nbsp;Around the same time, one of the main buildings, on De Carle Street, was demolished and rebuilt to meet increasing enrolments.&nbsp;<br />\r\n<br />\r\nIn 2023, Moreland Primary School changed its name to Merrri-bek Primary School. This reflected the name change of the local city council the year before, which changed its name from Moreland City Council to Merri-bek City Council as of September 2022. Merri-bek is the Woi-wurrung word for &lsquo;rocky country&rsquo; and was chosen as the new name following an extensive consultation process.<br />\r\n<br />\r\nAs of 2026, Merri-bek Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "11F7A5AE-C97E-11F0-8856-231F0B395A4A",
+    "identifier.PROV_ACM.id": "VA 5781",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1887",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789033107,
+    "title": "Merri-bek Primary School (School No. 2837; previously known as Moreland State School 1887 \u2013 1970; Moreland Primary School 1970 - 2023)"
+  },
+  {
+    "_id": "3D4F6C6A-D6E7-11F0-8856-7FC5D2DD0FBE",
+    "_version_": 1875965905723195392,
+    "category": "Agency",
+    "citation": "VA 5782",
+    "date_range": [
+      "[1866 TO 3000]"
+    ],
+    "description": "Broken Creek Primary School (School No. 862) (VA 5782) is a small rural government primary school located 20 kilometres west of Benalla, in northern Victoria.<br />\r\n<br />\r\nThe school first opened in 1866 as Broken Creek Common School, operating out of a one-room log and shingle building built by local residents. Sometime after 1873, the school changed its name to Broken Creek State School. This was due to the Education Act (Vic) 1872, which established the Victorian Education Department (VA 714) and a subsequent change to school naming conventions. In 1887, a new school was built on a site opposite the original school.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Broken Creek Primary School.<br />\r\n<br />\r\nAs of 2026, Broken Creek Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "3D4F6C6A-D6E7-11F0-8856-7FC5D2DD0FBE",
+    "identifier.PROV_ACM.id": "VA 5782",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1866",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789033115,
+    "title": "Broken Creek Primary School (School No. 862; previously known as Broken Creek Common School 1866 \u2013 c.1873; Broken Creek State School c.1873 - 1970)"
   },
   {
     "_id": "FFD3A3D6-DAD3-11F0-8856-8F2B7696CFA2",
