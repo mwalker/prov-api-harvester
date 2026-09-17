@@ -24967,13 +24967,13 @@
   },
   {
     "_id": "7DA44CA1-F3AA-11E9-AE98-3BC0B5F04FD1",
-    "_version_": 1875059935444729858,
+    "_version_": 1876509487602335744,
     "category": "Agency",
     "citation": "VA 2395",
     "date_range": [
       "[1857 TO 1994]"
     ],
-    "description": "Broadmeadows was declared as a road district in 27 November 1857 under the <em>Act for making and improving Roads in the Colony of Victoria</em> (Victoria Government Gazette No. 138, November 27 1857). Broadmeadows was then proclaimed a Shire on 27 January 1871, and a City on 30 May 1956.<br />\r\n<br />\r\nThis council was abolished in 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. Hume City Council (VA 3695) has was appointed as the successor in law of the City of Broadmeadows and assumed its rights, assets and liabilities.",
+    "description": "Broadmeadows (VA 2395) was declared as a Road District on 27 November 1857 under the <em>Act for making and improving Roads in the Colony of Victoria</em> (Victoria Government Gazette No. 138, November 27 1857). Broadmeadows was then proclaimed a Shire on 27 January 1871; and later a City on 30 May 1956.<br />\r\n<br />\r\nThis council was abolished in 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. Hume City Council (the Broadmeadows, Campbellfield, Coolaroo, Tullamarine and Westmeadows districts) (VA 3695) and Moreland City Council (the Fawkner, Hadfield, Glenroy and Pascoe Vale districts) (VA 3709) were appointed as the successors-in-law of the City of Broadmeadows and assumed its rights, assets and liabilities.",
     "end_dt": "1994",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -24992,12 +24992,12 @@
     "name.official_title.end_dt_qual": null,
     "name.official_title.start_dt": "1857",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Broadmeadows (Road District 1857-1871; Shire 1871- 1956; City 1956-1994)",
+    "name.official_title.title": "Broadmeadows (Road District 1857-1871; Shire 1871-1956; City 1956-1994)",
     "start_dt": "1857",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788145088,
-    "title": "Broadmeadows (Road District 1857-1871; Shire 1871- 1956; City 1956-1994)"
+    "timestamp": 1789543871,
+    "title": "Broadmeadows (Road District 1857-1871; Shire 1871-1956; City 1956-1994)"
   },
   {
     "_id": "7DA64873-F3AA-11E9-AE98-0F9EF4FBFB13",
@@ -26667,13 +26667,13 @@
   },
   {
     "_id": "8BAEA8AC-F3AA-11E9-AE98-BDCDBAFCEEAA",
-    "_version_": 1875965904791011329,
+    "_version_": 1876509487342288897,
     "category": "Agency",
     "citation": "VA 2449",
     "date_range": [
       "[1856 TO 1875]"
     ],
-    "description": "Kilmore was first incorporated as a road district in 1857, declared a borough in 1863 and a shire in 1875. The establishment of each are subject to further research.",
+    "description": "Kilmore I (VA 2449) was first incorporated as a road district in 1857, declared a borough in 1863 and a shire in 1875. Kilmore I was succeeded by&nbsp;Kilmore II (Shire 1875 - 1995) (VA 3735).<br />\r\n<br />\r\nThe establishment of each are subject to further research.",
     "end_dt": "1875",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -26696,7 +26696,7 @@
     "start_dt": "1856",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788913998,
+    "timestamp": 1789541392,
     "title": "Kilmore I (Municipal District 1856-1863; Borough 1863-1875)"
   },
   {
@@ -61217,13 +61217,13 @@
   },
   {
     "_id": "284617BB-F3AB-11E9-AE98-D18B8011F0AF",
-    "_version_": 1875965904792059908,
+    "_version_": 1876509487619112969,
     "category": "Agency",
     "citation": "VA 3695",
     "date_range": [
       "[1994 TO 3000]"
     ],
-    "description": "Hume City Council (VA 3695) was established in 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. Hume City Council was appointed as the successor in law of Bulla Shire (VA 2396), and partially City of Broadmeadows (VA 2395) and City of Keilor (VA 987);&nbsp;assuming their rights, assets and liabilities.",
+    "description": "Hume City Council (VA 3695) was established in 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. It was created by Order of the Governor in Council, by Special Victoria Government Gazette No. S97, 15 December 1994. The reform process reduced the number of councils from 210 to 78. Hume City Council was appointed as the successor in law of Bulla Shire (VA 2396), partially City of Broadmeadows (VA 2395), and City of Keilor (VA 987);&nbsp;assuming their rights, assets and liabilities.",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -61246,7 +61246,7 @@
     "start_dt": "1994",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788914269,
+    "timestamp": 1789545440,
     "title": "Hume (City 1994-ct)"
   },
   {
@@ -61523,13 +61523,13 @@
   },
   {
     "_id": "2855F64E-F3AB-11E9-AE98-099A8AD29DCE",
-    "_version_": 1875965904795205634,
+    "_version_": 1876509487605481475,
     "category": "Agency",
     "citation": "VA 3704",
     "date_range": [
       "[1994 TO 3000]"
     ],
-    "description": "Mitchell Shire Council (VA 3704) was established in 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. The reform process reduced the number of councils from 210 to 78. Mitchell Shire Council was appointed as the successor in law of Shire of Pyalong (VA 2492), Shire of Kilmore (VA 3735), Rural City of Seymour (VA 2506) and partially Shire of McIvor (VA 2460); assuming their rights, assets and liabilities.",
+    "description": "Mitchell Shire Council (VA 3704) was established in 1994 as part of a statewide program of local government reform enacted between 1993 and 1995. It was created by Order of the Governor in Council, by Special Victoria Government Gazette No. S87, 18 November 1994. The reform process reduced the number of councils from 210 to 78. Mitchell Shire Council was appointed as the successor in law of Shire of Pyalong (VA 2492), Shire of Kilmore (VA 3735), Rural City of Seymour (less the Avenel district) (VA 2506), partially Shire of Broadford (VA 2394), partially Shire of McIvor (VA 2460); assuming their rights, assets and liabilities.",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -61552,7 +61552,7 @@
     "start_dt": "1994",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788914311,
+    "timestamp": 1789545231,
     "title": "Mitchell (Shire 1994-ct)"
   },
   {
@@ -62577,13 +62577,13 @@
   },
   {
     "_id": "31621752-F3AB-11E9-AE98-4D1345BAF626",
-    "_version_": 1875965904792059905,
+    "_version_": 1876509487344386048,
     "category": "Agency",
     "citation": "VA 3735",
     "date_range": [
       "[1875 TO 1995]"
     ],
-    "description": "The Shire of Kilmore was established in 1875, electing its first president in the week of 22 January 1875. The particulars of its establishment are subject to further research.",
+    "description": "The Shire of Kilmore II (VA 3735) was established in 1875, electing its first president in the week of 22 January 1875. It was preceded by&nbsp;Kilmore I (Municipal District 1856-1863; Borough 1863-1875) (VA 2449).<br />\r\n<br />\r\nThe particulars of its establishment are subject to further research.",
     "end_dt": "1995",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -62606,7 +62606,7 @@
     "start_dt": "1875",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788914032,
+    "timestamp": 1789541549,
     "title": "Kilmore II (Shire 1875 - 1995)"
   },
   {
