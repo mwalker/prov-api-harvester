@@ -120838,6 +120838,108 @@
     "title": "Broken Creek Primary School (School No. 862; previously known as Broken Creek Common School 1866 \u2013 c.1873; Broken Creek State School c.1873 - 1970)"
   },
   {
+    "_id": "75AAE9EF-D6E7-11F0-8856-A9137289B955",
+    "_version_": 1876962471325990913,
+    "category": "Agency",
+    "citation": "VA 5787",
+    "date_range": [
+      "[1874 TO 3000]"
+    ],
+    "description": "Oxley Primary School (School No. 1399) (VA 5787) is a small rural primary school located 11 kilometres from Wangaratta, north-eastern Victoria.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1874 as Laceby State School, with a wooden school building erected in 1877. In 1910, the school name was changed to Oxley State School, to match the name of the local railway station. A new building was erected in 1954, after the original became too damaged from white ants.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Oxley Primary School.<br />\r\n<br />\r\nAs of 2026, Oxley Primary School continues to operate.&nbsp;<br />\r\n<br />\r\nOxley Primary School (School No. 1399) should not be confused with Milawa Primary School (School No. 737) (VA 5805), which was known as Oxley from 1864 until approximately 1906.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "75AAE9EF-D6E7-11F0-8856-A9137289B955",
+    "identifier.PROV_ACM.id": "VA 5787",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1874",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789958598,
+    "title": "Oxley Primary School (School No. 1399; previously known as Laceby State School 1874 \u2013 1910; Oxley State School 1910 \u2013 1970)"
+  },
+  {
+    "_id": "80D5F400-D6E7-11F0-8856-45DFC4E87805",
+    "_version_": 1876962471321796610,
+    "category": "Agency",
+    "citation": "VA 5788",
+    "date_range": [
+      "[1853 TO 3000]"
+    ],
+    "description": "Campbell&rsquo;s Creek Primary School (School No. 120) (VA 5788) is a government primary school located just out of Castlemaine, north of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1853, becoming recognised as by the National School Board (VA 919) as Campbell&rsquo;s Creek National School in 1854. It initially operated out of a calico tent before a wooden building was erected in 1856.&nbsp;<br />\r\n<br />\r\nIn 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). &nbsp;With the passing of this act, the school was re-named Campbell&rsquo;s Creek Common School and was given the number 120.&nbsp;<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Campbell&rsquo;s Creek State School. &nbsp;Campbell&rsquo;s Creek Common School (School No. 160) and Campbell&rsquo;s Creek Common School (School No. 145) both closed at this time, and their students moved to Campbell&rsquo;s Creek State School. A schoolhouse from one of them was repurposed as classrooms for the State school, and in 1878 a new and larger school was built opposite the old school.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Campbell&rsquo;s Creek Primary School.<br />\r\n<br />\r\nIn 2022, a new campus of Campbell&rsquo;s Creek Primary School was established in Guildford, on the former Guildford Primary School (School No. 264) (VA 5225), which had closed in 2017.<br />\r\n<br />\r\nAs of 2026, Campbell&rsquo;s Creek Primary School continues to operate.<br />\r\n<br />\r\nCampbell&rsquo;s Creek Primary School (School No. 120) should not be confused with Campbell&rsquo;s Creek Common School (School No. 160) which operated 1856 to 1872, or Campbell&rsquo;s Creek Common School (School No. 145) which operated 1857 to 1872.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "80D5F400-D6E7-11F0-8856-45DFC4E87805",
+    "identifier.PROV_ACM.id": "VA 5788",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1853",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789957186,
+    "title": "Campbell\u2019s Creek Primary School (School No. 120; Campbell\u2019s Creek National School 1854 \u2013 1862; Campbell\u2019s Creek Common School 1862 \u2013 1873; Campbell\u2019s Creek State School 1873 - 1970)"
+  },
+  {
+    "_id": "8BF453E1-D6E7-11F0-8856-47CE07049B40",
+    "_version_": 1876962471319699462,
+    "category": "Agency",
+    "citation": "VA 5789",
+    "date_range": [
+      "[1858 TO 3000]"
+    ],
+    "description": "Romsey Primary School (School No. 366) (VA 5789) is a government primary school located in the township of Romsey, north-west of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1858 as Romsey National School. In 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). &nbsp;With the passing of this act, the school was re-named Romsey Common School and was given the number 366. In 1865 a weatherboard school building was erected.&nbsp;<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Romsey State School. &nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Romsey Primary School.<br />\r\n<br />\r\nIn 1994 a new school was built on Station Street. A performing arts room was added in 1998 and the school was significantly remodelled in 2021.&nbsp;<br />\r\n<br />\r\nAs of 2026, Romsey Primary School continues to operate.<br />\r\n<br />\r\nRomsey Primary School (School No. 366) should not be confused with Romsey State School (School No. 1220; later known as Ticawarra State School), which operated from 1874 to 1984.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "8BF453E1-D6E7-11F0-8856-47CE07049B40",
+    "identifier.PROV_ACM.id": "VA 5789",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1858",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789955407,
+    "title": "Romsey Primary School (School No. 366; Romsey National School 1858 \u2013 1862; Romsey Common School 1862 \u2013 1873; Romsey State School 1873 - 1970)"
+  },
+  {
     "_id": "FFD3A3D6-DAD3-11F0-8856-8F2B7696CFA2",
     "_version_": 1868899341464240128,
     "category": "Agency",
@@ -120972,6 +121074,74 @@
     "status": "Published",
     "timestamp": 1782208544,
     "title": "Legal and Social Issues Committee [Legislative Assembly]"
+  },
+  {
+    "_id": "7355C117-DC66-11F0-8856-1B9A5C369D46",
+    "_version_": 1876962471317602308,
+    "category": "Agency",
+    "citation": "VA 5795",
+    "date_range": [
+      "[1879 TO 3000]"
+    ],
+    "description": "Ellinbank Primary School (School No. 2189) (VA 5795) is a small government primary school located in the foothills of the Strzelecki Ranges, south of Warragul in west Gippsland.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1879 as Ellinbank State School. A school was built in the following year. For a few years in the 1880s it was worked part-time with Sea View State School (School No. 2636) (VA 4502) due to low enrolments, but resumed full-time teaching once enrolments increased, and a new school building was erected in 1906.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Ellinbank Primary School.<br />\r\n<br />\r\nAs of 2026, Ellinbank Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "7355C117-DC66-11F0-8856-1B9A5C369D46",
+    "identifier.PROV_ACM.id": "VA 5795",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1879",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789955244,
+    "title": "Ellinbank Primary School (School No. 2189; Ellinbank State School 1879 - 1970)"
+  },
+  {
+    "_id": "01EC5D02-EA86-11F0-8856-F13DA2B5A9D7",
+    "_version_": 1876962471323893774,
+    "category": "Agency",
+    "citation": "VA 5797",
+    "date_range": [
+      "[1876 TO 3000]"
+    ],
+    "description": "Longford Primary School (School No. 1694) (VA 5797) is a small government primary school located in rural Gippsland, just south of Sale.<br />\r\n<br />\r\nThe school first opened in 1876 as Longford State School, initially operating out of a leased building before a schoolhouse and teacher&rsquo;s residence were finished later that year.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Longford Primary School.<br />\r\n<br />\r\nAs of 2026, Longford Primary School continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "01EC5D02-EA86-11F0-8856-F13DA2B5A9D7",
+    "identifier.PROV_ACM.id": "VA 5797",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1876",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1789957965,
+    "title": "Longford Primary School (School No. 1694; Longford State School 1876 - 1970)"
   },
   {
     "_id": "1FA96E54-EA86-11F0-8856-45997C10BC38",
