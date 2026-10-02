@@ -120838,8 +120838,42 @@
     "title": "Broken Creek Primary School (School No. 862; previously known as Broken Creek Common School 1866 \u2013 c.1873; Broken Creek State School c.1873 - 1970)"
   },
   {
+    "_id": "6A8C62FE-D6E7-11F0-8856-03BEA4AAE85C",
+    "_version_": 1877868442146570240,
+    "category": "Agency",
+    "citation": "VA 5786",
+    "date_range": [
+      "[1866 TO 3000]"
+    ],
+    "description": "Lal Lal Primary School (School No. 863) (VA 5786) is a small rural primary school located 15 minutes from Ballarat.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1866 as Lal Lal Common School. The <em>Education Act 1872 </em>established the Victorian Education Department (VA 714) which marked a change to school naming conventions, with the school becoming Lal Lal State School. A new brick schoolhouse was built in 1875.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Lal Lal Primary School.<br />\r\n<br />\r\nAs of 2026, Lal Lal Primary School continues to operate.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "6A8C62FE-D6E7-11F0-8856-03BEA4AAE85C",
+    "identifier.PROV_ACM.id": "VA 5786",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1970 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1970",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Lal Lal Primary School",
+    "start_dt": "1866",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1790823363,
+    "title": "Lal Lal Primary School (School No. 863; previously known as Lal Lal Common School 1866 \u2013 c.1873; Lal Lal State School c.1873 \u2013 1970)"
+  },
+  {
     "_id": "75AAE9EF-D6E7-11F0-8856-A9137289B955",
-    "_version_": 1876962471325990913,
+    "_version_": 1877868443069317121,
     "category": "Agency",
     "citation": "VA 5787",
     "date_range": [
@@ -120868,7 +120902,7 @@
     "start_dt": "1874",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1789958598,
+    "timestamp": 1790834237,
     "title": "Oxley Primary School (School No. 1399; previously known as Laceby State School 1874 \u2013 1910; Oxley State School 1910 \u2013 1970)"
   },
   {
