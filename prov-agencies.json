@@ -37513,7 +37513,7 @@
   },
   {
     "_id": "C0C9A0ED-F3AA-11E9-AE98-B14AAEADF129",
-    "_version_": 1849417219365142528,
+    "_version_": 1878227054144520192,
     "category": "Agency",
     "citation": "VA 2989",
     "date_range": [
@@ -37542,7 +37542,7 @@
     "start_dt": "1982",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1763701373,
+    "timestamp": 1791173182,
     "title": "Cabinet Office [known as Cabinet & Executive Branch 1991-1992; Cabinet Secretariat 1992 - 2015]"
   },
   {
@@ -105699,13 +105699,13 @@
   },
   {
     "_id": "FE872E9C-F3AB-11E9-AE98-A96011763D06",
-    "_version_": 1875422323822034944,
+    "_version_": 1878227054083702784,
     "category": "Agency",
     "citation": "VA 5225",
     "date_range": [
       "[1861 TO 2017]"
     ],
-    "description": "Guildford Primary School (School No. 264) (VA 5225) was opened in September 1861 as Guildford School, gaining official recognition by the National School Board (VA 919) some months later in November 1861.&nbsp;Located in Guildford, Victoria, approximately 124 kilometres north-west of Melbourne, the school was a co-educational and non-denominational primary school.<br />\r\n<br />\r\nWhen Guildford School first opened, it operated out of a single-roomed timber building lined with calico, which had been erected with private funds.&nbsp;The exact site of the original school is subject to further research.&nbsp;&nbsp;<br />\r\n<br />\r\nIn 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713).&nbsp;With the passing of this act, the school was renamed Guildford Common School and was given the number 264.&nbsp;A new school site of 2 acres fronting Franklin Street was selected, and a brick T-shaped building was completed on the site in 1868.&nbsp;Additions were made to the building in 1870 and 1873 and major alterations carried out between 1877 and 1912.<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Guildford State School at some stage between 1873 and 1878.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &ldquo;State school&rdquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &ldquo;primary school&rdquo; in the name. Accordingly, the school&rsquo;s name was changed to Guildford Primary School.<br />\r\n<br />\r\nGuildford Primary School closed in 2017.&nbsp;Three years later, in October 2020, the Minister for Education James Merlino and State Member for Bendigo West Maree Edwards announced that due to local demand, the Guildford School would be reopening as a campus of Campbells Creek Primary School (School No. 120).&nbsp;&nbsp;The Guildford Campus of Campbells Creek Primary School was officially opened in 2022.",
+    "description": "Guildford Primary School (School No. 264) (VA 5225) was opened in September 1861 as Guildford School, gaining official recognition by the National School Board (VA 919) some months later in November 1861.&nbsp;Located in Guildford, Victoria, approximately 124 kilometres north-west of Melbourne, the school was a co-educational and non-denominational primary school.<br />\r\n<br />\r\nWhen Guildford School first opened, it operated out of a single-roomed timber building lined with calico, which had been erected with private funds.&nbsp;The exact site of the original school is subject to further research.&nbsp;&nbsp;<br />\r\n<br />\r\nIn 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713).&nbsp;With the passing of this act, the school was renamed Guildford Common School and was given the number 264.&nbsp;A new school site of 2 acres fronting Franklin Street was selected, and a brick T-shaped building was completed on the site in 1868.&nbsp;Additions were made to the building in 1870 and 1873 and major alterations carried out between 1877 and 1912.<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Guildford State School at some stage between 1873 and 1878.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &ldquo;State school&rdquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &ldquo;primary school&rdquo; in the name. Accordingly, the school&rsquo;s name was changed to Guildford Primary School.<br />\r\n<br />\r\nGuildford Primary School was annexed by Campbell&rsquo;s Creek Primary School (School No. 120) (VA 5788) from 1994 until Guildford Primary School closed in 2017.&nbsp;Three years later, in October 2020, the Minister for Education James Merlino and State Member for Bendigo West Maree Edwards announced that due to local demand, the Guildford School would be reopening as a campus of Campbell&#39;s Creek Primary School. The Guildford Campus of Campbell&#39;s Creek Primary School was officially opened in 2022.",
     "end_dt": "2017",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -105719,16 +105719,16 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1878 TO 1954]",
-    "name.official_title.end_dt": "1954",
-    "name.official_title.end_dt_qual": "?",
-    "name.official_title.start_dt": "1878",
-    "name.official_title.start_dt_qual": "?",
-    "name.official_title.title": "Guildford (Primary School No.264)",
+    "name.official_title.date_range": "[1970 TO 2017]",
+    "name.official_title.end_dt": "2017",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1970",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Guildford Primary School",
     "start_dt": "1861",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788479638,
+    "timestamp": 1791169465,
     "title": "Guildford Primary School (School No. 264; previously known as Guildford State School c.1875 \u2013 1970; Guildford Common School 1862 \u2013 c.1875; Guildford School 1861 - 1862)"
   },
   {
@@ -120907,13 +120907,13 @@
   },
   {
     "_id": "80D5F400-D6E7-11F0-8856-45DFC4E87805",
-    "_version_": 1876962471321796610,
+    "_version_": 1878227054136131586,
     "category": "Agency",
     "citation": "VA 5788",
     "date_range": [
       "[1853 TO 3000]"
     ],
-    "description": "Campbell&rsquo;s Creek Primary School (School No. 120) (VA 5788) is a government primary school located just out of Castlemaine, north of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1853, becoming recognised as by the National School Board (VA 919) as Campbell&rsquo;s Creek National School in 1854. It initially operated out of a calico tent before a wooden building was erected in 1856.&nbsp;<br />\r\n<br />\r\nIn 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). &nbsp;With the passing of this act, the school was re-named Campbell&rsquo;s Creek Common School and was given the number 120.&nbsp;<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Campbell&rsquo;s Creek State School. &nbsp;Campbell&rsquo;s Creek Common School (School No. 160) and Campbell&rsquo;s Creek Common School (School No. 145) both closed at this time, and their students moved to Campbell&rsquo;s Creek State School. A schoolhouse from one of them was repurposed as classrooms for the State school, and in 1878 a new and larger school was built opposite the old school.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Campbell&rsquo;s Creek Primary School.<br />\r\n<br />\r\nIn 2022, a new campus of Campbell&rsquo;s Creek Primary School was established in Guildford, on the former Guildford Primary School (School No. 264) (VA 5225), which had closed in 2017.<br />\r\n<br />\r\nAs of 2026, Campbell&rsquo;s Creek Primary School continues to operate.<br />\r\n<br />\r\nCampbell&rsquo;s Creek Primary School (School No. 120) should not be confused with Campbell&rsquo;s Creek Common School (School No. 160) which operated 1856 to 1872, or Campbell&rsquo;s Creek Common School (School No. 145) which operated 1857 to 1872.",
+    "description": "Campbell&rsquo;s Creek Primary School (School No. 120) (VA 5788) is a government primary school located just out of Castlemaine, north of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1853, becoming recognised as by the National School Board (VA 919) as Campbell&rsquo;s Creek National School in 1854. It initially operated out of a calico tent before a wooden building was erected in 1856.&nbsp;<br />\r\n<br />\r\nIn 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). &nbsp;With the passing of this act, the school was re-named Campbell&rsquo;s Creek Common School and was given the number 120.&nbsp;<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Campbell&rsquo;s Creek State School. &nbsp;Campbell&rsquo;s Creek Common School (School No. 160) and Campbell&rsquo;s Creek Common School (School No. 145) both closed at this time, and their students moved to Campbell&rsquo;s Creek State School. A schoolhouse from one of them was repurposed as classrooms for the State school, and in 1878 a new and larger school was built opposite the old school.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Campbell&rsquo;s Creek Primary School.<br />\r\n<br />\r\nFrom 1994, Campbell&#39;s Creek Primary School annexed Guildford Primary School (School No. 264) (VA 5225), providing the smaller school with teaching and support staff until Guildford Primary School was closed in 2017. In 2022, a new campus of Campbell&rsquo;s Creek Primary School was established in Guildford on the former Guildford Primary School site.<br />\r\n<br />\r\nAs of 2026, Campbell&rsquo;s Creek Primary School continues to operate.<br />\r\n<br />\r\nCampbell&rsquo;s Creek Primary School (School No. 120) should not be confused with Campbell&rsquo;s Creek Common School (School No. 160) which operated 1856 to 1872, or Campbell&rsquo;s Creek Common School (School No. 145) which operated 1857 to 1872.",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -120936,18 +120936,18 @@
     "start_dt": "1853",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1789957186,
+    "timestamp": 1791172339,
     "title": "Campbell\u2019s Creek Primary School (School No. 120; Campbell\u2019s Creek National School 1854 \u2013 1862; Campbell\u2019s Creek Common School 1862 \u2013 1873; Campbell\u2019s Creek State School 1873 - 1970)"
   },
   {
     "_id": "8BF453E1-D6E7-11F0-8856-47CE07049B40",
-    "_version_": 1876962471319699462,
+    "_version_": 1878227060249329673,
     "category": "Agency",
     "citation": "VA 5789",
     "date_range": [
       "[1858 TO 3000]"
     ],
-    "description": "Romsey Primary School (School No. 366) (VA 5789) is a government primary school located in the township of Romsey, north-west of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1858 as Romsey National School. In 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). &nbsp;With the passing of this act, the school was re-named Romsey Common School and was given the number 366. In 1865 a weatherboard school building was erected.&nbsp;<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Romsey State School. &nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Romsey Primary School.<br />\r\n<br />\r\nIn 1994 a new school was built on Station Street. A performing arts room was added in 1998 and the school was significantly remodelled in 2021.&nbsp;<br />\r\n<br />\r\nAs of 2026, Romsey Primary School continues to operate.<br />\r\n<br />\r\nRomsey Primary School (School No. 366) should not be confused with Romsey State School (School No. 1220; later known as Ticawarra State School), which operated from 1874 to 1984.",
+    "description": "Romsey Primary School (School No. 366) (VA 5789) is a government primary school located in the township of Romsey, north-west of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1858 as Romsey National School. In 1862, through the <em>Common Schools Act</em>, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). With the passing of this Act, the school was re-named Romsey Common School and was given the number 366. In 1865 a weatherboard school building was erected.&nbsp;<br />\r\n<br />\r\nThe <em>Education Act 1872</em> established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Romsey State School. &nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Romsey Primary School.<br />\r\n<br />\r\nIn 1994 a new school was built on Station Street. A performing arts room was added in 1998 and the school was significantly remodelled in 2021.&nbsp;<br />\r\n<br />\r\nAs of 2026, Romsey Primary School continues to operate.<br />\r\n<br />\r\nRomsey Primary School (School No. 366) should not be confused with Romsey State School (School No. 1220; later known as Ticawarra State School), which operated from 1874 to 1984.",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -120961,16 +120961,16 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": null,
-    "name.official_title.end_dt": null,
+    "name.official_title.date_range": "[1970 TO 3000]",
+    "name.official_title.end_dt": "3000",
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": null,
+    "name.official_title.start_dt": "1970",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": null,
+    "name.official_title.title": "Romsey Primary School",
     "start_dt": "1858",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1789955407,
+    "timestamp": 1791183046,
     "title": "Romsey Primary School (School No. 366; Romsey National School 1858 \u2013 1862; Romsey Common School 1862 \u2013 1873; Romsey State School 1873 - 1970)"
   },
   {
