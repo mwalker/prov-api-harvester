@@ -110284,6 +110284,40 @@
     "title": "Greenvale Primary School (School No. 890; previously known as Greenvale Common School 1868 \u2013 c.1873; Greenvale State School c.1873 \u2013 1970)"
   },
   {
+    "_id": "28E5BEB9-EA37-11EE-BADD-3D2D3B56F9BC",
+    "_version_": 1878408248651939840,
+    "category": "Agency",
+    "citation": "VA 5385",
+    "date_range": [
+      "[1927 TO 1974]"
+    ],
+    "description": "This school was first established as Hazel Park State School in 1927. Classes were originally held in a leased room in the Chadwick Estate homestead on the Agnes River in Hazel Park, South Gippsland.<br />\r\n<br />\r\nWhen the building was sold in 1930, the school was forced to briefly close until a new schoolhouse was found. A weatherboard hall built the previous year was leased from a Mr T. C. Allot, although it was also used for community events such as dances, games nights, and Sunday School. The building was later sold to the Hazel Park Hall Committee in 1935, who continued to lease it to the Education Department (VA 714).<br />\r\n<br />\r\nThe school&rsquo;s name was likely changed to Hazel Park Primary School around 1970, when a statewide change to naming convention resulted in &lsquo;State School&rsquo; being used to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name.<br />\r\n<br />\r\nThe school was eventually closed in 1974 due to enrolments falling below the minimum requirement of 7.",
+    "end_dt": "1974",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "28E5BEB9-EA37-11EE-BADD-3D2D3B56F9BC",
+    "identifier.PROV_ACM.id": "VA 5385",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1927",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791363592,
+    "title": "Hazel Park Primary School (School No. 4363; previously known as Hazel Park State School 1927 - 1970)"
+  },
+  {
     "_id": "4E1D7C4A-EA37-11EE-BADD-6913BBA9D5AE",
     "_version_": 1839092942919172096,
     "category": "Agency",
@@ -111168,6 +111202,40 @@
     "title": "West Sale State School (School No. 4648; also known as Migrant School West Sale)"
   },
   {
+    "_id": "210E401F-FC4C-11EE-BADD-41768D1A3564",
+    "_version_": 1878408248646696960,
+    "category": "Agency",
+    "citation": "VA 5414",
+    "date_range": [
+      "[1908 TO 1948]"
+    ],
+    "description": "Wirrbibial State School (School No. 3579) was a small rural school in north-west Victoria, that first&nbsp;opened in 1908 in a small one-room limestone building with&nbsp;12 pupils.<br />\r\n<br />\r\nDuring its years of operating it closed and reopened several times due to fluctuating enrolments, and on multiple occasions was worked part-time with neighbouring schools, including Maida Value State School&nbsp;(School No. 3445),&nbsp;Hopetoun East State School (School No. 3710), Dattuck State School (School No. 4390) and Glenore State School (School No. 3770) (VA 5434).<br />\r\n<br />\r\nWirrbibial State School closed for the final time in 1948.",
+    "end_dt": "1948",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "210E401F-FC4C-11EE-BADD-41768D1A3564",
+    "identifier.PROV_ACM.id": "VA 5414",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1908",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791363573,
+    "title": "Wirrbibial State School (School No. 3579)"
+  },
+  {
     "_id": "3488D2A0-FC4C-11EE-BADD-37CB272803EB",
     "_version_": 1839092942738817024,
     "category": "Agency",
@@ -111813,13 +111881,13 @@
   },
   {
     "_id": "3FE58316-0064-11EF-BADD-B9BB7BFC9791",
-    "_version_": 1839092942760837120,
+    "_version_": 1878408248149671936,
     "category": "Agency",
     "citation": "VA 5434",
     "date_range": [
       "[1912 TO 1948]"
     ],
-    "description": "Glenore State School (School No. 3770) (VA 5434) was a co-educational school located in north-west Victoria, 17 kilometres west of Hopetoun.&nbsp;<br />\r\n<br />\r\nParents first petitioned the Education Department (VA 714) in November 1911 for a school in the area. Locals erected a 40ft x 20ft galvanised iron hall to act as a school in August 1912 on the corner of Glenore Road and Glenore School Road. The Department provided out offices and a teacher and the school officially opened 20 November 1912, leased to the Department for &pound;10, 7 shillings a year.&nbsp;<br />\r\n<br />\r\nIn October 1928 the enrolment for the school was only 9 pupils and it was decided that the school would be worked part-time with Wirrbibial State School (School No. 3579) (VA 3579). By January 1930, 14 were enrolled and the school was once again made full-time. In February 1935, the school was again operated part-time with Wirrbibial State School due to lowered enrolments. After protests from the parents, the school was conducted full-time from May 1st 1935.<br />\r\n<br />\r\nIn July 1937, the school was made part-time with Wyperfeld State School (School No. 4264). After further protests, the school was opened full-time the following month and the Wyperfeld school was closed. The school committee requested that the building of the now-closed Wyperfeld school be removed for the school&rsquo;s use, which was permitted by the Department on the condition that the residents arrange a site that would be owned by the state. A site was obtained and the 21.6ft x 21ft wooden building was removed and re-erected, and schooling began in this new building November 27th 1939. The Department officially bought the land, across the road from the original school, on March 18th 1940.&nbsp;<br />\r\n<br />\r\nThe school did not re-open for the 1948 school year, and the pupils were conveyed to Hopetoun State School (School No. 3167). The school officially closed June 4th 1948. The school building and furniture was moved to the Hopetoun State School in 1952 and the land was later sold.",
+    "description": "Glenore State School (School No. 3770) (VA 5434) was a co-educational school located in north-west Victoria, 17 kilometres west of Hopetoun.&nbsp;<br />\r\n<br />\r\nParents first petitioned the Education Department (VA 714) in November 1911 for a school in the area. Locals erected a 40ft x 20ft galvanised iron hall to act as a school in August 1912 on the corner of Glenore Road and Glenore School Road. The Department provided out offices and a teacher and the school officially opened 20 November 1912, leased to the Department for &pound;10, 7 shillings a year.&nbsp;<br />\r\n<br />\r\nIn October 1928 the enrolment for the school was only 9 pupils and it was decided that the school would be worked part-time with Wirrbibial State School (School No. 3579) (VA 5414). By January 1930, 14 were enrolled and the school was once again made full-time. In February 1935, the school was again operated part-time with Wirrbibial State School due to lowered enrolments. After protests from the parents, the school was conducted full-time from May 1st 1935.<br />\r\n<br />\r\nIn July 1937, the school was made part-time with Wyperfeld State School (School No. 4264). After further protests, the school was opened full-time the following month and the Wyperfeld school was closed. The school committee requested that the building of the now-closed Wyperfeld school be removed for the school&rsquo;s use, which was permitted by the Department on the condition that the residents arrange a site that would be owned by the state. A site was obtained and the 21.6ft x 21ft wooden building was removed and re-erected, and schooling began in this new building November 27th 1939. The Department officially bought the land, across the road from the original school, on March 18th 1940.&nbsp;<br />\r\n<br />\r\nThe school did not re-open for the 1948 school year, and the pupils were conveyed to Hopetoun State School (School No. 3167). The school officially closed June 4th 1948. The school building and furniture was moved to the Hopetoun State School in 1952 and the land was later sold.",
     "end_dt": "1948",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -111842,7 +111910,7 @@
     "start_dt": "1912",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857972,
+    "timestamp": 1791355083,
     "title": "Glenore State School (School No. 3770)"
   },
   {
@@ -112252,6 +112320,40 @@
     "status": "Published",
     "timestamp": 1760660182,
     "title": "Doomburrim State School (School No. 3428)"
+  },
+  {
+    "_id": "5E5C5590-08EF-11EF-BADD-430F4040F5BF",
+    "_version_": 1878408248650891264,
+    "category": "Agency",
+    "citation": "VA 5447",
+    "date_range": [
+      "[1895 TO 2005]"
+    ],
+    "description": "This school opened as Meenyan East State School (School No. 3240) in the township of Buffalo, Gippsland, in 1895. Classes were first held in the local Hall, a small timber building made of softwood with no fireplace or insulation. Later the same year, the school moved to a newly-built Mechanics institute nearby.<br />\r\n<br />\r\nIn 1902 the school began operating on a half-time basis with Grassy Spur State School (School No. 3450). When Grassy Spur resumed full-time operation in 1904, Doomburrin State School (School No. 3428) (VA 5446) took its place as a half-time partner school. This ended in 1909 when both schools returned to working full-time.<br />\r\n<br />\r\nThe school&rsquo;s name was changed to Buffalo State School in 1907, and was yet again closed for a short period in 1915 due to low attendance &ndash; 12 pupils at the time.<br />\r\n<br />\r\nA new weatherboard building was completed in 1922, comprising a single classroom. In 1933 a school plantation was established on approximately 10 acres of vacant Crown Land adjoining the school grounds. It was destroyed by a bushfire in 1939 and rebuilt, before being destroyed by another bushfire in 1953. The school&rsquo;s occupancy of this land ended the same year, and it was subsequently sold. A teacher&rsquo;s residence was built in 1950, and a second classroom added to the school in 1955. Another room (later used as a library) was added in 1979. Further minor additions such as sheds and toilets were added in the 1970s and 80s.<br />\r\n<br />\r\nThe school&rsquo;s name was likely changed to Buffalo Primary School in 1970, as there was a statewide decision to broaden the use of the term &lsquo;State School&rsquo; to include all government schools, rather than referring exclusively to primary-level schools. Subsequently, all primary schools began to use &lsquo;Primary School&rsquo; in the name.<br />\r\n<br />\r\nEnrolments fluctuated over the years; 62 pupils were enrolled in 1967, 19 in 1987, and 43 by 1997. These numbers plummeted by the early 2000s, with only 4 students enrolled in 2001. The school was later de-staffed and finally closed in 2005. It was then sold to private interests.",
+    "end_dt": "2005",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "5E5C5590-08EF-11EF-BADD-430F4040F5BF",
+    "identifier.PROV_ACM.id": "VA 5447",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1895",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791363584,
+    "title": "Buffalo Primary School (School No. 3240; previously known as Meenyan East State School 1895 \u2013 1907; Buffalo State School 1907 \u2013 1970)"
   },
   {
     "_id": "5E6FDD91-08EF-11EF-BADD-E788B2B89E69",
