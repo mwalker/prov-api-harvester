@@ -59109,13 +59109,13 @@
   },
   {
     "_id": "27E1B036-F3AB-11E9-AE98-5DD166197DED",
-    "_version_": 1839092943092187136,
+    "_version_": 1878498845015408640,
     "category": "Agency",
     "citation": "VA 3633",
     "date_range": [
       "[1968 TO 1992]"
     ],
-    "description": null,
+    "description": "Narmara Primary School (School No. 4953) (VA 3633) was established as Narmara State School on the corner of Narmara Street and Highbury Road in Burwood East in 1968.<br />\r\n<br />\r\nThe school building comprised twelve classrooms, a library and ancillary rooms. Enrolment was 406 in its first year. It became a training school attached to Burwood Teacher&rsquo;s College in July 1968.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school&rsquo;s name was changed to Narmara Primary School.&nbsp;<br />\r\n<br />\r\nThe Department of Education (VA 714) added two rooms to the original building and a separate six-room infant Division in 1971.<br />\r\n<br />\r\nBy 1972 enrolment had reached 700, however it later declined, leading to the school&rsquo;s eventual closure in 1992. The site was sold to make way for new housing.",
     "end_dt": "1992",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -59129,17 +59129,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1968 TO 1992]",
-    "name.official_title.end_dt": "1992",
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": "1968",
+    "name.official_title.start_dt": null,
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Narmara (Primary School No.4953)",
+    "name.official_title.title": null,
     "start_dt": "1968",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753858016,
-    "title": "Narmara (Primary School No.4953)"
+    "timestamp": 1791411546,
+    "title": "Narmara Primary School (School No. 4953; previously known as Narmara State School 1968 \u2013 1970)"
   },
   {
     "_id": "27E2E8B7-F3AB-11E9-AE98-85220BFBE634",
@@ -100429,13 +100429,13 @@
   },
   {
     "_id": "DD0C0443-F3AB-11E9-AE98-25A486CDDA42",
-    "_version_": 1869533520402055168,
+    "_version_": 1878498845048963073,
     "category": "Agency",
     "citation": "VA 5042",
     "date_range": [
       "[1869 TO 1970]"
     ],
-    "description": "This school first opened in 1869 as Lilliput Common School. Classes were held in a small wooden schoolhouse with shingle roof on a two-acre site in Lilliput, north-east Victoria. A two-roomed teacher&rsquo;s residence was built in 1870.<br />\r\n<br />\r\nThe school was renamed Lilliput State School around 1873. This was due to the Education Act (Vic) 1872, which established the Victorian Education Department (VA 714) and a subsequent change to school naming conventions.<br />\r\n<br />\r\nEnrolment in 1874 was 68, resulting in the schoolhouse being overcrowded. Some students were taught in a mia-mia (a large temporary shelter made from bark, branches, leaves and grass, used by some Indigenous Australians). A new classroom replaced the mia-mia later the same year.<br />\r\n<br />\r\nTwo rooms were added to the teacher&rsquo;s residence in 1878, and in 1888 the school grounds were enlarged.<br />\r\n<br />\r\nIn 1904 the teacher&rsquo;s residence burned down. In 1912 a new wooden schoolhouse was built as the original one had been damaged by termites. The old schoolhouse was sold and moved off-site in 1915.<br />\r\n<br />\r\nBy 1940 only 8 students were enrolled at the school. In 1944 this had dwindled to 5, resulting in the school being temporarily closed. It reopened 3 years later in 1947 as a family with 5 children had moved to the area, bringing enrolment up to 9.<br />\r\n<br />\r\nLilliput State School was officially closed in 1970.",
+    "description": "This school first opened in 1869 as Lilliput Common School. Classes were held in a small wooden schoolhouse with shingle roof on a two-acre site in Lilliput, north-east Victoria. A two-roomed teacher&rsquo;s residence was built in 1870.<br />\r\n<br />\r\nThe school was renamed Lilliput State School around 1873. This was due to the Education Act 1872, which established the Victorian Education Department (VA 714) and a subsequent change to school naming conventions.<br />\r\n<br />\r\nEnrolment in 1874 was 68, resulting in the schoolhouse being overcrowded. Some students were taught in a mia-mia (a large temporary shelter made from bark, branches, leaves and grass, used by some Indigenous Australians). A new classroom replaced the mia-mia later the same year.<br />\r\n<br />\r\nTwo rooms were added to the teacher&rsquo;s residence in 1878, and in 1888 the school grounds were enlarged.<br />\r\n<br />\r\nIn 1904 the teacher&rsquo;s residence burned down. In 1912 a new wooden schoolhouse was built as the original one had been damaged by termites. The old schoolhouse was sold and moved off-site in 1915.<br />\r\n<br />\r\nBy 1940 only 8 students were enrolled at the school. In 1944 this had dwindled to 5, resulting in the school being temporarily closed. It reopened 3 years later in 1947 as a family with 5 children had moved to the area, bringing enrolment up to 9.<br />\r\n<br />\r\nLilliput State School was officially closed in 1970.",
     "end_dt": "1970",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -100458,7 +100458,7 @@
     "start_dt": "1869",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1782885526,
+    "timestamp": 1791426309,
     "title": "Lilliput State School (School No. 1015; previously known as Lilliput Common School 1869 \u2013 1873)"
   },
   {
@@ -116424,6 +116424,40 @@
     "title": "State Coal Committee"
   },
   {
+    "_id": "AC4C4B38-D940-11EF-80A4-41A94032F8F8",
+    "_version_": 1878498845046865920,
+    "category": "Agency",
+    "citation": "VA 5622",
+    "date_range": [
+      "[1880 TO 1932]"
+    ],
+    "description": "High Camp Plain State School (School No. 2276) opened on the 15th of July 1880 in a two-room wooden building with a three-room teacher&rsquo;s residence. It closed in November 1903 before reopening in 1907 on a new site near the High Camp railway station. By January 1932 the school was officially closed for the last time and the building was moved to South Heathcote State School (School No. 1520) (VA 759).",
+    "end_dt": "1932",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "AC4C4B38-D940-11EF-80A4-41A94032F8F8",
+    "identifier.PROV_ACM.id": "VA 5622",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1880",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791426272,
+    "title": "High Camp Plain State School (School No. 2276)"
+  },
+  {
     "_id": "48EBFD5F-DEA5-11EF-80A4-B5C32CE97B99",
     "_version_": 1839092942973698048,
     "category": "Agency",
@@ -118154,6 +118188,40 @@
     "status": "Published",
     "timestamp": 1785861751,
     "title": "Inglewood Primary School (School No. 1052; previously known as Inglewood Common School 1870 \u2013 1873; Inglewood State School 1873 \u2013 1912; Inglewood Higher Elementary School 1912 - 1982)"
+  },
+  {
+    "_id": "168D3D92-18F3-11F0-8D1F-B359D45544BC",
+    "_version_": 1878498845041623040,
+    "category": "Agency",
+    "citation": "VA 5677",
+    "date_range": [
+      "[1874 TO 3000]"
+    ],
+    "description": "Christmas Hills Primary School is a small coeducational school in Christmas Hills, within Nillumbik Shire.<br />\r\n<br />\r\nIt first opened as one of two schools running half-time under the school no. 1362; Christmas Hills State School and Watson&rsquo;s Creek State School. Both opened in 1874. The Christmas Hills branch opened in a 15ft x 14ft room in a leased cottage, while the Watson&rsquo;s Creek branch was run out of a hut with slab walls, a bark roof, and earth floor, on a 2 &frac14; acre site in a bend of Watson&rsquo;s Creek. The average attendance during the first year was 14 at Christmas Hills and 9 at Watson&rsquo;s Creek.<br />\r\n<br />\r\nThe Watson&rsquo;s Creek branch closed on the 18th of February 1876, and the Christmas Hills branch then ran full-time. In May the same year, net enrolment had reached 44, and a partition within the cottage was removed to enlarge the schoolroom.<br />\r\n<br />\r\nIn January 1880 the school moved to a new 30ft x 18ft wooden building with iron roof established on a new site of 5 acres at Scrubby Point. A veranda was added in 1887.<br />\r\n<br />\r\nBushfires occurred in 1927 and 1962, the latter one destroying all out-houses of the school and residence and causing substantial damage. A new drainage scheme, a concrete assembly area, new pathways, a basketball court and gymnastic and playground equipment were provided around the 1960s.<br />\r\n<br />\r\nSometime around 1970 the school&rsquo;s name was changed to Christmas Hills Primary School, following a state-wide change to school naming conventions.<br />\r\n<br />\r\nIn 2024 the school established a new inclusive outdoor learning space. Enrolment at the time was 11, with students organised into one multi-age classroom.<br />\r\n<br />\r\nThis school is still in operation as of 2026.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "168D3D92-18F3-11F0-8D1F-B359D45544BC",
+    "identifier.PROV_ACM.id": "VA 5677",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1874",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791426230,
+    "title": "Christmas Hills Primary School (School No. 1362; previously known as Christmas Hills State School 1874 \u2013 1970; also known as Watson\u2019s Creek State School 1874 \u2013 1876)"
   },
   {
     "_id": "29F188F3-18F3-11F0-8D1F-C3D8679D6E21",
@@ -119959,13 +120027,13 @@
   },
   {
     "_id": "FC5DCC41-8169-11F0-8856-BD2694858451",
-    "_version_": 1875965904922083332,
+    "_version_": 1878498845086711812,
     "category": "Agency",
     "citation": "VA 5748",
     "date_range": [
       "[1858 TO 3000]"
     ],
-    "description": "St Andrews Primary School (School No. 128) (VA 5748) is a government primary school located in the township of St Andrews, along Diamond Creek north-east of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1858 as a Church of England School, known as Caledonia School for its location at the Caledonian Diggings. In 1867 it became a Common School, and the name was changed to Queenstown Common School. The Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Queenstown State School. A new wooden school building was finished in 1887.<br />\r\n<br />\r\nIn 1956, the school name was changed to St Andrews State School, though it was likely referred to it as such prior to this official change.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to St Andrews Primary School.<br />\r\n<br />\r\nIn 1984 a new school was built on a new site, and the old school building/s became the St Andrews Community Centre.<br />\r\n<br />\r\nAs of 2026, St Andrews Primary School continues to operate.",
+    "description": "St Andrews Primary School (School No. 128) (VA 5748) is a government primary school located in the township of St Andrews, along Diamond Creek north-east of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1858 as a Church of England School, known as Caledonia School for its location at the Caledonian Diggings. In 1867 it became a Common School, and the name was changed to Queenstown Common School. The <em>Education Act 1872 </em>established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Queenstown State School. A new wooden school building was finished in 1887.<br />\r\n<br />\r\nIn 1956, the school name was changed to St Andrews State School, though it was likely referred to it as such prior to this official change.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to St Andrews Primary School.<br />\r\n<br />\r\nIn 1984 a new school was built on a new site, and the old school building/s became the St Andrews Community Centre.<br />\r\n<br />\r\nAs of 2026, St Andrews Primary School continues to operate.",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -119979,21 +120047,21 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": null,
-    "name.official_title.end_dt": null,
+    "name.official_title.date_range": "[1970 TO 3000]",
+    "name.official_title.end_dt": "3000",
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": null,
+    "name.official_title.start_dt": "1970",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": null,
+    "name.official_title.title": "St Andrews Primary School",
     "start_dt": "1858",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788929731,
+    "timestamp": 1791432539,
     "title": "St Andrews Primary School (School No. 128; previously known as Caledonia Church of England School 1858 \u2013 1867; Queenstown Common School 1867 \u2013 c.1873; Queenstown State School c.1873 \u2013 1956; St Andrews State School 1956 \u2013 1970)"
   },
   {
     "_id": "0853A062-816A-11F0-8856-63933937197F",
-    "_version_": 1875965904927326208,
+    "_version_": 1878498845108731904,
     "category": "Agency",
     "citation": "VA 5749",
     "date_range": [
@@ -120013,16 +120081,16 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": null,
-    "name.official_title.end_dt": null,
+    "name.official_title.date_range": "[1912 TO 1936]",
+    "name.official_title.end_dt": "1936",
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": null,
+    "name.official_title.start_dt": "1912",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": null,
+    "name.official_title.title": "Britannia Creek State School (School No. 3746)",
     "start_dt": "1912",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788929855,
+    "timestamp": 1791436360,
     "title": "Britannia Creek State School (School No. 3746)"
   },
   {
@@ -120670,6 +120738,40 @@
     "title": "Mount Pleasant Road Nunawading Primary School (School No. 4808; previously known as Nunawading South Primary School 1958 \u2013 1970; Nunawading South Primary School 1970 \u2013 2005; also known as Mount Pleasant Road Primary School)"
   },
   {
+    "_id": "7108B06B-BDF4-11F0-8856-F95F9211859D",
+    "_version_": 1878498845058400257,
+    "category": "Agency",
+    "citation": "VA 5773",
+    "date_range": [
+      "[1869 TO 1961]"
+    ],
+    "description": "Redesdale North State School (School No. 967) (VA 5773) first opened as Redesdale North State School in 1869 on Mt Eppalock Road, 5 kilometres north of the township of Redesdale in central Victoria.<br />\r\n<br />\r\nThe school changed its name to Redesdale North State School around 1873, following the establishment of&nbsp;the Victorian Education Department (VA 714) by the Education Act 1872.<br />\r\n<br />\r\nIn 1877 Redesdale North State School closed due to many of the local children attending privately run schools. It reopened in 1917, and the old school building was replaced by a timber schoolhouse moved from Shepherd&rsquo;s Creek State School (School No. 2447).&nbsp;<br />\r\n<br />\r\nRedesdale North State School closed for the last time in 1961. The property was later sold to private owners.",
+    "end_dt": "1961",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "7108B06B-BDF4-11F0-8856-F95F9211859D",
+    "identifier.PROV_ACM.id": "VA 5773",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1869",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791426344,
+    "title": "Redesdale North State School (School No. 967; previously known as Redesdale North Common School 1869 \u2013 c.1873)"
+  },
+  {
     "_id": "7FCE4660-BDF4-11F0-8856-01AF4A11FC06",
     "_version_": 1875965905356193792,
     "category": "Agency",
@@ -121278,6 +121380,42 @@
     "status": "Published",
     "timestamp": 1791268379,
     "title": "Longford Primary School (School No. 1694; Longford State School 1876 - 1970)"
+  },
+  {
+    "_id": "133876C3-EA86-11F0-8856-155AE2440975",
+    "_version_": 1878498845051060224,
+    "category": "Agency",
+    "citation": "VA 5798",
+    "date_range": [
+      "[1874 TO 3000]"
+    ],
+    "description": "Malmsbury Primary School (School No. 1408) (VA 5798) is a small government primary school located in the central Victorian town of Malmsbury.<br />\r\n<br />\r\nThe school first opened in 1874 as Malmsbury State School, out of a new bluestone building. It replaced Malmsbury Common School (School No. 410) which had operated since 1857.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Malmsbury Primary School.<br />\r\n<br />\r\nAs of 2026, Malmsbury Primary School continues to operate.<br />\r\n<br />\r\nMalmsbury Primary School (School No. 1408) should not be confused with Malmsbury Common School (School No. 410), which operated from 1857 to 1874.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "133876C3-EA86-11F0-8856-155AE2440975",
+    "identifier.PROV_ACM.id": "VA 5798",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": "[1970 TO 3000]",
+    "name.aka.end_dt": "3000",
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": "1970",
+    "name.aka.title": [
+      "Malmsbury Primary School (School No. 1408)"
+    ],
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1874",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791426334,
+    "title": "Malmsbury Primary School (School No. 1408; previously known as Malmsbury State School 1874 - 1970)"
   },
   {
     "_id": "1FA96E54-EA86-11F0-8856-45997C10BC38",
