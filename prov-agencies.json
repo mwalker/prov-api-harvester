@@ -121042,6 +121042,108 @@
     "title": "Broken Creek Primary School (School No. 862; previously known as Broken Creek Common School 1866 \u2013 c.1873; Broken Creek State School c.1873 - 1970)"
   },
   {
+    "_id": "488BDB9B-D6E7-11F0-8856-E5FB76A7A8C4",
+    "_version_": 1878589442691694593,
+    "category": "Agency",
+    "citation": "VA 5783",
+    "date_range": [
+      "[1850 TO 3000]"
+    ],
+    "description": "Colac Primary School (School No. 117) (VA 5783), located in the eastern residential area of Colac, is one of the oldest government schools in Victoria.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1850 as Colac National School. In 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). &nbsp;With the passing of this act, the school was re-named Colac Common School and was given the number 117.&nbsp;<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Colac State School. &nbsp;At this time, a local hall was being used for the school, with a new bluestone and brick schoolhouse finished in 1878. In 1964, this school was destroyed by fire, and a new school was finished in 1966.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Colac Primary School.<br />\r\n<br />\r\nAs of 2026, Colac Primary School continues to operate.&nbsp;<br />\r\n<br />\r\nColac Primary School (School No. 117) should not be confused with Colac Catholic School (School No. 165), which operated from 1852 to 1875.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "488BDB9B-D6E7-11F0-8856-E5FB76A7A8C4",
+    "identifier.PROV_ACM.id": "VA 5783",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1850",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791500893,
+    "title": "Colac Primary School (School No. 117; previously known as Colac National School 1850 \u2013 1862; Colac Common School 1862 \u2013 c.1873; Colac State School c.1873 \u2013 1970)"
+  },
+  {
+    "_id": "53AB9B0C-D6E7-11F0-8856-F966B43B2510",
+    "_version_": 1878589442696937472,
+    "category": "Agency",
+    "citation": "VA 5784",
+    "date_range": [
+      "[1858 TO 3000]"
+    ],
+    "description": "Flemington Primary School (School No. 250) (VA 5784), located in the residential Melbourne suburb of Travancore, is one of the oldest government schools in Victoria.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1858 as Flemington National School. In 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). &nbsp;With the passing of this act, the school was re-named Flemington Common School and was given the number 250. In 1868 a new school building was built on Mt Alexander Road, which later became part of Flemington Girls High School (School No. 7763) (VA 5780).<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Flemington State School. &nbsp;The school closed from March 1885 before reopening in September of the same year, to ease overcrowding at the nearby Kensington State School (School No. 2374).<br />\r\n<br />\r\nFlemington State School moved to a new site in 1922, set back from Mt Alexander Road.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Flemington Primary School.<br />\r\n<br />\r\nAs of 2026, Flemington Primary School continues to operate.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "53AB9B0C-D6E7-11F0-8856-F966B43B2510",
+    "identifier.PROV_ACM.id": "VA 5784",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1858",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791500960,
+    "title": "Flemington Primary School (School No. 250; previously known as Flemington National School 1858 \u2013 1862; Flemington Common School 1862 \u2013 c.1873; Flemington State School c.1873 \u2013 1970)"
+  },
+  {
+    "_id": "5F6B6B0D-D6E7-11F0-8856-D9C8AA76F35D",
+    "_version_": 1878589442699034635,
+    "category": "Agency",
+    "citation": "VA 5785",
+    "date_range": [
+      "[1866 TO 3000]"
+    ],
+    "description": "Healesville Primary School (School No. 849) (VA 5785) is a government primary school located in Healesville, at the base of the Eastern Ranges.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1866 as Healesville Common School. It briefly closed in 1870 due to the need for students to assist with seasonal fruit picking as well as a diphtheria epidemic.<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked a change to school naming conventions, with the school becoming Healesville State School. &nbsp;A new brick schoolhouse was built in 1877.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Healesville Primary School.<br />\r\n<br />\r\nAs of 2026, Healesville Primary School continues to operate.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "5F6B6B0D-D6E7-11F0-8856-D9C8AA76F35D",
+    "identifier.PROV_ACM.id": "VA 5785",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1866",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791501005,
+    "title": "Healesville Primary School (School No. 849; previously known as Healesville Common School 1866 \u2013 c.1873; Healesville State School c.1873 \u2013 1970)"
+  },
+  {
     "_id": "6A8C62FE-D6E7-11F0-8856-03BEA4AAE85C",
     "_version_": 1877868442146570240,
     "category": "Agency",
