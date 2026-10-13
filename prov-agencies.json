@@ -105869,13 +105869,13 @@
   },
   {
     "_id": "FE9670ED-F3AB-11E9-AE98-7949F715ABEE",
-    "_version_": 1866996806653575168,
+    "_version_": 1878861233674780672,
     "category": "Agency",
     "citation": "VA 5233",
     "date_range": [
       "[1909 TO 1973]"
     ],
-    "description": "The Alexandra Babies&#39; Home was established c.1909 at 187 Scott Parade, Ballarat East.&nbsp;<br />\r\n<br />\r\nThe Home had a capacity of 36 children, most of which were wards of the state. When children reached the age of four they were typically transferred to the Ballarat Orphanage.<br />\r\n<br />\r\nThe Babies&rsquo; Home was located next to the Ballarat Female Refuge (VA 5829) in Scott Parade.<br />\r\n<br />\r\nThe Home was initially run by a committee of management before the Ballarat Town and City Mission (VA 5830) took over management of the Home in 1921. The Mission had closed the Ballarat Female Refuge and George Street Children&rsquo;s Home and opened Ballarat Town and City Mission Rescue and Children&rsquo;s Home in their place. It was also operated by the Mission alongside Alexandra Babies&rsquo; Home.<br />\r\n<br />\r\nThe Rescue Home closed in 1941, but the Babies&rsquo; Home continued operating, still run by the Mission.<br />\r\n<br />\r\nThe Babies&rsquo; Home was renamed to the Alexandra Toddlers&#39; Home in 1964 to reflect that the children cared for at the Home were aged from eighteen months to five years.<br />\r\n<br />\r\nThe institution ceased to be registered by the Social Welfare Department as a Children&#39;s Home upon its closure on 8 November 1973. The Home had been experiencing financial difficulties. Some children who were living at the Home when it closed were returned to their parents; others were placed in alternative institutions.",
+    "description": "The Alexandra Babies&#39; Home was established circa 1909 at 187 Scott Parade, Ballarat East.&nbsp;<br />\r\n<br />\r\nThe Home had a capacity of 36 children, most of which were wards of the state. When children reached the age of four they were typically transferred to the Ballarat Orphanage (VA 3946).<br />\r\n<br />\r\nThe Home was located next to the Ballarat Female Refuge (VA 5829) in Scott Parade.<br />\r\n<br />\r\nThe Home was initially run by a committee of management, before the Ballarat Town and City Mission (VA 5830) took over management of the Home in 1921. The Mission had closed the Ballarat Female Refuge and George Street Children&rsquo;s Home and opened Ballarat Town and City Mission Rescue and Children&rsquo;s Home in their place. The new institution was operated by the Mission alongside Alexandra Babies&rsquo; Home.<br />\r\n<br />\r\nThe Rescue Home closed in 1941 but the Babies&rsquo; Home continued operating, still run by the Mission.<br />\r\n<br />\r\nThe Babies&rsquo; Home was renamed to the Alexandra Toddlers&#39; Home in 1964 to reflect that the children cared for at the Home were aged from eighteen months to five years.<br />\r\n<br />\r\nThe Alexandra Toddlers&#39; Home ceased to be registered by the Social Welfare Department as a children&#39;s home upon its closure on 8 November 1973. The Home had been experiencing financial difficulties. Some children who were living at the Home when it closed were returned to their parents; others were placed in alternative institutions.",
     "end_dt": "1973",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -105889,17 +105889,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1909 TO 1973]",
+    "name.official_title.date_range": "[1964 TO 1973]",
     "name.official_title.end_dt": "1973",
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": "1909",
-    "name.official_title.start_dt_qual": "Circa",
-    "name.official_title.title": "Alexandra Babies' Home (Alexandra Toddlers' Home 1964-1973)",
+    "name.official_title.start_dt": "1964",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Alexandra Toddlers' Home",
     "start_dt": "1909",
     "start_dt_qual": "Circa",
     "status": "Published",
-    "timestamp": 1780478490,
-    "title": "Alexandra Babies' Home (Alexandra Toddlers' Home 1964-1973)"
+    "timestamp": 1791785487,
+    "title": "Alexandra Toddlers' Home, (previously known as Alexandra Babies' Home, circa 1909 - 1964)"
   },
   {
     "_id": "FE981E9F-F3AB-11E9-AE98-0DC8334CDE84",
@@ -120095,7 +120095,7 @@
   },
   {
     "_id": "13F2C903-816A-11F0-8856-2FC291320814",
-    "_version_": 1875965904928374786,
+    "_version_": 1878861233618157568,
     "category": "Agency",
     "citation": "VA 5750",
     "date_range": [
@@ -120115,17 +120115,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": null,
-    "name.official_title.end_dt": null,
+    "name.official_title.date_range": "[1970 TO 3000]",
+    "name.official_title.end_dt": "3000",
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": null,
+    "name.official_title.start_dt": "1970",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": null,
+    "name.official_title.title": "Macedon Primary School",
     "start_dt": "1875",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788930010,
-    "title": "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    "timestamp": 1791777347,
+    "title": "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 1970)"
   },
   {
     "_id": "1FB6DEC4-816A-11F0-8856-A72731C92A90",
@@ -121654,6 +121654,74 @@
     "status": "Published",
     "timestamp": 1775572193,
     "title": "Cassilis Courts"
+  },
+  {
+    "_id": "64472646-33CE-11F1-8856-9BE19476B942",
+    "_version_": 1878861233675829254,
+    "category": "Agency",
+    "citation": "VA 5829",
+    "date_range": [
+      "[1867 TO 1921]"
+    ],
+    "description": "The Ballarat Female Refuge was established in 1867 in Grant Street, Ballarat. The home provided accommodation for single mothers and their babies, with 417 women admitted between 1891 and 1921.<br />\r\n<br />\r\nThe Refuge was formed by a group of Protestant women and was managed by a ladies&rsquo; committee and a committee of lay men and ministers from various Protestant denominations. It was to be modelled on the Madeline Street Refuge in Carlton. The house in Grant Street was purchased through a government grant, as well as contributions and subscriptions from the community. Once it was established, income for the Refuge was also generated by laundry work and needlework performed by the residents.&nbsp;<br />\r\n<br />\r\nThe Refuge was relocated to 183 Scott Parade Ballarat East in 1884 or 1885.<br />\r\n<br />\r\nIn 1897 a maternity ward was added so that residents didn&rsquo;t need to go to the lying-in ward at the Ballarat Benevolent Asylum (VA 1284) to give birth.<br />\r\n<br />\r\nIn 1900 it was renamed Ballarat Female Home.<br />\r\n<br />\r\nThe home was taken over by the Ballarat Town and City Mission (VA 5830) in 1921. The Mission established a new institution for single mothers and their babies at 183 Scott Parade. This institution was known as the Ballarat Town and City Mission Rescue and Children&rsquo;s Home.<br />\r\n<br />\r\nThe Alexandra Babies&rsquo; Home (VA 5233) was located next door at 187 Scott Parade from 1909. This was to provide accommodation for infants.",
+    "end_dt": "1921",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "64472646-33CE-11F1-8856-9BE19476B942",
+    "identifier.PROV_ACM.id": "VA 5829",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1900 TO 1921]",
+    "name.official_title.end_dt": "1921",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1900",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Ballarat Female Home",
+    "start_dt": "1867",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791785503,
+    "title": "Ballarat Female Home (previously known as Ballarat Female Refuge 1867 - 1900)"
+  },
+  {
+    "_id": "E8D4B677-33CE-11F1-8856-776B4561F9D9",
+    "_version_": 1878861233678974978,
+    "category": "Agency",
+    "citation": "VA 5830",
+    "date_range": [
+      "[1867 TO 1973]"
+    ],
+    "description": "The Ballarat Town and City Mission was founded in 1867. It established a number of homes for women and children in Ballarat, including the Canadian Rescue and Children&rsquo;s Home in Canadian Gully in 1897 (VA 5831), and George Street Children&rsquo;s Home in 1916.&nbsp;<br />\r\n<br />\r\nIt was initially known as both the Ballarat Town Mission and the Open Air Mission. It took on the name Ballarat Town and City Mission in 1913.<br />\r\n<br />\r\nIn 1921 the Ballarat Town and City Mission took over the management of the Alexandra Babies&rsquo; Home (VA 5233) and the Ballarat Female Home (VA 5829). The institution became the Ballarat Town and City Rescue and Children&rsquo;s Home, located in its existing site on Scott Parade Ballarat East. It continued providing accommodation for single mothers and their babies.<br />\r\n<br />\r\nThe governance of the Home was controlled by a Committee of Management. It received funding from the Social Welfare Department (VA 946) and its predecessor agencies.<br />\r\n<br />\r\nThe Ballarat Town and City Rescue and Children&rsquo;s Home operated until 1941. The Alexandra Babies&rsquo; Home (renamed Alexandra Toddlers&rsquo; Home in 1964) continued operating until 1973.<br />\r\n&nbsp;",
+    "end_dt": "1973",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "E8D4B677-33CE-11F1-8856-776B4561F9D9",
+    "identifier.PROV_ACM.id": "VA 5830",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1913 TO 1973]",
+    "name.official_title.end_dt": "1973",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1913",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Ballarat Town and City Mission",
+    "start_dt": "1867",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791785994,
+    "title": "Ballarat Town and City Mission (previously known as Ballarat Town Mission, 1867 - 1913; Open Air Mission, 1867 - 1913)"
   },
   {
     "_id": "8572C079-5EF3-11F1-8856-E30B58741761",

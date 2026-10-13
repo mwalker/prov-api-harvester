@@ -1696567,7 +1696567,7 @@
   },
   {
     "_id": "A1A6DA32-CA13-11EE-BADD-C7858F98F95A",
-    "_version_": 1818341351382581248,
+    "_version_": 1878861233550000129,
     "category": "Series",
     "citation": "VPRS 19827",
     "citation_sort": "19827",
@@ -1696584,12 +1696584,14 @@
       2549
     ],
     "creating_agents.date_ranges": [
-      "[1890 TO 3000]"
+      "[1890 TO 1933]"
     ],
     "creating_agents.end_dt": [
-      3000
+      1933
     ],
-    "creating_agents.end_dt_qual": null,
+    "creating_agents.end_dt_qual": [
+      "?"
+    ],
     "creating_agents.start_dt": [
       1890
     ],
@@ -1696620,7 +1696622,7 @@
       "North Melbourne"
     ],
     "recordkeeping_system": [
-      "No formal recordkeeping system has been identified.&nbsp; &nbsp;Please note there is only a single civil case appeal book held in this series.&nbsp;"
+      "No formal recordkeeping system has been identified. Please note there is only a single civil case appeal book held in this series.&nbsp;"
     ],
     "resp_agency_id": [
       "2549"
@@ -1696664,7 +1696666,7 @@
     "start_dt": "1890",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1734048459,
+    "timestamp": 1791761603,
     "title": "Supreme Court, Civil Case Appeal Books"
   },
   {
@@ -1718525,6 +1718527,210 @@
     "status": "Published",
     "timestamp": 1757996705,
     "title": "Inspector's Report Books\r\n"
+  },
+  {
+    "_id": "843EA787-F602-11EE-BADD-D949594E37C7",
+    "_version_": 1878861233647517697,
+    "category": "Series",
+    "citation": "VPRS 20043",
+    "citation_sort": "20043",
+    "contents.date_range": [
+      "[1966 TO 1971]"
+    ],
+    "contents.end_dt": [
+      1971
+    ],
+    "contents.start_dt": [
+      1966
+    ],
+    "creating_agents.creating_agency_id": [
+      5385
+    ],
+    "creating_agents.date_ranges": [
+      "[1966 TO 1971]"
+    ],
+    "creating_agents.end_dt": [
+      1971
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1966
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Hazel Park Primary School (School No. 4363; previously known as Hazel Park State School 1927 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1966 TO 1971]"
+    ],
+    "end_dt": "1971",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of Inspector&#39;s Report Books which provide a detailed examination of the school building and grounds, student activities and teaching as observed by the Inspector at the time of their visit to&nbsp;Hazel Park Primary School (School No. 4363) (VA 5385).<br />\r\n<br />\r\nSchool Inspectors reported on teacher, student, and school performance and the implementation of Department policies at Victorian government schools from 1852 until 1984. Outside of their advisory and assessment duties, District Inspectors oversaw fielding, investigating and responding to complaints and concerns regarding teachers.&nbsp;<br />\r\n<br />\r\nInspectors, collectively known as the Inspectorate, were first appointed following a Report from the Select Committee on Education in 1852, and from 1853 were directly accountable to the National Board of Commissioners. From 1862, they were appointed by the Board of Education (VA 713), and from then until 1904 were accountable to the Board and its successors.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984 after which greater accountability was given to school councils and principals. &nbsp;<br />\r\n<br />\r\nThe Inspector&rsquo;s Report Book were issued to all schools by the Education Department (VA 714) and its successors. The Inspectors recorded the school number, date and time of visit, comments, and signed the books. Some books also contain official Departmental receipts for donations collected from the head teacher for textbooks.<br />\r\n<br />\r\nReports were created by Departmental Inspectors during annual and supplementary visits to government schools. Inspections (and comments) were made regarding the number of pupils present and their general appearance, the condition of the school grounds, buildings, furniture and recordkeeping, school organisation, standard of instruction, time and discipline, teacher accommodation and audits of the sale of textbooks supplied by the Education Department. Background knowledge about individual school management and routines was provided by the local community to the Inspector. During the &lsquo;payment by results&rsquo; system adopted in Victoria from 1864 &ndash; 1904, Inspectors also conducted regular examinations of pupils to assess the teacher&rsquo;s eligibility for bonus pay.<br />\r\n<br />\r\nInspection reports were prepared and forwarded to central officials, where the material was aggregated and presented in an annual report to parliament (See Original Papers Tabled in the Legislative Assembly, VPRS 3253). Edited summaries were made available for publishing in daily newspapers.<br />\r\n<br />\r\nIn the new decentralised model after 1984, regional directors were to oversee the new accountability measures administered by the schools, and the principal assumed greater authority for decision-making in all aspects of school operations and in this sense, assumed many of the duties of former inspectors. Many of these decisions can be found recorded in the school&rsquo;s annual report, or the minutes of the meetings of the school council.&nbsp;"
+    ],
+    "how_to_use": [
+      "Browse the volume for the relevant information."
+    ],
+    "identifier.PID.id": "843EA787-F602-11EE-BADD-D949594E37C7",
+    "identifier.PROV_ACM.id": "VPRS 20043",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Reports within the books are made sequentially in date order. Books are labelled with the school name and number, and often the date range covered within.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "20043",
+    "series_in_custody.date_range": [
+      "[1966 TO 1971]"
+    ],
+    "series_in_custody.end_dt": [
+      1971
+    ],
+    "series_in_custody.start_dt": [
+      1966
+    ],
+    "start_dt": "1966",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791781734,
+    "title": "Inspector's Report Books"
+  },
+  {
+    "_id": "8DC023B6-F606-11EE-BADD-9791E530F0E9",
+    "_version_": 1878861233652760576,
+    "category": "Series",
+    "citation": "VPRS 20044",
+    "citation_sort": "20044",
+    "contents.date_range": [
+      "[1927 TO 1971]"
+    ],
+    "contents.end_dt": [
+      1971
+    ],
+    "contents.start_dt": [
+      1927
+    ],
+    "creating_agents.creating_agency_id": [
+      5385
+    ],
+    "creating_agents.date_ranges": [
+      "[1927 TO 1971]"
+    ],
+    "creating_agents.end_dt": [
+      1971
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1927
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Hazel Park Primary School (School No. 4363; previously known as Hazel Park State School 1927 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1927 TO 1971]"
+    ],
+    "end_dt": "1971",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Pupils&rsquo; Registers for&nbsp;Hazel Park Primary School (School No. 4363) (VA 5385). Pupil registers were a standardised register in which to record student enrolment data, used by all Victorian government primary schools and at times adapted for use at other types of schools.&nbsp;<br />\r\n<br />\r\nThe front cover typically featured titles such as &quot;Pupils&#39; Register State Primary School&quot; or &quot;Register of the Common School,&quot; with space to record the school number and name. Additional instructions on the cover outlined the required information to be recorded in the register.<br />\r\n<br />\r\nThe information entered into the register was typically derived from admission forms completed by parents prior to admission or, in the case of transfers from other government schools, from transfer notes completed by the previous school. While the level of detail listed for students varies, the information recorded may include a registration number (a sequential number assigned upon enrolment at the school); the student&rsquo;s full name and date of birth; date of enrolment; name, residence and occupation of parent or guardian; school last attended (school number and name) with grade and date of last attendance; number of meetings attended (sectioned by year); date, month and year of obtaining Merit Certificate, and Merit Certificate number; date, month, and year of last attendance; and destination of pupil (either the number and name of a school, or nature of occupation, and name and address of employer).<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series to identify dates of interest."
+    ],
+    "identifier.PID.id": "8DC023B6-F606-11EE-BADD-9791E530F0E9",
+    "identifier.PROV_ACM.id": "VPRS 20044",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Pupils&rsquo; registers are arranged in numerical order by register number, which is a sequential numerical identifier (eg. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) assigned to each student at the time of their enrolment.<br />\r\n<br />\r\nAn Index to Pupils&rsquo; Register would have also been maintained by the school, to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, however Public Record Office Victoria does not hold the Index to Pupils&rsquo; Register for this school."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "20044",
+    "series_in_custody.date_range": [
+      "[1927 TO 1971]"
+    ],
+    "series_in_custody.end_dt": [
+      1971
+    ],
+    "series_in_custody.start_dt": [
+      1927
+    ],
+    "start_dt": "1927",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791781865,
+    "title": "Pupils' Registers"
   },
   {
     "_id": "CB3A0689-F609-11EE-BADD-B10313381460",
@@ -1884311,6 +1884517,1232 @@
     "title": "Class Lists"
   },
   {
+    "_id": "3391FFC6-86EE-11F0-8856-F7EB0DBC29AD",
+    "_version_": 1878861233574117377,
+    "category": "Series",
+    "citation": "VPRS 21788",
+    "citation_sort": "21788",
+    "contents.date_range": [
+      "[1883 TO 1904]"
+    ],
+    "contents.end_dt": [
+      1904
+    ],
+    "contents.start_dt": [
+      1883
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[1883 TO 1904]"
+    ],
+    "creating_agents.end_dt": [
+      1904
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1883
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1883 TO 1904]"
+    ],
+    "end_dt": "1904",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of Inspector&#39;s Registers, which provide remarks about the school building and grounds, student examination results, and teaching as observed by the Inspector at the time of their visit at Macedon Primary School (School No. 1660) (VA 5750).<br />\r\n<br />\r\nSchool Inspectors reported on teacher, student, and school performance and the implementation of Department policies at Victorian government schools from 1852 until 1984. Outside of their advisory and assessment duties, District Inspectors oversaw fielding, investigating and responding to complaints and concerns regarding teachers.&nbsp;<br />\r\n<br />\r\nInspectors, collectively known as the Inspectorate, were first appointed following a Report from the Select Committee on Education in 1852, and from 1853 were directly accountable to the National Board of Commissioners. From 1862, they were appointed by the Board of Education (VA 713), and from then until 1904 were accountable to the Board and its successors.&nbsp;<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984 after which greater accountability was given to school councils and principals.&nbsp;<br />\r\n<br />\r\nThe Inspector&rsquo;s Report Book were issued to all schools by the Education Department (VA 714) and its successors. The Inspectors recorded the school number, date and time of visit, comments, and signed the books. Some books also contain official Departmental receipts for donations collected from the head teacher for textbooks.<br />\r\n<br />\r\nReports were created by Departmental Inspectors during annual and supplementary visits to government schools. Inspections (and comments) were made regarding the number of pupils present and their general appearance, the condition of the school grounds, buildings, furniture and recordkeeping, school organisation, standard of instruction, time and discipline, teacher accommodation and audits of the sale of textbooks supplied by the Education Department. Background knowledge about individual school management and routines was provided by the local community to the Inspector. During the &lsquo;payment by results&rsquo; system adopted in Victoria from 1864 to 1904, Inspectors also conducted regular examinations of pupils to assess the teacher&rsquo;s eligibility for bonus pay.<br />\r\n<br />\r\nInspection reports were prepared and forwarded to central officials, where the material was aggregated and presented in an annual report to parliament (See Original Papers Tabled in the Legislative Assembly, VPRS 3253). Edited summaries were made available for publishing in daily newspapers.<br />\r\n<br />\r\nIn the new decentralised model after 1984, regional directors were to oversee the new accountability measures administered by the schools, and the principal assumed greater authority for decision-making in all aspects of school operations and in this sense, assumed many of the duties of former inspectors. Many of these decisions can be found recorded in the school&rsquo;s annual report, or the minutes of the meetings of the school council.&nbsp;"
+    ],
+    "how_to_use": [
+      "Browse the volume for the relevant information.<br />\r\n<br />\r\nFor further information about the school created by the Inspectorate, see VPRS 21791 Inspector&rsquo;s Report Books."
+    ],
+    "identifier.PID.id": "3391FFC6-86EE-11F0-8856-F7EB0DBC29AD",
+    "identifier.PROV_ACM.id": "VPRS 21788",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Reports within the books are made sequentially in date order. Books are labelled with the school name and number, and often the date range covered within.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21788",
+    "series_in_custody.date_range": [
+      "[1883 TO 1904]"
+    ],
+    "series_in_custody.end_dt": [
+      1904
+    ],
+    "series_in_custody.start_dt": [
+      1883
+    ],
+    "start_dt": "1883",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791769731,
+    "title": "Inspector's Register Books"
+  },
+  {
+    "_id": "6F27E7E4-86EE-11F0-8856-8D942B7C13B2",
+    "_version_": 1878861233577263109,
+    "category": "Series",
+    "citation": "VPRS 21789",
+    "citation_sort": "21789",
+    "contents.date_range": [
+      "[1971 TO 2002]"
+    ],
+    "contents.end_dt": [
+      2002
+    ],
+    "contents.start_dt": [
+      1971
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[1971 TO 2002]"
+    ],
+    "creating_agents.end_dt": [
+      2002
+    ],
+    "creating_agents.end_dt_qual": [
+      "circa"
+    ],
+    "creating_agents.start_dt": [
+      1971
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1971 TO 2002]"
+    ],
+    "end_dt": "2002",
+    "end_dt_qual": "circa",
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises the Index to Pupils&rsquo; Registers for Macedon Primary School (School No. 1660) (VA 5750), maintained by Victorian government primary schools to facilitate the identification of students recorded in the Pupils&rsquo; Register. Both the Index to Pupils&rsquo; Register and the Pupils&rsquo; Register were standardized templates provided to schools by the Education Department (VA 714) and its successors.<br />\r\n<br />\r\nThe Pupils&rsquo; Register recorded student enrolment data and was arranged in numerical order by student registration number and date of admission. The register was used by all Victorian government primary schools and at times adapted for use at other types of schools.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) and its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the Index to locate the last name of the record of interest. Next to the name will be the student registration number to refer to in the related VPRS 21792 Pupils&rsquo; Register.&nbsp;"
+    ],
+    "identifier.PID.id": "6F27E7E4-86EE-11F0-8856-8D942B7C13B2",
+    "identifier.PROV_ACM.id": "VPRS 21789",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records in this series were created to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, see VPRS 21792 Pupils&rsquo; Register.&nbsp;<br />\r\n<br />\r\nVolumes are arranged alphabetically and record the child&#39;s surname, first initial, and the registration number given to them upon admission to the school."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "21789",
+    "series_in_custody.date_range": [
+      "[1971 TO 2002]"
+    ],
+    "series_in_custody.end_dt": [
+      2002
+    ],
+    "series_in_custody.start_dt": [
+      1971
+    ],
+    "start_dt": "1971",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791769785,
+    "title": "Index to Pupils' Registers"
+  },
+  {
+    "_id": "B13D7A76-86EE-11F0-8856-313F95011E72",
+    "_version_": 1878861233579360268,
+    "category": "Series",
+    "citation": "VPRS 21790",
+    "citation_sort": "21790",
+    "contents.date_range": [
+      "[1956 TO 1982]"
+    ],
+    "contents.end_dt": [
+      1982
+    ],
+    "contents.start_dt": [
+      1956
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[1956 TO 1982]"
+    ],
+    "creating_agents.end_dt": [
+      1982
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1956
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1956 TO 1982]"
+    ],
+    "end_dt": "1982",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises a Register of Corporal Punishment, maintained by Macedon Primary School (School No. 1660) (VA 5750). The Register of Corporal Punishment was a standardised register used in Victorian government schools from the early 20th century until at least the 1960s. &nbsp;<br />\r\n<br />\r\nEach school filled in their name and school number on the front cover of the register. Inside the front cover of the bound volume is a list of eight regulations relating to the implementation of corporal punishment in schools, including who may be authorised to deliver such punishment, what type of punishment is permitted, and the circumstances when corporal punishment may be applied.&nbsp;<br />\r\n<br />\r\nThe Head Teacher of the school was held responsible for the nature and extent of the punishment inflicted, and only the Head Teacher or those they authorised were permitted to inflict this punishment. Accordingly, the first few pages of the book are titled &lsquo;Names of Teachers Authorized to Inflict Corporal Punishment&rsquo;. In columns below are spaces for the Head Teacher to fill out the name and date of the teachers authorised.<br />\r\n<br />\r\nThe rest of the volume is made up of perforated pages that were used to record the circumstances of individual punishments. Each page contains columns for the teacher to fill out the student&rsquo;s details (full name, age, and grade), the date, the offence committed, the nature and extent of the punishment inflicted, and the initials of the teacher inflicting the punishment. Entries for each year were to be filled out on a separate leaf. According to the instructions listed inside the front cover of the register, these pages were to be kept in the Register for just two years before being removed and destroyed. As such, much of this register is filled with blank pages. Where entries do remain, the level of detail recorded varies.&nbsp;<br />\r\n<br />\r\nCorporal punishment was banned in Victorian state schools in 1983, though many schools had abolished the practice long before then."
+    ],
+    "how_to_use": [
+      "Researchers should browse through the volume to identify individual records of interest."
+    ],
+    "identifier.PID.id": "B13D7A76-86EE-11F0-8856-313F95011E72",
+    "identifier.PROV_ACM.id": "VPRS 21790",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Registers of Corporal Punishment are arranged chronologically by date of incident.&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21790",
+    "series_in_custody.date_range": [
+      "[1956 TO 1982]"
+    ],
+    "series_in_custody.end_dt": [
+      1982
+    ],
+    "series_in_custody.start_dt": [
+      1956
+    ],
+    "start_dt": "1956",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791769822,
+    "title": "Register of Corporal Punishment"
+  },
+  {
+    "_id": "0E146A96-86EF-11F0-8856-8FFA680E0421",
+    "_version_": 1878861233581457408,
+    "category": "Series",
+    "citation": "VPRS 21791",
+    "citation_sort": "21791",
+    "contents.date_range": [
+      "[1915 TO 1983]"
+    ],
+    "contents.end_dt": [
+      1983
+    ],
+    "contents.start_dt": [
+      1915
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[1915 TO 1983]"
+    ],
+    "creating_agents.end_dt": [
+      1983
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1915
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1915 TO 1983]"
+    ],
+    "end_dt": "1983",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of Inspector&#39;s Report Books which provide a detailed examination of the school building and grounds, student activities and teaching as observed by the Inspector at the time of their visit to Macedon Primary School (School No. 1660) (VA 5750).<br />\r\n<br />\r\nSchool Inspectors reported on teacher, student, and school performance and the implementation of Department policies at Victorian government schools from 1852 until 1984. Outside of their advisory and assessment duties, District Inspectors oversaw fielding, investigating and responding to complaints and concerns regarding teachers.&nbsp;<br />\r\n<br />\r\nInspectors, collectively known as the Inspectorate, were first appointed following a Report from the Select Committee on Education in 1852, and from 1853 were directly accountable to the National Board of Commissioners. From 1862, they were appointed by the Board of Education (VA 713), and from then until 1904 were accountable to the Board and its successors.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984 after which greater accountability was given to school councils and principals. &nbsp;<br />\r\n<br />\r\nThe Inspector&rsquo;s Report Book were issued to all schools by the Education Department (VA 714) and its successors. The Inspectors recorded the school number, date and time of visit, comments, and signed the books. Some books also contain official Departmental receipts for donations collected from the head teacher for textbooks.<br />\r\n<br />\r\nReports were created by Departmental Inspectors during annual and supplementary visits to government schools. Inspections (and comments) were made regarding the number of pupils present and their general appearance, the condition of the school grounds, buildings, furniture and recordkeeping, school organisation, standard of instruction, time and discipline, teacher accommodation and audits of the sale of textbooks supplied by the Education Department. Background knowledge about individual school management and routines was provided by the local community to the Inspector. During the &lsquo;payment by results&rsquo; system adopted in Victoria from 1864 to 1904, Inspectors also conducted regular examinations of pupils to assess the teacher&rsquo;s eligibility for bonus pay.<br />\r\n<br />\r\nInspection reports were prepared and forwarded to central officials, where the material was aggregated and presented in an annual report to parliament (See Original Papers Tabled in the Legislative Assembly, VPRS 3253). Edited summaries were made available for publishing in daily newspapers.<br />\r\n<br />\r\nIn the new decentralised model after 1984, regional directors were to oversee the new accountability measures administered by the schools, and the principal assumed greater authority for decision-making in all aspects of school operations and in this sense, assumed many of the duties of former inspectors. Many of these decisions can be found recorded in the school&rsquo;s annual report, or the minutes of the meetings of the school council.&nbsp;"
+    ],
+    "how_to_use": [
+      "Browse the volume for the relevant information.<br />\r\n<br />\r\nFor further information about the school created by the Inspectorate, see VPRS 21788 Inspector&rsquo;s Register Books."
+    ],
+    "identifier.PID.id": "0E146A96-86EF-11F0-8856-8FFA680E0421",
+    "identifier.PROV_ACM.id": "VPRS 21791",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Reports within the books are made sequentially in date order. Books are labelled with the school name and number, and often the date range covered within.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21791",
+    "series_in_custody.date_range": [
+      "[1915 TO 1983]"
+    ],
+    "series_in_custody.end_dt": [
+      1983
+    ],
+    "series_in_custody.start_dt": [
+      1915
+    ],
+    "start_dt": "1915",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791769858,
+    "title": "Inspector's Report Books"
+  },
+  {
+    "_id": "4EAA620A-86EF-11F0-8856-635EDE76B5E9",
+    "_version_": 1878861233583554561,
+    "category": "Series",
+    "citation": "VPRS 21792",
+    "citation_sort": "21792",
+    "contents.date_range": [
+      "[1864 TO 1960]"
+    ],
+    "contents.end_dt": [
+      1960
+    ],
+    "contents.start_dt": [
+      1864
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[1875 TO 1960]"
+    ],
+    "creating_agents.end_dt": [
+      1960
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1875
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1864 TO 1960]"
+    ],
+    "end_dt": "1960",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Pupils&rsquo; Registers for Macedon Primary School (School No. 1660) (VA 5750). Included is a register for the previous Macedon Common School (previously known as Middle Gully Common School) (School No. 431), which closed in 1875 to make way for the new school. Pupil registers were a standardised register in which to record student enrolment data, used by all Victorian government primary schools and at times adapted for use at other types of schools.&nbsp;<br />\r\n<br />\r\nThe front cover typically featured titles such as &quot;Pupils&#39; Register State Primary School&quot; or &quot;Register of the Common School,&quot; with space to record the school number and name. Additional instructions on the cover outlined the required information to be recorded in the register.<br />\r\n<br />\r\nThe information entered into the register was typically derived from admission forms completed by parents prior to admission or, in the case of transfers from other government schools, from transfer notes completed by the previous school. While the level of detail listed for students varies, the information recorded may include a registration number (a sequential number assigned upon enrolment at the school); the student&rsquo;s full name and date of birth; date of enrolment; name, residence and occupation of parent or guardian; school last attended (school number and name) with grade and date of last attendance; number of meetings attended (sectioned by year); date, month and year of obtaining Merit Certificate, and Merit Certificate number; date, month, and year of last attendance; and destination of pupil (either the number and name of a school, or nature of occupation, and name and address of employer).<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) and its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series to identify dates of interest.<br />\r\n<br />\r\nConsult the VPRS 21789 Index to Pupils&rsquo; Register to assist with identifying entries. Researchers should search for the full name or registration number of the pupil to identify the appropriate entry in the register.&nbsp;"
+    ],
+    "identifier.PID.id": "4EAA620A-86EF-11F0-8856-635EDE76B5E9",
+    "identifier.PROV_ACM.id": "VPRS 21792",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Pupils&rsquo; registers are arranged in numerical order by register number, which is a sequential numerical identifier (eg. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) assigned to each student at the time of their enrolment.<br />\r\n<br />\r\nAn Index to Pupils&rsquo; Register would have also been maintained by the school, to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, see VPRS 21789 Index to Pupils&rsquo; Register.&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21792",
+    "series_in_custody.date_range": [
+      "[1864 TO 1960]"
+    ],
+    "series_in_custody.end_dt": [
+      1960
+    ],
+    "series_in_custody.start_dt": [
+      1864
+    ],
+    "start_dt": "1864",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791769914,
+    "title": "Pupils' Registers"
+  },
+  {
+    "_id": "29C1B8D6-86F0-11F0-8856-197D1B15AA2B",
+    "_version_": 1878861233585651718,
+    "category": "Series",
+    "citation": "VPRS 21793",
+    "citation_sort": "21793",
+    "contents.date_range": [
+      "[1941 TO 1946]"
+    ],
+    "contents.end_dt": [
+      1946
+    ],
+    "contents.start_dt": [
+      1941
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[1941 TO 1946]"
+    ],
+    "creating_agents.end_dt": [
+      1946
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1941
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1941 TO 1946]"
+    ],
+    "end_dt": "1946",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises records documenting teacher attendance and leave during their employment at Macedon Primary School (School No. 1660) (VA 5750). While not a full individual work history, the &lsquo;Teachers&rsquo; Timebook&rsquo; and &lsquo;Absence Register&rsquo; provide a snapshot of staff at the school at a moment in time and provide supplementary information detailing which teachers taught where and at what time.<br />\r\n<br />\r\nThese records were used by schools from the early 20th century until the early 2000s.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) and its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system.<br />\r\n<br />\r\n<strong>Teachers&rsquo; Timebook</strong><br />\r\n<br />\r\nThe Teachers&rsquo; Timebook is a standardised register used at each school to log the daily arrival and departure times for teachers.<br />\r\n<br />\r\nInside the front cover are instructions for teachers to follow, regarding time of arrival and departure, hours of duty, hours of instruction, instruction of student teachers, and school cleaning.<br />\r\n<br />\r\nInside the book are four tables per page, one table per work week, with space to record the date. Below are columns to fill in the names of teachers in level of seniority, their position, and then details of their hours worked Monday to Friday, including the day, date, hour and minute of their arrival and departure.<br />\r\n<br />\r\n<strong>Absence Register</strong><br />\r\n<br />\r\nThe Absence Register is a standardised register used at each school to record details of teachers&rsquo; absence from work. &lsquo;Absence Register&rsquo; is printed on the front cover, with spaces to fill in school number and name.<br />\r\n<br />\r\nInside the front cover are rules and procedures regarding absences and instructions on the proper use of the register.<br />\r\n<br />\r\nInside the volume, each page includes a section to record the year and &quot;Roll No.&quot; (the meaning of &quot;Roll No.&quot; remains subject to further research). Below this the teachers documented details of their absences, with fields for the record number, name and position of the teacher (e.g. &quot;H.T&quot; for Head Teacher), date and cause of absence, number of times absent since January 1st of the given year, and any additional remarks."
+    ],
+    "how_to_use": [
+      "Researchers should browse through the volumes to find relevant information."
+    ],
+    "identifier.PID.id": "29C1B8D6-86F0-11F0-8856-197D1B15AA2B",
+    "identifier.PROV_ACM.id": "VPRS 21793",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are filled out in chronological order by date. One volume may span many years."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21793",
+    "series_in_custody.date_range": [
+      "[1941 TO 1946]"
+    ],
+    "series_in_custody.end_dt": [
+      1946
+    ],
+    "series_in_custody.start_dt": [
+      1941
+    ],
+    "start_dt": "1941",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791769954,
+    "title": "Teachers' Time Book and Absence Registers"
+  },
+  {
+    "_id": "857B03F2-86F0-11F0-8856-830A65322EA0",
+    "_version_": 1878861233588797440,
+    "category": "Series",
+    "citation": "VPRS 21794",
+    "citation_sort": "21794",
+    "contents.date_range": [
+      "[1915 TO 2020]"
+    ],
+    "contents.end_dt": [
+      2020
+    ],
+    "contents.start_dt": [
+      1915
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[1915 TO 2020]"
+    ],
+    "creating_agents.end_dt": [
+      2020
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1915
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1915 TO 2020]"
+    ],
+    "end_dt": "2020",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the official annual school group photographs of the staff, classes / forms, year levels and / or entire school and form a visual record of the students and teachers at Macedon Primary School (School No. 1660) (VA 5750) at a point in time.<br />\r\n<br />\r\nThere are not always photographs for every year and within a year period, there may or may not be a photograph for every class / form. The extent of the photographs within the series will vary depending on the school. Additionally, while most photographs list the names of the students and staff members included in the photograph there are some that are unidentified.&nbsp;"
+    ],
+    "how_to_use": [
+      "Search for specific photographs by year. Within a year period, there may or may not be a photograph for every class / form and not every photograph lists the students and staff included by name."
+    ],
+    "identifier.PID.id": "857B03F2-86F0-11F0-8856-830A65322EA0",
+    "identifier.PROV_ACM.id": "VPRS 21794",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Class photographs are grouped by year or year period in files and are typically ordered by year level within each file. The photographs were likely originally stored in photo albums and plastic sleeves."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "21794",
+    "series_in_custody.date_range": [
+      "[1915 TO 2020]"
+    ],
+    "series_in_custody.end_dt": [
+      2020
+    ],
+    "series_in_custody.start_dt": [
+      1915
+    ],
+    "start_dt": "1915",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791770105,
+    "title": "School Photographs"
+  },
+  {
+    "_id": "BC64C920-86F0-11F0-8856-6FC3227641EC",
+    "_version_": 1878861233589846019,
+    "category": "Series",
+    "citation": "VPRS 21795",
+    "citation_sort": "21795",
+    "contents.date_range": [
+      "[1975 TO 2019]"
+    ],
+    "contents.end_dt": [
+      2019
+    ],
+    "contents.start_dt": [
+      1975
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[1975 TO 2019]"
+    ],
+    "creating_agents.end_dt": [
+      2019
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1975
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1975 TO 2019]"
+    ],
+    "end_dt": "2019",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The publications in this series were produced by Macedon Primary School (School No. 1660) (VA 5750) and provide an insight into the activities, culture and curriculum of the school at a certain point in time.&nbsp;<br />\r\n<br />\r\nThe series may include yearbooks, sometimes referred to as &lsquo;school magazines&rsquo;, prospectus publications and other typically annual publications as well as one-off publications of school histories, milestone celebrations and student work anthologies.&nbsp;<br />\r\n<br />\r\nYearbooks were published annually and may feature staff lists with qualifications, highlights of major events, photographs, sports teams, clubs and prefects, new buildings, major excursions, autographs and stories, poetry and art by students.<br />\r\n<br />\r\nProspectus were typically published annually to provide a guide to prospective students about the operations and curriculum of the school and may include information on courses, organisational structure, enrolment procedures, maps, school policy and transport options."
+    ],
+    "how_to_use": [
+      "Researchers should browse within the series by publication type and year. Searches can also be conducted by publication or magazine title."
+    ],
+    "identifier.PID.id": "BC64C920-86F0-11F0-8856-6FC3227641EC",
+    "identifier.PROV_ACM.id": "VPRS 21795",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records are organised by publication type and ordered chronologically by publication date, though gaps may exist within the collection."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "21795",
+    "series_in_custody.date_range": [
+      "[1975 TO 2019]"
+    ],
+    "series_in_custody.end_dt": [
+      2019
+    ],
+    "series_in_custody.start_dt": [
+      1975
+    ],
+    "start_dt": "1975",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791770413,
+    "title": "School Publications"
+  },
+  {
+    "_id": "F31634DC-86FA-11F0-8856-3FD5B8683CFB",
+    "_version_": 1878861233591943169,
+    "category": "Series",
+    "citation": "VPRS 21796",
+    "citation_sort": "21796",
+    "contents.date_range": [
+      "[1971 TO 2020]"
+    ],
+    "contents.end_dt": [
+      2020
+    ],
+    "contents.start_dt": [
+      1971
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[1971 TO 2020]"
+    ],
+    "creating_agents.end_dt": [
+      2020
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1971
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1971 TO 2020]"
+    ],
+    "end_dt": "2020",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises school council records documenting the organisation and operation of Macedon Primary School (School No. 1660) (VA 5750).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the <em>Education Act 1958 </em>allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983, the <em>Education Act</em> was amended to give the school council responsibility for determining the general education policy of the school withing the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the <em>Education and Training Reform Act 2006</em>, the <em>Education and Training Reform Regulations 2017</em>, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included: maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n<br />\r\nThis series may include the following records: minutes, agendas, correspondence, policies, financial statements and reports from principals and other staff members. Records created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Browse within the series to find relevant information.<br />\r\n<br />\r\nFor additional records of school council activities, see VPRS 21797 School Council Minute Books."
+    ],
+    "identifier.PID.id": "F31634DC-86FA-11F0-8856-3FD5B8683CFB",
+    "identifier.PROV_ACM.id": "VPRS 21796",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are organised sequentially by date and separated into files by year. Some may span multiple years within a single file, while others are spread over multiple files per year. The content, date range and volume of records differs for each school."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21796",
+    "series_in_custody.date_range": [
+      "[1971 TO 2020]"
+    ],
+    "series_in_custody.end_dt": [
+      2020
+    ],
+    "series_in_custody.start_dt": [
+      1971
+    ],
+    "start_dt": "1971",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791770678,
+    "title": "School Council Papers"
+  },
+  {
+    "_id": "68EDBFBC-86FB-11F0-8856-E9841362A48B",
+    "_version_": 1878861233607671809,
+    "category": "Series",
+    "citation": "VPRS 21797",
+    "citation_sort": "21797",
+    "contents.date_range": [
+      "[1911 TO 1979]"
+    ],
+    "contents.end_dt": [
+      1979
+    ],
+    "contents.start_dt": [
+      1911
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[1911 TO 1979]"
+    ],
+    "creating_agents.end_dt": [
+      1979
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1911
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1911 TO 1979]"
+    ],
+    "end_dt": "1979",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises volumes recording the minutes of meetings held by the School Council for Macedon Primary School (School No. 1660) (VA 5750).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the <em>Education Act 1958</em> allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983 the <em>Education Act</em> was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the <em>Education and Training Reform Act 2006</em>, the <em>Education and Training Reform Regulations 2017</em>, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n&nbsp;&nbsp; &nbsp;<br />\r\nFor each meeting of the school council, minutes of all proceedings are recorded together with the names of all members present and all who vote for and against motions. The minutes relate to the wide range of activities for which the council is responsible. They are written under agenda item headings and circulated by the principal prior to the next meeting of council, where they are confirmed as accurate and signed by the school council president presiding at the meeting.<br />\r\n<br />\r\nRecords created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Researchers should consult the consignment details to identify a relevant time period and browse through the volume to locate the required information.<br />\r\n<br />\r\nFor additional records of School Council activities, see VPRS 21796 School Council Papers."
+    ],
+    "identifier.PID.id": "68EDBFBC-86FB-11F0-8856-E9841362A48B",
+    "identifier.PROV_ACM.id": "VPRS 21797",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Minutes of meetings are arranged in chronological order by date of meeting.&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21797",
+    "series_in_custody.date_range": [
+      "[1911 TO 1979]"
+    ],
+    "series_in_custody.end_dt": [
+      1979
+    ],
+    "series_in_custody.start_dt": [
+      1911
+    ],
+    "start_dt": "1911",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791774585,
+    "title": "School Council Minute Books"
+  },
+  {
+    "_id": "A26DBF2C-86FB-11F0-8856-F3D8A35A44F0",
+    "_version_": 1878861233610817536,
+    "category": "Series",
+    "citation": "VPRS 21798",
+    "citation_sort": "21798",
+    "contents.date_range": [
+      "[2002 TO 2004]"
+    ],
+    "contents.end_dt": [
+      2004
+    ],
+    "contents.start_dt": [
+      2002
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[2002 TO 2004]"
+    ],
+    "creating_agents.end_dt": [
+      2004
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2002
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2002 TO 2004]"
+    ],
+    "end_dt": "2004",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of School Charters prepared by Macedon Primary School (School No. 1660) (VA 5750).&nbsp;<br />\r\n<br />\r\nIn 1994, as part of the Jeff Kennett government&#39;s Schools of the Future program, the Department of Education (VA 3098) introduced Quality Assurance in Victorian Schools: An Accountability Framework. This framework aimed to shift school management from centralised Department control to self-management by local school communities. It applied to all primary and secondary schools in Victoria, allowing them to make decisions regarding effective learning provision and resource allocation, both human and financial, to meet local priorities.<br />\r\n<br />\r\nSelf-management was guided by school councils and region-approved school charters, implemented through global budgets and school-based program budgeting. School charters outlined a school&#39;s vision, ethos, objectives, and priorities over a three-year period, detailing strategies for achieving goals and evaluating progress. Program budgeting allocated funds across curriculum areas based on school-identified needs, balancing government funding with local fundraising efforts while adhering to state-wide guidelines. A Code of Conduct defined expected student behaviour and disciplinary measures for misconduct.&nbsp;<br />\r\n<br />\r\nThe accountability framework consisted of three key elements: the school charter, an annual report, and a triennial school review. The charter functioned as a formal agreement between the school council president, the principal, and the Director of School Education (later the Secretary of the Department). School Charters are no longer produced, likely due to legislative changes in 2006. School Charters went on to be replaced by the School Strategic Plan.&nbsp;<br />\r\n<br />\r\nThe focus of each charter was on planned, coherent, and continuous improvement, presented in a standardised format specified by the Department of Education (VA 5283) and its predecessors. Each charter provided information under five key sections:\r\n<ol>\r\n\t<li>School profile (background on the school, such as history, demographics, etc);</li>\r\n\t<li>Core purpose statements (goals);</li>\r\n\t<li>Planning for improvement (priorities, curriculum, budget, accountability);</li>\r\n\t<li>Codes of practice (school council, principal class, staff and community);</li>\r\n\t<li>Code of conduct for students.</li>\r\n</ol>\r\n"
+    ],
+    "how_to_use": [
+      "Researchers should browse within the series by dates of interest.<br />\r\n<br />\r\nSchool Charter records are sporadic and there may not be a charter for every three-year period the school is in operation. If a specific charter cannot be located in this series, consult VPRS 17783 School Charters which contains school charters that were accumulated by the Department of Education (VA 5283) and its predecessors."
+    ],
+    "identifier.PID.id": "A26DBF2C-86FB-11F0-8856-F3D8A35A44F0",
+    "identifier.PROV_ACM.id": "VPRS 21798",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "School Charters are arranged in chronological order by year of report. &nbsp;&nbsp;<br />\r\n<br />\r\nSchool Charters are no longer produced, likely due to legislative changes in 2006. School Charters were replaced by the School Strategic Plan."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21798",
+    "series_in_custody.date_range": [
+      "[2002 TO 2004]"
+    ],
+    "series_in_custody.end_dt": [
+      2004
+    ],
+    "series_in_custody.start_dt": [
+      2002
+    ],
+    "start_dt": "2002",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791774947,
+    "title": "School Charters"
+  },
+  {
+    "_id": "DD7263CE-86FB-11F0-8856-837E0917D55E",
+    "_version_": 1878861233615011840,
+    "category": "Series",
+    "citation": "VPRS 21799",
+    "citation_sort": "21799",
+    "contents.date_range": [
+      "[2003 TO 2015]"
+    ],
+    "contents.end_dt": [
+      2015
+    ],
+    "contents.start_dt": [
+      2003
+    ],
+    "creating_agents.creating_agency_id": [
+      5750
+    ],
+    "creating_agents.date_ranges": [
+      "[2003 TO 2015]"
+    ],
+    "creating_agents.end_dt": [
+      2015
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2003
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Macedon Primary School (School No. 1660; previously known as Macedon State School 1875 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2003 TO 2015]"
+    ],
+    "end_dt": "2015",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the annual reports of Macedon Primary School (School No. 1660) (VA 5750).&nbsp;<br />\r\n<br />\r\nThe reports detail aspects such as school governance, achievement, and performance. They may include: Principal&rsquo;s report; School Council President&rsquo;s report; summary of student enrolment, attendance and wellbeing; summary of student progress and achievements; curriculum information; updates on school grounds; staff feedback; charter priorities; annual financial statements and more.<br />\r\n<br />\r\nAlthough the contents, emphasis and delivery mechanisms of annual reports have evolved over time, their fundamental purpose has remained largely unchanged. It provides information on a school&rsquo;s progress and achievements over the course of each year.<br />\r\n<br />\r\nThe content and size of annual reports varies, increasing in size and detail with the implementation of a formalised structure by the Department of Education (VA 3098) in the 1993 amendment to the <em>Education Act 1958 </em>(Vic).&nbsp;<br />\r\n<br />\r\nIn 1994, under the Schools of the Future program, the Department of Education (VA 3098) introduced a framework to provide an accountability mechanism in schools, known as Quality Assurance in Victorian Schools: An Accountability Framework. This framework was introduced to all primary and secondary schools in the state and was created to support the shift in school management from being centrally controlled by the Department to being managed by the local school community. The annual report was one of the three key elements of the framework, in addition to a school charter and a triennial review of the school. The preparation and publication of an annual report was a legislative and regulatory requirement for all schools under the <em>Education and Training Reform Act 2006 </em>(Vic), Ministerial Order 1280 and the <em>National Education Agreement 2008</em>."
+    ],
+    "how_to_use": [
+      "Researchers should search within the series by year of report.<br />\r\n<br />\r\nNot every year of the school&rsquo;s operation may have a report. If a report is not included in this series, consult VPRS 17782 School Annual Reports, which contains the school annual reports that had been accumulated by the Department of Education (VA 5283) and its predecessors."
+    ],
+    "identifier.PID.id": "DD7263CE-86FB-11F0-8856-837E0917D55E",
+    "identifier.PROV_ACM.id": "VPRS 21799",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Annual reports are arranged in chronological order."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21799",
+    "series_in_custody.date_range": [
+      "[2003 TO 2015]"
+    ],
+    "series_in_custody.end_dt": [
+      2015
+    ],
+    "series_in_custody.start_dt": [
+      2003
+    ],
+    "start_dt": "2003",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791775499,
+    "title": "Annual Reports"
+  },
+  {
     "_id": "A65C9AF6-86FD-11F0-8856-B504945CD579",
     "_version_": 1878589442953838593,
     "category": "Series",
@@ -1885227,6 +1886659,822 @@
     "status": "Published",
     "timestamp": 1758587187,
     "title": "Register of Victorian Dairy Industry Authority Correspondence Files - Computer Printouts"
+  },
+  {
+    "_id": "6DC3C8B8-9513-11F0-8856-311724827363",
+    "_version_": 1878861233559437312,
+    "category": "Series",
+    "citation": "VPRS 21818",
+    "citation_sort": "21818",
+    "contents.date_range": [
+      "[2004 TO 2013]"
+    ],
+    "contents.end_dt": [
+      2013
+    ],
+    "contents.start_dt": [
+      2004
+    ],
+    "creating_agents.creating_agency_id": [
+      5741
+    ],
+    "creating_agents.date_ranges": [
+      "[2004 TO 2013]"
+    ],
+    "creating_agents.end_dt": [
+      2013
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2004
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Raywood Primary School (School No. 1844; previously known as Raywood State School 1877 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2004 TO 2013]"
+    ],
+    "end_dt": "2013",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the annual reports of Raywood Primary School (School No. 1844) (VA 5741).&nbsp;<br />\r\n<br />\r\nThe reports detail aspects such as school governance, achievement, and performance. They may include: Principal&rsquo;s report; School Council President&rsquo;s report; summary of student enrolment, attendance and wellbeing; summary of student progress and achievements; curriculum information; updates on school grounds; staff feedback; charter priorities; annual financial statements and more.<br />\r\n<br />\r\nAlthough the contents, emphasis and delivery mechanisms of annual reports have evolved over time, their fundamental purpose has remained largely unchanged. It provides information on a school&rsquo;s progress and achievements over the course of each year.<br />\r\n<br />\r\nThe content and size of annual reports varies, increasing in size and detail with the implementation of a formalised structure by the Department of Education (VA 3098) in the 1993 amendment to the Education Act 1958 (Vic).&nbsp;<br />\r\n<br />\r\nIn 1994, under the Schools of the Future program, the Department of Education (VA 3098) introduced a framework to provide an accountability mechanism in schools, known as Quality Assurance in Victorian Schools: An Accountability Framework. This framework was introduced to all primary and secondary schools in the state and was created to support the shift in school management from being centrally controlled by the Department to being managed by the local school community. The annual report was one of the three key elements of the framework, in addition to a school charter and a triennial review of the school. The preparation and publication of an annual report was a legislative and regulatory requirement for all schools under the Education and Training Reform Act 2006 (Vic), Ministerial Order 1280 and the National Education Agreement 2008."
+    ],
+    "how_to_use": [
+      "Researchers should search within the series by year of report.<br />\r\n<br />\r\nIf a report is not included in this series, consult VPRS 17782 School Annual Reports which contains the series of school annual reports that had been accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "identifier.PID.id": "6DC3C8B8-9513-11F0-8856-311724827363",
+    "identifier.PROV_ACM.id": "VPRS 21818",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Annual reports are arranged in chronological order. &nbsp;<br />\r\n<br />\r\nNot every year of the school&rsquo;s operation may have a report. If a report is missing from this series, please refer to the VPRS 17782 School Annual Reports, which holds a collection of school reports accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21818",
+    "series_in_custody.date_range": [
+      "[2004 TO 2013]"
+    ],
+    "series_in_custody.end_dt": [
+      2013
+    ],
+    "series_in_custody.start_dt": [
+      2004
+    ],
+    "start_dt": "2004",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767713,
+    "title": "Annual Reports\r\n\r\n"
+  },
+  {
+    "_id": "E4DB7F0A-9514-11F0-8856-6F2A11E35EA8",
+    "_version_": 1878861233561534464,
+    "category": "Series",
+    "citation": "VPRS 21819",
+    "citation_sort": "21819",
+    "contents.date_range": [
+      "[1962 TO 1982]"
+    ],
+    "contents.end_dt": [
+      1982
+    ],
+    "contents.start_dt": [
+      1962
+    ],
+    "creating_agents.creating_agency_id": [
+      5741
+    ],
+    "creating_agents.date_ranges": [
+      "[1962 TO 1982]"
+    ],
+    "creating_agents.end_dt": [
+      1982
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1962
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Raywood Primary School (School No. 1844; previously known as Raywood State School 1877 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1962 TO 1982]"
+    ],
+    "end_dt": "1982",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of Inspector&#39;s Report Books which provide a detailed examination of the school building and grounds, student activities and teaching as observed by the Inspector at the time of their visit to Raywood Primary School (School No. 1844) (VA 5741).<br />\r\n<br />\r\nSchool Inspectors reported on teacher, student, and school performance and the implementation of Department policies at Victorian government schools from 1852 until 1984. Outside of their advisory and assessment duties, District Inspectors oversaw fielding, investigating and responding to complaints and concerns regarding teachers.&nbsp;<br />\r\n<br />\r\nInspectors, collectively known as the Inspectorate, were first appointed following a Report from the Select Committee on Education in 1852, and from 1853 were directly accountable to the National Board of Commissioners. From 1862, they were appointed by the Board of Education (VA 713), and from then until 1904 were accountable to the Board and its successors.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984 after which greater accountability was given to school councils and principals. &nbsp;<br />\r\n<br />\r\nThe Inspector&rsquo;s Report Book were issued to all schools by the Education Department (VA 714) and its successors. The Inspectors recorded the school number, date and time of visit, comments, and signed the books. Some books also contain official Departmental receipts for donations collected from the head teacher for textbooks.<br />\r\n<br />\r\nReports were created by Departmental Inspectors during annual and supplementary visits to government schools. Inspections (and comments) were made regarding the number of pupils present and their general appearance, the condition of the school grounds, buildings, furniture and recordkeeping, school organisation, standard of instruction, time and discipline, teacher accommodation and audits of the sale of textbooks supplied by the Education Department. Background knowledge about individual school management and routines was provided by the local community to the Inspector. During the &lsquo;payment by results&rsquo; system adopted in Victoria from 1864 &ndash; 1904, Inspectors also conducted regular examinations of pupils to assess the teacher&rsquo;s eligibility for bonus pay.<br />\r\n<br />\r\nInspection reports were prepared and forwarded to central officials, where the material was aggregated and presented in an annual report to parliament (See Original Papers Tabled in the Legislative Assembly, VPRS 3253). Edited summaries were made available for publishing in daily newspapers.<br />\r\n<br />\r\nIn the new decentralised model after 1984, regional directors were to oversee the new accountability measures administered by the schools, and the principal assumed greater authority for decision-making in all aspects of school operations and in this sense, assumed many of the duties of former inspectors. Many of these decisions can be found recorded in the school&rsquo;s annual report, or the minutes of the meetings of the school council.&nbsp;"
+    ],
+    "how_to_use": [
+      "Browse the volume for the relevant information"
+    ],
+    "identifier.PID.id": "E4DB7F0A-9514-11F0-8856-6F2A11E35EA8",
+    "identifier.PROV_ACM.id": "VPRS 21819",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Reports within the books are made sequentially in date order. Books are labelled with the school name and number, and often the date range covered within.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21819",
+    "series_in_custody.date_range": [
+      "[1962 TO 1982]"
+    ],
+    "series_in_custody.end_dt": [
+      1982
+    ],
+    "series_in_custody.start_dt": [
+      1962
+    ],
+    "start_dt": "1962",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767750,
+    "title": "Inspector's Report Books\r\n"
+  },
+  {
+    "_id": "404A7A8C-9515-11F0-8856-977B235781FB",
+    "_version_": 1878861233563631616,
+    "category": "Series",
+    "citation": "VPRS 21820",
+    "citation_sort": "21820",
+    "contents.date_range": [
+      "[1964 TO 1997]"
+    ],
+    "contents.end_dt": [
+      1997
+    ],
+    "contents.start_dt": [
+      1964
+    ],
+    "creating_agents.creating_agency_id": [
+      5741
+    ],
+    "creating_agents.date_ranges": [
+      "[1964 TO 1997]"
+    ],
+    "creating_agents.end_dt": [
+      1997
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1964
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Raywood Primary School (School No. 1844; previously known as Raywood State School 1877 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1964 TO 1997]"
+    ],
+    "end_dt": "1997",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Pupils&rsquo; Registers for Raywood Primary School (School No. 1844) (VA 5741). Pupil registers were a standardised register in which to record student enrolment data, used by all Victorian government primary schools and at times adapted for use at other types of schools.&nbsp;<br />\r\n<br />\r\nThe front cover typically featured titles such as &quot;Pupils&#39; Register State Primary School&quot; or &quot;Register of the Common School,&quot; with space to record the school number and name. Additional instructions on the cover outlined the required information to be recorded in the register.<br />\r\n<br />\r\nThe information entered into the register was typically derived from admission forms completed by parents prior to admission or, in the case of transfers from other government schools, from transfer notes completed by the previous school. While the level of detail listed for students varies, the information recorded may include a registration number (a sequential number assigned upon enrolment at the school); the student&rsquo;s full name and date of birth; date of enrolment; name, residence and occupation of parent or guardian; school last attended (school number and name) with grade and date of last attendance; number of meetings attended (sectioned by year); date, month and year of obtaining Merit Certificate, and Merit Certificate number; date, month, and year of last attendance; and destination of pupil (either the number and name of a school, or nature of occupation, and name and address of employer).<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series to identify dates of interest."
+    ],
+    "identifier.PID.id": "404A7A8C-9515-11F0-8856-977B235781FB",
+    "identifier.PROV_ACM.id": "VPRS 21820",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Pupils&rsquo; registers are arranged in numerical order by register number, which is a sequential numerical identifier (eg. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) assigned to each student at the time of their enrolment.<br />\r\n<br />\r\nAn Index to Pupils&rsquo; Register would have also been maintained by the school, to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number,&nbsp;however Public Record Office Victoria does not hold the Index to Pupils&rsquo; Register for this school."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "21820",
+    "series_in_custody.date_range": [
+      "[1964 TO 1997]"
+    ],
+    "series_in_custody.end_dt": [
+      1997
+    ],
+    "series_in_custody.start_dt": [
+      1964
+    ],
+    "start_dt": "1964",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767787,
+    "title": "Pupils' Registers\r\n"
+  },
+  {
+    "_id": "928FBA3E-9515-11F0-8856-C931C3260839",
+    "_version_": 1878861233564680193,
+    "category": "Series",
+    "citation": "VPRS 21821",
+    "citation_sort": "21821",
+    "contents.date_range": [
+      "[1981 TO 1988]"
+    ],
+    "contents.end_dt": [
+      1988
+    ],
+    "contents.start_dt": [
+      1981
+    ],
+    "creating_agents.creating_agency_id": [
+      5741
+    ],
+    "creating_agents.date_ranges": [
+      "[1981 TO 1988]"
+    ],
+    "creating_agents.end_dt": [
+      1988
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1981
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Raywood Primary School (School No. 1844; previously known as Raywood State School 1877 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1981 TO 1988]"
+    ],
+    "end_dt": "1988",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises volumes recording the minutes of meetings held by the School Council for Raywood Primary School (School No. 1844) (VA 5741).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983 the Education Act was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n&nbsp;&nbsp; &nbsp;<br />\r\nFor each meeting of the school council, minutes of all proceedings are recorded together with the names of all members present and all who vote for and against motions. The minutes relate to the wide range of activities for which the council is responsible. They are written under agenda item headings and circulated by the principal prior to the next meeting of council, where they are confirmed as accurate and signed by the school council president presiding at the meeting.<br />\r\n<br />\r\nRecords created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Researchers should consult the consignment details to identify a relevant time period and browse through the volume to locate the required information."
+    ],
+    "identifier.PID.id": "928FBA3E-9515-11F0-8856-C931C3260839",
+    "identifier.PROV_ACM.id": "VPRS 21821",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Minutes of meetings are arranged in chronological order by date of meeting.&nbsp;<br />\r\n<br />\r\nFor additional records of School Council activities, see VPRS 21822 School Council Papers."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21821",
+    "series_in_custody.date_range": [
+      "[1981 TO 1988]"
+    ],
+    "series_in_custody.end_dt": [
+      1988
+    ],
+    "series_in_custody.start_dt": [
+      1981
+    ],
+    "start_dt": "1981",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767827,
+    "title": "School Council Minute Books\r\n"
+  },
+  {
+    "_id": "D3FEFA90-9515-11F0-8856-434D3677943F",
+    "_version_": 1878861233566777345,
+    "category": "Series",
+    "citation": "VPRS 21822",
+    "citation_sort": "21822",
+    "contents.date_range": [
+      "[1975 TO 2020]"
+    ],
+    "contents.end_dt": [
+      2020
+    ],
+    "contents.start_dt": [
+      1975
+    ],
+    "creating_agents.creating_agency_id": [
+      5741
+    ],
+    "creating_agents.date_ranges": [
+      "[1975 TO 2020]"
+    ],
+    "creating_agents.end_dt": [
+      2020
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1975
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Raywood Primary School (School No. 1844; previously known as Raywood State School 1877 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1975 TO 2020]"
+    ],
+    "end_dt": "2020",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises school council records documenting the organisation and operation of Raywood Primary School (School No. 1844) (VA 5741).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983, the Education Act was amended to give the school council responsibility for determining the general education policy of the school withing the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included: maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n<br />\r\nThis series may include the following records: minutes, agendas, correspondence, policies, financial statements and reports from principals and other staff members. Records created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Browse within the series to find relevant information."
+    ],
+    "identifier.PID.id": "D3FEFA90-9515-11F0-8856-434D3677943F",
+    "identifier.PROV_ACM.id": "VPRS 21822",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are organised sequentially by date and separated into files by year. Some may span multiple years within a single file, while others are spread over multiple files per year. The content, date range and volume of records differs for each school.<br />\r\n<br />\r\nFor additional records of school council activities, see VPRS 21821 School Council Minute Books."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21822",
+    "series_in_custody.date_range": [
+      "[1975 TO 2020]"
+    ],
+    "series_in_custody.end_dt": [
+      2020
+    ],
+    "series_in_custody.start_dt": [
+      1975
+    ],
+    "start_dt": "1975",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767863,
+    "title": "School Council Papers\r\n"
+  },
+  {
+    "_id": "06DC8632-9516-11F0-8856-8344D2C4EE5E",
+    "_version_": 1878861233568874496,
+    "category": "Series",
+    "citation": "VPRS 21823",
+    "citation_sort": "21823",
+    "contents.date_range": [
+      "[1920 TO 2019]"
+    ],
+    "contents.end_dt": [
+      2019
+    ],
+    "contents.start_dt": [
+      1920
+    ],
+    "creating_agents.creating_agency_id": [
+      5741
+    ],
+    "creating_agents.date_ranges": [
+      "[1920 TO 2019]"
+    ],
+    "creating_agents.end_dt": [
+      2019
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1920
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Raywood Primary School (School No. 1844; previously known as Raywood State School 1877 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1920 TO 2019]"
+    ],
+    "end_dt": "2019",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the official annual school group photographs of the staff, classes/forms, year levels and/or entire school and form a visual record of the students and teachers at Raywood Primary School (School No. 1844) (VA 5741) at a point in time.<br />\r\n<br />\r\nThere are not always photographs for every year and within a year period, there may or may not be a photograph for every class / form. The extent of the photographs within the series will vary depending on the school. Additionally, while most photographs list the names of the students and staff members included in the photograph there are some that are unidentified.&nbsp;"
+    ],
+    "how_to_use": [
+      "Search for specific photographs by year. Within a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staff included by name."
+    ],
+    "identifier.PID.id": "06DC8632-9516-11F0-8856-8344D2C4EE5E",
+    "identifier.PROV_ACM.id": "VPRS 21823",
+    "jurisdictional_coverage": [
+      "Tasmania"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Class photographs are grouped by year or year period in files and are typically ordered by year level within each file. The photographs were likely originally stored in photo albums and plastic sleeves.<br />\r\n<br />\r\nWithin a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staffs included by name."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "21823",
+    "series_in_custody.date_range": [
+      "[1920 TO 2019]"
+    ],
+    "series_in_custody.end_dt": [
+      2019
+    ],
+    "series_in_custody.start_dt": [
+      1920
+    ],
+    "start_dt": "1920",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767900,
+    "title": "School Photographs\r\n"
+  },
+  {
+    "_id": "3B86BB84-9516-11F0-8856-953ACB827313",
+    "_version_": 1878861233569923073,
+    "category": "Series",
+    "citation": "VPRS 21824",
+    "citation_sort": "21824",
+    "contents.date_range": [
+      "[2006 TO 2013]"
+    ],
+    "contents.end_dt": [
+      2013
+    ],
+    "contents.start_dt": [
+      2006
+    ],
+    "creating_agents.creating_agency_id": [
+      5741
+    ],
+    "creating_agents.date_ranges": [
+      "[2006 TO 2013]"
+    ],
+    "creating_agents.end_dt": [
+      2013
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2006
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Raywood Primary School (School No. 1844; previously known as Raywood State School 1877 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2006 TO 2013]"
+    ],
+    "end_dt": "2013",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of school policy and strategic planning files from Raywood Primary School (School No. 1844) (VA 5741). These files are distinct from the general policies and operational guidance distributed to all government schools by the Department of Education III (VA 5283) or its predecessors.&nbsp;<br />\r\n<br />\r\nSchool policies are developed by the school council, which is responsible for reflecting the school&rsquo;s values and support the school&rsquo;s broad direction, as outlined in its Strategic Plan. The Strategic Plan replaced the School Charter.&nbsp;<br />\r\n<br />\r\nThe Strategic Plan is a 4-year plan for school improvement, completed by schools after their school review. &nbsp; It is a document which outlines the school&rsquo;s vision and values, sets goals and targets for improved student outcomes, lists the key improvement strategies that will help achieve these goals and targets and is sensitive to local needs of the school community.&nbsp;<br />\r\n<br />\r\nSome policies are required by legislation or Departmental directives, while others may be created by the school council to address local needs. Under the Education and Training Reform Act 2006 (Vic), all Victorian government schools are required to have a Strategic Plan as part of their registration with the Victorian Qualifications and Registration Authority.<br />\r\n<br />\r\nThese policies cover a wide range of topics common to most schools, including camps, excursions, and outdoor activities; canteen and other school food services; community use of school facilities; dress code; homework; inclusion practices; strategic plans; and student behaviour management.<br />\r\n<br />\r\nUnder the Education and Training Reform Act 2006 (Vic) and Ministerial Order 1359: Implementing the Child Safe Standards &ndash; Managing the Risk of Child Abuse in Schools, government schools are mandated to create policies that comply with Victoria&rsquo;s Child Safe Standards. As of 2024, the Department of Education (VA 5283) required schools to have policies about certain topics, for example education maintenance allowance, investments, parent complaints and payments, student engagement and wellbeing, visitors to schools, criminal record checks, and anaphylaxis management.&nbsp;<br />\r\n<br />\r\nPrior to the legislative establishment of School Councils, records of schools&rsquo; governance may be contained in the records of other committees, including school committees, advisory committees, welfare clubs or parent committees."
+    ],
+    "how_to_use": [
+      "Browse the consignment details and select the relevant policy based on the topic or year.&nbsp;"
+    ],
+    "identifier.PID.id": "3B86BB84-9516-11F0-8856-953ACB827313",
+    "identifier.PROV_ACM.id": "VPRS 21824",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Policy files are arranged in chronological order by year of policy. One policy may span many years and may or may not form a component of a broader general policy document for the school.<br />\r\n<br />\r\nSome school policies may include dates showing the period they cover; however, it is common for policy documents to lack specific date details or a clear start period."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21824",
+    "series_in_custody.date_range": [
+      "[2006 TO 2013]"
+    ],
+    "series_in_custody.end_dt": [
+      2013
+    ],
+    "series_in_custody.start_dt": [
+      2006
+    ],
+    "start_dt": "2006",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767933,
+    "title": "School Policies"
+  },
+  {
+    "_id": "702ECDF6-9516-11F0-8856-5193EC22540F",
+    "_version_": 1878861233572020225,
+    "category": "Series",
+    "citation": "VPRS 21825",
+    "citation_sort": "21825",
+    "contents.date_range": [
+      "1997"
+    ],
+    "contents.end_dt": [
+      1997
+    ],
+    "contents.start_dt": [
+      1997
+    ],
+    "creating_agents.creating_agency_id": [
+      5741
+    ],
+    "creating_agents.date_ranges": [
+      "1997"
+    ],
+    "creating_agents.end_dt": [
+      1997
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1997
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Raywood Primary School (School No. 1844; previously known as Raywood State School 1877 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "1997"
+    ],
+    "end_dt": "1997",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The publications in this series were produced by Raywood Primary School (School No. 1844) (VA 5741) and provide an insight into the activities, culture and curriculum of the school at a certain point in time.&nbsp;<br />\r\n<br />\r\nThe series may include yearbooks, sometimes referred to as &lsquo;school magazines&rsquo;, prospectus publications and other typically annual publications as well as one-off publications of school histories, milestone celebrations and student work anthologies.&nbsp;<br />\r\n<br />\r\nYearbooks were published annually and may feature staff lists with qualifications, highlights of major events, photographs, sports teams, clubs and prefects, new buildings, major excursions, autographs and stories, poetry and art by students.<br />\r\n<br />\r\nProspectus were typically published annually to provide a guide to prospective students about the operations and curriculum of the school and may include information on courses, organisational structure, enrolment procedures, maps, school policy and transport options."
+    ],
+    "how_to_use": [
+      "Researchers should browse within the series by publication type and year. Searches can also be conducted by publication or magazine title."
+    ],
+    "identifier.PID.id": "702ECDF6-9516-11F0-8856-5193EC22540F",
+    "identifier.PROV_ACM.id": "VPRS 21825",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records are organised by publication type and ordered chronologically by publication date, though gaps may exist within the collection."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "21825",
+    "series_in_custody.date_range": [
+      "1997"
+    ],
+    "series_in_custody.end_dt": [
+      1997
+    ],
+    "series_in_custody.start_dt": [
+      1997
+    ],
+    "start_dt": "1997",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767970,
+    "title": "School Publications\r\n"
   },
   {
     "_id": "D18F64B8-9516-11F0-8856-6991E078D3C9",
@@ -1886148,6 +1888396,312 @@
     "status": "Published",
     "timestamp": 1791523085,
     "title": "School Council Papers\r\n"
+  },
+  {
+    "_id": "4383EF4E-951F-11F0-8856-5D014036CDE2",
+    "_version_": 1878861233554194432,
+    "category": "Series",
+    "citation": "VPRS 21835",
+    "citation_sort": "21835",
+    "contents.date_range": [
+      "[1990 TO 2020]"
+    ],
+    "contents.end_dt": [
+      2020
+    ],
+    "contents.start_dt": [
+      1990
+    ],
+    "creating_agents.creating_agency_id": [
+      5275
+    ],
+    "creating_agents.date_ranges": [
+      "[1990 TO 2020]"
+    ],
+    "creating_agents.end_dt": [
+      2020
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1990
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Taradale Primary School (School No. 614; previously known as Taradale National School 1855 \u2013 1862; Taradale Common School 1862 \u2013 1873; Taradale State School 1873 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1990 TO 2020]"
+    ],
+    "end_dt": "2020",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the official annual school group photographs of the staff, classes/forms, year levels and/or entire school and form a visual record of the students and teachers at [Taradale Primary School (School No. 614) (VA 5275) at a point in time.<br />\r\n<br />\r\nThere are not always photographs for every year and within a year period, there may or may not be a photograph for every class / form. The extent of the photographs within the series will vary depending on the school. Additionally, while most photographs list the names of the students and staff members included in the photograph there are some that are unidentified.&nbsp;"
+    ],
+    "how_to_use": [
+      "Search for specific photographs by year. Within a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staff included by name."
+    ],
+    "identifier.PID.id": "4383EF4E-951F-11F0-8856-5D014036CDE2",
+    "identifier.PROV_ACM.id": "VPRS 21835",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Class photographs are grouped by year or year period in files and are typically ordered by year level within each file. The photographs were likely originally stored in photo albums and plastic sleeves.<br />\r\n<br />\r\nWithin a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staffs included by name."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "21835",
+    "series_in_custody.date_range": [
+      "[1990 TO 2020]"
+    ],
+    "series_in_custody.end_dt": [
+      2020
+    ],
+    "series_in_custody.start_dt": [
+      1990
+    ],
+    "start_dt": "1990",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767609,
+    "title": "School Photographs\r\n"
+  },
+  {
+    "_id": "8AEB5A90-951F-11F0-8856-7FA75597CF64",
+    "_version_": 1878861233555243009,
+    "category": "Series",
+    "citation": "VPRS 21836",
+    "citation_sort": "21836",
+    "contents.date_range": [
+      "[1999 TO 2010]"
+    ],
+    "contents.end_dt": [
+      2010
+    ],
+    "contents.start_dt": [
+      1999
+    ],
+    "creating_agents.creating_agency_id": [
+      5275
+    ],
+    "creating_agents.date_ranges": [
+      "[1999 TO 2010]"
+    ],
+    "creating_agents.end_dt": [
+      2010
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1999
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Taradale Primary School (School No. 614; previously known as Taradale National School 1855 \u2013 1862; Taradale Common School 1862 \u2013 1873; Taradale State School 1873 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1999 TO 2010]"
+    ],
+    "end_dt": "2010",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The publications in this series were produced by Taradale Primary School (School No. 614) (VA 5275) and provide an insight into the activities, culture and curriculum of the school at a certain point in time.&nbsp;<br />\r\n<br />\r\nThe series may include yearbooks, sometimes referred to as &lsquo;school magazines&rsquo;, prospectus publications and other typically annual publications as well as one-off publications of school histories, milestone celebrations and student work anthologies.&nbsp;<br />\r\n<br />\r\nYearbooks were published annually and may feature staff lists with qualifications, highlights of major events, photographs, sports teams, clubs and prefects, new buildings, major excursions, autographs and stories, poetry and art by students.<br />\r\n<br />\r\nProspectus were typically published annually to provide a guide to prospective students about the operations and curriculum of the school and may include information on courses, organisational structure, enrolment procedures, maps, school policy and transport options."
+    ],
+    "how_to_use": [
+      "Researchers should browse within the series by publication type and year. Searches can also be conducted by publication or magazine title."
+    ],
+    "identifier.PID.id": "8AEB5A90-951F-11F0-8856-7FA75597CF64",
+    "identifier.PROV_ACM.id": "VPRS 21836",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records are organised by publication type and ordered chronologically by publication date, though gaps may exist within the collection."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "21836",
+    "series_in_custody.date_range": [
+      "[1999 TO 2010]"
+    ],
+    "series_in_custody.end_dt": [
+      2010
+    ],
+    "series_in_custody.start_dt": [
+      1999
+    ],
+    "start_dt": "1999",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767643,
+    "title": "School Publications\r\n"
+  },
+  {
+    "_id": "E0B9E812-951F-11F0-8856-1DFCDEE694AF",
+    "_version_": 1878861233557340160,
+    "category": "Series",
+    "citation": "VPRS 21837",
+    "citation_sort": "21837",
+    "contents.date_range": [
+      "[1957 TO 1966]"
+    ],
+    "contents.end_dt": [
+      1966
+    ],
+    "contents.start_dt": [
+      1957
+    ],
+    "creating_agents.creating_agency_id": [
+      5275
+    ],
+    "creating_agents.date_ranges": [
+      "[1957 TO 1966]"
+    ],
+    "creating_agents.end_dt": [
+      1966
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1957
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Taradale Primary School (School No. 614; previously known as Taradale National School 1855 \u2013 1862; Taradale Common School 1862 \u2013 1873; Taradale State School 1873 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1957 TO 1966]"
+    ],
+    "end_dt": "1966",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises records documenting teacher attendance and leave during their employment at Taradale Primary School (School No. 614) (VA 5275). While not a full individual work history, the &lsquo;Teachers&rsquo; Timebook&rsquo; and &lsquo;Absence Register&rsquo; provide a snapshot of staff at the school at a moment in time and provide supplementary information detailing which teachers taught where and at what time.<br />\r\n<br />\r\nThese records were used by schools from the early 20th century until the early 2000s.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system.<br />\r\n<br />\r\nTeachers&rsquo; Timebook<br />\r\n<br />\r\nThe Teachers&rsquo; Timebook is a standardised register used at each school to log the daily arrival and departure times for teachers.<br />\r\n<br />\r\nInside the front cover are instructions for teachers to follow, regarding time of arrival and departure, hours of duty, hours of instruction, instruction of student teachers, and school cleaning.<br />\r\n<br />\r\nInside the book are four tables per page, one table per work week, with space to record the date. Below are columns to fill in the names of teachers in level of seniority, their position, and then details of their hours worked Monday to Friday, including the day, date, hour and minute of their arrival and departure.<br />\r\n<br />\r\nAbsence Register<br />\r\n<br />\r\nThe Absence Register is a standardised register used at each school to record details of teachers&rsquo; absence from work. &lsquo;Absence Register&rsquo; is printed on the front cover, with spaces to fill in school number and name.<br />\r\n<br />\r\nInside the front cover are rules and procedures regarding absences and instructions on the proper use of the register.<br />\r\n<br />\r\nInside the volume, each page includes a section to record the year and &quot;Roll No.&quot; (the meaning of &quot;Roll No.&quot; remains subject to further research). Below this the teachers documented details of their absences, with fields for the record number, name and position of the teacher (e.g. &quot;H.T&quot; for Head Teacher), date and cause of absence, number of times absent since January 1st of the given year, and any additional remarks."
+    ],
+    "how_to_use": [
+      "Researchers should browse through the volumes to find relevant information."
+    ],
+    "identifier.PID.id": "E0B9E812-951F-11F0-8856-1DFCDEE694AF",
+    "identifier.PROV_ACM.id": "VPRS 21837",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are filled out in chronological order by date. One volume may span many years."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21837",
+    "series_in_custody.date_range": [
+      "[1957 TO 1966]"
+    ],
+    "series_in_custody.end_dt": [
+      1966
+    ],
+    "series_in_custody.start_dt": [
+      1957
+    ],
+    "start_dt": "1957",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791767676,
+    "title": "Teachers' Time Book and Absence Registers\r\n"
   },
   {
     "_id": "A742015A-9523-11F0-8856-B5E885F7DC5F",
@@ -1913809,5 +1916363,1629 @@
     "status": "Published",
     "timestamp": 1786626744,
     "title": "School Photographs\r\n"
+  },
+  {
+    "_id": "126EF965-8FAE-11F1-9CAC-475041E147F4",
+    "_version_": 1878861233625497601,
+    "category": "Series",
+    "citation": "VPRS 22895",
+    "citation_sort": "22895",
+    "contents.date_range": null,
+    "contents.end_dt": null,
+    "contents.start_dt": null,
+    "creating_agents.creating_agency_id": [
+      5829
+    ],
+    "creating_agents.date_ranges": [
+      "[1867 TO 1921]"
+    ],
+    "creating_agents.end_dt": [
+      1921
+    ],
+    "creating_agents.end_dt_qual": [
+      "circa"
+    ],
+    "creating_agents.start_dt": [
+      1867
+    ],
+    "creating_agents.start_dt_qual": [
+      "circa"
+    ],
+    "creating_agents.title": [
+      "Ballarat Female Home (1900 - 1921; known as Ballarat Female Refuge 1867 - 1900)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1753 TO 3000]"
+    ],
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of photographs from the Ballarat Female Home (VA 5829).<br />\r\n<br />\r\nThe photographs are not dated. They are individually mounted on cardboard. They show both interior and exterior locations within the Home, including:\r\n<ul>\r\n\t<li>Dining room</li>\r\n\t<li>Nursery</li>\r\n\t<li>Old clothes department</li>\r\n\t<li>Maternity ward</li>\r\n\t<li>Entrance hall</li>\r\n</ul>\r\nThese records were previously part of a Ballarat Library collection, and are stamped on back."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select photographs of interest."
+    ],
+    "identifier.PID.id": "126EF965-8FAE-11F1-9CAC-475041E147F4",
+    "identifier.PROV_ACM.id": "VPRS 22895",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22895",
+    "series_in_custody.date_range": null,
+    "series_in_custody.end_dt": null,
+    "series_in_custody.start_dt": null,
+    "start_dt": "1753",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791778535,
+    "title": "Photographs"
+  },
+  {
+    "_id": "57F855DE-8FAE-11F1-9CAC-03E56B06390A",
+    "_version_": 1878861233627594752,
+    "category": "Series",
+    "citation": "VPRS 22896",
+    "citation_sort": "22896",
+    "contents.date_range": [
+      "[1887 TO 1921]"
+    ],
+    "contents.end_dt": [
+      1921
+    ],
+    "contents.start_dt": [
+      1887
+    ],
+    "creating_agents.creating_agency_id": [
+      5829
+    ],
+    "creating_agents.date_ranges": [
+      "[1887 TO 1921]"
+    ],
+    "creating_agents.end_dt": [
+      1921
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1887
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Female Home (1900 - 1921; known as Ballarat Female Refuge 1867 - 1900)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1887 TO 1921]"
+    ],
+    "end_dt": "1921",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of administrative records of the Ballarat Female Home (also known as the Ballarat Female Refuge) (VA 5829).<br />\r\n<br />\r\nThe series contains three volumes documenting admissions, attendance, and doctors&rsquo; visits to the Home.<br />\r\n<br />\r\nThe Doctor&rsquo;s Book contains short entries that describe both visits to individual residents as well as the Home in general.<br />\r\n<br />\r\nThe Admissions Register records all the residents in the Home on 1 July of each year, as well documenting all the residents received into the Home over the previous year.<br />\r\n<br />\r\nThe Attendance Register records the names of the adult residents and the number of infants in the Home, whether they were present in the Home each day, and why and when they left.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection and still have CRS20 library accession numbers."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "57F855DE-8FAE-11F1-9CAC-03E56B06390A",
+    "identifier.PROV_ACM.id": "VPRS 22896",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "This is an artificial series created due to the records having the same recording agency. There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22896",
+    "series_in_custody.date_range": [
+      "[1887 TO 1921]"
+    ],
+    "series_in_custody.end_dt": [
+      1921
+    ],
+    "series_in_custody.start_dt": [
+      1887
+    ],
+    "start_dt": "1887",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791778759,
+    "title": "Registers of the Ballarat Female Home"
+  },
+  {
+    "_id": "9DBBD527-8FAE-11F1-9CAC-71A3CA5261AC",
+    "_version_": 1878861233629691905,
+    "category": "Series",
+    "citation": "VPRS 22897",
+    "citation_sort": "22897",
+    "contents.date_range": [
+      "[1902 TO 1921]"
+    ],
+    "contents.end_dt": [
+      1921
+    ],
+    "contents.start_dt": [
+      1902
+    ],
+    "creating_agents.creating_agency_id": [
+      5831
+    ],
+    "creating_agents.date_ranges": [
+      "[1902 TO 1921]"
+    ],
+    "creating_agents.end_dt": [
+      1921
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1902
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Canadian Rescue and Children\u2019s Home"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1902 TO 1921]"
+    ],
+    "end_dt": "1921",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of administrative records of the Canadian Rescue and Children&rsquo;s Home (also known as the Mission Rescue and Children&rsquo;s Home, Canadian) (VA 5831).<br />\r\n<br />\r\nIt contains a minute book documenting minutes of the Ladies Committee of the Rescue, and two books of financial records. One of the receipt and expenditure books has a description of the Rescue pasted inside the cover, and a picture of the Rescue on the front.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "9DBBD527-8FAE-11F1-9CAC-71A3CA5261AC",
+    "identifier.PROV_ACM.id": "VPRS 22897",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "This is an artificial series created due to the records having the same recording agency. There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22897",
+    "series_in_custody.date_range": [
+      "[1902 TO 1921]"
+    ],
+    "series_in_custody.end_dt": [
+      1921
+    ],
+    "series_in_custody.start_dt": [
+      1902
+    ],
+    "start_dt": "1902",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791779014,
+    "title": "Records of the Canadian Rescue and Children's Home"
+  },
+  {
+    "_id": "5AC49FEC-8FAF-11F1-9CAC-D78CFA3E8D11",
+    "_version_": 1878861233631789059,
+    "category": "Series",
+    "citation": "VPRS 22898",
+    "citation_sort": "22898",
+    "contents.date_range": [
+      "[1948 TO 1973]"
+    ],
+    "contents.end_dt": [
+      1973
+    ],
+    "contents.start_dt": [
+      1948
+    ],
+    "creating_agents.creating_agency_id": [
+      5233
+    ],
+    "creating_agents.date_ranges": [
+      "[1948 TO 1973]"
+    ],
+    "creating_agents.end_dt": [
+      1973
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1948
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Alexandra Babies' Home (Alexandra Toddlers' Home 1964-1973)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1948 TO 1973]"
+    ],
+    "end_dt": "1973",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of administrative records of the Alexandra Babies Home in Ballarat (VA 5233).<br />\r\n<br />\r\nThe records include three volumes documenting subscriptions, visitors, and monthly reports on the Home.<br />\r\n<br />\r\nThe Subscriptions Book is a notebook listing the individuals who financially supported the Home through subscriptions.<br />\r\n<br />\r\nThe Gifts, Letters and Visitors Register only lists resident children and their visitors, it does not document gifts or letters received.<br />\r\n<br />\r\nThe Matrons Report Book contains monthly entries addressed to the Committee running the Home. The entries describe what has happened at the Home over the previous month, such as discharge of residents, maintenance, appointments, and staffing changes.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "5AC49FEC-8FAF-11F1-9CAC-D78CFA3E8D11",
+    "identifier.PROV_ACM.id": "VPRS 22898",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "This is an artificial series created due to the records having the same recording agency. There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22898",
+    "series_in_custody.date_range": [
+      "[1948 TO 1973]"
+    ],
+    "series_in_custody.end_dt": [
+      1973
+    ],
+    "series_in_custody.start_dt": [
+      1948
+    ],
+    "start_dt": "1948",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791779319,
+    "title": "Records of the Alexandra Babies' Home"
+  },
+  {
+    "_id": "79CFFA34-8FBD-11F1-9CAC-6560E3780730",
+    "_version_": 1878861233633886208,
+    "category": "Series",
+    "citation": "VPRS 22899",
+    "citation_sort": "22899",
+    "contents.date_range": [
+      "[1922 TO 1972]"
+    ],
+    "contents.end_dt": [
+      1972
+    ],
+    "contents.start_dt": [
+      1922
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1922 TO 1972]"
+    ],
+    "creating_agents.end_dt": [
+      1972
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1922
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1922 TO 1972]"
+    ],
+    "end_dt": "1972",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of registers recording baptisms performed by the Ballarat Town &amp; City Mission (VA 5830).<br />\r\n<br />\r\nThere is one older register beginning in 1922 with entries recording:\r\n<ul>\r\n\t<li>Child&rsquo;s name</li>\r\n\t<li>Baptism number</li>\r\n\t<li>Date of birth</li>\r\n\t<li>Date of baptism</li>\r\n\t<li>Parents&rsquo; names</li>\r\n\t<li>Abode</li>\r\n\t<li>Profession [of father]</li>\r\n\t<li>Performer of baptism</li>\r\n</ul>\r\n<br />\r\nThere are also three small books from the early 1970s with overlapping dates. These books are not full. They record:\r\n<ul>\r\n\t<li>Child&rsquo;s name</li>\r\n\t<li>Parents&rsquo; names</li>\r\n\t<li>Date of birth</li>\r\n\t<li>Date of baptism</li>\r\n\t<li>Minister</li>\r\n</ul>\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "79CFFA34-8FBD-11F1-9CAC-6560E3780730",
+    "identifier.PROV_ACM.id": "VPRS 22899",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22899",
+    "series_in_custody.date_range": [
+      "[1922 TO 1972]"
+    ],
+    "series_in_custody.end_dt": [
+      1972
+    ],
+    "series_in_custody.start_dt": [
+      1922
+    ],
+    "start_dt": "1922",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791779692,
+    "title": "Baptism Registers"
+  },
+  {
+    "_id": "AC2B5D8B-8FBD-11F1-9CAC-677E510EF7A4",
+    "_version_": 1878861233637031937,
+    "category": "Series",
+    "citation": "VPRS 22900",
+    "citation_sort": "22900",
+    "contents.date_range": [
+      "[1889 TO 1946]"
+    ],
+    "contents.end_dt": [
+      1946
+    ],
+    "contents.start_dt": [
+      1889
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1889 TO 1946]"
+    ],
+    "creating_agents.end_dt": [
+      1946
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1889
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1889 TO 1946]"
+    ],
+    "end_dt": "1946",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of minute books of various clubs and societies of the Ballarat Town and City Mission (VA 5830).<br />\r\n<br />\r\nThe minutes were primarily recorded in small notebooks. The clubs and societies represented in this series include:\r\n<ul>\r\n\t<li>Young Peoples&rsquo; Society for Christian Endeavour</li>\r\n\t<li>Girls Gymnasium Class</li>\r\n\t<li>Junior Endeavour</li>\r\n\t<li>Parents and Friends of Scouts and Cubs</li>\r\n\t<li>Intermediate Christian Endeavour Society</li>\r\n\t<li>Mothers Meetings</li>\r\n\t<li>Men&rsquo;s Club</li>\r\n</ul>\r\n<br />\r\nThe minute books typically record attendance and details of what was discussed at meetings.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "AC2B5D8B-8FBD-11F1-9CAC-677E510EF7A4",
+    "identifier.PROV_ACM.id": "VPRS 22900",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "This is an artificial series created due to the records having the same recording agency. There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22900",
+    "series_in_custody.date_range": [
+      "[1889 TO 1946]"
+    ],
+    "series_in_custody.end_dt": [
+      1946
+    ],
+    "series_in_custody.start_dt": [
+      1889
+    ],
+    "start_dt": "1889",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791780088,
+    "title": "Minute Books, Clubs and Societies"
+  },
+  {
+    "_id": "E7E96703-8FBD-11F1-9CAC-317A3FA8C32D",
+    "_version_": 1878861233641226241,
+    "category": "Series",
+    "citation": "VPRS 22901",
+    "citation_sort": "22901",
+    "contents.date_range": [
+      "[1897 TO 1937]"
+    ],
+    "contents.end_dt": [
+      1937
+    ],
+    "contents.start_dt": [
+      1897
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1897 TO 1937]"
+    ],
+    "creating_agents.end_dt": [
+      1937
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1897
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1897 TO 1937]"
+    ],
+    "end_dt": "1937",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of minute books documenting meetings of teachers from the Ballarat Town and City Mission (VA 5830).<br />\r\n<br />\r\nThe Mission operated homes for orphaned or removed children, as well as young women.<br />\r\n<br />\r\nThe entries in the books are mostly described as &lsquo;Minutes of Teachers Meeting&rsquo;, although some entries have been titled &lsquo;Minutes of Sunday School Teachers Meeting&rsquo;, suggesting that the Mission&rsquo;s teachers were mostly providing religious instruction to the residents of the homes.<br />\r\n<br />\r\nEach entry includes the meeting date, people present, motions debated, and are sometimes divided by subheadings showing the topics discussed.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "E7E96703-8FBD-11F1-9CAC-317A3FA8C32D",
+    "identifier.PROV_ACM.id": "VPRS 22901",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records are arranged in chronological order. There is no other evident recordkeeping system."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22901",
+    "series_in_custody.date_range": [
+      "[1897 TO 1937]"
+    ],
+    "series_in_custody.end_dt": [
+      1937
+    ],
+    "series_in_custody.start_dt": [
+      1897
+    ],
+    "start_dt": "1897",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791780368,
+    "title": "Minute Books, Teachers Meetings"
+  },
+  {
+    "_id": "241E271B-8FBE-11F1-9CAC-6D20E865D485",
+    "_version_": 1878861233643323395,
+    "category": "Series",
+    "citation": "VPRS 22902",
+    "citation_sort": "22902",
+    "contents.date_range": [
+      "[1913 TO 1917]"
+    ],
+    "contents.end_dt": [
+      1917
+    ],
+    "contents.start_dt": [
+      1913
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1913 TO 1917]"
+    ],
+    "creating_agents.end_dt": [
+      1917
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1913
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1913 TO 1917]"
+    ],
+    "end_dt": "1917",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of photographs from the Ballarat Town &amp; City Mission (VA 5830).<br />\r\n<br />\r\nThe photographs are dated from 1913 to 1917. They are individually mounted on cardboard. They show different scenes from the Mission, mostly related to Harvest Festival displays, though a photograph of the Mission&rsquo;s basketball team from 1913 is also included.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select photographs of interest."
+    ],
+    "identifier.PID.id": "241E271B-8FBE-11F1-9CAC-6D20E865D485",
+    "identifier.PROV_ACM.id": "VPRS 22902",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22902",
+    "series_in_custody.date_range": [
+      "[1913 TO 1917]"
+    ],
+    "series_in_custody.end_dt": [
+      1917
+    ],
+    "series_in_custody.start_dt": [
+      1913
+    ],
+    "start_dt": "1913",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791780869,
+    "title": "Photographs"
+  },
+  {
+    "_id": "5B970CCF-8FBE-11F1-9CAC-A555582E178F",
+    "_version_": 1878861233650663424,
+    "category": "Series",
+    "citation": "VPRS 22903",
+    "citation_sort": "22903",
+    "contents.date_range": [
+      "[1912 TO 1923]"
+    ],
+    "contents.end_dt": [
+      1923
+    ],
+    "contents.start_dt": [
+      1912
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1912 TO 1923]"
+    ],
+    "creating_agents.end_dt": [
+      1923
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1912
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1912 TO 1923]"
+    ],
+    "end_dt": "1923",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of minute books documenting meetings of the Women&rsquo;s Guild of the Ballarat Town &amp; City Mission (VA 5830).<br />\r\n<br />\r\nThe two minute books provide descriptions of the weekly meetings of the group. In each book there is an order of business inside the front cover, showing what was typically covered.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "5B970CCF-8FBE-11F1-9CAC-A555582E178F",
+    "identifier.PROV_ACM.id": "VPRS 22903",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22903",
+    "series_in_custody.date_range": [
+      "[1912 TO 1923]"
+    ],
+    "series_in_custody.end_dt": [
+      1923
+    ],
+    "series_in_custody.start_dt": [
+      1912
+    ],
+    "start_dt": "1912",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791781760,
+    "title": "Minute Books, Women's Guild"
+  },
+  {
+    "_id": "98A0A8F0-8FBE-11F1-9CAC-B3C9285DD800",
+    "_version_": 1878861233656954881,
+    "category": "Series",
+    "citation": "VPRS 22904",
+    "citation_sort": "22904",
+    "contents.date_range": [
+      "[1926 TO 1936]"
+    ],
+    "contents.end_dt": [
+      1936
+    ],
+    "contents.start_dt": [
+      1926
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1926 TO 1936]"
+    ],
+    "creating_agents.end_dt": [
+      1936
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1926
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1926 TO 1936]"
+    ],
+    "end_dt": "1936",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of minute books documenting meetings of the Finance Committee of the Ballarat Town and City Mission (VA 5830).<br />\r\n<br />\r\nThe two minute books provide descriptions of the weekly meetings of the committee. Meetings were typically held in the Mission office. Each entry records the meeting date, members present, and the topics discussed.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "98A0A8F0-8FBE-11F1-9CAC-B3C9285DD800",
+    "identifier.PROV_ACM.id": "VPRS 22904",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22904",
+    "series_in_custody.date_range": [
+      "[1926 TO 1936]"
+    ],
+    "series_in_custody.end_dt": [
+      1936
+    ],
+    "series_in_custody.start_dt": [
+      1926
+    ],
+    "start_dt": "1926",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791782335,
+    "title": "Minute Books, Finance Committee"
+  },
+  {
+    "_id": "DCB54018-8FBE-11F1-9CAC-AB5473F73368",
+    "_version_": 1878861233662197761,
+    "category": "Series",
+    "citation": "VPRS 22905",
+    "citation_sort": "22905",
+    "contents.date_range": [
+      "[1889 TO 1962]"
+    ],
+    "contents.end_dt": [
+      1962
+    ],
+    "contents.start_dt": [
+      1889
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1889 TO 1962]"
+    ],
+    "creating_agents.end_dt": [
+      1962
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1889
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1889 TO 1962]"
+    ],
+    "end_dt": "1962",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of minute books documenting meetings of the Ballarat Town and City Mission (VA 5830).<br />\r\n<br />\r\nEach minute book records the date and location of the meeting, the attendees, and a summary of what was discussed. In some entries, subheadings are used to indicate different topics covered at a meeting.<br />\r\n<br />\r\nThere are no gaps in the sequence from 1889 to 1962, however it is not known whether any additional records pre- or post-date those in custody.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "DCB54018-8FBE-11F1-9CAC-AB5473F73368",
+    "identifier.PROV_ACM.id": "VPRS 22905",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The volumes are arranged chronologically. There is no other identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22905",
+    "series_in_custody.date_range": [
+      "[1889 TO 1962]"
+    ],
+    "series_in_custody.end_dt": [
+      1962
+    ],
+    "series_in_custody.start_dt": [
+      1889
+    ],
+    "start_dt": "1889",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791785089,
+    "title": "Minute Books"
+  },
+  {
+    "_id": "16C7BCA9-8FBF-11F1-9CAC-D51BF37FA4EF",
+    "_version_": 1878861233664294912,
+    "category": "Series",
+    "citation": "VPRS 22906",
+    "citation_sort": "22906",
+    "contents.date_range": [
+      "[1909 TO 1947]"
+    ],
+    "contents.end_dt": [
+      1947
+    ],
+    "contents.start_dt": [
+      1909
+    ],
+    "creating_agents.creating_agency_id": [
+      5233
+    ],
+    "creating_agents.date_ranges": [
+      "[1909 TO 1947]"
+    ],
+    "creating_agents.end_dt": [
+      1947
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1909
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Alexandra Toddlers' Home, (previously known as Alexandra Babies' Home, circa 1909 - 1964)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1909 TO 1921]"
+    ],
+    "end_dt": "1921",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of visitors books from the Alexandra Babies Home (also known as the Alexandra Infants Home) (VA 5233).<br />\r\n<br />\r\nThe volumes are not registers of visitors to the Home, but contain short reports from visitors inspecting the Home. Each entry is a report, signed with a date and the name of the visitor. The entries are typically short, and include details such as the state of the Home on that day, and descriptions of activities observed during the visit.<br />\r\n<br />\r\nBoth volumes were reused, with other information recorded in the back. The first volume also contains minutes of the Finance Committee from 1937 to 1944, and the second volume also contains a list of subscribers to the Babies Home Appeal from 1943 to 1947.&nbsp;<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "16C7BCA9-8FBF-11F1-9CAC-D51BF37FA4EF",
+    "identifier.PROV_ACM.id": "VPRS 22906",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22906",
+    "series_in_custody.date_range": [
+      "[1909 TO 1921]"
+    ],
+    "series_in_custody.end_dt": [
+      1921
+    ],
+    "series_in_custody.start_dt": [
+      1909
+    ],
+    "start_dt": "1909",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791785138,
+    "title": "Visitors Books"
+  },
+  {
+    "_id": "610B458E-8FBF-11F1-9CAC-876F1ED6CF4E",
+    "_version_": 1878861233665343489,
+    "category": "Series",
+    "citation": "VPRS 22907",
+    "citation_sort": "22907",
+    "contents.date_range": [
+      "[1944 TO 1972]"
+    ],
+    "contents.end_dt": [
+      1972
+    ],
+    "contents.start_dt": [
+      1944
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1944 TO 1972]"
+    ],
+    "creating_agents.end_dt": [
+      1972
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1944
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1944 TO 1972]"
+    ],
+    "end_dt": "1972",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of report books from the Ballarat Town and City Mission (VA 5830).<br />\r\n<br />\r\nThe records are notebooks containing monthly or bi-monthly reports. Each report described visits undertaken and meetings attended by the author, and descriptions of other activities related to the Mission. The first book was written by Sister Isobel Riley, and the second book was primarily written by Reverend E. R. Newnham.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "610B458E-8FBF-11F1-9CAC-876F1ED6CF4E",
+    "identifier.PROV_ACM.id": "VPRS 22907",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22907",
+    "series_in_custody.date_range": [
+      "[1944 TO 1972]"
+    ],
+    "series_in_custody.end_dt": [
+      1972
+    ],
+    "series_in_custody.start_dt": [
+      1944
+    ],
+    "start_dt": "1944",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791785170,
+    "title": "Report Books"
+  },
+  {
+    "_id": "92E2F9F5-8FBF-11F1-9CAC-9DBB8ED5A083",
+    "_version_": 1878861233667440640,
+    "category": "Series",
+    "citation": "VPRS 22908",
+    "citation_sort": "22908",
+    "contents.date_range": [
+      "[1907 TO 1911]"
+    ],
+    "contents.end_dt": [
+      1911
+    ],
+    "contents.start_dt": [
+      1907
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1907 TO 1911]"
+    ],
+    "creating_agents.end_dt": [
+      1911
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1907
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1907 TO 1911]"
+    ],
+    "end_dt": "1911",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of a minute book from the Mission Rescue and Children&rsquo;s Home, run by the Ballarat Town and City Mission (VA 5830).<br />\r\n<br />\r\nThe minutes document meetings at the Home. Information recorded includes meeting date, attendees, and a summary of what was discussed.<br />\r\n<br />\r\nThere have been pages removed from the middle of the volume, but it is unclear whether they were blank pages, or whether at some point information was removed from the minutes.<br />\r\n<br />\r\nThis record was previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select the volume."
+    ],
+    "identifier.PID.id": "92E2F9F5-8FBF-11F1-9CAC-9DBB8ED5A083",
+    "identifier.PROV_ACM.id": "VPRS 22908",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22908",
+    "series_in_custody.date_range": [
+      "[1907 TO 1911]"
+    ],
+    "series_in_custody.end_dt": [
+      1911
+    ],
+    "series_in_custody.start_dt": [
+      1907
+    ],
+    "start_dt": "1907",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791785379,
+    "title": "Minutes of the Mission Rescue and Children's Home"
+  },
+  {
+    "_id": "CE55A28D-8FBF-11F1-9CAC-67E303BF6BC9",
+    "_version_": 1878861233677926414,
+    "category": "Series",
+    "citation": "VPRS 22909",
+    "citation_sort": "22909",
+    "contents.date_range": [
+      "[1915 TO 1962]"
+    ],
+    "contents.end_dt": [
+      1962
+    ],
+    "contents.start_dt": [
+      1915
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1915 TO 1962]"
+    ],
+    "creating_agents.end_dt": [
+      1962
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1915
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission (previously known as Ballarat Town Mission, 1867 - 1913; Open Air Mission, 1867 - 1913)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1915 TO 1962]"
+    ],
+    "end_dt": "1962",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of Missioners&rsquo; report books from the Ballarat Town and City Mission (VA 5830).<br />\r\n<br />\r\nEach volume contains monthly or bi-monthly reports. The first two volumes contain general reports on the activities of the Town and City Mission, while the second two volumes contain more specific reports from the Mission Rescue and Children&rsquo;s Home, which was run by the Mission. This includes the number of residents.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "CE55A28D-8FBF-11F1-9CAC-67E303BF6BC9",
+    "identifier.PROV_ACM.id": "VPRS 22909",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22909",
+    "series_in_custody.date_range": [
+      "[1915 TO 1962]"
+    ],
+    "series_in_custody.end_dt": [
+      1962
+    ],
+    "series_in_custody.start_dt": [
+      1915
+    ],
+    "start_dt": "1915",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791785940,
+    "title": "Missioners' Reports"
+  },
+  {
+    "_id": "FD1C1F54-8FBF-11F1-9CAC-893D7F2D0375",
+    "_version_": 1878861233673732096,
+    "category": "Series",
+    "citation": "VPRS 22910",
+    "citation_sort": "22910",
+    "contents.date_range": [
+      "[1916 TO 1947]"
+    ],
+    "contents.end_dt": [
+      1947
+    ],
+    "contents.start_dt": [
+      1916
+    ],
+    "creating_agents.creating_agency_id": [
+      5830
+    ],
+    "creating_agents.date_ranges": [
+      "[1916 TO 1947]"
+    ],
+    "creating_agents.end_dt": [
+      1947
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1916
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Town and City Mission"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1916 TO 1947]"
+    ],
+    "end_dt": "1947",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of pupil and teacher attendance records from the Ballarat Town and City Mission (VA 5830).<br />\r\n<br />\r\nThere are two volumes in this series. The first volume is titled Secretary&rsquo;s Roll. It divides the entries into classes, and then lists the teacher and all the students in the class, divided by year group. This covers both boys and girls classes, from primary to age 18 or 19.<br />\r\n<br />\r\nThe second volume records attendance of teachers and officers of the institution, listed by name. It also records the number of students in attendance but does not list them by name.<br />\r\n<br />\r\nThere is nothing on the volumes to suggest which specific institution they were created within, however they was part of the Ballarat Town and City Mission collection.<br />\r\n<br />\r\nThese records were previously part of a Ballarat Library collection."
+    ],
+    "how_to_use": [
+      "Researchers should browse the record item list to select volumes of interest."
+    ],
+    "identifier.PID.id": "FD1C1F54-8FBF-11F1-9CAC-893D7F2D0375",
+    "identifier.PROV_ACM.id": "VPRS 22910",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "This is an artificial series. There is no identifiable system of arrangement."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22910",
+    "series_in_custody.date_range": [
+      "[1916 TO 1947]"
+    ],
+    "series_in_custody.end_dt": [
+      1947
+    ],
+    "series_in_custody.start_dt": [
+      1916
+    ],
+    "start_dt": "1916",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791785465,
+    "title": "Pupil and Teacher School Attendance Rolls"
   }
 ]
