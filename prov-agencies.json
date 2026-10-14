@@ -121724,6 +121724,40 @@
     "title": "Ballarat Town and City Mission (previously known as Ballarat Town Mission, 1867 - 1913; Open Air Mission, 1867 - 1913)"
   },
   {
+    "_id": "B1F1B2B8-33CF-11F1-8856-4DD216EA2824",
+    "_version_": 1878951830478651393,
+    "category": "Agency",
+    "citation": "VA 5831",
+    "date_range": [
+      "[1897 TO 1921]"
+    ],
+    "description": "The Canadian Rescue and Children&rsquo;s Home opened in 1897 at 74 Clayton Street, Butt&rsquo;s Hill, Ballarat. It was run by the Ballarat Town and City Mission (VA 5830). It was non-denominational and provided accommodation for single mothers and their babies.<br />\r\n<br />\r\nIt was called the Canadian Rescue and Children&rsquo;s Home as it was located in the Canadian Gully area of Ballarat. It was also known as the Mission Rescue and Children&rsquo;s Home, Canadian.<br />\r\n<br />\r\nIn its first year of operation the Home housed 29 adults and 24 children. Children could be committed to live in the Home by the courts.<br />\r\n<br />\r\nIn November 1907 an additional wing was opened with 7 extra rooms.<br />\r\n<br />\r\nIn 1916, children were removed from the Home and transferred to George Street Children&rsquo;s Home. Canadian became a rescue home solely for young women. Children were again admitted to Canadian from 1919, as George Street was closed in 1920.<br />\r\n<br />\r\nIt operated until 1921, when it was closed by the Ballarat Town and City Mission (VA 5830). The Mission consolidated its rescue homes to the site on Scott Parade that housed the Ballarat Female Refuge (VA 5829), Alexandra Babies&rsquo; Home (VA 5233), and the new Ballarat Town and City Rescue and Children&rsquo;s Home.",
+    "end_dt": "1921",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "B1F1B2B8-33CF-11F1-8856-4DD216EA2824",
+    "identifier.PROV_ACM.id": "VA 5831",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1897 TO 1921]",
+    "name.official_title.end_dt": "1921",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1897",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Canadian Rescue and Children\u2019s Home",
+    "start_dt": "1897",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791845491,
+    "title": "Canadian Rescue and Children\u2019s Home (also known as the Mission Rescue and Children\u2019s Home, Canadian)"
+  },
+  {
     "_id": "8572C079-5EF3-11F1-8856-E30B58741761",
     "_version_": 1873157399458611204,
     "category": "Agency",

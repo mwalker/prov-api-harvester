@@ -239245,7 +239245,7 @@
   },
   {
     "_id": "6161E628-F1AE-11E9-AE98-AF2CEADA10A7",
-    "_version_": 1867087403629412353,
+    "_version_": 1878951830484942848,
     "category": "Series",
     "citation": "VPRS 3157",
     "citation_sort": "03157",
@@ -239267,7 +239267,7 @@
       609
     ],
     "creating_agents.date_ranges": [
-      "[1996 TO 3000]",
+      "[1996 TO 2014]",
       "[1987 TO 1991]",
       "[1991 TO 1992]",
       "[1992 TO 1996]",
@@ -239275,7 +239275,7 @@
       "[1973 TO 1987]"
     ],
     "creating_agents.end_dt": [
-      3000,
+      2014,
       1991,
       1992,
       1996,
@@ -239300,7 +239300,9 @@
       "Housing Commission of Victoria",
       "Ministry of Housing"
     ],
-    "date_descriptor": null,
+    "date_descriptor": [
+      "Registered"
+    ],
     "date_range": [
       "[1940 TO 3000]"
     ],
@@ -239309,45 +239311,47 @@
     "entity": "Record",
     "format": "Physical",
     "function_content": [
-      "This series consists of Architectural and Engineering contract documents. The Architectural and Engineering branches were part of the Technical Division of the Housing Commission. The divisions major responsibilities were the servicing of land and the letting of contracts.<br/><br/>Under the provisions of the Slum Reclamation and Housing Act 1938, the Housing Commission was given wide ranging powers for the making of by-laws to regulate the erection and construction of buildings. The Housing Commission was able to regulate the type of materials used and the manner in which they were used.<br/><br/>As a consequence, plans and specifications by an interested Contractor had to be submitted before any works could commence. The contract documents were therefore crucial to ensure that the Housing Commission and the Contractor were in mutual agreement on Housing Commission standards and obligations.<br/><br/>This series provides a record of the erection and construction of Housing Commission estates that continue to be inhabited today. This series also defines Housing Commission standards and specifications.<br/><br/>The majority of the contracts were for construction of Housing Commission estates, however some were for demolitions and removals. The envelopes often contained plans and some envelopes also included correspondence of the tendering process.<br/><br/>The contract documents outlined the terms and conditions of the Housing Commissions contractual process. The contracts contained the following information:<br/><br/>Letter of Contractors acceptance<br/>Summary of tender<br/>Applications of rise and fall<br/>Schedule of costs for individual dwelling units<br/>Schedule of basic costs<br/>Bill of quantities<br/>Appendices<br/>Time schedule<br/>Housing Commission Standards ie. standard villa specifications."
+      "This series consists of Architectural and Engineering contract documents. The Architectural and Engineering branches were part of the Technical Division of the Housing Commission. The divisions major responsibilities were the servicing of land and the letting of contracts.<br />\r\n<br />\r\nUnder the provisions of the <em>Slum Reclamation and Housing Act 1938</em>, the Housing Commission was given wide ranging powers for the making of by-laws to regulate the erection and construction of buildings. The Housing Commission was able to regulate the type of materials used and the manner in which they were used.<br />\r\n<br />\r\nAs a consequence, plans and specifications by an interested Contractor had to be submitted before any works could commence. The contract documents were therefore crucial to ensure that the Housing Commission and the Contractor were in mutual agreement on Housing Commission standards and obligations.<br />\r\n<br />\r\nThis series provides a record of the erection and construction of Housing Commission estates that continue to be inhabited today. This series also defines Housing Commission standards and specifications.<br />\r\n<br />\r\nThe majority of the contracts were for construction of Housing Commission estates, however some were for demolitions and removals. The envelopes often contained plans and some envelopes also included correspondence of the tendering process.<br />\r\n<br />\r\nThe contract documents outlined the terms and conditions of the Housing Commissions contractual process. The contract generally include a letter of contractors acceptance, summary of tender, applications of rise and fall, schedule of costs for individual dwelling units, schedule of basic costs, bill of quantities, appendices, time schedule, and&nbsp;Housing Commission Standards i.e. standard villa specifications."
     ],
     "how_to_use": [
-      "There is no index or register available for this series in custody.<br/><br/>However, a card index exists in the Reprographics and Plan Room at the Office of Housing at the Department of Human Services. Contracts are organised by address showing both the plan and contract numbers. The index is still used to retrieve plans attached to the contract documents in the DHS."
+      "The records in this series are arranged by contract number. This number can be obtained from VPRS 18152 Plan Room Index System (PRIS): Public Housing Construction Projects."
     ],
     "identifier.PID.id": "6161E628-F1AE-11E9-AE98-AF2CEADA10A7",
     "identifier.PROV_ACM.id": "VPRS 3157",
-    "jurisdictional_coverage": null,
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
     "location": [
       "North Melbourne"
     ],
     "recordkeeping_system": [
-      "The contract documents are in envelopes in numerical order."
+      "The contract documents are in envelopes in contract number order.<br />\r\n<br />\r\nA card index was maintained to facilitate access, which was replaced by a database from 1999. See VPRS 18152 Plan Room Index System (PRIS): Public Housing Construction Projects for more information."
     ],
     "resp_agency_id": [
-      "3970"
+      "5256"
     ],
     "resp_agency_title": [
-      "Department of Human Services"
+      "Department of Families, Fairness & Housing"
     ],
     "resp_agency_title_facet": [
-      "Department of Human Services"
+      "Department of Families, Fairness & Housing"
     ],
     "responsible_agents.date_ranges": [
-      "[1996 TO 3000]"
+      "[2021 TO 3000]"
     ],
     "responsible_agents.end_dt": [
       3000
     ],
     "responsible_agents.end_dt_qual": null,
     "responsible_agents.resp_agency_id": [
-      3970
+      5256
     ],
     "responsible_agents.start_dt": [
-      1996
+      2021
     ],
     "responsible_agents.start_dt_qual": null,
     "responsible_agents.title": [
-      "Department of Human Services"
+      "Department of Families, Fairness & Housing"
     ],
     "rights_status": [
       "Open"
@@ -239365,7 +239369,7 @@
     "start_dt": "1940",
     "start_dt_qual": "Circa",
     "status": "Published",
-    "timestamp": 1780542037,
+    "timestamp": 1791861657,
     "title": "Contract Documents, Architectural and Engineering"
   },
   {
@@ -1340329,7 +1340333,7 @@
   },
   {
     "_id": "5C119EDC-F1AF-11E9-AE98-7FD3F5668D17",
-    "_version_": 1842898012202860544,
+    "_version_": 1878951830488088576,
     "category": "Series",
     "citation": "VPRS 15687",
     "citation_sort": "15687",
@@ -1340387,7 +1340391,7 @@
       "North Melbourne"
     ],
     "recordkeeping_system": [
-      "<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">Files were allocated sequential numbers and titled using a classification system based at the highest level, on the Divisions within the Corporation. The key areas were Ceremonies &amp; Events; Executive; Finance &amp; Business Services; Licensing; Marketing &amp; Communications; Operations; Project Planning, Risk &amp; Strategy; and Sales &amp; Commercial.</span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">At some point, likely 2004, the Corporation implemented an Electronic Document and Records Management System (EDRMS) known as TRIM (version 5.2.4). The year 2004 is considered likely because this is the earliest creation date of the digital files in the series. What system was in place prior to this is not known.</span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">Existing files, including those of the Corporation&rsquo;s predecessor, Melbourne Commonwealth Games Pty Ltd, were registered into the new system. Existing file numbers appear to have been retained. Existing files, and new files, were now allocated an alpha prefix, identifying whether the file was a hardcopy file (HF), a library file (L), a legacy or old file (OF), an Executed Contract file (EC), or an electronic file (EF).</span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">&lsquo;OF&rsquo; files are thought to have been created by the Corporation&rsquo;s predecessor, Melbourne Commonwealth Games Pt Ltd. However, &lsquo;HF&rsquo;, &lsquo;L&rsquo; and &lsquo;EC&rsquo; files can also pre-date the commencement of the Corporation.</span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">Most files appear to have been registered into the new system during 2005 &ndash; 2006. It is believed that files created outside the system continued to be located and registered in the EDRMS up to the time the Corporation wound-up in 2006.</span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">The system managed physical and digital records. Users could also register email into the system. The extent to which this occurred is unknown, though email inboxes are believed to have had relatively low storage limits, which may have encouraged the practice.</span></span></span></p>\r\n<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span aptos=\"\" style=\"font-family:\">Legacy or old file numbers were generated manually. Each division of the Corporation was provided with a block of approximately 1000 numbers to assign to the files already in existence.</span></span></span>"
+      "<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">Files were allocated sequential numbers and titled using a classification system based at the highest level, on the Divisions within the Corporation. The key areas were Ceremonies &amp; Events; Executive; Finance &amp; Business Services; Licensing; Marketing &amp; Communications; Operations; Project Planning, Risk &amp; Strategy; and Sales &amp; Commercial.</span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">At some point, likely 2004, the Corporation implemented an Electronic Document and Records Management System (EDRMS) known as TRIM (version 5.2.4). The year 2004 is considered likely because this is the earliest creation date of the digital files in the series. What system was in place prior to this is not known.</span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">Existing files, including those of the Corporation&rsquo;s predecessor, Melbourne Commonwealth Games Pty Ltd, were registered into the new system. Existing file numbers appear to have been retained. Existing files, and new files, were now allocated an alpha prefix, identifying whether the file was a hardcopy file (HF), a library file (L), a legacy or old file (OF), an Executed Contract file (EC), or an electronic file (EF).</span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">&lsquo;OF&rsquo; files are thought to have been created by the Corporation&rsquo;s predecessor, Melbourne Commonwealth Games Pt Ltd. However, &lsquo;HF&rsquo;, &lsquo;L&rsquo; and &lsquo;EC&rsquo; files can also pre-date the commencement of the Corporation.</span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">Most files appear to have been registered into the new system during 2005 &ndash; 2006. It is believed that files created outside the system continued to be located and registered in the EDRMS up to the time the Corporation wound-up in 2006.</span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">The system managed physical and digital records. Users could also register email into the system. The extent to which this occurred is unknown, though email inboxes are believed to have had relatively low storage limits, which may have encouraged the practice.</span></span></span></p>\r\n<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span aptos=\"\" style=\"font-family:\">Legacy or old file numbers were generated manually. Each division of the Corporation was provided with a block of approximately 1000 numbers to assign to the files already in existence.<br />\r\n<br />\r\nNote: Researchers may find some of the electronic files have no records associated with them. The files are believed to have been identified as permanent in error while the records within them were correctly identified as temporary, and hence not transferred to Public Record Office Victoria.</span></span></span>"
     ],
     "resp_agency_id": [
       "5251"
@@ -1340437,7 +1340441,7 @@
     "start_dt": "1999",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1757493378,
+    "timestamp": 1791866375,
     "title": "General Subject Files, Alpha-numeric System"
   },
   {
@@ -1560006,6 +1560010,108 @@
     "status": "Published",
     "timestamp": 1614292703,
     "title": "Index to Magistrate's Court and Children's Court Registers"
+  },
+  {
+    "_id": "8E20B675-F1AF-11E9-AE98-8F246FFB24C6",
+    "_version_": 1878951830481797121,
+    "category": "Series",
+    "citation": "VPRS 18152",
+    "citation_sort": "18152",
+    "contents.date_range": [
+      "[1940 TO 2001]"
+    ],
+    "contents.end_dt": [
+      2001
+    ],
+    "contents.start_dt": [
+      1940
+    ],
+    "creating_agents.creating_agency_id": [
+      3970
+    ],
+    "creating_agents.date_ranges": [
+      "[1999 TO 2003]"
+    ],
+    "creating_agents.end_dt": [
+      2003
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1999
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Department of Human Services"
+    ],
+    "date_descriptor": [
+      "Maintained"
+    ],
+    "date_range": [
+      "[1999 TO 2003]"
+    ],
+    "end_dt": "2003",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "function_content": [
+      "This series consists of an archived copy of the database used to manage architectural and engineering records relating to public housing construction, known as the Plan Room Index System (PRIS) database. The database was created between 1999 and 2003, but mainly relates to construction projects completed between 1940 and 2001, with a few outliers. It contains summary information about public housing projects and the construction records generated for those projects. It can be used to access records in VPRS 3157 Contract Documents, Architectural and Engineering.<br />\r\n<br />\r\nThe series includes two data export files in Microsoft Excel format, which can be readily accessed in place of the database. These files are PRIS_index_card.xlsx and PRIS_card_plan.xlsx.<br />\r\n<br />\r\nAlso included is technical and user documentation relating to the PRIS database. This documentation comprises four sample reports, two entity-relationship diagrams, some sample screen shots, a requirements document, a draft functional specification, and a document outlining the key data fields.<br />\r\n<br />\r\nThe database contains property detail information, including the estate name, address, builder name, handover date, roof type, building type, and works (contract) number. It also includes brief descriptions of plans and contract documents.<br />\r\n<br />\r\n<strong>Background</strong><br />\r\n<br />\r\nThe database was created as a reference tool to replace the need to consult a set of physical index / record cards previously used to manage public housing construction records. The database was compiled between 1999 and 2003 by transcribing data from the card system. Some information was also entered directly from the construction records.<br />\r\n<br />\r\nThe database was created by the Office of Housing within the then Department of Human Services (VA 3970). The original cards had not been transferred to Public Record Office Victoria as of 2026, when this series description was last updated.<br />\r\n<br />\r\nAt around the same time, another digital system was implemented to manage ongoing construction records. Updates to the index cards are believed to have ceased in 1999, and PRIS does not appear to have been used for new construction projects after this time, although there may be some outliers.<br />\r\n<br />\r\nThe agencies that created the original card index from which the database was populated were:\r\n<ul>\r\n\t<li>VA 508 Housing Commission of Victoria, 1940 &ndash; 1973</li>\r\n\t<li>VA 609 Ministry of Housing, 1973 &ndash; 1987</li>\r\n\t<li>VA 2907 Ministry of Housing and Construction, 1987 &ndash; 1991</li>\r\n\t<li>VA 3013 Department of Planning and Housing, 1991 &ndash; 1992</li>\r\n\t<li>VA 3094 Department of Planning and Development, 1992 &ndash; 1996</li>\r\n\t<li>VA 3970 Department of Human Services (Office of Housing), 1996 - 1999</li>\r\n</ul>\r\n"
+    ],
+    "how_to_use": [
+      "Researchers can use the two Microsoft Excel database export files included in the series to view summary information about public housing construction projects, to avoid having to access the database itself. The spreadsheets can also be used to access construction records in VPRS 3157 Contract Documents, Architectural and Engineering.<br />\r\n<br />\r\nThe original database is stored in the SIARD (Software Independent Archiving of Relational Databases) database preservation format. Researchers will need to research and obtain the necessary software tools to read the SIARD file.<br />\r\n<br />\r\n<strong>Finding Records in VPRS 3157&nbsp;Contract Documents, Architectural and Engineering</strong><br />\r\n<br />\r\nTo find records in VPRS 3157, refer to the file PRIS_index_card.xlsx, find the property of interest, and note the number in the column headed &lsquo;works_numb&rsquo; (column R). This is the contract or works number for the project, and the records in VPRS 3157 are arranged by this number.<br />\r\n<br />\r\nPlease note there are a few instances where the contract number in the data export file may have been corrupted during the export process. Also, while most of the projects in the index export are from the period 1940 to 2001, there appear to be some outliers. For example, some have handover dates of 1936 and 1937, and one from 1938. There are two from 1900, and one 1909, but these may be errors from the data export process.<br />\r\n<br />\r\n<strong>Finding Information about the Records for a Property</strong><br />\r\n<br />\r\nTo find details of the records that might exist for a property, first refer to PRIS_index_card.xlsx, find the property of interest, and note the number in the column headed &lsquo;index_card_id&rsquo; (column A). Use this number to find entries relating to the property in the file PRIS_card_plan.xlsx.<br />\r\n<br />\r\nPlease note that a property may have multiple entries in the plan file for the same index card number. The plan file also indicates which records had been transferred to PROV at the time the PRIS database was created, this is recorded in the column headed &lsquo;location&rsquo; (column D). Note that the references to PROV box / unit numbers in the column headed &lsquo;plan_description,&rsquo; (column C) may be outdated."
+    ],
+    "identifier.PID.id": "8E20B675-F1AF-11E9-AE98-8F246FFB24C6",
+    "identifier.PROV_ACM.id": "VPRS 18152",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": null,
+    "recordkeeping_system": [
+      "The database was created by transcribing data from physical index cards. The two main tables (contained in the two data export files) and the fields reflect the structure and information that was contained on the cards. Detailed information is available in the technical documentation also included in this series.<br />\r\n<br />\r\n<strong>Conversion for Transfer to PROV</strong><br />\r\n<br />\r\nFor purposes of long-term preservation, the database has been converted into the SIARD (Software Independent Archiving of Relational Databases) format. The process is described below.<br />\r\n<br />\r\nThe Plan Room Index System (PRIS) used a CA-OpenINGRES relational database. To facilitate the transfer of this database into archival custody, an Unload was run on the PRIS production database by the transferring Department&#39;s service provider. These files were then reloaded onto a local installation of Ingres Community 10.2 to recreate the database. At time of transfer (2016), the SIARD tools did not directly support Ingres so the database was then migrated to Microsoft SQL Server 2008 R2. Migration was performed using Pentaho Data Integration software. The .siard file was created from the SQL Server version using SIARDedit 1.78. To validate the transfer, the .siard file was reloaded into MySQL 5.5 using the SIARDedit software. Comparisons of the individual tables was then performed across the Ingres, SQL Server and MySQL versions of the database. All work, including data validation, was performed by Departmental staff prior to transfer to PROV."
+    ],
+    "resp_agency_id": [
+      "5256"
+    ],
+    "resp_agency_title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2021 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5256
+    ],
+    "responsible_agents.start_dt": [
+      2021
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Families, Fairness & Housing"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "18152",
+    "series_in_custody.date_range": [
+      "[1999 TO 2003]"
+    ],
+    "series_in_custody.end_dt": [
+      2003
+    ],
+    "series_in_custody.start_dt": [
+      1999
+    ],
+    "start_dt": "1999",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791860160,
+    "title": "Plan Room Index System (PRIS): Public Housing Construction Projects"
   },
   {
     "_id": "8E221606-F1AF-11E9-AE98-756E320F7BDE",

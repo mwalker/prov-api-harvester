@@ -1307570,6 +1307570,66 @@
     "title": "Consignment 18151/P0001"
   },
   {
+    "_id": "C8971321-F1B1-11E9-AE98-9BE95D370402",
+    "_version_": 1878951830481797120,
+    "category": "Consignment",
+    "citation": "VPRS 18152/P0001",
+    "citation_sort": "0000VPRS 18152/P0001",
+    "consignment_category": "AMS ACM",
+    "consignment_id": "P0001",
+    "contents.date_range": [
+      "[1940 TO 2001]"
+    ],
+    "contents.end_dt": [
+      2001
+    ],
+    "contents.end_dt_qual": [
+      "circa"
+    ],
+    "contents.start_dt": [
+      1940
+    ],
+    "contents.start_dt_qual": [
+      "circa"
+    ],
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1999 TO 2003]"
+    ],
+    "description": null,
+    "end_dt": "2003",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "C8971321-F1B1-11E9-AE98-9BE95D370402",
+    "identifier.PROV_ACM.id": "VPRS 18152/P0001",
+    "is_part_of_series.id": [
+      "VPRS18152"
+    ],
+    "is_part_of_series.title": [
+      "Plan Room Index System (PRIS): Public Housing Construction Projects"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18152"
+    ],
+    "parents.titles": [
+      "Plan Room Index System (PRIS): Public Housing Construction Projects"
+    ],
+    "quantity": [
+      1
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1999",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791859857,
+    "title": "Consignment 18152/P0001"
+  },
+  {
     "_id": "C89899C2-F1B1-11E9-AE98-91FACD832D76",
     "_version_": 1816040211205849088,
     "category": "Consignment",
@@ -1330312,6 +1330372,124 @@
     "status": "Published",
     "timestamp": 1789106689,
     "title": "Consignment 18582/C6 CLOSED consignment Section 9"
+  },
+  {
+    "_id": "FFB32B2E-A288-11F1-9CAC-85DC6F1487D7",
+    "_version_": 1878951830480748550,
+    "category": "Consignment",
+    "citation": "VPRS 18582/C7",
+    "citation_sort": "0000VPRS 18582/C7",
+    "consignment_category": "AMS",
+    "consignment_id": "C7",
+    "contents.date_range": [
+      "[1992 TO 1995]"
+    ],
+    "contents.end_dt": [
+      1995
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1992
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1992 TO 1995]"
+    ],
+    "description": "1995, Open",
+    "end_dt": "1995",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "FFB32B2E-A288-11F1-9CAC-85DC6F1487D7",
+    "identifier.PROV_ACM.id": "VPRS 18582/C7",
+    "is_part_of_series.id": [
+      "VPRS18582"
+    ],
+    "is_part_of_series.title": [
+      "Commercial and Common Civil Law Case Records"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS18582"
+    ],
+    "parents.titles": [
+      "Commercial and Common Civil Law Case Records"
+    ],
+    "quantity": [
+      2102
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "start_dt": "1992",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791854864,
+    "title": "Consignment 18582/C7 1995, Open"
+  },
+  {
+    "_id": "5200F65F-A289-11F1-9CAC-AD21D7CDF421",
+    "_version_": 1878951830480748551,
+    "category": "Consignment",
+    "citation": "VPRS 18582/C8",
+    "citation_sort": "0000VPRS 18582/C8",
+    "consignment_category": "AMS",
+    "consignment_id": "C8",
+    "contents.date_range": [
+      "1995"
+    ],
+    "contents.end_dt": [
+      1995
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1995
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "1995"
+    ],
+    "description": "1995, Closed",
+    "end_dt": "1995",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "5200F65F-A289-11F1-9CAC-AD21D7CDF421",
+    "identifier.PROV_ACM.id": "VPRS 18582/C8",
+    "is_part_of_series.id": [
+      "VPRS18582"
+    ],
+    "is_part_of_series.title": [
+      "Commercial and Common Civil Law Case Records"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS18582"
+    ],
+    "parents.titles": [
+      "Commercial and Common Civil Law Case Records"
+    ],
+    "quantity": [
+      80
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "start_dt": "1995",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1791855067,
+    "title": "Consignment 18582/C8 1995, Closed"
   },
   {
     "_id": "D46980AD-F1B1-11E9-AE98-8B9074B8AD83",
