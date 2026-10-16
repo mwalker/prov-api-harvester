@@ -87507,13 +87507,13 @@
   },
   {
     "_id": "A4423455-F3AB-11E9-AE98-B5169ED9C3A3",
-    "_version_": 1839092941657735168,
+    "_version_": 1879133024579223552,
     "category": "Agency",
     "citation": "VA 4547",
     "date_range": [
       "[1881 TO 1952]"
     ],
-    "description": null,
+    "description": "Lillimur State School (School No. 2400) (VA 4547) first opened as Kaniva State School in Lillimur, a small rural locality about 15 kilometres east of the border with South Australia.<br />\r\n<br />\r\nA site was reserved in August 1880, and a 30ft x 18ft portable wooden school room with four-room living quarters attached was completed in June 1881.The school opened with an enrolment of 65 and an average attendance of 37. The school&rsquo;s name changed to Lillimur North in 1882, and then to Lillimur by 1887.<br />\r\n<br />\r\nIn 1887 half an acre was excised from the school reserve for a courthouse, and later another quarter acre for a post office, although the post office was never built. This same year it was reported that 74 children attended in one day.&nbsp;<br />\r\n<br />\r\nThe school was extended in 1891. It closed at the end of 1952, with students transferred to Kaniva Consolidated School (School No 6227) (VA 5844) from February 1953.",
     "end_dt": "1952",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -87527,17 +87527,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1881 TO 1952]",
-    "name.official_title.end_dt": "1952",
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": "1881",
+    "name.official_title.start_dt": null,
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Lillimur (Primary School No. 2400; previously known as Kaniva 1881-1882, North Lillimur 1882-?)",
+    "name.official_title.title": null,
     "start_dt": "1881",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857837,
-    "title": "Lillimur (Primary School No. 2400; previously known as Kaniva 1881-1882, North Lillimur 1882-?)"
+    "timestamp": 1792015473,
+    "title": "Lillimur State School (School No. 2400; previously known as Kaniva State School 1881 \u2013 1882; Lillimur North State School 1882 \u2013 c.1887)"
   },
   {
     "_id": "A4440918-F3AB-11E9-AE98-03D60E768C39",
@@ -89748,6 +89748,40 @@
     "status": "Published",
     "timestamp": 1782709909,
     "title": "Brim Primary School (School No. 2995; previously known as Brim State School 1890 \u2013 circa 1970)"
+  },
+  {
+    "_id": "A4BB0D67-F3AB-11E9-AE98-37E5994BD174",
+    "_version_": 1879133024580272133,
+    "category": "Agency",
+    "citation": "VA 4623",
+    "date_range": [
+      "[1876 TO 1998]"
+    ],
+    "description": "Elaine Primary School (School No. 1810) (VA 4623) first opened as Elaine State School in the small rural township of Elaine, 30 kilometres southeast from Ballarat. It opened in 1876 on the site of the closed Stony Rises State School (School No. 742). A new wooden barn-like building with an iron roof capable of housing 100 students was erected on the site.<br />\r\n<br />\r\nMinor improvements were made to the school over the years, and a residence was later attached. The wooden building and residence were demolished in 1966 and replaced by a new modern structure to accommodate 30 pupils.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Elaine Primary School around this time.<br />\r\n<br />\r\nElaine Primary School closed in 1998 due to declining enrolments.",
+    "end_dt": "1998",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "A4BB0D67-F3AB-11E9-AE98-37E5994BD174",
+    "identifier.PROV_ACM.id": "VA 4623",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1876",
+    "start_dt_qual": "By",
+    "status": "Published",
+    "timestamp": 1792015987,
+    "title": "Elaine Primary School (School No. 1810; previously known as Elaine State School 1876 \u2013 c.1970)"
   },
   {
     "_id": "A4BC9409-F3AB-11E9-AE98-5579D7EF6E76",
@@ -119517,7 +119551,7 @@
   },
   {
     "_id": "96D97122-65D4-11F0-8856-174AF367F5E8",
-    "_version_": 1875965904852877312,
+    "_version_": 1879133024823541762,
     "category": "Agency",
     "citation": "VA 5727",
     "date_range": [
@@ -119546,7 +119580,7 @@
     "start_dt": "1881",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788923688,
+    "timestamp": 1792026283,
     "title": "Epsom Primary School (School No. 2367; previously known as Epsom State School 1881 \u2013 c.1970)"
   },
   {
@@ -120163,7 +120197,7 @@
   },
   {
     "_id": "1FB6DEC4-816A-11F0-8856-A72731C92A90",
-    "_version_": 1875965904931520521,
+    "_version_": 1879133024926302208,
     "category": "Agency",
     "citation": "VA 5751",
     "date_range": [
@@ -120192,7 +120226,7 @@
     "start_dt": "1952",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788930257,
+    "timestamp": 1792039287,
     "title": "Ouyen P-12 College (School No. 8220; previously known as Ouyen High School 1952 \u2013 1990; Ouyen Secondary College 1990 - 2009)"
   },
   {
@@ -121994,6 +122028,74 @@
     "status": "Published",
     "timestamp": 1786320221,
     "title": "Myrrhee Primary School (School No. 2677; previously known as Boggy Creek Upper School; Myrrhee State School 1885 \u2013 circa 1970)"
+  },
+  {
+    "_id": "0C254E19-6EA0-11F1-9CAC-EBB0C9203D43",
+    "_version_": 1879133024582369282,
+    "category": "Agency",
+    "citation": "VA 5858",
+    "date_range": [
+      "[1925 TO 1955]"
+    ],
+    "description": "Gazette State School (School No. 4258) (VA 5858) opened on the 30th of August 1925 in Gazette, Dundas, in Western Victoria. As of the 30th of May 1947, 13 pupils were enrolled. This had fallen to 7 by the time it closed in 1955.",
+    "end_dt": "1955",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "0C254E19-6EA0-11F1-9CAC-EBB0C9203D43",
+    "identifier.PROV_ACM.id": "VA 5858",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1925",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792016505,
+    "title": "Gazette State School (School No. 4268)"
+  },
+  {
+    "_id": "1ED9D17C-6EA0-11F1-9CAC-BF99354B5259",
+    "_version_": 1879133024583417856,
+    "category": "Agency",
+    "citation": "VA 5859",
+    "date_range": [
+      "[1866 TO 3000]"
+    ],
+    "description": "Harrietville Primary School (School No. 843) (VA 5859) is a coeducational primary school located in Harrietville, 25 kilometres from Bright, at the base of Mt Hotham in North-East Victoria.<br />\r\n<br />\r\nIt first opened as Harrietville Common School in 1866. The school&rsquo;s name was later changed to Harrietville State School around 1873, following the establishment of The Education Act of 1872.<br />\r\n<br />\r\nBy 1900, 300 students were enrolled in the school. In 1912 the original schoolhouse was renovated, and a teacher&rsquo;s residence was built.<br />\r\n<br />\r\nIn 1921 several local mines closed and mining families moved away, resulting in a drop in enrolments. By 1957 the number of students enrolled was below 20; by 1971 it had fallen to 5.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school&rsquo;s name was changed to Harrietville Primary School.&nbsp;<br />\r\n<br />\r\nIn 2018 the school underwent renovations and modernisation, although it still uses the original school building.<br />\r\n<br />\r\nThis school is still in operation as of 2026.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "1ED9D17C-6EA0-11F1-9CAC-BF99354B5259",
+    "identifier.PROV_ACM.id": "VA 5859",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1866",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792017005,
+    "title": "Harrietville Primary School (School No. 843; previously known as Harrietville Common School 1866 \u2013 1873; Harrietville State School 1873 \u2013 1970)"
   },
   {
     "_id": "2D36EE28-898B-11F1-9CAC-0368D77A3C25",
