@@ -401680,6 +401680,188 @@
     "title": "Mining Registrar's Register Of Water Rights, Raglan Mining Division"
   },
   {
+    "_id": "8CDC92BC-F1AE-11E9-AE98-0FA1B5501BFD",
+    "_version_": 1879223621295013888,
+    "category": "Series",
+    "citation": "VPRS 5325",
+    "citation_sort": "05325",
+    "contents.date_range": [
+      "[1976 TO 1983]"
+    ],
+    "contents.end_dt": [
+      1983
+    ],
+    "contents.start_dt": [
+      1976
+    ],
+    "creating_agents.creating_agency_id": [
+      946,
+      613
+    ],
+    "creating_agents.date_ranges": [
+      "[1976 TO 1979]",
+      "[1979 TO 1983]"
+    ],
+    "creating_agents.end_dt": [
+      1979,
+      1983
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1976,
+      1979
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Social Welfare Department",
+      "Department of Community Welfare Services"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1976 TO 1983]"
+    ],
+    "end_dt": "1983",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is a record of the decisions reached by the Youth Parole Board about persons on parole at its regular meetings. Each record begins with details of the meeting (date and location), followed by statistical information about the number of cases reviewed. The decisions of the board are then listed for each person considered. For each person, their family and first names are listed, along with their date of birth, parole conditions and/or relevant decisions made by the board.<br />\r\n&nbsp;"
+    ],
+    "how_to_use": [
+      "Order the records for viewing in the reading room, browse the contents by date of the Adult Parole Board meeting."
+    ],
+    "identifier.PID.id": "8CDC92BC-F1AE-11E9-AE98-0FA1B5501BFD",
+    "identifier.PROV_ACM.id": "VPRS 5325",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "<p>The records are arranged in chronological order by date of Youth Parole Board meeting.<br />\r\n<br />\r\nRelated series include VPRS 10130 Parole Board Decisions (1963-1974) and VPRS 5326 Adult Parole Board Decisions (1977-1983), both of which contains similar records for adults.</p>\r\n"
+    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "5325",
+    "series_in_custody.date_range": [
+      "[1976 TO 1983]"
+    ],
+    "series_in_custody.end_dt": [
+      1983
+    ],
+    "series_in_custody.start_dt": [
+      1976
+    ],
+    "start_dt": "1976",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792122632,
+    "title": "Youth Parole Board Decisions"
+  },
+  {
+    "_id": "8CDDF24D-F1AE-11E9-AE98-8DEA205C70A8",
+    "_version_": 1879223621292916739,
+    "category": "Series",
+    "citation": "VPRS 5326",
+    "citation_sort": "05326",
+    "contents.date_range": [
+      "[1977 TO 1983]"
+    ],
+    "contents.end_dt": [
+      1983
+    ],
+    "contents.start_dt": [
+      1977
+    ],
+    "creating_agents.creating_agency_id": [
+      946,
+      613
+    ],
+    "creating_agents.date_ranges": [
+      "[1977 TO 1979]",
+      "[1979 TO 1983]"
+    ],
+    "creating_agents.end_dt": [
+      1979,
+      1983
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1977,
+      1979
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Social Welfare Department",
+      "Department of Community Welfare Services"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1977 TO 1983]"
+    ],
+    "end_dt": "1983",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is a record of the decisions reached by the Adult Parole Board about persons on parole at its regular meetings. Each record begins with details of the meeting (date and location), followed by statistical information about the number of cases reviewed. The decisions of the board are then listed for each person considered. For each person, their family and first names are listed, along with their date of birth, parole conditions and/or relevant decisions made by the board."
+    ],
+    "how_to_use": [
+      "Order the records for viewing in the reading room, browse the contents by date of the Adult Parole Board meeting."
+    ],
+    "identifier.PID.id": "8CDDF24D-F1AE-11E9-AE98-8DEA205C70A8",
+    "identifier.PROV_ACM.id": "VPRS 5326",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records are arranged in chronological order by date of Adult Parole Board meeting.<br />\r\n<br />\r\nRelated series include VPRS 10130 Parole Board Decisions (1963-1974) which also contains decisions relating to adults on parole, and VPRS 5325 Youth Parole Board Decisions (1976-1983), which contains similar records for young offenders."
+    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "5326",
+    "series_in_custody.date_range": [
+      "[1977 TO 1983]"
+    ],
+    "series_in_custody.end_dt": [
+      1983
+    ],
+    "series_in_custody.start_dt": [
+      1977
+    ],
+    "start_dt": "1977",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792122606,
+    "title": "Adult Parole Board Decisions"
+  },
+  {
     "_id": "8CDF51DE-F1AE-11E9-AE98-93E8AC1BC087",
     "_version_": 1867087404365512706,
     "category": "Series",
@@ -818778,7 +818960,7 @@
   },
   {
     "_id": "ED5A6B0B-F1AE-11E9-AE98-F9A93449B12B",
-    "_version_": 1816040152854691840,
+    "_version_": 1879223621290819603,
     "category": "Series",
     "citation": "VPRS 10130",
     "citation_sort": "10130",
@@ -818792,21 +818974,26 @@
       1962
     ],
     "creating_agents.creating_agency_id": [
-      1087
+      2784,
+      946
     ],
     "creating_agents.date_ranges": [
-      "[1962 TO 1974]"
+      "[1963 TO 1971]",
+      "[1971 TO 1974]"
     ],
     "creating_agents.end_dt": [
+      1971,
       1974
     ],
     "creating_agents.end_dt_qual": null,
     "creating_agents.start_dt": [
-      1962
+      1963,
+      1971
     ],
     "creating_agents.start_dt_qual": null,
     "creating_agents.title": [
-      "Adult Parole Board"
+      "Social Welfare Branch, Chief Secretary's Department",
+      "Social Welfare Department"
     ],
     "date_descriptor": null,
     "date_range": [
@@ -818817,7 +819004,7 @@
     "entity": "Record",
     "format": "Physical",
     "function_content": [
-      "The Parole Board was established in 1956 under s 23(1) of the Penal Reform Act 1956, taking over the responsibilities of the abolished Indeterminate Sentences Board. The name of this agency was changed to the Adult Parole Board in 1960, presumably to distinguish it from the Youth Parole Board (established under s 27(1) of the Social Welfare Act 1960). The Adult Parole Board considered cases of people who were sentenced to imprisonment when a minimum term was imposed by the court. It was responsible for matters arising from breach of parole and the question of reparole.<br/><br/>The Board had the power to cancel the parole of persons and have warrants issued for their return to custody. If a person committed an offence during the parole period their parole was cancelled. The Board met on a weekly basis for most of the year to consider the cases of persons on parole. The Board also conducted interviews with persons after their release. Some persons on parole also attended meetings of the Board to receive reprimands and warnings about the importance of observing the conditions of parole.<br/><br/>This series is a record of the decisions reached by the Adult Parole Board about persons on parole at its weekly meetings. Each record begins with statistics, such as the number of persons released on parole that week. The decisions of the Board are then listed for each person considered. The parole conditions of or relevant decisions about clients of the Board are recorded next to their names.<br/><br/>It would seem that copies of these Decisions of the Adult Parole Board were distributed to Governors of the various prisons operating in Victoria, so that any prisoners whose cases were considered could be notified of the Board's decision.<br/><br/>This series was previously registered as Sundry Records - Adult Parole Board."
+      "The Parole Board was established in 1956 under s 23(1) of the Penal Reform Act 1956, taking over the responsibilities of the abolished Indeterminate Sentences Board. The name of this agency was changed to the Adult Parole Board in 1960, presumably to distinguish it from the Youth Parole Board (established under s 27(1) of the Social Welfare Act 1960). The Adult Parole Board considered cases of people who were sentenced to imprisonment when a minimum term was imposed by the court. It was responsible for matters arising from breach of parole and the question of reparole.<br />\r\n<br />\r\nThe Board had the power to cancel the parole of persons and have warrants issued for their return to custody. If a person committed an offence during the parole period their parole was cancelled. The Board met on a weekly basis for most of the year to consider the cases of persons on parole. The Board also conducted interviews with persons after their release. Some persons on parole also attended meetings of the Board to receive reprimands and warnings about the importance of observing the conditions of parole.<br />\r\n<br />\r\nThis series is a record of the decisions reached by the Adult Parole Board about persons on parole at its weekly meetings. Each record begins with statistics, such as the number of persons released on parole that week. The decisions of the Board are then listed for each person considered. The parole conditions of or relevant decisions about clients of the Board are recorded next to their names.<br />\r\n<br />\r\nIt would seem that copies of these Decisions of the Adult Parole Board were distributed to Governors of the various prisons operating in Victoria, so that any prisoners whose cases were considered could be notified of the Board&#39;s decision.<br />\r\n<br />\r\nThis series was previously registered as Sundry Records - Adult Parole Board."
     ],
     "how_to_use": [
       "Check the Records Description List and note the date range of decisions of the Board in each unit."
@@ -818829,34 +819016,18 @@
       "North Melbourne"
     ],
     "recordkeeping_system": [
-      "The records are arranged in chronological order by date of Board Meeting.<br/><br/>A related series is VPRS 5326 Adult Parole Board Decisions 1977-1983 (located at the Ballarat Repository) which contains similar records, created by the Department of Community Welfare Services Central Highlands Regional Centre (VA 604), a regional branch of the Adult Parole Board.<br/>"
+      "The records are arranged in chronological order by date of Board Meeting.<br />\r\n<br />\r\nA related series is VPRS 5326 Adult Parole Board Decisions 1977-1983 which contain similar records from a later time period."
     ],
-    "resp_agency_id": [
-      "1087"
-    ],
-    "resp_agency_title": [
-      "Adult Parole Board"
-    ],
-    "resp_agency_title_facet": [
-      "Adult Parole Board"
-    ],
-    "responsible_agents.date_ranges": [
-      "1960"
-    ],
-    "responsible_agents.end_dt": [
-      1960
-    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
     "responsible_agents.end_dt_qual": null,
-    "responsible_agents.resp_agency_id": [
-      1087
-    ],
-    "responsible_agents.start_dt": [
-      1960
-    ],
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
     "responsible_agents.start_dt_qual": null,
-    "responsible_agents.title": [
-      "Adult Parole Board"
-    ],
+    "responsible_agents.title": null,
     "rights_status": [
       "Open"
     ],
@@ -818873,7 +819044,7 @@
     "start_dt": "1963",
     "start_dt_qual": "?",
     "status": "Published",
-    "timestamp": 1614290239,
+    "timestamp": 1792119927,
     "title": "Parole Board Decisions"
   },
   {
@@ -1016895,7 +1017066,7 @@
   },
   {
     "_id": "188B1747-F1AF-11E9-AE98-558BF234B647",
-    "_version_": 1878589443074424832,
+    "_version_": 1879223621204836352,
     "category": "Series",
     "citation": "VPRS 12343",
     "citation_sort": "12343",
@@ -1016932,15 +1017103,21 @@
     "end_dt_qual": "Circa",
     "entity": "Record",
     "format": "Physical",
-    "function_content": null,
-    "how_to_use": null,
+    "function_content": [
+      "This series was created under the provisions of Section 16 of the Business Names Act 1926 (No. 3543). According to the provisions of the Act, each firm, individual or corporation conducting business within Victoria was required to register their business name when this was not the full given names of the individuals or partners concerned. &nbsp;(This function was controlled by the Registration Of Firms Act 1892 for the period from the start of this function in 1893 to September 1915 and by Part 2 of the Partnership Act from September 1917 until 1927. &nbsp;The term &lsquo;firm&rsquo; was changed to &lsquo;business name&rsquo; in 1927 when the 1926 Act came into operation.)<br />\r\n<br />\r\nEach card in this series refers to a single business name registration. &nbsp;When necessary, additional cards were created for a given registration number. Each card records the following information:<br />\r\n<br />\r\n.&nbsp;&nbsp; &nbsp;firm (business) name<br />\r\n.&nbsp;&nbsp; &nbsp;type of business<br />\r\n.&nbsp;&nbsp; &nbsp;place or places of business<br />\r\n.&nbsp;&nbsp; &nbsp;full name, usual residence and other occupation of the person or persons carrying out the business<br />\r\n.&nbsp;&nbsp; &nbsp;date of commencement of the business.<br />\r\n<br />\r\nThe Act provided that each business name be registered through the lodgement of a statement containing the above information. This statement and subsequent documentation lodged relating to changes in this detail were attached to a file pertaining to the registration. &nbsp;The cards also record the receipt of this statement and documentation and its placement on file.<br />\r\n<br />\r\nAccordingly this series controlled the arrangement of the files. Most of the have been destroyed under authorised disposal arrangements.except for those in VPRS 933..<br />\r\n<br />\r\nEntries on these cards also detail changes to the registration and its cessation or striking off.<br />\r\n<br />\r\nCommencement of the series<br />\r\n<br />\r\nThese cards replaced the bound registers which were used from the first registration in 1893 to registration No 38,000 in January 1927 (see VPRS 12342). &nbsp;<br />\r\n<br />\r\nConsequently this series covers:<br />\r\n<br />\r\n*&nbsp;&nbsp; &nbsp;new registrations from January 1927 (No 38,001), and<br />\r\n*&nbsp;&nbsp; &nbsp;registrations which were current in 1927. (In some cases the card will also detail the information previously found in the relevant entry in the bound register).<br />\r\n<br />\r\nIt also appears that the series contains cards for firms which were de-registered prior to 1927. &nbsp;The reason for this is unclear. &nbsp;Such cards, however, record only the registration number, firm name, the suburb or town (but not address) and the date of cessation/striking off of the registration. &nbsp;The detailed record for these firms is to be found in the relevant entry within VPRS 12342.<br />\r\n<br />\r\nEnd of the series<br />\r\n<br />\r\nIn the early-to-mid 1960&#39;s this alphabetical card register was abandoned in favour of a card register arranged in numerical order by registration number (see VPRS 12346). The most recent registration number found in this series dates from 1964. &nbsp;<br />\r\n<br />\r\nIt appears that cards relating to registrations still current at the commencement of this subsequent sequence were transferred to that series. &nbsp;Thus this series comprises cards pertaining to registrations which expired prior to circa 1964.<br />\r\n<br />\r\n&nbsp;"
+    ],
+    "how_to_use": [
+      "To locate the card for a particular business name consult the item listing for this series to identify the box containing the relevant card(s)."
+    ],
     "identifier.PID.id": "188B1747-F1AF-11E9-AE98-558BF234B647",
     "identifier.PROV_ACM.id": "VPRS 12343",
     "jurisdictional_coverage": null,
     "location": [
       "North Melbourne"
     ],
-    "recordkeeping_system": null,
+    "recordkeeping_system": [
+      "Each new business name was allocated a sequential registration number from VPRS 12345.&nbsp;<br />\r\n<br />\r\nThe cards in this series are arranged in alphabetical order by business name. &nbsp;With the exception of two indexes spanning the years 1927-1934 (see units 7 and 8 of VPRS 12344/P1), no indexes have been identified. &nbsp;It is assumed that no other indexes were created given the alphabetical arrangement of these cards.<br />\r\n<br />\r\nGaps in the sequence<br />\r\n<br />\r\nIt is understood that there are some gaps in the sequence currently in archival custody. &nbsp;There are two reasons for this:<br />\r\n<br />\r\n*&nbsp;&nbsp; &nbsp;some cards are still to be located, and<br />\r\n*&nbsp;&nbsp; &nbsp;the cards are located in VPRS 12346 because the registrations were current when it was created.<br />\r\n<br />\r\nAs there are gaps in this sequence which cannot be accounted for VPRS 12345 has been retained permanently to provide evidence of all registrations.<br />\r\n<br />\r\nConsignment make up<br />\r\n<br />\r\nThe majority of cards in custody are located in the P1 consignment &nbsp;The P2 consignment consists of a small number of cards which were originally transferred to archives as units 36 &ndash; 39 of VPRS 10046 in 1969. &nbsp; The cards in this consignment appear to relate to registrations which either ceased or were struck off between c.1909 and c.1956. &nbsp;There are also significant gaps in this consignment.<br />\r\n&nbsp;"
+    ],
     "resp_agency_id": [
       "4195"
     ],
@@ -1016977,12 +1017154,12 @@
     "start_dt": "1927",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1791520660,
+    "timestamp": 1792115950,
     "title": "Card Register of Business Names: Alphabetical"
   },
   {
     "_id": "188C9DE8-F1AF-11E9-AE98-114ED5ABB612",
-    "_version_": 1878589443075473408,
+    "_version_": 1879223621268799492,
     "category": "Series",
     "citation": "VPRS 12344",
     "citation_sort": "12344",
@@ -1017014,7 +1017191,10 @@
     "end_dt_qual": "?",
     "entity": "Record",
     "format": "Physical",
-    "function_content": null,
+    "function_content": [
+      "Use the item listing to identify the volume for the required period.<br />\r\n&nbsp;",
+      "This series is an alphabetical index of firms registered under the Registration of Business Firms Act 1892 (and subsequently Part 2 of the Partnership Act 1915) and business names registered under the Business Names Act 1926 and successor legislation. &nbsp;(The term &lsquo;firm&rsquo; was changed to &lsquo;business name&rsquo; in 1927 when the 1926 Act came into operation.)<br />\r\n<br />\r\nAccording to the provisions of these Acts, each firm or individual conducting business within Victoria under a trading name not comprising the full given names of the individuals or partners concerned, was required to register their firm/business name.<br />\r\n<br />\r\nEntries in this index detail the business name and registration number. &nbsp;It provides a means of access to the files created for registrations made between 1893 and 1934 (see VPRS 933) and to the bound registers of firms created between 1893 and1926 (see VPRS 12342).<br />\r\n<br />\r\nCreation of this index<br />\r\n<br />\r\nThis index appears to have been initially created in 1927 as part of the process of replacing the bound registers of firms with an alphabetical card register. (see VPRS 12342). &nbsp;The index was probably created in order to check off business names against the bound registers to determine which current registrations would require cards in the new system. &nbsp;The initial index, however, appears to cover all registrations made between the commencement of registrations in 1893 and January 1927 (ie. registration Nos. 1 - 38,000). &nbsp;Entries continued to be made in this series until registration number 61,245 at the end of 1934.<br />\r\n<br />\r\nIt is unknown if further indexes were created after this date."
+    ],
     "how_to_use": null,
     "identifier.PID.id": "188C9DE8-F1AF-11E9-AE98-114ED5ABB612",
     "identifier.PROV_ACM.id": "VPRS 12344",
@@ -1017022,7 +1017202,9 @@
     "location": [
       "North Melbourne"
     ],
-    "recordkeeping_system": null,
+    "recordkeeping_system": [
+      "Entries in volumes 1 and 2 were made in lexicographical (ie. dictionary) order by the business name.&nbsp;<br />\r\nVolumes 3-8 see the abandonment of this method and the use of segmented sections within each section of the index ie. Ab, Ac, Ad, and so on.&nbsp;This suggests that volumes 1 and 2 indexed prior registrations while the remaining volumes indexed registrations made from 1927.<br />\r\n&nbsp;"
+    ],
     "resp_agency_id": [
       "4195"
     ],
@@ -1017059,7 +1017241,7 @@
     "start_dt": "1927",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1791520752,
+    "timestamp": 1792116290,
     "title": "Index to Firms and Business Names"
   },
   {
@@ -1106561,6 +1106743,111 @@
     "status": "Published",
     "timestamp": 1614290966,
     "title": "Register of Lessees, Palmerston, Section 33 Land Act 1869"
+  },
+  {
+    "_id": "2A85E71E-F1AF-11E9-AE98-F9F8D0BC48EE",
+    "_version_": 1879223621197496320,
+    "category": "Series",
+    "citation": "VPRS 13247",
+    "citation_sort": "13247",
+    "contents.date_range": [
+      "[1870 TO 1879]"
+    ],
+    "contents.end_dt": [
+      1879
+    ],
+    "contents.start_dt": [
+      1870
+    ],
+    "creating_agents.creating_agency_id": [
+      538
+    ],
+    "creating_agents.date_ranges": [
+      "[1870 TO 1879]"
+    ],
+    "creating_agents.end_dt": [
+      1879
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1870
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Department of Crown Lands and Survey"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1870 TO 1879]"
+    ],
+    "end_dt": "1879",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "Section 33 of the Land Act 1869 made provision for those who had been lessees under the first subdivision of the second Part of the Amending Land Act of 1865.  This subdivision of the 1865 Act repealed Sections 12 to 37 of the Land Act 1862 under which selectors could directly purchase half of an allotment and lease the other half making deferred payments of two shillings and sixpence per acre per annum for eight years.  The selector had, within twelve months of the date of selection, to have fenced the selection, erected a dwelling upon it and cultivated one-tenth of the area.  It had been found, within a few months, that little legitimate settlement followed.<br/><br/>The Amending Land Act 1865, under Section 7, extended the time for purchase for those who had entitlements under the Land Act 1862.  Section 12 set the principle that agricultural land was to be first acquired under lease with conditions that a payment of two shillings per acre was to be made for three years, that improvements to the value of twenty shillings per acre were to be made within two years of the commencement of the lease and that if these conditions had been met, the lessee could purchase the land for one pound per acre at the expiry of three years.<br/><br/>Under Section 33 of the Land Act 1869, these leaseholders were given a choice, after they had obtained a certificate from the Board of Land and Works (VA 744) stating that the leaseholder had complied with the conditions with respect to improvements.  The Board was prepared to issue certificates for all those who had substantially complied with the requirements.  The leaseholder, three years after the commencement of the lease, could then immediately obtain a Crown grant on the payment of one pound per acre.  The other option for the leaseholder was to surrender the existing lease for a new seven year lease for a payment of two shillings per acre per annum for seven years.  At any time or at the completion of the seven years, a Crown grant could be obtained by paying the difference between the rent already paid and the sum of one pound per acre.<br/><br/>Leaseholders forwarded an application to the Board stating whether they chose an immediate Crown grant or a new lease.  This application also showed the amounts of rent already paid by the lessee under the Amending Land Act 1865.  These applications were registered in roughly chronological order and given a sequential number which became the file number.  This register was then indexed by name and allocated number.  At the same time, the original lease was surrendered and filed with the application and the Board of Land and Works certification regarding improvements.  For those who had chosen an immediate Crown grant arrangements were then made for the issue of the grant (see VPRS 11864 Register of Crown Grants).<br/><br/>A separate Register was then created for those who had chosen to bring their leases under the provisions of Section 33 Land Act 1869 with details of the original selection of the land  and the finalisation of the Crown grant.  These details may be seen in VPRS 13117/P1 Register of Leases Brought Under the Provisions of Section 31 and Section 33, Land Act 1869.  Leases also had to be approved by the Governor-in-Council.  Once this approval had been obtained, the lease was registered in VPRS 11871/P1 Register of Leases granted Under Land Acts 1869, 1878, 1880.<br/><br/>For the recording of the progressive payment of rents, Registers of Lessees were created.  Initially, these were based on the location of the offices of the Receivers of Revenue (a departmental officer or another designated Crown officer such as a Clerk of Courts).  Lessees would pay rent to the local Receiver of Revenue convenient to their location, returns of payments would be forwarded to the office of the Department of Crown Lands and Survey in Melbourne where they would be recorded in the appropriate register.  With the formation of the Occupation Branch and the conduct of business according to the District Survey Offices established, these registers were then allocated to a specific District Survey Office within the Occupation Branch.  Records within these registers may be for properties which, after 1874, were located in parishes which had been allocated to different District Survey Offices.<br/><br/>Details provided in these Registers of Lessees include those of leases commencing prior to the Land Act 1869.  The date of the lease is given as are the name of the lessee, the parish in which the land was located and the location by allotment of the land and its extent as well as the amount of rental already paid.  Progressively entered were the details of rent paid in the years subsequent to the issue of the lease and summary details of any arrears of rent, transfers of the lease and the eventual purchase of the land during the course of the lease or at its expiration.<br/><br/>The volume in this series records payments made to a receiver of Revenue for land in parishes subsequently administered by the District Survey Offices at Melbourne.<br/><br/>VPRS 13247/P was previously registered as Unit 14 of VPRS 1312/P Register of Lessees, Land Act 1869 Section 33."
+    ],
+    "how_to_use": [
+      "For records relating to land held by a specific person, consult the alphabetical section based on family name."
+    ],
+    "identifier.PID.id": "2A85E71E-F1AF-11E9-AE98-F9F8D0BC48EE",
+    "identifier.PROV_ACM.id": "VPRS 13247",
+    "jurisdictional_coverage": null,
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The volume is divided into alphabetical sections based on the family name of the lessee.  In each sction, entries are chronological according to the date of the granting of the lease."
+    ],
+    "resp_agency_id": [
+      "3972"
+    ],
+    "resp_agency_title": [
+      "Department of Natural Resources and the Environment"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Natural Resources and the Environment"
+    ],
+    "responsible_agents.date_ranges": [
+      "[1996 TO 2002]",
+      "[2002 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      2002,
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      3972,
+      4554
+    ],
+    "responsible_agents.start_dt": [
+      1996,
+      2002
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Natural Resources and the Environment",
+      "Department of Sustainability and Environment"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "13247",
+    "series_in_custody.date_range": [
+      "[1870 TO 1879]"
+    ],
+    "series_in_custody.end_dt": [
+      1879
+    ],
+    "series_in_custody.start_dt": [
+      1870
+    ],
+    "start_dt": "1870",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792110421,
+    "title": "Register of Lessees, Melbourne, Section 33 Land Act 1869"
   },
   {
     "_id": "2A871F9F-F1AF-11E9-AE98-D376641D9648",
@@ -1921444,6 +1921731,517 @@
     "status": "Published",
     "timestamp": 1791262873,
     "title": "School Council Papers"
+  },
+  {
+    "_id": "D1473588-5EF1-11F1-8856-F9110C97509A",
+    "_version_": 1879223621296062469,
+    "category": "Series",
+    "citation": "VPRS 22682",
+    "citation_sort": "22682",
+    "contents.date_range": [
+      "[1927 TO 2000]"
+    ],
+    "contents.end_dt": [
+      2000
+    ],
+    "contents.start_dt": [
+      1927
+    ],
+    "creating_agents.creating_agency_id": [
+      5719
+    ],
+    "creating_agents.date_ranges": [
+      "[1927 TO 2000]"
+    ],
+    "creating_agents.end_dt": [
+      2000
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1927
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Point Gellibrand Girls Secondary College (School No. 8229; previously known as Williamstown Domestic Arts School 1925 \u2013 1950s; Williamstown Girls Secondary College 1950s \u2013 1966; Williamstown Girls\u2019 High School 1966 \u2013 1973; Point Gellibrand High School 1973 - 1992)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1927 TO 2000]"
+    ],
+    "end_dt": "2000",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the official annual school group photographs of the staff, classes/forms, year levels and/or entire school and form a visual record of the students and teachers at Point Gellibrand Girls Secondary College (School No. 8229) at a point in time.<br />\r\n<br />\r\nThere are not always photographs for every year and within a year period, there may or may not be a photograph for every class / form. The extent of the photographs within the series will vary depending on the school. Additionally, while most photographs list the names of the students and staff members included in the photograph there are some that are unidentified.&nbsp;"
+    ],
+    "how_to_use": [
+      "Search for specific photographs by year. Within a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staff included by name."
+    ],
+    "identifier.PID.id": "D1473588-5EF1-11F1-8856-F9110C97509A",
+    "identifier.PROV_ACM.id": "VPRS 22682",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Class photographs are grouped by year or year period in files and are typically ordered by year level within each file. The photographs were likely originally stored in photo albums and plastic sleeves.<br />\r\n<br />\r\nWithin a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staffs included by name."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "series_id": "22682",
+    "series_in_custody.date_range": [
+      "[1927 TO 2000]"
+    ],
+    "series_in_custody.end_dt": [
+      2000
+    ],
+    "series_in_custody.start_dt": [
+      1927
+    ],
+    "start_dt": "1927",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792123225,
+    "title": "School Photographs"
+  },
+  {
+    "_id": "AC7D1DE4-745C-11F1-9CAC-35E078173C23",
+    "_version_": 1879223621299208192,
+    "category": "Series",
+    "citation": "VPRS 22728",
+    "citation_sort": "22728",
+    "contents.date_range": [
+      "2012"
+    ],
+    "contents.end_dt": [
+      2012
+    ],
+    "contents.start_dt": [
+      2012
+    ],
+    "creating_agents.creating_agency_id": [
+      5708
+    ],
+    "creating_agents.date_ranges": [
+      "2012"
+    ],
+    "creating_agents.end_dt": [
+      2012
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2012
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Neerim District Rural Primary School (School No. 5394)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "2012"
+    ],
+    "end_dt": "2012",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the annual reports of Neerim District Rural Primary School (School No. 5394) (VA 5708).&nbsp;<br />\r\n<br />\r\nThe reports detail aspects such as school governance, achievement, and performance. They may include: Principal&rsquo;s report; School Council President&rsquo;s report; summary of student enrolment, attendance and wellbeing; summary of student progress and achievements; curriculum information; updates on school grounds; staff feedback; charter priorities; annual financial statements and more.<br />\r\n<br />\r\nAlthough the contents, emphasis and delivery mechanisms of annual reports have evolved over time, their fundamental purpose has remained largely unchanged. It provides information on a school&rsquo;s progress and achievements over the course of each year.<br />\r\n<br />\r\nThe content and size of annual reports varies, increasing in size and detail with the implementation of a formalised structure by the Department of Education (VA 3098) in the 1993 amendment to the Education Act 1958 (Vic).&nbsp;<br />\r\n<br />\r\nIn 1994, under the Schools of the Future program, the Department of Education (VA 3098) introduced a framework to provide an accountability mechanism in schools, known as Quality Assurance in Victorian Schools: An Accountability Framework. This framework was introduced to all primary and secondary schools in the state and was created to support the shift in school management from being centrally controlled by the Department to being managed by the local school community. The annual report was one of the three key elements of the framework, in addition to a school charter and a triennial review of the school. The preparation and publication of an annual report was a legislative and regulatory requirement for all schools under the Education and Training Reform Act 2006 (Vic), Ministerial Order 1280 and the National Education Agreement 2008."
+    ],
+    "how_to_use": [
+      "Researchers should search within the series by year of report.<br />\r\n<br />\r\nIf a report is not included in this series, consult VPRS 17782 School Annual Reports which contains the series of school annual reports that had been accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "identifier.PID.id": "AC7D1DE4-745C-11F1-9CAC-35E078173C23",
+    "identifier.PROV_ACM.id": "VPRS 22728",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Annual reports are arranged in chronological order. &nbsp;<br />\r\n<br />\r\nNot every year of the school&rsquo;s operation may have a report. If a report is missing from this series, please refer to the VPRS 17782 School Annual Reports, which holds a collection of school reports accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22728",
+    "series_in_custody.date_range": [
+      "2012"
+    ],
+    "series_in_custody.end_dt": [
+      2012
+    ],
+    "series_in_custody.start_dt": [
+      2012
+    ],
+    "start_dt": "2012",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792123487,
+    "title": "Annual Reports\r\n"
+  },
+  {
+    "_id": "DD7854F8-745C-11F1-9CAC-E9CB0F6DFE7F",
+    "_version_": 1879223621300256773,
+    "category": "Series",
+    "citation": "VPRS 22729",
+    "citation_sort": "22729",
+    "contents.date_range": [
+      "1994"
+    ],
+    "contents.end_dt": [
+      1994
+    ],
+    "contents.start_dt": [
+      1994
+    ],
+    "creating_agents.creating_agency_id": [
+      5708
+    ],
+    "creating_agents.date_ranges": [
+      "1994"
+    ],
+    "creating_agents.end_dt": [
+      1994
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1994
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Neerim District Rural Primary School (School No. 5394)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "1994"
+    ],
+    "end_dt": "1994",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Attendance Roll and Examination Registers maintained by Neerim District Rural Primary School (School No. 5394) (VA 5708). These records document the personal information, attendance and academic assessment of enrolled students.<br />\r\n<br />\r\nThe series is made up of two primary record types, the &lsquo;Attendance Roll and Examination Register&rsquo;, and the subsequent &lsquo;Attendance Roll and Teacher Reports&rsquo;. Both record types have the same form number, produced by the Education Department (VA 5283) or its predecessors. This series does not include &lsquo;Attendance Rolls&rsquo;, which serve a separate function of recording student attendance only, and did not record student personal information or teacher comments.&nbsp;<br />\r\n<br />\r\nThe register&#39;s front cover provides space for the school&rsquo;s name, number, date, class/group, teacher name, and includes &lsquo;General Instructions&rsquo; and &lsquo;Directions for Filling Up the Rolls&rsquo;. The instructions specify using a new register annually and destroying it five years after completion.&nbsp;<br />\r\n<br />\r\nInside the register there is space to record the register number, student name, date of birth, age, date of admission to class/form, date of admission to school, name of parent or guardian, address of parent or guardian, occupation, distance from school by nearest road, religious instruction, private and emergency phone numbers and an area for additional notes.&nbsp;<br />\r\n<br />\r\nA further series of smaller pages contain space to record the attendance of each student for morning and afternoon using symbols outlined in the directions on the cover of the register. Additional pages are also provided for teacher reports which may include additional information on individuals such as any special abilities and interests, problems, levels of student achievement etc.&nbsp;<br />\r\n<br />\r\nFurther information regarding school closures and holidays is printed on the reverse of the register.&nbsp;<br />\r\n<br />\r\nSchool attendance became mandatory in Victoria in 1873, with the Education Department (VA 714) responsible for regulating attendance. From 1971 this responsibility shifted to the Social Welfare Department (VA 946) before returning to the Ministry of Education and Training (VA 1112) in 1982. Around 1993, the Department of Education (VA 3098) stopped employing regional attendance officers, and the responsibility for regulating attendance shifted to individual schools.<br />\r\n<br />\r\nAttendance Roll and Examination Registers appear to have been in use from approximately the 1950s to the late 1980s. Subsequent iterations of these records, titled &lsquo;Attendance Roll and Teacher Reports&rsquo;, were introduced in approximately the 1970s, with some overlap of both record types being used throughout the 1980s. Earlier attendance and examination records are subject to further research. &nbsp;<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, including recording attendance, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system. This system provided the means through which digital records capturing similar information could be created. Prior to the mandatory use of CASES21, &lsquo;Attendance Roll and Teacher Reports&rsquo; remained in use.&nbsp;"
+    ],
+    "how_to_use": [
+      "Researchers should search or browse within the series by date and then by class or form."
+    ],
+    "identifier.PID.id": "DD7854F8-745C-11F1-9CAC-E9CB0F6DFE7F",
+    "identifier.PROV_ACM.id": "VPRS 22729",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Attendance Roll and Examination Registers are arranged in chronological order by year and class/form.&nbsp;<br />\r\n<br />\r\nEach student is assigned a &ldquo;consecutive number&rdquo; (a sequential numerical identifier, e.g. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) and a &ldquo;register number&rdquo;. The register number provides access to the student&rsquo;s entry in the school&rsquo;s Pupils&rsquo; Register VPRS 22731.<br />\r\n<br />\r\nThe records in this series have been retained because the summary enrolment / admission record for this school could not be located at time of transfer to PROV and it is not known if they still exist. &nbsp;They provide some information about students that were enrolled at the school, though likely only for some classes or for a particular time period.&nbsp;<br />\r\n<br />\r\nThis series does not include &lsquo;Attendance Rolls&rsquo;, which serve a separate function of recording student attendance only, and did not record student personal information or teacher comments.&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22729",
+    "series_in_custody.date_range": [
+      "1994"
+    ],
+    "series_in_custody.end_dt": [
+      1994
+    ],
+    "series_in_custody.start_dt": [
+      1994
+    ],
+    "start_dt": "1994",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792123941,
+    "title": "Attendance Roll and Examination Registers\r\n"
+  },
+  {
+    "_id": "0DF50D3C-745D-11F1-9CAC-DD4CF30E3802",
+    "_version_": 1879223621303402497,
+    "category": "Series",
+    "citation": "VPRS 22730",
+    "citation_sort": "22730",
+    "contents.date_range": [
+      "[1995 TO 2004]"
+    ],
+    "contents.end_dt": [
+      2004
+    ],
+    "contents.start_dt": [
+      1995
+    ],
+    "creating_agents.creating_agency_id": [
+      5708
+    ],
+    "creating_agents.date_ranges": [
+      "[1995 TO 2004]"
+    ],
+    "creating_agents.end_dt": [
+      2004
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1995
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Neerim District Rural Primary School (School No. 5394)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1995 TO 2004]"
+    ],
+    "end_dt": "2004",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of files documenting student attendance at Neerim District Rural Primary School (School No. 5394) (VA 5708), comprising two primary record types: &lsquo;Class Rolls&rsquo; and the subsequent &rsquo;Attendance Rolls&rsquo;. Both types appear to have been recorded using standardised stationery produced by the Education Department (VA 714) or its successors.<br />\r\n<br />\r\nSchool attendance became mandatory in Victoria in 1873, with the Education Department (VA 714) responsible for regulating attendance. From 1971 this responsibility shifted to the Social Welfare Department (VA 946) before returning to the Ministry of Education and Training (VA 1112) in 1982. Around 1993, the Department of Education (VA 3098) stopped employing regional attendance officers, and the responsibility for regulating attendance shifted to individual schools.<br />\r\n<br />\r\n&lsquo;Class rolls&rsquo; were in use from the 1870s up to at least the 1910s. A class roll was created for each school and was recorded half-yearly, starting 1st January or 1st July respectively. Student names were listed in order by class, with attendance marked twice daily and total attendance recorded for each month and quarter. The rolls also included space for general remarks, where members of the Board of Advice could note their observations during school visits and record the number of children present at the time.<br />\r\n<br />\r\nThe record types used between the discontinuation of class rolls and the introduction of attendance rolls remain subject to further research. &nbsp;<br />\r\n<br />\r\n&lsquo;Attendance rolls&rsquo; appear to have been introduced in the 1960s. These were created for each year level&rsquo;s home group and recorded daily attendance for each month of the school year. They included each student&rsquo;s student number, full name, age as of January 1 of the school year and daily and monthly attendance. A student&rsquo;s attendance was typically marked using the standardised symbols.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system. This system provided the means through which digital records capturing similar information could be created.<br />\r\n<br />\r\nThis series may include &ldquo;Attendance Roll&rdquo; reports from the CASES (or CASES21) database, generated by the school on a certain date. &nbsp;The printed report has been kept where the original born digital record is unlikely to exist or is no longer accessible.<br />\r\n<br />\r\nThis series does not include items titled &lsquo;Attendance Roll and Examination Registers&rsquo; or &lsquo;Attendance Rolls and Teacher Reports&rsquo; which can contain student&rsquo;s personal information such as student address and teacher comments on student competencies and achievements."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series by year to locate a specific date or class of interest. &nbsp;Students are typically listed alphabetically within each class. &nbsp;"
+    ],
+    "identifier.PID.id": "0DF50D3C-745D-11F1-9CAC-DD4CF30E3802",
+    "identifier.PROV_ACM.id": "VPRS 22730",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Attendance Rolls are arranged in chronological order by year and class/form.<br />\r\n<br />\r\nEach student is assigned a &ldquo;consecutive number&rdquo; (a sequential numerical identifier, e.g. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) and a &ldquo;register number&rdquo;. The register number provides access to the student&rsquo;s entry in the school&rsquo;s Pupils&rsquo; Register VPRS 22731.<br />\r\n<br />\r\nThis records in this series have been retained because the summary enrolment / admission record for this school could not be located at time of transfer to PROV and it is not known if they still exist. &nbsp;They provide some information about students that were enrolled at the school, though likely only for some classes or for a particular time period.&nbsp;<br />\r\n<br />\r\nThis series does not include items titled &lsquo;Attendance Roll and Examination Registers&rsquo; or &lsquo;Attendance Rolls and Teacher Reports&rsquo; which can contain student&rsquo;s personal information such as student address and teacher comments on student competencies and achievements."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22730",
+    "series_in_custody.date_range": [
+      "[1995 TO 2004]"
+    ],
+    "series_in_custody.end_dt": [
+      2004
+    ],
+    "series_in_custody.start_dt": [
+      1995
+    ],
+    "start_dt": "1995",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792124917,
+    "title": "Attendance Rolls\r\n"
+  },
+  {
+    "_id": "3E65DEA1-745D-11F1-9CAC-0DB3F57C7CA0",
+    "_version_": 1879223621306548225,
+    "category": "Series",
+    "citation": "VPRS 22731",
+    "citation_sort": "22731",
+    "contents.date_range": [
+      "[1994 TO 1996]"
+    ],
+    "contents.end_dt": [
+      1996
+    ],
+    "contents.start_dt": [
+      1994
+    ],
+    "creating_agents.creating_agency_id": [
+      5708
+    ],
+    "creating_agents.date_ranges": [
+      "[1994 TO 1996]"
+    ],
+    "creating_agents.end_dt": [
+      1996
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1994
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Neerim District Rural Primary School (School No. 5394)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1994 TO 1996]"
+    ],
+    "end_dt": "1996",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Pupils&rsquo; Registers for Neerim District Rural Primary School (School No. 5394) (VA 5708). Pupil registers were a standardised register in which to record student enrolment data, used by all Victorian government primary schools and at times adapted for use at other types of schools.&nbsp;<br />\r\n<br />\r\nThe front cover typically featured titles such as &quot;Pupils&#39; Register State Primary School&quot; or &quot;Register of the Common School,&quot; with space to record the school number and name. Additional instructions on the cover outlined the required information to be recorded in the register.<br />\r\n<br />\r\nThe information entered into the register was typically derived from admission forms completed by parents prior to admission or, in the case of transfers from other government schools, from transfer notes completed by the previous school. While the level of detail listed for students varies, the information recorded may include a registration number (a sequential number assigned upon enrolment at the school); the student&rsquo;s full name and date of birth; date of enrolment; name, residence and occupation of parent or guardian; school last attended (school number and name) with grade and date of last attendance; number of meetings attended (sectioned by year); date, month and year of obtaining Merit Certificate, and Merit Certificate number; date, month, and year of last attendance; and destination of pupil (either the number and name of a school, or nature of occupation, and name and address of employer).<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series to identify dates of interest."
+    ],
+    "identifier.PID.id": "3E65DEA1-745D-11F1-9CAC-0DB3F57C7CA0",
+    "identifier.PROV_ACM.id": "VPRS 22731",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Pupils&rsquo; registers are arranged in numerical order by register number, which is a sequential numerical identifier (eg. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) assigned to each student at the time of their enrolment.<br />\r\n<br />\r\nAn Index to Pupils&rsquo; Register would have also been maintained by the school, to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, however Public Record Office Victoria does not hold the Index to Pupils&rsquo; Register for this school."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22731",
+    "series_in_custody.date_range": [
+      "[1994 TO 1996]"
+    ],
+    "series_in_custody.end_dt": [
+      1996
+    ],
+    "series_in_custody.start_dt": [
+      1994
+    ],
+    "start_dt": "1994",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792125919,
+    "title": "Pupils' Registers\r\n"
   },
   {
     "_id": "A5F4A32B-7900-11F1-9CAC-F39EB759340C",
