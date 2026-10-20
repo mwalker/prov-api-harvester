@@ -87541,13 +87541,13 @@
   },
   {
     "_id": "A4440918-F3AB-11E9-AE98-03D60E768C39",
-    "_version_": 1866996806665109504,
+    "_version_": 1879495412294877189,
     "category": "Agency",
     "citation": "VA 4548",
     "date_range": [
       "[1871 TO 3000]"
     ],
-    "description": null,
+    "description": "Lindenow Primary School (School No. 1120) (VA 4548) is a government primary school located in the township of Lindenow, in the Mitchell River Valley in East Gippsland.<br />\r\n<br />\r\nThe school first opened in 1871 as Lindenow Common School, operating out of a wooden building. The <em>Education Act 1872</em> established the Victorian Education Department (VA 714) and the school became Lindenow State School in the following years.&nbsp;<br />\r\n<br />\r\nA new school building was opened in 1874, in use until 1914 when the school moved to a new building on a new site.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Lindenow Primary School.<br />\r\n<br />\r\nFrom 1994, Woodglen Primary School (School No. 3352) became an annex of Lindenow Primary School. This lasted until 2009 when the two schools were officially merged, retaining the Lindenow Primary School name and number. The Woodglen Primary School site became a sports-only campus of Lindenow.<br />\r\n<br />\r\nAs of 2026, Lindenow Primary School continues to operate.",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -87561,17 +87561,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1871 TO 3000]",
-    "name.official_title.end_dt": "3000",
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": "1871",
+    "name.official_title.start_dt": null,
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Lindenow (Primary School No. 1120; also known as Lindenow Flat)",
+    "name.official_title.title": null,
     "start_dt": "1871",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1780478491,
-    "title": "Lindenow (Primary School No. 1120; also known as Lindenow Flat)"
+    "timestamp": 1792383181,
+    "title": "Lindenow Primary School (School No. 1120; previously known as Lindenow Common School 1871 \u2013 c.1873; Lindenow State School c.1873 \u2013 1970)"
   },
   {
     "_id": "A445DDDA-F3AB-11E9-AE98-173C40F2AE65",
@@ -116866,6 +116866,40 @@
     "title": "Barongarook Primary School (School No. 2210; previously known as Barongarook Forest State School 1879 \u2013 circa 1898; Barongarook East circa 1989 \u2013 circa 1920; Barongarook State School circa 1920 \u2013 circa 1970)"
   },
   {
+    "_id": "9B7FE6AF-DF6B-11EF-80A4-737A3CAE6AFA",
+    "_version_": 1879495412281245697,
+    "category": "Agency",
+    "citation": "VA 5635",
+    "date_range": [
+      "[1915 TO 1994]"
+    ],
+    "description": "Kawarren Primary School (School No. 3894) (VA 5635) was a small rural primary school located along the Great Ocean Road, in the Otway Ranges west of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1915 as Kawarren State School, worked half-time with Charley&rsquo;s Creek State School (School No. 3763) out of a leased building. It became a full-time school in 1919 when Charley&rsquo;s Creek State School closed. The leased building was destroyed by fire in 1939, and was later replaced by a new building by the Education Department (VA 714).<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Kawarren Primary School.&nbsp;<br />\r\n<br />\r\nIn 1994, Kawarren Primary School closed and merged with Lavers Hill Consolidated School (School No. 6231), Barongarook Primary School (School No. 2210) (VA 5634) and Gellibrand Primary School (School No. 2740) (VA 5591) to form Lavers Hill P-12 College. The newly merged school retained the entity number 6231 and operated as a four-site school under a single principal and school council. The Kawarren campus closed in 2008, and the school buildings became subsequently maintained by the local community as Echidna House, a function space adjacent to Kawarren Recreation Reserve.",
+    "end_dt": "1994",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "9B7FE6AF-DF6B-11EF-80A4-737A3CAE6AFA",
+    "identifier.PROV_ACM.id": "VA 5635",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1915",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792382952,
+    "title": "Kawarren Primary School (School No. 3894; previously known as Kawarren State School 1915 \u2013 c.1970)"
+  },
+  {
     "_id": "AE4B2660-DF6B-11EF-80A4-B5BC9DFB1EAD",
     "_version_": 1872160832166559745,
     "category": "Agency",
@@ -120231,7 +120265,7 @@
   },
   {
     "_id": "2A600EA5-816A-11F0-8856-0FEF5F21BFC5",
-    "_version_": 1875965904934666245,
+    "_version_": 1879495412347305984,
     "category": "Agency",
     "citation": "VA 5752",
     "date_range": [
@@ -120251,16 +120285,16 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": null,
-    "name.official_title.end_dt": null,
+    "name.official_title.date_range": "[1990 TO 3000]",
+    "name.official_title.end_dt": "3000",
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": null,
+    "name.official_title.start_dt": "1990",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": null,
+    "name.official_title.title": "Vermont Secondary College (School No. 8420)",
     "start_dt": "1962",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788930918,
+    "timestamp": 1792410154,
     "title": "Vermont Secondary College (School No. 8420; previously known as Vermont High School 1962 \u2013 1990)"
   },
   {
@@ -120804,6 +120838,40 @@
     "status": "Published",
     "timestamp": 1789014918,
     "title": "Mount Pleasant Road Nunawading Primary School (School No. 4808; previously known as Nunawading South Primary School 1958 \u2013 1970; Nunawading South Primary School 1970 \u2013 2005; also known as Mount Pleasant Road Primary School)"
+  },
+  {
+    "_id": "6668CF5A-BDF4-11F0-8856-4161F8E75E1C",
+    "_version_": 1879495412274954240,
+    "category": "Agency",
+    "citation": "VA 5772",
+    "date_range": [
+      "[1873 TO 1967]"
+    ],
+    "description": "Northwood State School (School No. 1219) (VA 5772) was a small government primary school located near Seymour, north-west of Melbourne. It first opened in 1873, closing in 1952 before reopening in 1957.&nbsp;<br />\r\n<br />\r\nNorthwood State School closed for the final time in 1967.",
+    "end_dt": "1967",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "6668CF5A-BDF4-11F0-8856-4161F8E75E1C",
+    "identifier.PROV_ACM.id": "VA 5772",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1873",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792382504,
+    "title": "Northwood State School (School No. 1219)"
   },
   {
     "_id": "7108B06B-BDF4-11F0-8856-F95F9211859D",
@@ -121826,6 +121894,40 @@
     "title": "Essendon High School (School No. 7815; previously known as Essendon Higher Elementary School 1913 - 1914)"
   },
   {
+    "_id": "8BA5F44F-15C7-11F1-8856-A99A51670B94",
+    "_version_": 1879495412294877190,
+    "category": "Agency",
+    "citation": "VA 5815",
+    "date_range": [
+      "[1872 TO 3000]"
+    ],
+    "description": "Yackandandah Primary School (School No. 1103) (VA 5815) is a government primary school located in Yackandandah, between Beechworth and Wodonga in north-east Victoria.<br />\r\n<br />\r\nThe school first opened in 1872 as Yackandandah Common School, replacing the existing Yackandandah Church of England School (School No. 694) which had operated since 1855. A new brick school building was erected adjacent to the previous school site.&nbsp;<br />\r\n<br />\r\nThe <em>Education Act 1872</em> established the Victorian Education Department (VA 714) which marked further changes, with the school becoming Yackandandah State School. Additional rooms were added to the school site over the years.<br />\r\n<br />\r\nFrom 1942 to the end of the war, the Royal Australian Air Force used the head teacher&rsquo;s office as a control room for the Air Observation Corps, who were based at Wangaratta.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Yackandandah Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Yackandandah Primary School continues to operate.<br />\r\n<br />\r\nYackandandah Primary School (School No. 1103) should not be confused with Yackandandah National School (School No. 692; also known as Yackandandah Junction), which operated from 1861 to 1891, or Yackandandah Church of England School (School No. 694), which operated from 1855 to 1872.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "8BA5F44F-15C7-11F1-8856-A99A51670B94",
+    "identifier.PROV_ACM.id": "VA 5815",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1872",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792383188,
+    "title": "Yackandandah Primary School (School No. 1103; previously known as Yackandandah Common School 1872 \u2013 c.1873; Yackandandah State School c.1873 - 1970)"
+  },
+  {
     "_id": "969D893E-1C3F-11F1-8856-F140B1B1A3BC",
     "_version_": 1868808745482452992,
     "category": "Agency",
@@ -121892,6 +121994,108 @@
     "status": "Published",
     "timestamp": 1775572193,
     "title": "Cassilis Courts"
+  },
+  {
+    "_id": "FFCAF85D-2BDB-11F1-8856-632296550FD9",
+    "_version_": 1879495412292780040,
+    "category": "Agency",
+    "citation": "VA 5819",
+    "date_range": [
+      "[1878 TO 3000]"
+    ],
+    "description": "Little Bendigo Primary School (School No. 2093) (VA 5819) is a government primary school located in the Nerrina township, 5 kilometres from the centre of Ballarat. The name Little Bendigo referred to the gold diggings of the same name established in 1851.<br />\r\n<br />\r\nThe school first opened in 1878 as Little Bendigo State School, replacing the existing Little Bendigo Church of England School (School No. 374) which had operated since 1858. A new brick school building was erected.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Little Bendigo Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Little Bendigo Primary School continues to operate.<br />\r\n<br />\r\nLittle Bendigo Primary School (School No. 2093) should not be confused with Little Bendigo Church of England School (School No. 379), which operated from 1858 to 1878.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "FFCAF85D-2BDB-11F1-8856-632296550FD9",
+    "identifier.PROV_ACM.id": "VA 5819",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1878",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792383171,
+    "title": "Little Bendigo Primary School (School No. 2093; previously known as Little Bendigo State School 1878 - 1970)"
+  },
+  {
+    "_id": "0A71691E-2BDC-11F1-8856-5DD080ADCEAB",
+    "_version_": 1879495412291731464,
+    "category": "Agency",
+    "citation": "VA 5820",
+    "date_range": [
+      "[1994 TO 3000]"
+    ],
+    "description": "Canadian Lead Primary School (School No. 5383) (VA 5820) is a government primary school located in Ballarat East, approximately 3 kilometres from the centre of Ballarat.<br />\r\n<br />\r\nThe school was formed in 1994 as the result of a merger between 3 local primary schools: Ballarat Primary School (School No. 4981) (VA 3811), Eureka Primary School (School No. 1071) (VA 3834) and Golden Point Primary School (School No. 1493) (VA 3839).&nbsp;<br />\r\n<br />\r\nIt initially operated from campuses on the former Eureka and Ballarat Primary School sites, until it moved to a newly built school in Otway Street South in 1997.<br />\r\n<br />\r\nAs of 2026, Canadian Lead Primary School continues to operate.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "0A71691E-2BDC-11F1-8856-5DD080ADCEAB",
+    "identifier.PROV_ACM.id": "VA 5820",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1994",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792383163,
+    "title": "Canadian Lead Primary School (School No. 5383)"
+  },
+  {
+    "_id": "1306FB3F-2BDC-11F1-8856-FB97444CF4B2",
+    "_version_": 1879495412286488577,
+    "category": "Agency",
+    "citation": "VA 5821",
+    "date_range": [
+      "[1858 TO 3000]"
+    ],
+    "description": "Warrnambool West Primary School (School No. 182) (VA 5821) is a government primary school located in Warrnambool, on the southwest coast of Victoria.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1858 as Dennington National School on a site near the Merri River. In 1862, through the <em>Common Schools Act</em>, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). &nbsp;With the passing of this act, the school was re-named Dennington Common School and was given the number 182. The <em>Education Act 1872</em> established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Dennington State School. &nbsp;<br />\r\n<br />\r\nIn 1914, Dennington State School moved to a two-room building on a new site, though this burnt down in 1928 and was replaced the following year.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Dennington Primary School.&nbsp;<br />\r\n<br />\r\nIn 1997, Dennington Primary School (School No. 182) merged with Warrnambool West Primary School (School No. 4899) (VA 5835). The new school took the name Warrnambool West Primary School but retained the entity number of 182. It may have initially operated across the two sites as a two-campus school but consolidated on the Warrnambool West site on Hoddle Street by 2003. The Dennington school site was closed.<br />\r\n<br />\r\nAs of 2026, Warrnambool West Primary School continues to operate.<br />\r\n<br />\r\nWarrnambool West Primary School (School No. 182) should not be confused with Warrnambool West Primary School (School No. 4899), which operated from 1966 until the merger with School No. 182 at the end of 1996.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "1306FB3F-2BDC-11F1-8856-FB97444CF4B2",
+    "identifier.PROV_ACM.id": "VA 5821",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1858",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792383079,
+    "title": "Warrnambool West Primary School (School No. 182; previously known as Dennington National School 1858 \u2013 1862; Dennington Common School 1862 \u2013 c.1873; Dennington State School c.1873 \u2013 c.1970; Dennington Primary School c.1970 \u2013 1996)"
   },
   {
     "_id": "64472646-33CE-11F1-8856-9BE19476B942",
@@ -121994,6 +122198,40 @@
     "status": "Published",
     "timestamp": 1791845491,
     "title": "Canadian Rescue and Children\u2019s Home (also known as the Mission Rescue and Children\u2019s Home, Canadian)"
+  },
+  {
+    "_id": "1B868750-393F-11F1-8856-5F333C3FC9BE",
+    "_version_": 1879495412288585728,
+    "category": "Agency",
+    "citation": "VA 5835",
+    "date_range": [
+      "[1966 TO 1996]"
+    ],
+    "description": "Warrnambool West Primary School (School No. 4899) (VA 5835) was a government primary school located in Warrnambool, on the southwest coast of Victoria.<br />\r\n<br />\r\nThe school first opened in 1966 as Warrnambool West State School, out of a newly built eight-room school building. In 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Warrnambool West Primary School.<br />\r\n<br />\r\nIn 1997, Warrnambool West Primary School (School No. 4899) was closed and merged with Dennington Primary School (School No. 182) (VA 5821). The new school took the name Warrnambool West Primary School but retained the entity number of 182. It may have initially operated across the two sites as a two-campus school but consolidated on the Warrnambool West site on Hoddle Street by 2003. The Dennington school site was closed.<br />\r\n<br />\r\nWarrnambool West Primary School (School No. 4899) should not be confused with Warrnambool West Primary School (School No. 182), which became known as Warrnambool West following the merger between the two schools at the end of 1996.",
+    "end_dt": "1996",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "1B868750-393F-11F1-8856-5F333C3FC9BE",
+    "identifier.PROV_ACM.id": "VA 5835",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1966",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792383110,
+    "title": "Warrnambool West Primary School (School No. 4899; previously known as Warrnambool West State School 1966 \u2013 c.1970)"
   },
   {
     "_id": "8572C079-5EF3-11F1-8856-E30B58741761",
