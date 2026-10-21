@@ -107399,7 +107399,7 @@
   },
   {
     "_id": "B000096D-55E8-11EE-BADD-5596A5F79591",
-    "_version_": 1839092942647590912,
+    "_version_": 1879586009215139857,
     "category": "Agency",
     "citation": "VA 5298",
     "date_range": [
@@ -107419,16 +107419,16 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1753 TO 3000]",
-    "name.official_title.end_dt": "3000",
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": "1753",
+    "name.official_title.start_dt": null,
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Belmont Primary School (School No. 26; previously known as Belmont National School 1856 - 1863; Belmont Common School 1863 - 1872; Belmont State School 1873 - 1970)",
+    "name.official_title.title": null,
     "start_dt": "1856",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857952,
+    "timestamp": 1792472725,
     "title": "Belmont Primary School (School No. 26; previously known as Belmont National School 1856 - 1863; Belmont Common School 1863 - 1872; Belmont State School 1873 - 1970)"
   },
   {
@@ -120605,7 +120605,7 @@
   },
   {
     "_id": "05913FD3-A26F-11F0-8856-09E5FBA3EF93",
-    "_version_": 1875965905009115136,
+    "_version_": 1879586009221431296,
     "category": "Agency",
     "citation": "VA 5764",
     "date_range": [
@@ -120634,7 +120634,7 @@
     "start_dt": "1959",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788999483,
+    "timestamp": 1792472822,
     "title": "Tullamarine Primary School (School No. 4852; previously known as Tullamarine State School 1959 - 1970)"
   },
   {
