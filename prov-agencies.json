@@ -69113,13 +69113,13 @@
   },
   {
     "_id": "4594886F-F3AB-11E9-AE98-BB5CFB10100E",
-    "_version_": 1839092942314143744,
+    "_version_": 1879676606307368960,
     "category": "Agency",
     "citation": "VA 3928",
     "date_range": [
       "[1963 TO 1993]"
     ],
-    "description": "<p style=\"margin-bottom:0cm; margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:black\">Heatherdale Primary School (School No. 4904) (VA 3928) was a coeducational government school located in Mitcham, approximately 20 kilometres east of Melbourne&rsquo;s central business district. The school was </span>opened in February 1963 on the corner of Purches and Good Governs Streets,&nbsp;in a newly built brick building with sixteen classrooms. By 1972, there were 21 members of staff and 600 children enrolled.</span></span></span></p>\r\n\r\n<p style=\"margin-bottom:0cm; margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">During the following decades, declining enrolments led to the merger of Heatherdale with Verdale Primary School (No. 4987) on 17 December 1993, on the Verdale site. The merged school was renamed Rangeview Primary School (School No. 5431).&nbsp;Rangeview Primary School&nbsp;(School No. 5431) was still in operation as of 2024.</span></span></span></p>\r\n\r\n<p style=\"margin-bottom:0cm; margin:0cm 0cm 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:Calibri,sans-serif\">The Heatherdale school site was sold and developed into the Patrick Court housing estate. </span></span></span></p>\r\n",
+    "description": "<p style=\"margin-bottom:0cm; margin:0cm 0cm 8pt\">Heatherdale Primary School (School No. 4904) (VA 3928) was a coeducational government school located in Mitcham, approximately 20 kilometres east of Melbourne&rsquo;s central business district. The school was opened in February 1963 on the corner of Purches and Good Governs Streets,&nbsp;in a newly built brick building with sixteen classrooms. By 1972, there were 21 members of staff and 600 children enrolled.<br />\r\n<br />\r\nDuring the following decades, declining enrolments led to the merger of Heatherdale with Verdale Primary School (No. 4987) on 17 December 1993, on the Verdale site. The merged school was renamed Rangeview Primary School (School No. 5431).&nbsp;Rangeview Primary School&nbsp;(School No. 5431) was still in operation as of 2024.<br />\r\n<br />\r\nThe Heatherdale school site was sold and developed into the Patrick Court housing estate.</p>\r\n",
     "end_dt": "1993",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -69142,8 +69142,8 @@
     "start_dt": "1963",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857936,
-    "title": "Heatherdale Primary School (School No. 4904, previously known as Heatherdale State School (1963 \u2013 c.1970)"
+    "timestamp": 1792543415,
+    "title": "Heatherdale Primary School (School No. 4904; previously known as Heatherdale State School 1963 \u2013 c.1970)"
   },
   {
     "_id": "45968441-F3AB-11E9-AE98-436008A4BE45",
@@ -116867,7 +116867,7 @@
   },
   {
     "_id": "9B7FE6AF-DF6B-11EF-80A4-737A3CAE6AFA",
-    "_version_": 1879495412281245697,
+    "_version_": 1879676606350360576,
     "category": "Agency",
     "citation": "VA 5635",
     "date_range": [
@@ -116896,7 +116896,7 @@
     "start_dt": "1915",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1792382952,
+    "timestamp": 1792579088,
     "title": "Kawarren Primary School (School No. 3894; previously known as Kawarren State School 1915 \u2013 c.1970)"
   },
   {
@@ -120841,7 +120841,7 @@
   },
   {
     "_id": "6668CF5A-BDF4-11F0-8856-4161F8E75E1C",
-    "_version_": 1879495412274954240,
+    "_version_": 1879676606349312001,
     "category": "Agency",
     "citation": "VA 5772",
     "date_range": [
@@ -120870,7 +120870,7 @@
     "start_dt": "1873",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1792382504,
+    "timestamp": 1792579081,
     "title": "Northwood State School (School No. 1219)"
   },
   {
@@ -121111,7 +121111,7 @@
   },
   {
     "_id": "11F7A5AE-C97E-11F0-8856-231F0B395A4A",
-    "_version_": 1875965905722146816,
+    "_version_": 1879676606351409152,
     "category": "Agency",
     "citation": "VA 5781",
     "date_range": [
@@ -121140,7 +121140,7 @@
     "start_dt": "1887",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1789033107,
+    "timestamp": 1792579096,
     "title": "Merri-bek Primary School (School No. 2837; previously known as Moreland State School 1887 \u2013 1970; Moreland Primary School 1970 - 2023)"
   },
   {
