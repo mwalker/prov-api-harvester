@@ -21963,7 +21963,7 @@
   },
   {
     "_id": "A4793B1F-F1AF-11E9-AE98-FF88C27B2E81",
-    "_version_": 1879676606331486208,
+    "_version_": 1879767203519135744,
     "category": "Consignment",
     "citation": "VPRS 267/P0002",
     "citation_sort": "0000VPRS 267/P0002",
@@ -22008,7 +22008,7 @@
       "Civil Case Files"
     ],
     "quantity": [
-      425780
+      425779
     ],
     "rights_status": [
       "Open",
@@ -22017,7 +22017,7 @@
     "start_dt": "1920",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1792555732,
+    "timestamp": 1792678339,
     "title": "Consignment 267/P0002"
   },
   {
@@ -895258,7 +895258,7 @@
   },
   {
     "_id": "0CA42506-F1B1-11E9-AE98-A339EA91120F",
-    "_version_": 1816040201471918081,
+    "_version_": 1879767203521232896,
     "category": "Consignment",
     "citation": "VPRS 12024/P0004",
     "citation_sort": "0000VPRS 12024/P0004",
@@ -895311,7 +895311,7 @@
     "start_dt": "1957",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614300621,
+    "timestamp": 1792681627,
     "title": "Consignment 12024/P0004"
   },
   {
@@ -980475,7 +980475,7 @@
   },
   {
     "_id": "339244F0-F1B1-11E9-AE98-6FECC2812290",
-    "_version_": 1816040203153833984,
+    "_version_": 1879767203515990016,
     "category": "Consignment",
     "citation": "VPRS 13033/P0004",
     "citation_sort": "0000VPRS 13033/P0004",
@@ -980528,7 +980528,7 @@
     "start_dt": "1948",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614300808,
+    "timestamp": 1792669887,
     "title": "Consignment 13033/P0004"
   },
   {
@@ -1120841,7 +1120841,7 @@
   },
   {
     "_id": "6FA7485B-F1B1-11E9-AE98-E304D6E7460A",
-    "_version_": 1816040209507155968,
+    "_version_": 1879767203538010112,
     "category": "Consignment",
     "citation": "VPRS 15145/P0001",
     "citation_sort": "0000VPRS 15145/P0001",
@@ -1120874,7 +1120874,7 @@
       "VPRS15145"
     ],
     "is_part_of_series.title": [
-      "Supreme Court Civil Case Files"
+      "Supreme Court Civil Case Files, Warrnambool"
     ],
     "location": [
       "North Melbourne"
@@ -1120883,10 +1120883,10 @@
       "VPRS15145"
     ],
     "parents.titles": [
-      "Supreme Court Civil Case Files"
+      "Supreme Court Civil Case Files, Warrnambool"
     ],
     "quantity": [
-      1493
+      1549
     ],
     "rights_status": [
       "Open"
@@ -1120894,7 +1120894,7 @@
     "start_dt": "1953",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614301372,
+    "timestamp": 1792681656,
     "title": "Consignment 15145/P0001"
   },
   {

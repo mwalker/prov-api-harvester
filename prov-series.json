@@ -401681,7 +401681,7 @@
   },
   {
     "_id": "8CDC92BC-F1AE-11E9-AE98-0FA1B5501BFD",
-    "_version_": 1879223621295013888,
+    "_version_": 1879767203596730368,
     "category": "Series",
     "citation": "VPRS 5325",
     "citation_sort": "05325",
@@ -401767,12 +401767,12 @@
     "start_dt": "1976",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1792122632,
+    "timestamp": 1792681968,
     "title": "Youth Parole Board Decisions"
   },
   {
     "_id": "8CDDF24D-F1AE-11E9-AE98-8DEA205C70A8",
-    "_version_": 1879223621292916739,
+    "_version_": 1879767203600924672,
     "category": "Series",
     "citation": "VPRS 5326",
     "citation_sort": "05326",
@@ -401858,7 +401858,7 @@
     "start_dt": "1977",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1792122606,
+    "timestamp": 1792681986,
     "title": "Adult Parole Board Decisions"
   },
   {
@@ -818960,7 +818960,7 @@
   },
   {
     "_id": "ED5A6B0B-F1AE-11E9-AE98-F9A93449B12B",
-    "_version_": 1879223621290819603,
+    "_version_": 1879767203603021824,
     "category": "Series",
     "citation": "VPRS 10130",
     "citation_sort": "10130",
@@ -819029,7 +819029,7 @@
     "responsible_agents.start_dt_qual": null,
     "responsible_agents.title": null,
     "rights_status": [
-      "Open"
+      "Closed"
     ],
     "series_id": "10130",
     "series_in_custody.date_range": [
@@ -819044,7 +819044,7 @@
     "start_dt": "1963",
     "start_dt_qual": "?",
     "status": "Published",
-    "timestamp": 1792119927,
+    "timestamp": 1792682001,
     "title": "Parole Board Decisions"
   },
   {
