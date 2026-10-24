@@ -122098,6 +122098,40 @@
     "title": "Warrnambool West Primary School (School No. 182; previously known as Dennington National School 1858 \u2013 1862; Dennington Common School 1862 \u2013 c.1873; Dennington State School c.1873 \u2013 c.1970; Dennington Primary School c.1970 \u2013 1996)"
   },
   {
+    "_id": "1B49D980-2BDC-11F1-8856-F777C2214095",
+    "_version_": 1879857816946081792,
+    "category": "Agency",
+    "citation": "VA 5822",
+    "date_range": [
+      "[1965 TO 3000]"
+    ],
+    "description": "Stawell West Primary School (School No. 4934) (VA 5822) is a small government primary school located in the regional township of Stawell, in western Victoria.<br />\r\n<br />\r\nThe school first opened as an annexe to Stawell State School (School No. 502) in 1962, before establishing itself as a separate school in 1965 called Stawell West State School.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Stawell West Primary School.<br />\r\n<br />\r\nAs of 2026, Stawell West Primary School continues to operate.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "1B49D980-2BDC-11F1-8856-F777C2214095",
+    "identifier.PROV_ACM.id": "VA 5822",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1965 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1965",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Stawell West Primary School (School No. 4934; previously known as Stawell West State School 1965 \u2013 c.1970)",
+    "start_dt": "1965",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792770806,
+    "title": "Stawell West Primary School (School No. 4934; previously known as Stawell West State School 1965 \u2013 c.1970)"
+  },
+  {
     "_id": "64472646-33CE-11F1-8856-9BE19476B942",
     "_version_": 1878861233675829254,
     "category": "Agency",
@@ -122198,6 +122232,40 @@
     "status": "Published",
     "timestamp": 1791845491,
     "title": "Canadian Rescue and Children\u2019s Home (also known as the Mission Rescue and Children\u2019s Home, Canadian)"
+  },
+  {
+    "_id": "0616B47E-393F-11F1-8856-C99E522CE9FE",
+    "_version_": 1879857816945033216,
+    "category": "Agency",
+    "citation": "VA 5833",
+    "date_range": [
+      "[1854 TO 3000]"
+    ],
+    "description": "South Yarra Primary School (School No. 583) (VA 5833) is a government primary school located within the City of Melbourne, 5 kilometres south of Melbourne CBD.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1854 as the South Melbourne Free Church School, out of a school building also used as a church. The Education Act 1872 established the Victorian Education Department (VA 714) and introduced free, compulsory and secular schooling for Victorian children. The school became South Yarra State School at this time and in 1877 a new brick school building was erected.<br />\r\n<br />\r\nIn 1924, South Yarra State School was significantly remodelled. Classes were held off-site in the Punt Road Drill Hall for the duration, and a number of school records were lost at this time. In 1946, the school was almost completely destroyed by fire. Students attended classes at Prahran State School (School No. 2855) (VA 3431) and Hawksburn State School (School No. 1467) (VA 3593) until a new school building was opened in 1948.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to South Yarra Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, South Yarra Primary School continues to operate.<br />\r\n<br />\r\nSouth Yarra Primary School (School No. 583) should not be confused with South Yarra Christ Church School (School No. 605) which operated from 1858 to 1863.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "0616B47E-393F-11F1-8856-C99E522CE9FE",
+    "identifier.PROV_ACM.id": "VA 5833",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1854",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792770788,
+    "title": "South Yarra Primary School (School No. 583; previously known as South Melbourne Free Church School 1854 \u2013 c.1873; South Yarra State School c.1873 - 1970)"
   },
   {
     "_id": "1B868750-393F-11F1-8856-5F333C3FC9BE",

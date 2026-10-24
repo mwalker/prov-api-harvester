@@ -2562,7 +2562,7 @@
   },
   {
     "_id": "D7BCED99-F1AD-11E9-AE98-E55329708690",
-    "_version_": 1816061752884854784,
+    "_version_": 1879857816640946176,
     "category": "Function",
     "citation": "VF 125",
     "date_range": [
@@ -2593,7 +2593,7 @@
     ],
     "start_dt": "1753",
     "status": "Published",
-    "timestamp": 1686648712,
+    "timestamp": 1792768991,
     "title": "Health, public",
     "use_for": "<br/>Control and prevention of infectious and contagious disease<br/>Regulation of common lodging houses<br/>Vaccination<br/>Pollution control<br/>Inspection of public buildings<br/>Provision of hospital and community health centre services<br/>"
   },
