@@ -1681754,7 +1681754,7 @@
   },
   {
     "_id": "064D7CA4-88BA-11EE-BADD-9D6C6A803EAE",
-    "_version_": 1833294733681623040,
+    "_version_": 1880129590441017344,
     "category": "Series",
     "citation": "VPRS 19672",
     "citation_sort": "19672",
@@ -1681771,26 +1681771,26 @@
       5311
     ],
     "creating_agents.date_ranges": [
-      "1980"
+      "[1980 TO 2005]"
     ],
     "creating_agents.end_dt": [
-      1980
+      2005
     ],
     "creating_agents.end_dt_qual": null,
     "creating_agents.start_dt": [
       1980
     ],
     "creating_agents.start_dt_qual": [
-      "C."
+      "circa"
     ],
     "creating_agents.title": [
       "Victorian College for the Deaf (School No. 3774; previously known as School for the Deaf and Dumb 1860-1866; Victorian Deaf and Dumb Institution 1866-1949; Victorian School for Deaf Children 1949-1995)"
     ],
     "date_descriptor": null,
     "date_range": [
-      "1980"
+      "[1980 TO 2005]"
     ],
-    "end_dt": "1980",
+    "end_dt": "2005",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -1681851,9 +1681851,9 @@
       1980
     ],
     "start_dt": "1980",
-    "start_dt_qual": "C.",
+    "start_dt_qual": "circa",
     "status": "Published",
-    "timestamp": 1748310985,
+    "timestamp": 1792996219,
     "title": "School Policies"
   },
   {
@@ -1808929,7 +1808929,7 @@
   },
   {
     "_id": "340B4F3D-BB32-11EF-80A4-C5F99C25A1DD",
-    "_version_": 1848783040653819905,
+    "_version_": 1880129590427385857,
     "category": "Series",
     "citation": "VPRS 20978",
     "citation_sort": "20978",
@@ -1808942,13 +1808942,23 @@
     "contents.start_dt": [
       2001
     ],
-    "creating_agents.creating_agency_id": null,
-    "creating_agents.date_ranges": null,
-    "creating_agents.end_dt": null,
+    "creating_agents.creating_agency_id": [
+      5576
+    ],
+    "creating_agents.date_ranges": [
+      "[2001 TO 2004]"
+    ],
+    "creating_agents.end_dt": [
+      2004
+    ],
     "creating_agents.end_dt_qual": null,
-    "creating_agents.start_dt": null,
+    "creating_agents.start_dt": [
+      2001
+    ],
     "creating_agents.start_dt_qual": null,
-    "creating_agents.title": null,
+    "creating_agents.title": [
+      "Heathmont East Primary School (School No. 4819)"
+    ],
     "date_descriptor": null,
     "date_range": [
       "[2001 TO 2004]"
@@ -1809016,7 +1809026,7 @@
     "start_dt": "2001",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1763094773,
+    "timestamp": 1792979967,
     "title": "School Charters"
   },
   {
@@ -1929530,6 +1929540,514 @@
     "status": "Published",
     "timestamp": 1792383154,
     "title": "School Council Papers"
+  },
+  {
+    "_id": "BE4BEC38-1C1A-11F1-8856-8D4092F19318",
+    "_version_": 1880129590451503104,
+    "category": "Series",
+    "citation": "VPRS 22428",
+    "citation_sort": "22428",
+    "contents.date_range": [
+      "[1926 TO 1982]"
+    ],
+    "contents.end_dt": [
+      1982
+    ],
+    "contents.start_dt": [
+      1926
+    ],
+    "creating_agents.creating_agency_id": [
+      5808
+    ],
+    "creating_agents.date_ranges": [
+      "[1926 TO 1982]"
+    ],
+    "creating_agents.end_dt": [
+      1982
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1926
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Yea Primary School (School No. 699; previously known as Yea School 1860 \u2013 c.1873; Yea State School c.1873 \u2013 1970; also known as Yea Higher Elementary School 1923 - 1960)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1926 TO 1982]"
+    ],
+    "end_dt": "1982",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of Inspector&#39;s Report Books which provide a detailed examination of the school building and grounds, student activities and teaching as observed by the Inspector at the time of their visit to Yea Primary School (School No. 699) (VA 5808).<br />\r\n<br />\r\nSchool Inspectors reported on teacher, student, and school performance and the implementation of Department policies at Victorian government schools from 1852 until 1984. Outside of their advisory and assessment duties, District Inspectors oversaw fielding, investigating and responding to complaints and concerns regarding teachers.&nbsp;<br />\r\n<br />\r\nInspectors, collectively known as the Inspectorate, were first appointed following a Report from the Select Committee on Education in 1852, and from 1853 were directly accountable to the National Board of Commissioners. From 1862, they were appointed by the Board of Education (VA 713), and from then until 1904 were accountable to the Board and its successors.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984 after which greater accountability was given to school councils and principals. &nbsp;<br />\r\n<br />\r\nThe Inspector&rsquo;s Report Book were issued to all schools by the Education Department (VA 714) and its successors. The Inspectors recorded the school number, date and time of visit, comments, and signed the books. Some books also contain official Departmental receipts for donations collected from the head teacher for textbooks.<br />\r\n<br />\r\nReports were created by Departmental Inspectors during annual and supplementary visits to government schools. Inspections (and comments) were made regarding the number of pupils present and their general appearance, the condition of the school grounds, buildings, furniture and recordkeeping, school organisation, standard of instruction, time and discipline, teacher accommodation and audits of the sale of textbooks supplied by the Education Department. Background knowledge about individual school management and routines was provided by the local community to the Inspector. During the &lsquo;payment by results&rsquo; system adopted in Victoria from 1864 &ndash; 1904, Inspectors also conducted regular examinations of pupils to assess the teacher&rsquo;s eligibility for bonus pay.<br />\r\n<br />\r\nInspection reports were prepared and forwarded to central officials, where the material was aggregated and presented in an annual report to parliament (See Original Papers Tabled in the Legislative Assembly, VPRS 3253). Edited summaries were made available for publishing in daily newspapers.<br />\r\n<br />\r\nIn the new decentralised model after 1984, regional directors were to oversee the new accountability measures administered by the schools, and the principal assumed greater authority for decision-making in all aspects of school operations and in this sense, assumed many of the duties of former inspectors. Many of these decisions can be found recorded in the school&rsquo;s annual report, or the minutes of the meetings of the school council.&nbsp;"
+    ],
+    "how_to_use": [
+      "Browse the volume for the relevant information."
+    ],
+    "identifier.PID.id": "BE4BEC38-1C1A-11F1-8856-8D4092F19318",
+    "identifier.PROV_ACM.id": "VPRS 22428",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Reports within the books are made sequentially in date order. Books are labelled with the school name and number, and often the date range covered within.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22428",
+    "series_in_custody.date_range": [
+      "[1926 TO 1982]"
+    ],
+    "series_in_custody.end_dt": [
+      1982
+    ],
+    "series_in_custody.start_dt": [
+      1926
+    ],
+    "start_dt": "1926",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793009821,
+    "title": "Inspector's Report Books"
+  },
+  {
+    "_id": "14D1469A-1C1B-11F1-8856-E9A907ECFB97",
+    "_version_": 1880129590449405952,
+    "category": "Series",
+    "citation": "VPRS 22429",
+    "citation_sort": "22429",
+    "contents.date_range": [
+      "[1974 TO 1984]"
+    ],
+    "contents.end_dt": [
+      1984
+    ],
+    "contents.start_dt": [
+      1974
+    ],
+    "creating_agents.creating_agency_id": [
+      5808
+    ],
+    "creating_agents.date_ranges": [
+      "[1974 TO 1984]"
+    ],
+    "creating_agents.end_dt": [
+      1984
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1974
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Yea Primary School (School No. 699; previously known as Yea School 1860 \u2013 c.1873; Yea State School c.1873 \u2013 1970; also known as Yea Higher Elementary School 1923 - 1960)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1974 TO 1984]"
+    ],
+    "end_dt": "1984",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises the Index to Pupils&rsquo; Registers for Yea Primary School (School No. 699) (VA 5808), maintained by Victorian government primary schools to facilitate the identification of students recorded in the Pupils&rsquo; Register. Both the Index to Pupils&rsquo; Register and the Pupils&rsquo; Register were standardized templates provided to schools by the Education Department (VA 714) and its successors.<br />\r\n<br />\r\nThe Pupils&rsquo; Register recorded student enrolment data and was arranged in numerical order by student registration number and date of admission. The register was used by all Victorian government primary schools and at times adapted for use at other types of schools.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the Index to locate the last name of the record of interest. Next to the name will be the student registration number to refer to in the related VPRS 22427 Pupils&rsquo; Register.&nbsp;"
+    ],
+    "identifier.PID.id": "14D1469A-1C1B-11F1-8856-E9A907ECFB97",
+    "identifier.PROV_ACM.id": "VPRS 22429",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records in this series were created to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, see VPRS 22427 Pupils&rsquo; Register.&nbsp;<br />\r\n<br />\r\nVolumes are arranged alphabetically and record the child&#39;s surname, first initial, and the registration number given to them upon admission to the school."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22429",
+    "series_in_custody.date_range": [
+      "[1974 TO 1984]"
+    ],
+    "series_in_custody.end_dt": [
+      1984
+    ],
+    "series_in_custody.start_dt": [
+      1974
+    ],
+    "start_dt": "1974",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793008876,
+    "title": "Index to Pupils' Registers"
+  },
+  {
+    "_id": "44F7053C-1C1B-11F1-8856-31C4B6168834",
+    "_version_": 1880129590447308800,
+    "category": "Series",
+    "citation": "VPRS 22430",
+    "citation_sort": "22430",
+    "contents.date_range": [
+      "[1995 TO 2000]"
+    ],
+    "contents.end_dt": [
+      2000
+    ],
+    "contents.start_dt": [
+      1995
+    ],
+    "creating_agents.creating_agency_id": [
+      5808
+    ],
+    "creating_agents.date_ranges": [
+      "[1995 TO 2000]"
+    ],
+    "creating_agents.end_dt": [
+      2000
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1995
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Yea Primary School (School No. 699; previously known as Yea School 1860 \u2013 c.1873; Yea State School c.1873 \u2013 1970; also known as Yea Higher Elementary School 1923 - 1960)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1995 TO 2000]"
+    ],
+    "end_dt": "2000",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises printed lists or database printouts compiled into a file, documenting students who were enrolled in class at Yea Primary School (School No. 699) (VA 5808). &nbsp;<br />\r\n<br />\r\nEach class list typically includes details such as the year or date, school name, home group, student name and registration number. Some lists may also include additional details such as gender and levels of academic achievement in areas such as reading, speaking and listening, writing, measurement, and numeracy.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system. This system provided the means through which digital records capturing similar information could be created.<br />\r\n<br />\r\nThis series may include reports generated from the CASES (or CASES21) database, on a certain date by the school. The lists follow a standardised format and appear to be a printed report from a digital database, likely CASES or similar. The printed report has been kept where the original born digital record is unlikely to exist or is no longer accessible.&nbsp;"
+    ],
+    "how_to_use": [
+      "Researchers should browse the series by year to locate a specific date of interest, then search within the file for the relevant home group. Students are listed alphabetically within each class."
+    ],
+    "identifier.PID.id": "44F7053C-1C1B-11F1-8856-31C4B6168834",
+    "identifier.PROV_ACM.id": "VPRS 22430",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Class Lists are arranged by date and home group or class. &nbsp;Students are usually listed in alphabetical order within each home group.<br />\r\n<br />\r\nThis records in this series have been retained because the summary enrolment / admission record for this school could not be located at time of transfer to PROV and it is not known if they still exist. &nbsp;They provide some information about students that were enrolled at the school, though likely only for some classes or for a particular time period."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22430",
+    "series_in_custody.date_range": [
+      "[1995 TO 2000]"
+    ],
+    "series_in_custody.end_dt": [
+      2000
+    ],
+    "series_in_custody.start_dt": [
+      1995
+    ],
+    "start_dt": "1995",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793007911,
+    "title": "Class Lists"
+  },
+  {
+    "_id": "7C513F5E-1C1B-11F1-8856-556446DF8DA0",
+    "_version_": 1880129590445211649,
+    "category": "Series",
+    "citation": "VPRS 22431",
+    "citation_sort": "22431",
+    "contents.date_range": [
+      "[1931 TO 1995]"
+    ],
+    "contents.end_dt": [
+      1995
+    ],
+    "contents.start_dt": [
+      1931
+    ],
+    "creating_agents.creating_agency_id": [
+      5808
+    ],
+    "creating_agents.date_ranges": [
+      "[1931 TO 1995]"
+    ],
+    "creating_agents.end_dt": [
+      1995
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1931
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Yea Primary School (School No. 699; previously known as Yea School 1860 \u2013 c.1873; Yea State School c.1873 \u2013 1970; also known as Yea Higher Elementary School 1923 - 1960)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1931 TO 1995]"
+    ],
+    "end_dt": "1995",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises records documenting teacher attendance and leave during their employment at Yea Primary School (School No. 699) (VA 5808). While not a full individual work history, the &lsquo;Teachers&rsquo; Timebook&rsquo; and &lsquo;Absence Register&rsquo; provide a snapshot of staff at the school at a moment in time and provide supplementary information detailing which teachers taught where and at what time.<br />\r\n<br />\r\nThese records were used by schools from the early 20th century until the early 2000s.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system.<br />\r\n<br />\r\nTeachers&rsquo; Timebook<br />\r\n<br />\r\nThe Teachers&rsquo; Timebook is a standardised register used at each school to log the daily arrival and departure times for teachers.<br />\r\n<br />\r\nInside the front cover are instructions for teachers to follow, regarding time of arrival and departure, hours of duty, hours of instruction, instruction of student teachers, and school cleaning.<br />\r\n<br />\r\nInside the book are four tables per page, one table per work week, with space to record the date. Below are columns to fill in the names of teachers in level of seniority, their position, and then details of their hours worked Monday to Friday, including the day, date, hour and minute of their arrival and departure.<br />\r\n<br />\r\nAbsence Register<br />\r\n<br />\r\nThe Absence Register is a standardised register used at each school to record details of teachers&rsquo; absence from work. &lsquo;Absence Register&rsquo; is printed on the front cover, with spaces to fill in school number and name.<br />\r\n<br />\r\nInside the front cover are rules and procedures regarding absences and instructions on the proper use of the register.<br />\r\n<br />\r\nInside the volume, each page includes a section to record the year and &quot;Roll No.&quot; (the meaning of &quot;Roll No.&quot; remains subject to further research). Below this the teachers documented details of their absences, with fields for the record number, name and position of the teacher (e.g. &quot;H.T&quot; for Head Teacher), date and cause of absence, number of times absent since January 1st of the given year, and any additional remarks."
+    ],
+    "how_to_use": [
+      "Researchers should browse through the volumes to find relevant information."
+    ],
+    "identifier.PID.id": "7C513F5E-1C1B-11F1-8856-556446DF8DA0",
+    "identifier.PROV_ACM.id": "VPRS 22431",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are filled out in chronological order by date. One volume may span many years."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22431",
+    "series_in_custody.date_range": [
+      "[1931 TO 1995]"
+    ],
+    "series_in_custody.end_dt": [
+      1995
+    ],
+    "series_in_custody.start_dt": [
+      1931
+    ],
+    "start_dt": "1931",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793007872,
+    "title": "Teachers' Time Book and Absence Registers"
+  },
+  {
+    "_id": "B3FF65E0-1C1B-11F1-8856-4F86BF43964F",
+    "_version_": 1880129590443114496,
+    "category": "Series",
+    "citation": "VPRS 22432",
+    "citation_sort": "22432",
+    "contents.date_range": [
+      "[1997 TO 2005]"
+    ],
+    "contents.end_dt": [
+      2005
+    ],
+    "contents.start_dt": [
+      1997
+    ],
+    "creating_agents.creating_agency_id": [
+      5808
+    ],
+    "creating_agents.date_ranges": [
+      "[1997 TO 2005]"
+    ],
+    "creating_agents.end_dt": [
+      2005
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1997
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Yea Primary School (School No. 699; previously known as Yea School 1860 \u2013 c.1873; Yea State School c.1873 \u2013 1970; also known as Yea Higher Elementary School 1923 - 1960)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1997 TO 2005]"
+    ],
+    "end_dt": "2005",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Student Transfer Notes and Exit Forms from Yea Primary School (School No. 699) (VA 5808).&nbsp;<br />\r\n<br />\r\nThese records capture details of students who transferred to or from the school and are not a complete record of all the students that attended this school. &nbsp;Schools used various formats to record this information over time. Standardised &lsquo;Transfer Notes&rsquo; volumes were used initially before being replaced in the 1990s with more varied formats, such as &lsquo;Transfer Cards,&rsquo; &lsquo;Exit Forms,&rsquo; and &lsquo;Exit Lists.&rsquo;<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system.<br />\r\n<br />\r\nTransfer Notes<br />\r\n<br />\r\nFrom 1928, the Education Department (VA 714) or its successors provided standardised volumes, titled &lsquo;Transfer Notes&rsquo; to document student transfers between state government schools.<br />\r\n<br />\r\nTwo copies of the form were completed for each pupil or group of siblings as legislated in Section 43 of the Education Act 1928 (Vic). &nbsp;One was for the parent to deliver to the receiving school, and one was retained by the originating school. &nbsp;<br />\r\n<br />\r\nThe receiving school&rsquo;s Head Teacher was expected to return a detachable segment to confirm the student&#39;s start date. Students without a Transfer Note were admitted, but their previous school was contacted for documentation, and their names were not added to the Attendance Roll until the paperwork was completed. &nbsp;The Transfer Notes typically recorded details such as the current and destination schools, the student&rsquo;s name, date of birth, attendance, grade level, register number, and parent information.&nbsp;<br />\r\n<br />\r\nStarting in 1961, schools were required to send copies of each transfer to the Director of Child Health (Medical) in the Department of Health (VA 695), though the purpose and end date of this requirement remain unclear.<br />\r\n<br />\r\nIt appears that in the 1990s the Ministry of Education and Training (VA 1112) phased out the use of the standardised volumes and they were replaced with school-managed systems. Many schools implemented forms titled &lsquo;Student Transfer Notes&rsquo; which appear to be from the student management database, likely CASES database or similar. These forms include mostly the same details and process that were in the original standardised volumes, including a detachable segment signed by the receiving school. In some cases, only the returned segment remains. This form also indicates that a duplicate of the student&rsquo;s school record at the school would be sent alongside the note to the new school.<br />\r\n<br />\r\nTransfer Cards<br />\r\n<br />\r\nAs an alternative to Student Transfer Notes, a school may have created Transfer Cards which contained less information and consisted largely of personal details of the student such as parent or guardian details, medical information and emergency contact details. It is not known if a copy of these cards were given to the transferring school.&nbsp;<br />\r\n<br />\r\nExit Forms<br />\r\n<br />\r\nIn the early 2000s, Student Exit Forms (also called &lsquo;Exit a Student from the School&rsquo; form) were introduced. Unlike transfer notes, these forms appear to have been kept solely for the files of the school, even if transferring to another school.<br />\r\n<br />\r\nThis form was required to be filled out by students prior to departing the school and content varied between schools. Student Exit Forms typically included current enrolment details such as the student&rsquo;s name, address, year level, and date of birth, along with new address details if applicable. Parents or guardians were often required to provide a declaration confirming the student&rsquo;s last day of attendance and their intended destination, whether employment, transferring to another school, or pursuing further education. For students completing the Victorian Certificate of Education (VCE), an additional declaration was required to either withdraw from VCE or transfer their enrolment and VCE records to their new school. The form also usually featured a checklist of actions to complete before departure, such as returning borrowed books, clearing lockers, and settling outstanding fees.<br />\r\n<br />\r\nExit Lists<br />\r\n<br />\r\nExit Lists follow a standardised format and appear to be a printed report generated from a digital database, likely CASES or similar for a certain date. The printed report has been kept where the original born digital record is unlikely to exist or is no longer accessible.&nbsp;<br />\r\n<br />\r\nThese lists typically include information such as the student&#39;s name, gender, date of birth, date of enrolment, and date of transfer. They may also provide details such as the student&#39;s old and new addresses, current and previous form or class, destination school, previous school, and the names of their parents or guardians."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series for the year or name range of interest.&nbsp;"
+    ],
+    "identifier.PID.id": "B3FF65E0-1C1B-11F1-8856-4F86BF43964F",
+    "identifier.PROV_ACM.id": "VPRS 22432",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records in this series are arranged by date within volumes or are arranged alphabetically by surname of student.&nbsp;<br />\r\n<br />\r\nThis records in this series have been retained because the summary enrolment / admission record for this school could not be located at time of transfer to PROV and it is not known if they still exist. &nbsp;They provide some information about students that were enrolled at the school, though likely only for some classes or for a particular time period.&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": null,
+    "series_id": "22432",
+    "series_in_custody.date_range": [
+      "[1997 TO 2005]"
+    ],
+    "series_in_custody.end_dt": [
+      2005
+    ],
+    "series_in_custody.start_dt": [
+      1997
+    ],
+    "start_dt": "1997",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793005769,
+    "title": "Student Transfer Notes and Exit Forms"
   },
   {
     "_id": "96CEAB5F-1C3F-11F1-8856-D900D64741B9",

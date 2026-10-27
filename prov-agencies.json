@@ -122268,6 +122268,40 @@
     "title": "South Yarra Primary School (School No. 583; previously known as South Melbourne Free Church School 1854 \u2013 c.1873; South Yarra State School c.1873 - 1970)"
   },
   {
+    "_id": "104D4C6F-393F-11F1-8856-2DE29F972ACE",
+    "_version_": 1880129590431580160,
+    "category": "Agency",
+    "citation": "VA 5834",
+    "date_range": [
+      "[1868 TO 3000]"
+    ],
+    "description": "Rockbank Primary School (School No. 919) (VA 5834) is a government primary school located in Melbourne&rsquo;s north-west suburbs, servicing the Brimbank/Melton area.<br />\r\n<br />\r\nThe school first opened in 1868 as New Cambridge Common School, on a site on the Western Highway. The <em>Education Act 1872</em> established the Victorian Education Department (VA 714) which marked a change to school naming conventions, with the school becoming New Cambridge State School at this time.&nbsp;<br />\r\n<br />\r\nIn 1906, the school name was changed to Rockbank State School. In 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Rockbank Primary School.<br />\r\n<br />\r\nIn 2010, Rockbank Primary School was relocated to a site on Westcott Parade, away from the increasing traffic on the Western Highway and as of 2026, Rockbank Primary School continues to operate.<br />\r\n<br />\r\nRockbank Primary School (School No. 919) should not be confused with a new school due to open in 2028, with the interim name Rockbank Toolern Road Primary School.<br />\r\n&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "104D4C6F-393F-11F1-8856-2DE29F972ACE",
+    "identifier.PROV_ACM.id": "VA 5834",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1868",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792988003,
+    "title": "Rockbank Primary School (School No. 919; previously known as New Cambridge Common School 1868 \u2013 c.1873; New Cambridge State School c.1873 \u2013 1906; Rockbank State School 1906 - 1970)"
+  },
+  {
     "_id": "1B868750-393F-11F1-8856-5F333C3FC9BE",
     "_version_": 1879495412288585728,
     "category": "Agency",
@@ -122300,6 +122334,142 @@
     "status": "Published",
     "timestamp": 1792383110,
     "title": "Warrnambool West Primary School (School No. 4899; previously known as Warrnambool West State School 1966 \u2013 c.1970)"
+  },
+  {
+    "_id": "263D24B1-393F-11F1-8856-697D1B75D2A6",
+    "_version_": 1880129590433677318,
+    "category": "Agency",
+    "citation": "VA 5836",
+    "date_range": [
+      "[1873 TO 3000]"
+    ],
+    "description": "Timor Primary School (School No. 1207) (VA 5836) is a small rural primary school located in the township of Timor, within the Central Goldfields Shire, servicing the Timor and Maryborough districts.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1873 as Timor State School, to meet the needs of the local community during the gold rush period.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Timor Primary School.<br />\r\n<br />\r\nAs of 2026, Timor Primary School continues to operate.&nbsp;<br />\r\n<br />\r\nTimor Primary School (School No. 1207) should not be confused with Timor West State School (School No. 949) (VA 5644) which operated in the same area from 1869 to 1942.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "263D24B1-393F-11F1-8856-697D1B75D2A6",
+    "identifier.PROV_ACM.id": "VA 5836",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1873",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792988131,
+    "title": "Timor Primary School (School No. 1207; previously known as Timor State School 1873 \u2013 1970)"
+  },
+  {
+    "_id": "00AD4CE5-4CCD-11F1-8856-2DAC6C5141BB",
+    "_version_": 1880129590434725906,
+    "category": "Agency",
+    "citation": "VA 5838",
+    "date_range": [
+      "[1879 TO 3000]"
+    ],
+    "description": "Kinglake Primary School (School No. 2188) (VA 5838) is a small government primary school located in the Kinglake Ranges, approximately 60 kilometres north-east of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1879 as Kinglake State School, in response to a growing gold mining and timber industry. Two further state schools were opened in the following years.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Kinglake Primary School.<br />\r\n<br />\r\nAs of 2026, Kinglake Primary School continues to operate.&nbsp;<br />\r\n<br />\r\nKinglake Primary School (School No. 2188) should not be confused with Kinglake West Primary School (School No. 3255) which opened in 1896 or Middle Kinglake Primary School (School No. 3315) which opened in 1898.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "00AD4CE5-4CCD-11F1-8856-2DAC6C5141BB",
+    "identifier.PROV_ACM.id": "VA 5838",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1879",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792988237,
+    "title": "Kinglake Primary School (School No. 2188; previously known as Kinglake State School 1879 \u2013 1970)"
+  },
+  {
+    "_id": "0C66DB56-4CCD-11F1-8856-3D606763DEEA",
+    "_version_": 1880129590436823049,
+    "category": "Agency",
+    "citation": "VA 5839",
+    "date_range": [
+      "[1864 TO 3000]"
+    ],
+    "description": "Lockwood Primary School (School No. 744) (VA 5839) is a semi-rural government primary school located on the south-west side of Bendigo.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1864 as Lockwood Common School. A new school building was erected in 1865. The <em>Education Act 1872</em> established the Victorian Education Department (VA 714) which marked a change to school naming conventions, with the school becoming Lockwood State School. &nbsp;&nbsp;<br />\r\n<br />\r\nFrom 1885, Lockwood State School was worked part-time with Shelbourne South State School (School No. 2263), resuming full-time teaching in 1902.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Lockwood Primary School.<br />\r\n<br />\r\nAs of 2026, Lockwood Primary School continues to operate.&nbsp;<br />\r\n<br />\r\nLockwood Primary School (School No. 744) should not be confused with Lockwood South Primary School (School No. 385) which opened as 1859 and was known as Lockwood until 1915.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "0C66DB56-4CCD-11F1-8856-3D606763DEEA",
+    "identifier.PROV_ACM.id": "VA 5839",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1864",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792988390,
+    "title": "Lockwood Primary School (School No. 744; previously known as Lockwood Common School 1864 \u2013 c.1873; Lockwood State School c.1873 \u2013 1970)"
+  },
+  {
+    "_id": "9BF3F6D5-57E5-11F1-8856-697A3F7D7298",
+    "_version_": 1880129590438920200,
+    "category": "Agency",
+    "citation": "VA 5840",
+    "date_range": [
+      "[1915 TO 3000]"
+    ],
+    "description": "Williamstown High School (School No. 8475) (VA 5840) is a co-educational government secondary school located across two campuses in the seaport suburb of Williamstown in Melbourne&rsquo;s west.&nbsp;<br />\r\n<br />\r\nThe school was originally established as a locally sponsored grammar school from 1867 but went through several periods of closure when it was unable to compete with free State schools in the area. The school building fell into disrepair and in 1914, the decision was made to place the school under the Education Department (VA 714). The land was declared for a government high school that year, the existing buildings were refurbished with plans drawn for new ones, and in 1915, Williamstown High School was officially opened on Pasco Street.&nbsp;<br />\r\n<br />\r\nAt the end of 2000, Williamstown High School was merged with Point Gellibrand Girls Secondary College (School No. 8229) (VA 5719) to form a new single high school across two campuses, with the Williamstown High School name and number retained. The Williamstown High site became the Pasco Campus for years 10 to 12, and the Point Gellibrand Girls High site became the Bayview Campus for years 7 to 9.<br />\r\n<br />\r\nAs of 2026, Williamstown High School continues to operate. &nbsp;<br />\r\n<br />\r\nWilliamstown High School (School No. 8475) should not be confused with Williamstown Girls High School (School No. 8229), which changed its name to Point Gellibrand Girls High School in 1973.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "9BF3F6D5-57E5-11F1-8856-697A3F7D7298",
+    "identifier.PROV_ACM.id": "VA 5840",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1915",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1792988520,
+    "title": "Williamstown High School (School No. 8475)"
   },
   {
     "_id": "8572C079-5EF3-11F1-8856-E30B58741761",
