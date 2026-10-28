@@ -312267,30 +312267,30 @@
   },
   {
     "_id": "24688BD4-F1B0-11E9-AE98-6F173A20257C",
-    "_version_": 1816040184652759040,
+    "_version_": 1880220188036562944,
     "category": "Consignment",
     "citation": "VPRS 4763/P0000",
     "citation_sort": "0000VPRS 4763/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "1912"
     ],
     "contents.end_dt": [
-      3000
+      1912
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1912
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "1912"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1912",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -312303,7 +312303,7 @@
       "Borough Of Sebastopol Tram-Line Structural Drawings"
     ],
     "location": [
-      "Ballarat"
+      "North Melbourne"
     ],
     "parents.ids": [
       "VPRS4763"
@@ -312317,10 +312317,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1912",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299194,
+    "timestamp": 1793085287,
     "title": "Consignment 4763/P0000"
   },
   {
@@ -318722,30 +318722,30 @@
   },
   {
     "_id": "2794EC0B-F1B0-11E9-AE98-5DF534698540",
-    "_version_": 1816040184806899712,
+    "_version_": 1880220187841527808,
     "category": "Consignment",
     "citation": "VPRS 4881/P0000",
     "citation_sort": "0000VPRS 4881/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1912 TO 1931]"
     ],
     "contents.end_dt": [
-      3000
+      1931
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1912
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1912 TO 1931]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1931",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -318772,10 +318772,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1912",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299223,
+    "timestamp": 1793069346,
     "title": "Consignment 4881/P0000"
   },
   {
@@ -326061,30 +326061,30 @@
   },
   {
     "_id": "29F0B6E2-F1B0-11E9-AE98-2BA9530DAACF",
-    "_version_": 1816040185008226305,
+    "_version_": 1880220187861450753,
     "category": "Consignment",
     "citation": "VPRS 4998/P0000",
     "citation_sort": "0000VPRS 4998/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1865 TO 1938]"
     ],
     "contents.end_dt": [
-      3000
+      1938
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1865
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1865 TO 1938]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1938",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -326111,10 +326111,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1865",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299301,
+    "timestamp": 1793072202,
     "title": "Consignment 4998/P0000"
   },
   {
@@ -326583,30 +326583,30 @@
   },
   {
     "_id": "2AC2ACEB-F1B0-11E9-AE98-990E8D80C5CC",
-    "_version_": 1816040185017663488,
+    "_version_": 1880220187836284928,
     "category": "Consignment",
     "citation": "VPRS 5007/P0000",
     "citation_sort": "0000VPRS 5007/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1865 TO 1883]"
     ],
     "contents.end_dt": [
-      3000
+      1883
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1865
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1865 TO 1883]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1883",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -326619,7 +326619,7 @@
       "Criminal Minute Book"
     ],
     "location": [
-      "Ballarat"
+      "North Melbourne"
     ],
     "parents.ids": [
       "VPRS5007"
@@ -326633,10 +326633,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1865",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299303,
+    "timestamp": 1793069083,
     "title": "Consignment 5007/P0000"
   },
   {
@@ -326699,30 +326699,30 @@
   },
   {
     "_id": "2AC56C0D-F1B0-11E9-AE98-5D217B828B35",
-    "_version_": 1816040185017663490,
+    "_version_": 1880220187837333504,
     "category": "Consignment",
     "citation": "VPRS 5009/P0000",
     "citation_sort": "0000VPRS 5009/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1884 TO 1941]"
     ],
     "contents.end_dt": [
-      3000
+      1941
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1884
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1884 TO 1941]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1941",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -326749,10 +326749,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1884",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299303,
+    "timestamp": 1793069119,
     "title": "Consignment 5009/P0000"
   },
   {
@@ -339447,30 +339447,30 @@
   },
   {
     "_id": "2F54DF27-F1B0-11E9-AE98-BBC2492EA85C",
-    "_version_": 1879133025534476290,
+    "_version_": 1880220187912830976,
     "category": "Consignment",
     "citation": "VPRS 5236/P0000",
     "citation_sort": "0000VPRS 5236/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1921 TO 1972]"
     ],
     "contents.end_dt": [
-      3000
+      1972
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1921
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1921 TO 1972]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1972",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -339497,10 +339497,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1921",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1792049094,
+    "timestamp": 1793081117,
     "title": "Consignment 5236/P0000"
   },
   {
@@ -343380,30 +343380,30 @@
   },
   {
     "_id": "3154F42D-F1B0-11E9-AE98-D9BA0F4BE7E5",
-    "_version_": 1816040181791195138,
+    "_version_": 1880220187822653440,
     "category": "Consignment",
     "citation": "VPRS 5301/P0000",
     "citation_sort": "0000VPRS 5301/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1894 TO 1930]"
     ],
     "contents.end_dt": [
-      3000
+      1930
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1894
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1894 TO 1930]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1930",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -343430,10 +343430,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1894",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299018,
+    "timestamp": 1793066212,
     "title": "Consignment 5301/P0000"
   },
   {
@@ -365275,30 +365275,30 @@
   },
   {
     "_id": "39B82C3F-F1B0-11E9-AE98-C90E9ED8CA95",
-    "_version_": 1816040189452091393,
+    "_version_": 1880220187868790784,
     "category": "Consignment",
     "citation": "VPRS 5670/P0000",
     "citation_sort": "0000VPRS 5670/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1876 TO 1948]"
     ],
     "contents.end_dt": [
-      3000
+      1948
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1876
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1876 TO 1948]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1948",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -365311,7 +365311,7 @@
       "Record Of Powers Of Attorney"
     ],
     "location": [
-      "Ballarat"
+      "North Melbourne"
     ],
     "parents.ids": [
       "VPRS5670"
@@ -365325,10 +365325,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1876",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299610,
+    "timestamp": 1793072712,
     "title": "Consignment 5670/P0000"
   },
   {
@@ -373048,30 +373048,30 @@
   },
   {
     "_id": "3CDCEB73-F1B0-11E9-AE98-B1CF4927B1B5",
-    "_version_": 1816040190958895104,
+    "_version_": 1880220187863547905,
     "category": "Consignment",
     "citation": "VPRS 5809/P0000",
     "citation_sort": "0000VPRS 5809/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "1865"
     ],
     "contents.end_dt": [
-      3000
+      1865
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1865
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "1865"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1865",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -373081,7 +373081,7 @@
       "VPRS5809"
     ],
     "is_part_of_series.title": [
-      "General Sessions Appeals Book"
+      "Court of General Sessions, Appeal Record Book"
     ],
     "location": [
       "Ballarat"
@@ -373090,7 +373090,7 @@
       "VPRS5809"
     ],
     "parents.titles": [
-      "General Sessions Appeals Book"
+      "Court of General Sessions, Appeal Record Book"
     ],
     "quantity": [
       1
@@ -373098,10 +373098,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1865",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299730,
+    "timestamp": 1793072430,
     "title": "Consignment 5809/P0000"
   },
   {
@@ -373454,30 +373454,30 @@
   },
   {
     "_id": "3CE6FD9A-F1B0-11E9-AE98-2B384C7DA22A",
-    "_version_": 1816040190986158080,
+    "_version_": 1880220187767078913,
     "category": "Consignment",
     "citation": "VPRS 5816/P0000",
     "citation_sort": "0000VPRS 5816/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1863 TO 1934]"
     ],
     "contents.end_dt": [
-      3000
+      1934
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1863
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1863 TO 1934]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1934",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -373504,10 +373504,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1863",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299733,
+    "timestamp": 1793060633,
     "title": "Consignment 5816/P0000"
   },
   {
@@ -396135,30 +396135,30 @@
   },
   {
     "_id": "45A8F78F-F1B0-11E9-AE98-EBF22DC57CF1",
-    "_version_": 1816040184715673601,
+    "_version_": 1880220187827896320,
     "category": "Consignment",
     "citation": "VPRS 6172/P0000",
     "citation_sort": "0000VPRS 6172/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1913 TO 1935]"
     ],
     "contents.end_dt": [
-      3000
+      1935
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1913
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1913 TO 1935]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1935",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -396168,7 +396168,7 @@
       "VPRS6172"
     ],
     "is_part_of_series.title": [
-      "Petty Sessions Criminal Record Book"
+      "Court of General Sessions, Criminal Record Book"
     ],
     "location": [
       "Ballarat"
@@ -396177,7 +396177,7 @@
       "VPRS6172"
     ],
     "parents.titles": [
-      "Petty Sessions Criminal Record Book"
+      "Court of General Sessions, Criminal Record Book"
     ],
     "quantity": [
       1
@@ -396185,10 +396185,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1913",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299205,
+    "timestamp": 1793066788,
     "title": "Consignment 6172/P0000"
   },
   {
@@ -396309,30 +396309,30 @@
   },
   {
     "_id": "45AD1642-F1B0-11E9-AE98-6B0FC2A653EB",
-    "_version_": 1816040184723013633,
+    "_version_": 1880220187816361984,
     "category": "Consignment",
     "citation": "VPRS 6175/P0000",
     "citation_sort": "0000VPRS 6175/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1920 TO 1937]"
     ],
     "contents.end_dt": [
-      3000
+      1937
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1920
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1920 TO 1937]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1937",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -396359,10 +396359,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1920",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299206,
+    "timestamp": 1793065162,
     "title": "Consignment 6175/P0000"
   },
   {
@@ -412081,30 +412081,30 @@
   },
   {
     "_id": "4C3C7742-F1B0-11E9-AE98-E7C3DA985BF6",
-    "_version_": 1816040186259177472,
+    "_version_": 1880220187855159298,
     "category": "Consignment",
     "citation": "VPRS 6442/P0000",
     "citation_sort": "0000VPRS 6442/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1869 TO 1937]"
     ],
     "contents.end_dt": [
-      3000
+      1937
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1869
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1869 TO 1937]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1937",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -412114,7 +412114,7 @@
       "VPRS6442"
     ],
     "is_part_of_series.title": [
-      "Appeal Record Book"
+      "Court of General Sessions, Appeal Record Book"
     ],
     "location": [
       "Ballarat"
@@ -412123,7 +412123,7 @@
       "VPRS6442"
     ],
     "parents.titles": [
-      "Appeal Record Book"
+      "Court of General Sessions, Appeal Record Book"
     ],
     "quantity": [
       1
@@ -412131,10 +412131,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1869",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299347,
+    "timestamp": 1793071983,
     "title": "Consignment 6442/P0000"
   },
   {
@@ -412313,30 +412313,30 @@
   },
   {
     "_id": "4C432E06-F1B0-11E9-AE98-935AA47A903F",
-    "_version_": 1816040186277003264,
+    "_version_": 1880220187893956609,
     "category": "Consignment",
     "citation": "VPRS 6446/P0000",
     "citation_sort": "0000VPRS 6446/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1941 TO 1961]"
     ],
     "contents.end_dt": [
-      3000
+      1961
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1941
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1941 TO 1961]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1961",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -412349,7 +412349,7 @@
       "Petty Sessions Criminal Record Books"
     ],
     "location": [
-      "Ballarat"
+      "North Melbourne"
     ],
     "parents.ids": [
       "VPRS6446"
@@ -412363,10 +412363,10 @@
     "rights_status": [
       "Closed"
     ],
-    "start_dt": "1753",
+    "start_dt": "1941",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299347,
+    "timestamp": 1793076612,
     "title": "Consignment 6446/P0000"
   },
   {
@@ -1411323,7 +1411323,7 @@
   },
   {
     "_id": "9D14220F-DB0F-11F0-8856-EDBAEB175EFA",
-    "_version_": 1868265165029376000,
+    "_version_": 1880220187812167684,
     "category": "Consignment",
     "citation": "VPRS 19799/C3",
     "citation_sort": "0000VPRS 19799/C3",
@@ -1411368,7 +1411368,7 @@
       "Committee Records"
     ],
     "quantity": [
-      149
+      176
     ],
     "rights_status": [
       "Closed Record and Open Metadata",
@@ -1411377,7 +1411377,7 @@
     "start_dt": "2018",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1781690748,
+    "timestamp": 1793064753,
     "title": "Consignment 19799/C3 59th Parliament"
   },
   {

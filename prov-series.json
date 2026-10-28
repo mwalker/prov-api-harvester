@@ -365210,6 +365210,92 @@
     "title": "Payroll Tax Returns [Records Destroyed 1991)"
   },
   {
+    "_id": "83CAA4F0-F1AE-11E9-AE98-CB3704A961D2",
+    "_version_": 1880220187841527809,
+    "category": "Series",
+    "citation": "VPRS 4881",
+    "citation_sort": "04881",
+    "contents.date_range": [
+      "[1912 TO 1931]"
+    ],
+    "contents.end_dt": [
+      1931
+    ],
+    "contents.start_dt": [
+      1912
+    ],
+    "creating_agents.creating_agency_id": [
+      921
+    ],
+    "creating_agents.date_ranges": [
+      "[1753 TO 3000]"
+    ],
+    "creating_agents.end_dt": [
+      3000
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1753
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Casterton Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1912 TO 1931]"
+    ],
+    "end_dt": "1931",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The Court of General Sessions exercised a purely criminal jurisdiction within the County Court.<br />\r\n<br />\r\nIn 1968 local County Courts and the Court of General Sessions were abolished and one County Court for the whole of Victoria was established. Therefore all cases after 1968 are criminal cases of the County Court sitting on circuit at a particular location.<br />\r\n<br />\r\nThe County Court heard cases of a more series nature than the Magistrates&#39; Court. Cases heard include robbery, common assault and driving under the influence.<br />\r\n<br />\r\nIn accordance with the provisions of Instructions to Clerks of Courts the Clerks of the Peace were required to keep an Appeal Record Book. Information recorded includes:<br />\r\n<br />\r\n- Case Number,<br />\r\n- Names of the Appellant and the Respondent,<br />\r\n-Conviction appealed against,<br />\r\n- The court from whose decision the appeal was made,<br />\r\n- date of hearing,<br />\r\n- Judgement of the court, (appeal abandoned, dismissed),<br />\r\n- Name of the Judge and<br />\r\n- The date of transmission of the memorandum of the decision of the Court of General Sessions to the Clerk of Petty Sessions.<br />\r\n<br />\r\nThe information is entered, signed and sealed after each court by the Clerk of the Peace.<br />\r\n<br />\r\nThis series comprises Appeal Record Book."
+    ],
+    "how_to_use": [
+      "Order the volume of the appeal record book with the required date range to view it in the reading room, then browse through the entries which are arranged chronologically."
+    ],
+    "identifier.PID.id": "83CAA4F0-F1AE-11E9-AE98-CB3704A961D2",
+    "identifier.PROV_ACM.id": "VPRS 4881",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": [
+      "Entries are arranged chronologically by the date of the appeal case in each volume."
+    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "4881",
+    "series_in_custody.date_range": [
+      "[1912 TO 1931]"
+    ],
+    "series_in_custody.end_dt": [
+      1931
+    ],
+    "series_in_custody.start_dt": [
+      1912
+    ],
+    "start_dt": "1912",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793069565,
+    "title": "Court of General Sessions, Appeal Record Book"
+  },
+  {
     "_id": "83CC2B91-F1AE-11E9-AE98-3DAC234F4269",
     "_version_": 1816059712520585216,
     "category": "Series",
@@ -374775,6 +374861,84 @@
     "title": "Mining Warden's Register"
   },
   {
+    "_id": "85F17D05-F1AE-11E9-AE98-EB02CC0CD844",
+    "_version_": 1880220187862499328,
+    "category": "Series",
+    "citation": "VPRS 4998",
+    "citation_sort": "04998",
+    "contents.date_range": [
+      "[1865 TO 1938]"
+    ],
+    "contents.end_dt": [
+      1938
+    ],
+    "contents.start_dt": [
+      1865
+    ],
+    "creating_agents.creating_agency_id": [
+      917
+    ],
+    "creating_agents.date_ranges": [
+      "[1753 TO 3000]"
+    ],
+    "creating_agents.end_dt": [
+      3000
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1753
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Stawell Courts (previously known as Pleasant Creek Courts, 1857 \u2013 1870)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1865 TO 1938]"
+    ],
+    "end_dt": "1938",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": null,
+    "how_to_use": null,
+    "identifier.PID.id": "85F17D05-F1AE-11E9-AE98-EB02CC0CD844",
+    "identifier.PROV_ACM.id": "VPRS 4998",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "4998",
+    "series_in_custody.date_range": [
+      "[1865 TO 1938]"
+    ],
+    "series_in_custody.end_dt": [
+      1938
+    ],
+    "series_in_custody.start_dt": [
+      1865
+    ],
+    "start_dt": "1865",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793072336,
+    "title": "Court of General Sessions, Appeal Record Book"
+  },
+  {
     "_id": "85F46337-F1AE-11E9-AE98-D360453452F2",
     "_version_": 1877959038695636993,
     "category": "Series",
@@ -375339,6 +375503,88 @@
     "title": "Insolvency Deeds Register"
   },
   {
+    "_id": "86AF00AE-F1AE-11E9-AE98-9BE9491489A8",
+    "_version_": 1880220187838382083,
+    "category": "Series",
+    "citation": "VPRS 5007",
+    "citation_sort": "05007",
+    "contents.date_range": [
+      "[1865 TO 1883]"
+    ],
+    "contents.end_dt": [
+      1883
+    ],
+    "contents.start_dt": [
+      1865
+    ],
+    "creating_agents.creating_agency_id": [
+      917
+    ],
+    "creating_agents.date_ranges": [
+      "[1865 TO 1883]"
+    ],
+    "creating_agents.end_dt": [
+      1883
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1865
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Stawell Courts (previously known as Pleasant Creek Courts, 1857 \u2013 1870)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1865 TO 1883]"
+    ],
+    "end_dt": "1883",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This record was received with minimal documentation. Further research required to establish function and content of the record."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "86AF00AE-F1AE-11E9-AE98-9BE9491489A8",
+    "identifier.PROV_ACM.id": "VPRS 5007",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5007",
+    "series_in_custody.date_range": [
+      "[1865 TO 1883]"
+    ],
+    "series_in_custody.end_dt": [
+      1883
+    ],
+    "series_in_custody.start_dt": [
+      1865
+    ],
+    "start_dt": "1865",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793069276,
+    "title": "Court of General Sessions, Criminal Minute Book"
+  },
+  {
     "_id": "86B0D56F-F1AE-11E9-AE98-850206BA4668",
     "_version_": 1816059712540508160,
     "category": "Series",
@@ -375444,6 +375690,90 @@
     "status": "Published",
     "timestamp": 1642369645,
     "title": "Memoranda Book, Clerk of Courts and Mining Warden"
+  },
+  {
+    "_id": "86B25C10-F1AE-11E9-AE98-C9EBAF990CE3",
+    "_version_": 1880220187838382080,
+    "category": "Series",
+    "citation": "VPRS 5009",
+    "citation_sort": "05009",
+    "contents.date_range": [
+      "[1884 TO 1941]"
+    ],
+    "contents.end_dt": [
+      1941
+    ],
+    "contents.start_dt": [
+      1884
+    ],
+    "creating_agents.creating_agency_id": [
+      917
+    ],
+    "creating_agents.date_ranges": [
+      "[1884 TO 1941]"
+    ],
+    "creating_agents.end_dt": [
+      1941
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1884
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Stawell Courts (previously known as Pleasant Creek Courts, 1857 \u2013 1870)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1884 TO 1941]"
+    ],
+    "end_dt": "1941",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of a Criminal Record Book for the Stawell Court of General Sessions. Details recorded for each session are the name of the judge and date. Details recorded for each case within the session are the name of the accused, the offence charged, date of trial, the plea of the accused (guilt or not guilty), verdict and, if applicable, sentence, date of sentence, jury members and remarks."
+    ],
+    "how_to_use": [
+      "Order the volume for viewing in the reading room, then browse entries which are in chronological order within the volume."
+    ],
+    "identifier.PID.id": "86B25C10-F1AE-11E9-AE98-C9EBAF990CE3",
+    "identifier.PROV_ACM.id": "VPRS 5009",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": [
+      "Entries within the volume are arranged in chronological order according to the date of the session."
+    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5009",
+    "series_in_custody.date_range": [
+      "[1884 TO 1941]"
+    ],
+    "series_in_custody.end_dt": [
+      1941
+    ],
+    "series_in_custody.start_dt": [
+      1884
+    ],
+    "start_dt": "1884",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793069202,
+    "title": "Court of General Sessions, Criminal Record Book"
   },
   {
     "_id": "86B71703-F1AE-11E9-AE98-DF4B23F3F3E3",
@@ -392557,6 +392887,88 @@
     "title": "Prisoners Personal Applications To The Visiting Justice"
   },
   {
+    "_id": "8AC63672-F1AE-11E9-AE98-DF48D5315A52",
+    "_version_": 1880220188039708672,
+    "category": "Series",
+    "citation": "VPRS 5219",
+    "citation_sort": "05219",
+    "contents.date_range": [
+      "[1863 TO 1870]"
+    ],
+    "contents.end_dt": [
+      1870
+    ],
+    "contents.start_dt": [
+      1863
+    ],
+    "creating_agents.creating_agency_id": [
+      981
+    ],
+    "creating_agents.date_ranges": [
+      "[1863 TO 1870]"
+    ],
+    "creating_agents.end_dt": [
+      1870
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1863
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Linton Police Office"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1863 TO 1866]"
+    ],
+    "end_dt": "1866",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series was received with minimal documentation. Further research required to determine content and function."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "8AC63672-F1AE-11E9-AE98-DF48D5315A52",
+    "identifier.PROV_ACM.id": "VPRS 5219",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5219",
+    "series_in_custody.date_range": [
+      "[1863 TO 1870]"
+    ],
+    "series_in_custody.end_dt": [
+      1870
+    ],
+    "series_in_custody.start_dt": [
+      1863
+    ],
+    "start_dt": "1863",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793085780,
+    "title": "Police Circular Orders and Memoranda"
+  },
+  {
     "_id": "8AC79603-F1AE-11E9-AE98-C14CF650983C",
     "_version_": 1816059712578256896,
     "category": "Series",
@@ -399870,6 +400282,92 @@
     "status": "Published",
     "timestamp": 1642973223,
     "title": "Court of Petty Sessions Register of Second-Hand Dealers"
+  },
+  {
+    "_id": "8BFD2F24-F1AE-11E9-AE98-FBF9A145B960",
+    "_version_": 1880220187822653441,
+    "category": "Series",
+    "citation": "VPRS 5301",
+    "citation_sort": "05301",
+    "contents.date_range": [
+      "[1894 TO 1930]"
+    ],
+    "contents.end_dt": [
+      1930
+    ],
+    "contents.start_dt": [
+      1894
+    ],
+    "creating_agents.creating_agency_id": [
+      990
+    ],
+    "creating_agents.date_ranges": [
+      "[1894 TO 1930]"
+    ],
+    "creating_agents.end_dt": [
+      1930
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1894
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Nhill Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1894 TO 1930]"
+    ],
+    "end_dt": "1930",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The Court of General Sessions exercised a purely criminal jurisdiction within the County Court.<br />\r\n<br />\r\nIn 1968 local County Courts and the Court of General Sessions were abolished and one County Court for the whole of Victoria was established. Therefore all cases after 1968 are criminal cases of the County Court sitting on circuit at a particular location.<br />\r\n<br />\r\nThe County Court heard cases of a more series nature than the Magistrates&#39; Court. Cases heard include robbery, common assault and driving under the influence.<br />\r\n<br />\r\nIn accordance with the provisions of Instructions to Clerks of Courts the Clerks of the Peace were required to keep an Appeal Record Book. Information recorded includes:<br />\r\n<br />\r\n- Case Number,<br />\r\n- Names of the Appellant and the Respondent,<br />\r\n-Conviction appealed against,<br />\r\n- The court from whose decision the appeal was made,<br />\r\n- date of hearing,<br />\r\n- Judgement of the court, (appeal abandoned, dismissed),<br />\r\n- Name of the Judge and<br />\r\n- The date of transmission of the memorandum of the decision of the Court of General Sessions to the Clerk of Petty Sessions.<br />\r\n<br />\r\nThe information is entered, signed and sealed after each court by the Clerk of the Peace.<br />\r\n<br />\r\nThis series comprises Appeal Record Book."
+    ],
+    "how_to_use": [
+      "Order the single volume of the appeal record book to view it in the reading room, then browse through the entries which are arranged chronologically."
+    ],
+    "identifier.PID.id": "8BFD2F24-F1AE-11E9-AE98-FBF9A145B960",
+    "identifier.PROV_ACM.id": "VPRS 5301",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": [
+      "The volume is organised chronologically by the date of the appeal case."
+    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5301",
+    "series_in_custody.date_range": [
+      "[1894 TO 1930]"
+    ],
+    "series_in_custody.end_dt": [
+      1930
+    ],
+    "series_in_custody.start_dt": [
+      1894
+    ],
+    "start_dt": "1894",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793066483,
+    "title": "Court of General Sessions, Appeal Record Book"
   },
   {
     "_id": "8BFF03E5-F1AE-11E9-AE98-51657A9C4F6C",
@@ -427624,6 +428122,88 @@
     "title": "Outwards Letter Books"
   },
   {
+    "_id": "94141BD5-F1AE-11E9-AE98-D5B7237AE30A",
+    "_version_": 1880220187868790785,
+    "category": "Series",
+    "citation": "VPRS 5670",
+    "citation_sort": "05670",
+    "contents.date_range": [
+      "[1876 TO 1948]"
+    ],
+    "contents.end_dt": [
+      1948
+    ],
+    "contents.start_dt": [
+      1876
+    ],
+    "creating_agents.creating_agency_id": [
+      678
+    ],
+    "creating_agents.date_ranges": [
+      "[1876 TO 1948]"
+    ],
+    "creating_agents.end_dt": [
+      1948
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1876
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1876 TO 1948]"
+    ],
+    "end_dt": "1948",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This record was received with minimal documentation. Further research required to determine the function and content of this record."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "94141BD5-F1AE-11E9-AE98-D5B7237AE30A",
+    "identifier.PROV_ACM.id": "VPRS 5670",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5670",
+    "series_in_custody.date_range": [
+      "[1876 TO 1948]"
+    ],
+    "series_in_custody.end_dt": [
+      1948
+    ],
+    "series_in_custody.start_dt": [
+      1876
+    ],
+    "start_dt": "1876",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793073053,
+    "title": "Record Of Powers Of Attorney"
+  },
+  {
     "_id": "9415A276-F1AE-11E9-AE98-0FB492BAF3B6",
     "_version_": 1816059715660021760,
     "category": "Series",
@@ -437132,6 +437712,92 @@
     "title": "Inwards Letter Register"
   },
   {
+    "_id": "97098E9F-F1AE-11E9-AE98-CD360D37FF6E",
+    "_version_": 1880220187863547906,
+    "category": "Series",
+    "citation": "VPRS 5809",
+    "citation_sort": "05809",
+    "contents.date_range": [
+      "1865"
+    ],
+    "contents.end_dt": [
+      1865
+    ],
+    "contents.start_dt": [
+      1865
+    ],
+    "creating_agents.creating_agency_id": [
+      740
+    ],
+    "creating_agents.date_ranges": [
+      "1865"
+    ],
+    "creating_agents.end_dt": [
+      1865
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1865
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Talbot Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "1865"
+    ],
+    "end_dt": "1865",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The Court of General Sessions exercised a purely criminal jurisdiction within the County Court.<br />\r\n<br />\r\nIn 1968 local County Courts and the Court of General Sessions were abolished and one County Court for the whole of Victoria was established. Therefore all cases after 1968 are criminal cases of the County Court sitting on circuit at a particular location.<br />\r\n<br />\r\nThe County Court heard cases of a more series nature than the Magistrates&#39; Court. Cases heard include robbery, common assault and driving under the influence.<br />\r\n<br />\r\nIn accordance with the provisions of Instructions to Clerks of Courts the Clerks of the Peace were required to keep an Appeal Record Book. Information recorded includes:<br />\r\n<br />\r\n- Case Number,<br />\r\n- Names of the Appellant and the Respondent,<br />\r\n-Conviction appealed against,<br />\r\n- The court from whose decision the appeal was made,<br />\r\n- date of hearing,<br />\r\n- Judgement of the court, (appeal abandoned, dismissed),<br />\r\n- Name of the Judge and<br />\r\n- The date of transmission of the memorandum of the decision of the Court of General Sessions to the Clerk of Petty Sessions.<br />\r\n<br />\r\nThe information is entered, signed and sealed after each court by the Clerk of the Peace.<br />\r\n<br />\r\nThis series comprises Appeal Record Book."
+    ],
+    "how_to_use": [
+      "Order the single volume of the appeal record book to view it in the reading room, then browse through the entries which are arranged chronologically."
+    ],
+    "identifier.PID.id": "97098E9F-F1AE-11E9-AE98-CD360D37FF6E",
+    "identifier.PROV_ACM.id": "VPRS 5809",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": [
+      "The volume is organised chronologically by the date of the appeal case."
+    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5809",
+    "series_in_custody.date_range": [
+      "1865"
+    ],
+    "series_in_custody.end_dt": [
+      1865
+    ],
+    "series_in_custody.start_dt": [
+      1865
+    ],
+    "start_dt": "1865",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793072566,
+    "title": "Court of General Sessions, Appeal Record Book"
+  },
+  {
     "_id": "970C9AE1-F1AE-11E9-AE98-4DC6F1408CCE",
     "_version_": 1816040157318479872,
     "category": "Series",
@@ -437432,6 +438098,202 @@
     "status": "Published",
     "timestamp": 1644972757,
     "title": "Accounts Vouchers"
+  },
+  {
+    "_id": "9712DC75-F1AE-11E9-AE98-AFDF56C22EFB",
+    "_version_": 1880220187770224640,
+    "category": "Series",
+    "citation": "VPRS 5815",
+    "citation_sort": "05815",
+    "contents.date_range": [
+      "1859"
+    ],
+    "contents.end_dt": [
+      1859
+    ],
+    "contents.start_dt": [
+      1859
+    ],
+    "creating_agents.creating_agency_id": [
+      657
+    ],
+    "creating_agents.date_ranges": [
+      "1859"
+    ],
+    "creating_agents.end_dt": [
+      1859
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1859
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Creswick I (Municipal District 1858-1863; Borough 1863-1934)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "1859"
+    ],
+    "end_dt": "1859",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series appears to consist of registration cards for electors in the Colony of Victoria. This series was received with minimal documentation. Further research required to establish exact function and content of the records."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "9712DC75-F1AE-11E9-AE98-AFDF56C22EFB",
+    "identifier.PROV_ACM.id": "VPRS 5815",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": [
+      "3692"
+    ],
+    "resp_agency_title": [
+      "Hepburn (Shire 1995-ct)"
+    ],
+    "resp_agency_title_facet": [
+      "Hepburn (Shire 1995-ct)"
+    ],
+    "responsible_agents.date_ranges": [
+      "[1995 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      3692
+    ],
+    "responsible_agents.start_dt": [
+      1995
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Hepburn (Shire 1995-ct)"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5815",
+    "series_in_custody.date_range": [
+      "1859"
+    ],
+    "series_in_custody.end_dt": [
+      1859
+    ],
+    "series_in_custody.start_dt": [
+      1859
+    ],
+    "start_dt": "1859",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793062286,
+    "title": "Amherst Parliamentary Electors Registration Cards"
+  },
+  {
+    "_id": "97146316-F1AE-11E9-AE98-4D20530BE268",
+    "_version_": 1880220187771273218,
+    "category": "Series",
+    "citation": "VPRS 5816",
+    "citation_sort": "05816",
+    "contents.date_range": [
+      "[1863 TO 1934]"
+    ],
+    "contents.end_dt": [
+      1934
+    ],
+    "contents.start_dt": [
+      1863
+    ],
+    "creating_agents.creating_agency_id": [
+      657
+    ],
+    "creating_agents.date_ranges": [
+      "[1863 TO 1934]"
+    ],
+    "creating_agents.end_dt": [
+      1934
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1863
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Creswick I (Municipal District 1858-1863; Borough 1863-1934)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1863 TO 1934]"
+    ],
+    "end_dt": "1934",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "Voters Rolls were created annually from voters lists made of eligible ratepayers, who were reviewed and certified, as being entitled to vote at a municipal election.<br />\r\n<br />\r\nVoters Rolls and lists were known under various titles, including Ratepayers Rolls and lists c1854, Burgess Rolls and lists c1860&#39;s, Citizens Rolls and lists and later (from around 1939) Voters Lists and Rolls.<br />\r\n<br />\r\nThis series may comprise of both rolls and lists. For some years rolls may not be extant, and lists have been included, or the lists may be included in a single bound volume. Voters on the final roll were allocated a consecutively running roll number whereas persons on lists are generally unnumbered, although their rate number may be included.<br />\r\n<br />\r\nInformation contained in the roll generally includes:\r\n<ul>\r\n\t<li>Number on Roll</li>\r\n\t<li>Surname in Full</li>\r\n\t<li>Christian or other names in full</li>\r\n\t<li>Residence and post town or post office</li>\r\n\t<li>Nature of calling or occupation</li>\r\n\t<li>Owner or occupier</li>\r\n\t<li>Situation or other description of rateable property</li>\r\n\t<li>Yearly value of rateable property</li>\r\n\t<li>Number of votes.</li>\r\n</ul>\r\n"
+    ],
+    "how_to_use": [
+      "In order to find a ratepayer who is entitled to vote in municipal elections, researchers should scan the roll alphabetically by the surname for the year of interest. From consignment details select the volume for the particular year and note the unit number on the list.<br />\r\n<br />\r\nResearchers should note that voters&#39; rolls do not include all residents. Exclusions were made, and changed over time generally because of age, sex, nationality, value of property, if the person was a rate payer or (until around 1958) if the rates were arrears at the time the roll was being created."
+    ],
+    "identifier.PID.id": "97146316-F1AE-11E9-AE98-4D20530BE268",
+    "identifier.PROV_ACM.id": "VPRS 5816",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": [
+      "Voters rolls were arranged alphabetically by the surname and given name of the ratepayer within each municipal year.<br />\r\n<br />\r\nMunicipalities were required to compile voters&#39; lists, separate voters lists (of ineligible voters), comprising of the names of all rateable persons. Voters&#39; lists were then made available for public inspection and objections (for inclusions, exclusions or amendments) could be lodged.<br />\r\n<br />\r\nObjections were then reviewed in an open Revision Court. Where alterations to the list were made, the chairman of the court initialled them. After revision, each page was to be initialled at the foot of the page by the chair, and the final list was certified by the chair and two members of the court as being correct at the date of revision.<br />\r\n<br />\r\nThe municipal clerk transcribed the lists into a bound volume as the final voters roll or book of eligible voters. Entries were made in alphabetical order by surname. Each eligible ratepayer was allocated a prefix number (or voter&#39;s number on the roll). The prefix number started from the first entry on the roll being number one, and then ran consecutively to the last name, although in some early rolls, the prefix number comprised of the voters number in the rate books. The prefix number was part of the description of the voter, and voters could not receive more than one voter&#39;s number."
+    ],
+    "resp_agency_id": [
+      "3692"
+    ],
+    "resp_agency_title": [
+      "Hepburn (Shire 1995-ct)"
+    ],
+    "resp_agency_title_facet": [
+      "Hepburn (Shire 1995-ct)"
+    ],
+    "responsible_agents.date_ranges": [
+      "[1995 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      3692
+    ],
+    "responsible_agents.start_dt": [
+      1995
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Hepburn (Shire 1995-ct)"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5816",
+    "series_in_custody.date_range": [
+      "[1863 TO 1934]"
+    ],
+    "series_in_custody.end_dt": [
+      1934
+    ],
+    "series_in_custody.start_dt": [
+      1863
+    ],
+    "start_dt": "1863",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793062399,
+    "title": "Creswick Parliamentary Voter's Lists"
   },
   {
     "_id": "971610C7-F1AE-11E9-AE98-DF6536AE7658",
@@ -465205,6 +466067,174 @@
     "title": "Court of Petty Sessions Warrant Books"
   },
   {
+    "_id": "9E51B89A-F1AE-11E9-AE98-C187B2529917",
+    "_version_": 1880220187828944896,
+    "category": "Series",
+    "citation": "VPRS 6172",
+    "citation_sort": "06172",
+    "contents.date_range": [
+      "[1913 TO 1935]"
+    ],
+    "contents.end_dt": [
+      1935
+    ],
+    "contents.start_dt": [
+      1913
+    ],
+    "creating_agents.creating_agency_id": [
+      2278
+    ],
+    "creating_agents.date_ranges": [
+      "[1753 TO 3000]"
+    ],
+    "creating_agents.end_dt": [
+      3000
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1753
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Warracknabeal Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1913 TO 1935]"
+    ],
+    "end_dt": "1935",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of a Criminal Record Book for the Warracknabeal Court of General Sessions. Details recorded for each session are the name of the judge and date. Details recorded for each case within the session are the name of the accused, the offence charged, date of trial, the plea of the accused (guilt or not guilty), verdict and, if applicable, sentence, date of sentence, jury members and remarks."
+    ],
+    "how_to_use": [
+      "Order the volume for viewing in the reading room, then browse entries which are in chronological order within the volume."
+    ],
+    "identifier.PID.id": "9E51B89A-F1AE-11E9-AE98-C187B2529917",
+    "identifier.PROV_ACM.id": "VPRS 6172",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": [
+      "Entries within the volume are arranged in chronological order according to the date of the session."
+    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "6172",
+    "series_in_custody.date_range": [
+      "[1913 TO 1935]"
+    ],
+    "series_in_custody.end_dt": [
+      1935
+    ],
+    "series_in_custody.start_dt": [
+      1913
+    ],
+    "start_dt": "1913",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793067264,
+    "title": "Court of General Sessions, Criminal Record Book"
+  },
+  {
+    "_id": "9E569A9D-F1AE-11E9-AE98-7138C8AEF5BA",
+    "_version_": 1880220187824750592,
+    "category": "Series",
+    "citation": "VPRS 6175",
+    "citation_sort": "06175",
+    "contents.date_range": [
+      "[1920 TO 1937]"
+    ],
+    "contents.end_dt": [
+      1937
+    ],
+    "contents.start_dt": [
+      1920
+    ],
+    "creating_agents.creating_agency_id": [
+      2278
+    ],
+    "creating_agents.date_ranges": [
+      "[1753 TO 3000]"
+    ],
+    "creating_agents.end_dt": [
+      3000
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1753
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Warracknabeal Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1920 TO 1937]"
+    ],
+    "end_dt": "1937",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The Court of General Sessions exercised a purely criminal jurisdiction within the County Court.<br />\r\n<br />\r\nIn 1968 local County Courts and the Court of General Sessions were abolished and one County Court for the whole of Victoria was established. Therefore all cases after 1968 are criminal cases of the County Court sitting on circuit at a particular location.<br />\r\n<br />\r\nThe County Court heard cases of a more series nature than the Magistrates&#39; Court. Cases heard include robbery, common assault and driving under the influence.<br />\r\n<br />\r\nIn accordance with the provisions of Instructions to Clerks of Courts the Clerks of the Peace were required to keep an Appeal Record Book. Information recorded includes:<br />\r\n<br />\r\n- Case Number,<br />\r\n- Names of the Appellant and the Respondent,<br />\r\n-Conviction appealed against,<br />\r\n- The court from whose decision the appeal was made,<br />\r\n- date of hearing,<br />\r\n- Judgement of the court, (appeal abandoned, dismissed),<br />\r\n- Name of the Judge and<br />\r\n- The date of transmission of the memorandum of the decision of the Court of General Sessions to the Clerk of Petty Sessions.<br />\r\n<br />\r\nThe information is entered, signed and sealed after each court by the Clerk of the Peace.<br />\r\n<br />\r\nThis series comprises Appeal Record Book."
+    ],
+    "how_to_use": [
+      "Order the single volume of the appeal record book to view it in the reading room, then browse through the entries which are arranged chronologically."
+    ],
+    "identifier.PID.id": "9E569A9D-F1AE-11E9-AE98-7138C8AEF5BA",
+    "identifier.PROV_ACM.id": "VPRS 6175",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": [
+      "The volume is arranged chronologically by the date of the appeal case."
+    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "6175",
+    "series_in_custody.date_range": [
+      "[1920 TO 1937]"
+    ],
+    "series_in_custody.end_dt": [
+      1937
+    ],
+    "series_in_custody.start_dt": [
+      1920
+    ],
+    "start_dt": "1920",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793066502,
+    "title": "Court of General Sessions, Appeal Record Book"
+  },
+  {
     "_id": "9E58966E-F1AE-11E9-AE98-2B8486122965",
     "_version_": 1816059721277243392,
     "category": "Series",
@@ -486666,6 +487696,80 @@
     "title": "Permit And Booth Licensing Applications"
   },
   {
+    "_id": "A381FFB8-F1AE-11E9-AE98-45248F875EB1",
+    "_version_": 1880220187854110720,
+    "category": "Series",
+    "citation": "VPRS 6442",
+    "citation_sort": "06442",
+    "contents.date_range": null,
+    "contents.end_dt": null,
+    "contents.start_dt": null,
+    "creating_agents.creating_agency_id": [
+      678
+    ],
+    "creating_agents.date_ranges": [
+      "[1753 TO 3000]"
+    ],
+    "creating_agents.end_dt": [
+      3000
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1753
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1869 TO 1937]"
+    ],
+    "end_dt": "1937",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The Court of General Sessions exercised a purely criminal jurisdiction within the County Court.<br />\r\n<br />\r\nIn 1968 local County Courts and the Court of General Sessions were abolished and one County Court for the whole of Victoria was established. Therefore all cases after 1968 are criminal cases of the County Court sitting on circuit at a particular location.<br />\r\n<br />\r\nThe County Court heard cases of a more series nature than the Magistrates&#39; Court. Cases heard include robbery, common assault and driving under the influence.<br />\r\n<br />\r\nIn accordance with the provisions of Instructions to Clerks of Courts the Clerks of the Peace were required to keep an Appeal Record Book. Information recorded includes:<br />\r\n<br />\r\n- Case Number,<br />\r\n- Names of the Appellant and the Respondent,<br />\r\n-Conviction appealed against,<br />\r\n- The court from whose decision the appeal was made,<br />\r\n- date of hearing,<br />\r\n- Judgement of the court, (appeal abandoned, dismissed),<br />\r\n- Name of the Judge and<br />\r\n- The date of transmission of the memorandum of the decision of the Court of General Sessions to the Clerk of Petty Sessions.<br />\r\n<br />\r\nThe information is entered, signed and sealed after each court by the Clerk of the Peace.<br />\r\n<br />\r\nThis series comprises Appeal Record Book."
+    ],
+    "how_to_use": [
+      "Order the single volume of the appeal record book to view it in the reading room, then browse through the entries which are arranged chronologically."
+    ],
+    "identifier.PID.id": "A381FFB8-F1AE-11E9-AE98-45248F875EB1",
+    "identifier.PROV_ACM.id": "VPRS 6442",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": [
+      "The volume is organised chronologically by the date of the appeal case."
+    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "6442",
+    "series_in_custody.date_range": null,
+    "series_in_custody.end_dt": null,
+    "series_in_custody.start_dt": null,
+    "start_dt": "1869",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793071933,
+    "title": "Court of General Sessions, Appeal Record Book"
+  },
+  {
     "_id": "A383AD69-F1AE-11E9-AE98-19DE4D48B10B",
     "_version_": 1867087404024725504,
     "category": "Series",
@@ -486732,6 +487836,92 @@
     "status": "Published",
     "timestamp": 1780544755,
     "title": "County Court Trust Account Cash Books"
+  },
+  {
+    "_id": "A388414C-F1AE-11E9-AE98-FF1F1FB8D0B5",
+    "_version_": 1880220187895005184,
+    "category": "Series",
+    "citation": "VPRS 6446",
+    "citation_sort": "06446",
+    "contents.date_range": [
+      "[1941 TO 1961]"
+    ],
+    "contents.end_dt": [
+      1961
+    ],
+    "contents.start_dt": [
+      1941
+    ],
+    "creating_agents.creating_agency_id": [
+      678
+    ],
+    "creating_agents.date_ranges": [
+      "[1753 TO 3000]"
+    ],
+    "creating_agents.end_dt": [
+      3000
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1753
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1911 TO 1961]"
+    ],
+    "end_dt": "1961",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of a Criminal Record Book for the Ballarat Court of General Sessions. Details recorded for each session are the name of the judge and date. Details recorded for each case within the session are the name of the accused, the offence charged, date of trial, the plea of the accused (guilt or not guilty), verdict and, if applicable, sentence, date of sentence, jury members and remarks."
+    ],
+    "how_to_use": [
+      "Order the volume with the required date range for viewing in the reading room, then browse entries which are in chronological order within the volume."
+    ],
+    "identifier.PID.id": "A388414C-F1AE-11E9-AE98-FF1F1FB8D0B5",
+    "identifier.PROV_ACM.id": "VPRS 6446",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "<main role=\"main\">Entries within the volume are arranged in chronological order according to the date of the session.</main>\r\n"
+    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "6446",
+    "series_in_custody.date_range": [
+      "[1941 TO 1961]"
+    ],
+    "series_in_custody.end_dt": [
+      1961
+    ],
+    "series_in_custody.start_dt": [
+      1941
+    ],
+    "start_dt": "1911",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793076756,
+    "title": "Court of General Sessions, Criminal Record Books"
   },
   {
     "_id": "A38B006E-F1AE-11E9-AE98-DF977078DEFA",
@@ -1681754,7 +1682944,7 @@
   },
   {
     "_id": "064D7CA4-88BA-11EE-BADD-9D6C6A803EAE",
-    "_version_": 1880129590441017344,
+    "_version_": 1880220187755544577,
     "category": "Series",
     "citation": "VPRS 19672",
     "citation_sort": "19672",
@@ -1681853,7 +1683043,7 @@
     "start_dt": "1980",
     "start_dt_qual": "circa",
     "status": "Published",
-    "timestamp": 1792996219,
+    "timestamp": 1793060532,
     "title": "School Policies"
   },
   {
@@ -1896732,7 +1897922,7 @@
   },
   {
     "_id": "F2283709-9F5A-11F0-8856-3BBE39CA1862",
-    "_version_": 1876056502495608833,
+    "_version_": 1880220187805876224,
     "category": "Series",
     "citation": "VPRS 21882",
     "citation_sort": "21882",
@@ -1896829,12 +1898019,12 @@
     "start_dt": "1987",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1789103151,
+    "timestamp": 1793064211,
     "title": "Annual Reports"
   },
   {
     "_id": "7641A813-9F5B-11F0-8856-6F8160948E1A",
-    "_version_": 1879495412262371332,
+    "_version_": 1880220187806924800,
     "category": "Series",
     "citation": "VPRS 21883",
     "citation_sort": "21883",
@@ -1896931,7 +1898121,7 @@
     "start_dt": "2001",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1792380455,
+    "timestamp": 1793064223,
     "title": "Student Transfer Notes and Exit Forms"
   },
   {
