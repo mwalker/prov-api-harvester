@@ -392888,7 +392888,7 @@
   },
   {
     "_id": "8AC63672-F1AE-11E9-AE98-DF48D5315A52",
-    "_version_": 1880220188039708672,
+    "_version_": 1880310784451411968,
     "category": "Series",
     "citation": "VPRS 5219",
     "citation_sort": "05219",
@@ -436904,6 +436904,88 @@
     "title": "Register Of Land Sales (Creswick District Land Office)"
   },
   {
+    "_id": "963FAEE4-F1AE-11E9-AE98-2BF5BE2E6911",
+    "_version_": 1880310784870842368,
+    "category": "Series",
+    "citation": "VPRS 5798",
+    "citation_sort": "05798",
+    "contents.date_range": [
+      "[1855 TO 1856]"
+    ],
+    "contents.end_dt": [
+      1856
+    ],
+    "contents.start_dt": [
+      1855
+    ],
+    "creating_agents.creating_agency_id": [
+      1481
+    ],
+    "creating_agents.date_ranges": [
+      "[1855 TO 1856]"
+    ],
+    "creating_agents.end_dt": [
+      1856
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1855
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Creswick Police Office"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1855 TO 1856]"
+    ],
+    "end_dt": "1856",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "These records were received with minimal documentation. Further research required to determine exact content and function of records."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "963FAEE4-F1AE-11E9-AE98-2BF5BE2E6911",
+    "identifier.PROV_ACM.id": "VPRS 5798",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5798",
+    "series_in_custody.date_range": [
+      "[1855 TO 1856]"
+    ],
+    "series_in_custody.end_dt": [
+      1856
+    ],
+    "series_in_custody.start_dt": [
+      1855
+    ],
+    "start_dt": "1855",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793167293,
+    "title": "Outwards Police Letter Book"
+  },
+  {
     "_id": "96415C95-F1AE-11E9-AE98-69662C1EB7D6",
     "_version_": 1816040157279682560,
     "category": "Series",
@@ -449260,6 +449342,78 @@
     "status": "Published",
     "timestamp": 1791503522,
     "title": "Court of Mines, Bailiff's Return Book"
+  },
+  {
+    "_id": "994F115C-F1AE-11E9-AE98-4DDA0175D2C4",
+    "_version_": 1880310784463994880,
+    "category": "Series",
+    "citation": "VPRS 5950",
+    "citation_sort": "05950",
+    "contents.date_range": [
+      "[1860 TO 1868]"
+    ],
+    "contents.end_dt": [
+      1868
+    ],
+    "contents.start_dt": [
+      1860
+    ],
+    "creating_agents.creating_agency_id": [
+      1414
+    ],
+    "creating_agents.date_ranges": null,
+    "creating_agents.end_dt": null,
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": null,
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Learmonth Police Office"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1860 TO 1868]"
+    ],
+    "end_dt": "1868",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": null,
+    "how_to_use": null,
+    "identifier.PID.id": "994F115C-F1AE-11E9-AE98-4DDA0175D2C4",
+    "identifier.PROV_ACM.id": "VPRS 5950",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5950",
+    "series_in_custody.date_range": [
+      "[1860 TO 1868]"
+    ],
+    "series_in_custody.end_dt": [
+      1868
+    ],
+    "series_in_custody.start_dt": [
+      1860
+    ],
+    "start_dt": "1860",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793144569,
+    "title": "Outwards Letter Book"
   },
   {
     "_id": "995070ED-F1AE-11E9-AE98-BB6283514349",
@@ -1225967,7 +1226121,7 @@
   },
   {
     "_id": "436A6E0F-F1AF-11E9-AE98-FFC55D380CDE",
-    "_version_": 1816040168176484352,
+    "_version_": 1880310784885522433,
     "category": "Series",
     "citation": "VPRS 14469",
     "citation_sort": "14469",
@@ -1226065,7 +1226219,7 @@
     "start_dt": "1891",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614291297,
+    "timestamp": 1793169849,
     "title": "Outward Letter Books"
   },
   {
@@ -1501518,7 +1501672,7 @@
   },
   {
     "_id": "80E124BF-F1AF-11E9-AE98-11E740D25F34",
-    "_version_": 1816040175752445952,
+    "_version_": 1880310784525860864,
     "category": "Series",
     "citation": "VPRS 17489",
     "citation_sort": "17489",
@@ -1501613,7 +1501767,7 @@
     "start_dt": "1992",
     "start_dt_qual": "?",
     "status": "Published",
-    "timestamp": 1614292200,
+    "timestamp": 1793160508,
     "title": "Annual Reports"
   },
   {
@@ -1524419,7 +1524573,7 @@
   },
   {
     "_id": "85F00114-F1AF-11E9-AE98-BD77FB1EC4CD",
-    "_version_": 1816040176030318592,
+    "_version_": 1880310784918028288,
     "category": "Series",
     "citation": "VPRS 17742",
     "citation_sort": "17742",
@@ -1524476,10 +1524630,10 @@
       "4944"
     ],
     "resp_agency_title": [
-      "Wannon Region Water Authority"
+      "Wannon Region Water (Authority 2005-2006; Corporation 2006-present)"
     ],
     "resp_agency_title_facet": [
-      "Wannon Region Water Authority"
+      "Wannon Region Water (Authority 2005-2006; Corporation 2006-present)"
     ],
     "responsible_agents.date_ranges": [
       "[2005 TO 3000]"
@@ -1524496,7 +1524650,7 @@
     ],
     "responsible_agents.start_dt_qual": null,
     "responsible_agents.title": [
-      "Wannon Region Water Authority"
+      "Wannon Region Water (Authority 2005-2006; Corporation 2006-present)"
     ],
     "rights_status": [
       "Open"
@@ -1524514,7 +1524668,7 @@
     "start_dt": "1891",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614292340,
+    "timestamp": 1793169914,
     "title": "Outward Letter Books"
   },
   {
@@ -1926757,6 +1926911,1230 @@
     "status": "Published",
     "timestamp": 1784648029,
     "title": "Student Information and Enrolment Forms\r\n"
+  },
+  {
+    "_id": "9FF98F8C-FCC3-11F0-8856-E3729AF438B1",
+    "_version_": 1880310784518520832,
+    "category": "Series",
+    "citation": "VPRS 22326",
+    "citation_sort": "22326",
+    "contents.date_range": [
+      "[1990 TO 2006]"
+    ],
+    "contents.end_dt": [
+      2006
+    ],
+    "contents.start_dt": [
+      1990
+    ],
+    "creating_agents.creating_agency_id": [
+      5800
+    ],
+    "creating_agents.date_ranges": [
+      "[1990 TO 2006]"
+    ],
+    "creating_agents.end_dt": [
+      2006
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1990
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Wattle Glen Primary School (School No. 4060; previously known as Wattle Glen State School 1874 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1990 TO 2006]"
+    ],
+    "end_dt": "2006",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the annual reports of Wattle Glen Primary School (School No. 4060) (VA 5800).&nbsp;<br />\r\n<br />\r\nThe reports detail aspects such as school governance, achievement, and performance. They may include: Principal&rsquo;s report; School Council President&rsquo;s report; summary of student enrolment, attendance and wellbeing; summary of student progress and achievements; curriculum information; updates on school grounds; staff feedback; charter priorities; annual financial statements and more.<br />\r\n<br />\r\nAlthough the contents, emphasis and delivery mechanisms of annual reports have evolved over time, their fundamental purpose has remained largely unchanged. It provides information on a school&rsquo;s progress and achievements over the course of each year.<br />\r\n<br />\r\nThe content and size of annual reports varies, increasing in size and detail with the implementation of a formalised structure by the Department of Education (VA 3098) in the 1993 amendment to the <em>Education Act 1958</em> (Vic).&nbsp;<br />\r\n<br />\r\nIn 1994, under the Schools of the Future program, the Department of Education (VA 3098) introduced a framework to provide an accountability mechanism in schools, known as Quality Assurance in Victorian Schools: An Accountability Framework. This framework was introduced to all primary and secondary schools in the state and was created to support the shift in school management from being centrally controlled by the Department to being managed by the local school community. The annual report was one of the three key elements of the framework, in addition to a school charter and a triennial review of the school. The preparation and publication of an annual report was a legislative and regulatory requirement for all schools under the <em>Education and Training Reform Act 2006</em> (Vic), Ministerial Order 1280 and the National Education Agreement 2008."
+    ],
+    "how_to_use": [
+      "Researchers should search within the series by year of report.<br />\r\n&nbsp;"
+    ],
+    "identifier.PID.id": "9FF98F8C-FCC3-11F0-8856-E3729AF438B1",
+    "identifier.PROV_ACM.id": "VPRS 22326",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Annual reports are arranged in chronological order. &nbsp;<br />\r\n<br />\r\nNot every year of the school&rsquo;s operation may have a report. If a report is missing from this series, please refer to the VPRS 17782 School Annual Reports, which holds a collection of school reports accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22326",
+    "series_in_custody.date_range": [
+      "[1990 TO 2006]"
+    ],
+    "series_in_custody.end_dt": [
+      2006
+    ],
+    "series_in_custody.start_dt": [
+      1990
+    ],
+    "start_dt": "1990",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793159759,
+    "title": "Annual Reports\r\n"
+  },
+  {
+    "_id": "A95D663D-FCC6-11F0-8856-9F4D549D4707",
+    "_version_": 1880310784521666562,
+    "category": "Series",
+    "citation": "VPRS 22327",
+    "citation_sort": "22327",
+    "contents.date_range": [
+      "2003"
+    ],
+    "contents.end_dt": [
+      2003
+    ],
+    "contents.start_dt": [
+      2003
+    ],
+    "creating_agents.creating_agency_id": [
+      5800
+    ],
+    "creating_agents.date_ranges": [
+      "2003"
+    ],
+    "creating_agents.end_dt": [
+      2003
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2003
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Wattle Glen Primary School (School No. 4060; previously known as Wattle Glen State School 1874 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "2003"
+    ],
+    "end_dt": "2003",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of School Charters prepared by Wattle Glen Primary School (School No. 4060) (VA 5800).&nbsp;<br />\r\n<br />\r\nIn 1994, as part of the Jeff Kennett government&#39;s Schools of the Future program, the Department of Education (VA 3098) introduced Quality Assurance in Victorian Schools: An Accountability Framework. This framework aimed to shift school management from centralised Department control to self-management by local school communities. It applied to all primary and secondary schools in Victoria, allowing them to make decisions regarding effective learning provision and resource allocation, both human and financial, to meet local priorities.<br />\r\n<br />\r\nSelf-management was guided by school councils and region-approved school charters, implemented through global budgets and school-based program budgeting. School charters outlined a school&#39;s vision, ethos, objectives, and priorities over a three-year period, detailing strategies for achieving goals and evaluating progress. Program budgeting allocated funds across curriculum areas based on school-identified needs, balancing government funding with local fundraising efforts while adhering to state-wide guidelines. A Code of Conduct defined expected student behaviour and disciplinary measures for misconduct.&nbsp;<br />\r\n<br />\r\nThe accountability framework consisted of three key elements: the school charter, an annual report, and a triennial school review. The charter functioned as a formal agreement between the school council president, the principal, and the Director of School Education (later the Secretary of the Department). School Charters are no longer produced, likely due to legislative changes in 2006. School Charters went on to be replaced by the School Strategic Plan.&nbsp;<br />\r\n<br />\r\nThe focus of each charter was on planned, coherent, and continuous improvement, presented in a standardised format specified by the Department of Education (VA 5283) or its predecessors. Each charter provided information under five key sections:<br />\r\n<br />\r\n1. School profile (background on the school, such as history, demographics, etc);<br />\r\n2. Core purpose statements (goals);<br />\r\n3. Planning for improvement (priorities, curriculum, budget, accountability);<br />\r\n4. Codes of practice (school council, principal class, staff and community);<br />\r\n5. Code of conduct for students."
+    ],
+    "how_to_use": [
+      "Researchers should browse within the series by dates of interest.<br />\r\n&nbsp;"
+    ],
+    "identifier.PID.id": "A95D663D-FCC6-11F0-8856-9F4D549D4707",
+    "identifier.PROV_ACM.id": "VPRS 22327",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "School Charters are arranged in chronological order by year of report. &nbsp;<br />\r\n<br />\r\nSchool Charter records are sporadic and there may not be a charter for every three-year period the school is in operation. If a specific charter cannot be located in this series, consult VPRS 17783 School Charters which contains school charters that were accumulated by the Department of Education (VA 5283) or its predecessors. &nbsp; &nbsp; &nbsp;<br />\r\n<br />\r\nSchool Charters are no longer produced, likely due to legislative changes in 2006. School Charters were replaced by the School Strategic Plan."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22327",
+    "series_in_custody.date_range": [
+      "2003"
+    ],
+    "series_in_custody.end_dt": [
+      2003
+    ],
+    "series_in_custody.start_dt": [
+      2003
+    ],
+    "start_dt": "2003",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793159955,
+    "title": "School Charters\r\n"
+  },
+  {
+    "_id": "DC52E6E7-FCC6-11F0-8856-4DF2AD6839EC",
+    "_version_": 1880310784523763715,
+    "category": "Series",
+    "citation": "VPRS 22328",
+    "citation_sort": "22328",
+    "contents.date_range": [
+      "[1976 TO 1999]"
+    ],
+    "contents.end_dt": [
+      1999
+    ],
+    "contents.start_dt": [
+      1976
+    ],
+    "creating_agents.creating_agency_id": [
+      5800
+    ],
+    "creating_agents.date_ranges": [
+      "[1976 TO 1999]"
+    ],
+    "creating_agents.end_dt": [
+      1999
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1976
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Wattle Glen Primary School (School No. 4060; previously known as Wattle Glen State School 1874 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1976 TO 1999]"
+    ],
+    "end_dt": "1999",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises volumes recording the minutes of meetings held by the School Council for Wattle Glen Primary School (School No. 4060) (VA 5800).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the <em>Education Act 1958</em> allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983 the <em>Education Act</em> was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the <em>Education and Training Reform Act 2006</em>, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n&nbsp;&nbsp; &nbsp;<br />\r\nFor each meeting of the school council, minutes of all proceedings are recorded together with the names of all members present and all who vote for and against motions. The minutes relate to the wide range of activities for which the council is responsible. They are written under agenda item headings and circulated by the principal prior to the next meeting of council, where they are confirmed as accurate and signed by the school council president presiding at the meeting.<br />\r\n<br />\r\nRecords created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Researchers should consult the consignment details to identify a relevant time period and browse through the volume to locate the required information."
+    ],
+    "identifier.PID.id": "DC52E6E7-FCC6-11F0-8856-4DF2AD6839EC",
+    "identifier.PROV_ACM.id": "VPRS 22328",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Minutes of meetings are arranged in chronological order by date of meeting.&nbsp;<br />\r\n<br />\r\nFor additional records of School Council activities, see VPRS 22239 School Council Papers."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22328",
+    "series_in_custody.date_range": [
+      "[1976 TO 1999]"
+    ],
+    "series_in_custody.end_dt": [
+      1999
+    ],
+    "series_in_custody.start_dt": [
+      1976
+    ],
+    "start_dt": "1976",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793160173,
+    "title": "School Council Minute Books\r\n"
+  },
+  {
+    "_id": "0E39DDC9-FCC7-11F0-8856-F32823D306C2",
+    "_version_": 1880310784598212609,
+    "category": "Series",
+    "citation": "VPRS 22329",
+    "citation_sort": "22329",
+    "contents.date_range": [
+      "[1980 TO 2017]"
+    ],
+    "contents.end_dt": [
+      2017
+    ],
+    "contents.start_dt": [
+      1980
+    ],
+    "creating_agents.creating_agency_id": [
+      5800
+    ],
+    "creating_agents.date_ranges": [
+      "[1980 TO 2017]"
+    ],
+    "creating_agents.end_dt": [
+      2017
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1980
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Wattle Glen Primary School (School No. 4060; previously known as Wattle Glen State School 1874 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1980 TO 2017]"
+    ],
+    "end_dt": "2017",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises school council records documenting the organisation and operation of Wattle Glen Primary School (School No. 4060) (VA 5800).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the<em> Education Act 1958</em> allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983, the <em>Education Act </em>was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the <em>Education and Training Reform Act 2006</em>, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included: maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n<br />\r\nThis series may include the following records: minutes, agendas, correspondence, policies, financial statements and reports from principals and other staff members. Records created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Browse within the series to find relevant information."
+    ],
+    "identifier.PID.id": "0E39DDC9-FCC7-11F0-8856-F32823D306C2",
+    "identifier.PROV_ACM.id": "VPRS 22329",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are organised sequentially by date and separated into files by year. Some may span multiple years within a single file, while others are spread over multiple files per year. The content, date range and volume of records differs for each school.<br />\r\n<br />\r\nFor additional records of school council activities, see VPRS 22328 School Council Minute Books."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22329",
+    "series_in_custody.date_range": [
+      "[1980 TO 2017]"
+    ],
+    "series_in_custody.end_dt": [
+      2017
+    ],
+    "series_in_custody.start_dt": [
+      1980
+    ],
+    "start_dt": "1980",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793161323,
+    "title": "School Council Papers\r\n"
+  },
+  {
+    "_id": "3ECC1D1A-FCCB-11F0-8856-690718D9C937",
+    "_version_": 1880310784601358336,
+    "category": "Series",
+    "citation": "VPRS 22330",
+    "citation_sort": "22330",
+    "contents.date_range": [
+      "[1988 TO 2018]"
+    ],
+    "contents.end_dt": [
+      2018
+    ],
+    "contents.start_dt": [
+      1988
+    ],
+    "creating_agents.creating_agency_id": [
+      5800
+    ],
+    "creating_agents.date_ranges": [
+      "[1988 TO 2018]"
+    ],
+    "creating_agents.end_dt": [
+      2018
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1988
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Wattle Glen Primary School (School No. 4060; previously known as Wattle Glen State School 1874 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1988 TO 2018]"
+    ],
+    "end_dt": "2018",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the official annual school group photographs of the staff, classes/forms, year levels and/or entire school and form a visual record of the students and teachers at Wattle Glen Primary School (School No. 4060) (VA 5800) at a point in time.<br />\r\n<br />\r\nThere are not always photographs for every year and within a year period, there may or may not be a photograph for every class/form. The extent of the photographs within the series will vary depending on the school. Additionally, while most photographs list the names of the students and staff members included in the photograph there are some that are unidentified.&nbsp;"
+    ],
+    "how_to_use": [
+      "Search for specific photographs by year.&nbsp;"
+    ],
+    "identifier.PID.id": "3ECC1D1A-FCCB-11F0-8856-690718D9C937",
+    "identifier.PROV_ACM.id": "VPRS 22330",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Class photographs are grouped by year or year period in files and are typically ordered by year level within each file. The photographs were likely originally stored in photo albums and plastic sleeves.<br />\r\n<br />\r\nWithin a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staffs included by name."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22330",
+    "series_in_custody.date_range": [
+      "[1988 TO 2018]"
+    ],
+    "series_in_custody.end_dt": [
+      2018
+    ],
+    "series_in_custody.start_dt": [
+      1988
+    ],
+    "start_dt": "1988",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793161540,
+    "title": "School Photographs\r\n"
+  },
+  {
+    "_id": "7D5D43BD-FCCB-11F0-8856-99B8D3BDD150",
+    "_version_": 1880310784603455488,
+    "category": "Series",
+    "citation": "VPRS 22331",
+    "citation_sort": "22331",
+    "contents.date_range": [
+      "[2008 TO 2011]"
+    ],
+    "contents.end_dt": [
+      2011
+    ],
+    "contents.start_dt": [
+      2008
+    ],
+    "creating_agents.creating_agency_id": [
+      5800
+    ],
+    "creating_agents.date_ranges": [
+      "[2008 TO 2011]"
+    ],
+    "creating_agents.end_dt": [
+      2011
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2008
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Wattle Glen Primary School (School No. 4060; previously known as Wattle Glen State School 1874 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2008 TO 2011]"
+    ],
+    "end_dt": "2011",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of school policy and strategic planning files from Wattle Glen Primary School (School No. 4060) (VA 5800). These files are distinct from the general policies and operational guidance distributed to all government schools by the Department of Education III (VA 5283) or its predecessors.&nbsp;<br />\r\n<br />\r\nSchool policies are developed by the school council, which is responsible for reflecting the school&rsquo;s values and support the school&rsquo;s broad direction, as outlined in its Strategic Plan. The Strategic Plan replaced the School Charter.&nbsp;<br />\r\n<br />\r\nThe Strategic Plan is a 4-year plan for school improvement, completed by schools after their school review. It is a document which outlines the school&rsquo;s vision and values, sets goals and targets for improved student outcomes, lists the key improvement strategies that will help achieve these goals and targets and is sensitive to local needs of the school community.&nbsp;<br />\r\n<br />\r\nSome policies are required by legislation or Departmental directives, while others may be created by the school council to address local needs. Under the <em>Education and Training Reform Act 2006 </em>(Vic), all Victorian government schools are required to have a Strategic Plan as part of their registration with the Victorian Qualifications and Registration Authority.<br />\r\n<br />\r\nThese policies cover a wide range of topics common to most schools, including camps, excursions, and outdoor activities; canteen and other school food services; community use of school facilities; dress code; homework; inclusion practices; strategic plans; and student behaviour management.<br />\r\n<br />\r\nUnder the <em>Education and Training Reform Act 2006</em> (Vic) and Ministerial Order 1359: Implementing the Child Safe Standards &ndash; Managing the Risk of Child Abuse in Schools, government schools are mandated to create policies that comply with Victoria&rsquo;s Child Safe Standards. As of 2024, the Department of Education (VA 5283) required schools to have policies about certain topics, for example education maintenance allowance, investments, parent complaints and payments, student engagement and wellbeing, visitors to schools, criminal record checks, and anaphylaxis management.&nbsp;<br />\r\n<br />\r\nPrior to the legislative establishment of School Councils, records of schools&rsquo; governance may be contained in the records of other committees, including school committees, advisory committees, welfare clubs or parent committees."
+    ],
+    "how_to_use": [
+      "Browse the consignment details and select the relevant policy based on the topic or year.&nbsp;"
+    ],
+    "identifier.PID.id": "7D5D43BD-FCCB-11F0-8856-99B8D3BDD150",
+    "identifier.PROV_ACM.id": "VPRS 22331",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Policy files are arranged in chronological order by year of policy. One policy may span many years and may or may not form a component of a broader general policy document for the school.<br />\r\n<br />\r\nSome school policies may include dates showing the period they cover; however, it is common for policy documents to lack specific date details or a clear start period."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22331",
+    "series_in_custody.date_range": [
+      "[2008 TO 2011]"
+    ],
+    "series_in_custody.end_dt": [
+      2011
+    ],
+    "series_in_custody.start_dt": [
+      2008
+    ],
+    "start_dt": "2008",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793161736,
+    "title": "School Policies\r\n"
+  },
+  {
+    "_id": "C05F590F-FCCB-11F0-8856-ABEC4D721E76",
+    "_version_": 1880310784714604545,
+    "category": "Series",
+    "citation": "VPRS 22332",
+    "citation_sort": "22332",
+    "contents.date_range": [
+      "[1943 TO 1981]"
+    ],
+    "contents.end_dt": [
+      1981
+    ],
+    "contents.start_dt": [
+      1943
+    ],
+    "creating_agents.creating_agency_id": [
+      5801
+    ],
+    "creating_agents.date_ranges": [
+      "[1943 TO 1981]"
+    ],
+    "creating_agents.end_dt": [
+      1981
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1943
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Westmeadows Primary School (School No. 982; previously known as Broadmeadows Common School 1870 \u2013 c.1873; Broadmeadows State School c.1873 \u2013 1956; Westmeadows State School 1956 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1943 TO 1981]"
+    ],
+    "end_dt": "1981",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of Inspector&#39;s Report Books which provide a detailed examination of the school building and grounds, student activities and teaching as observed by the Inspector at the time of their visit to Westmeadows Primary School (School No. 982) (VA 5801).<br />\r\n<br />\r\nSchool Inspectors reported on teacher, student, and school performance and the implementation of Department policies at Victorian government schools from 1852 until 1984. Outside of their advisory and assessment duties, District Inspectors oversaw fielding, investigating and responding to complaints and concerns regarding teachers.&nbsp;<br />\r\n<br />\r\nInspectors, collectively known as the Inspectorate, were first appointed following a Report from the Select Committee on Education in 1852, and from 1853 were directly accountable to the National Board of Commissioners. From 1862, they were appointed by the Board of Education (VA 713), and from then until 1904 were accountable to the Board and its successors.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984 after which greater accountability was given to school councils and principals. &nbsp;<br />\r\n<br />\r\nThe Inspector&rsquo;s Report Book were issued to all schools by the Education Department (VA 714) and its successors. The Inspectors recorded the school number, date and time of visit, comments, and signed the books. Some books also contain official Departmental receipts for donations collected from the head teacher for textbooks.<br />\r\n<br />\r\nReports were created by Departmental Inspectors during annual and supplementary visits to government schools. Inspections (and comments) were made regarding the number of pupils present and their general appearance, the condition of the school grounds, buildings, furniture and recordkeeping, school organisation, standard of instruction, time and discipline, teacher accommodation and audits of the sale of textbooks supplied by the Education Department. Background knowledge about individual school management and routines was provided by the local community to the Inspector. During the &lsquo;payment by results&rsquo; system adopted in Victoria from 1864 &ndash; 1904, Inspectors also conducted regular examinations of pupils to assess the teacher&rsquo;s eligibility for bonus pay.<br />\r\n<br />\r\nInspection reports were prepared and forwarded to central officials, where the material was aggregated and presented in an annual report to parliament (See Original Papers Tabled in the Legislative Assembly, VPRS 3253). Edited summaries were made available for publishing in daily newspapers.<br />\r\n<br />\r\nIn the new decentralised model after 1984, regional directors were to oversee the new accountability measures administered by the schools, and the principal assumed greater authority for decision-making in all aspects of school operations and in this sense, assumed many of the duties of former inspectors. Many of these decisions can be found recorded in the school&rsquo;s annual report, or the minutes of the meetings of the school council.&nbsp;"
+    ],
+    "how_to_use": [
+      "Browse the volume for the relevant information."
+    ],
+    "identifier.PID.id": "C05F590F-FCCB-11F0-8856-ABEC4D721E76",
+    "identifier.PROV_ACM.id": "VPRS 22332",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Reports within the books are made sequentially in date order. Books are labelled with the school name and number, and often the date range covered within.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22332",
+    "series_in_custody.date_range": [
+      "[1943 TO 1981]"
+    ],
+    "series_in_custody.end_dt": [
+      1981
+    ],
+    "series_in_custody.start_dt": [
+      1943
+    ],
+    "start_dt": "1943",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793164443,
+    "title": "Inspector's Report Books\r\n"
+  },
+  {
+    "_id": "F30CACF1-FCCB-11F0-8856-F70C10EF7091",
+    "_version_": 1880310784716701699,
+    "category": "Series",
+    "citation": "VPRS 22333",
+    "citation_sort": "22333",
+    "contents.date_range": [
+      "[1911 TO 1995]"
+    ],
+    "contents.end_dt": [
+      1995
+    ],
+    "contents.start_dt": [
+      1911
+    ],
+    "creating_agents.creating_agency_id": [
+      5801
+    ],
+    "creating_agents.date_ranges": [
+      "[1911 TO 1995]"
+    ],
+    "creating_agents.end_dt": [
+      1995
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1911
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Westmeadows Primary School (School No. 982; previously known as Broadmeadows Common School 1870 \u2013 c.1873; Broadmeadows State School c.1873 \u2013 1956; Westmeadows State School 1956 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1911 TO 1995]"
+    ],
+    "end_dt": "1995",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Pupils&rsquo; Registers for Westmeadows Primary School (School No. 982) (VA 5801). Pupil registers were a standardised register in which to record student enrolment data, used by all Victorian government primary schools and at times adapted for use at other types of schools.&nbsp;<br />\r\n<br />\r\nThe front cover typically featured titles such as &quot;Pupils&#39; Register State Primary School&quot; or &quot;Register of the Common School&quot;, with space to record the school number and name. Additional instructions on the cover outlined the required information to be recorded in the register.<br />\r\n<br />\r\nThe information entered into the register was typically derived from admission forms completed by parents prior to admission or, in the case of transfers from other government schools, from transfer notes completed by the previous school. While the level of detail listed for students varies, the information recorded may include a registration number (a sequential number assigned upon enrolment at the school); the student&rsquo;s full name and date of birth; date of enrolment; name, residence and occupation of parent or guardian; school last attended (school number and name) with grade and date of last attendance; number of meetings attended (sectioned by year); date, month and year of obtaining Merit Certificate, and Merit Certificate number; date, month, and year of last attendance; and destination of pupil (either the number and name of a school, or nature of occupation, and name and address of employer).<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series to identify dates of interest."
+    ],
+    "identifier.PID.id": "F30CACF1-FCCB-11F0-8856-F70C10EF7091",
+    "identifier.PROV_ACM.id": "VPRS 22333",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Pupils&rsquo; registers are arranged in numerical order by register number, which is a sequential numerical identifier (eg. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) assigned to each student at the time of their enrolment.<br />\r\n<br />\r\nAn Index to Pupils&rsquo; Register would have also been maintained by the school, to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, however Public Record Office Victoria does not hold the Index to Pupils&rsquo; Register for this school."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22333",
+    "series_in_custody.date_range": [
+      "[1911 TO 1995]"
+    ],
+    "series_in_custody.end_dt": [
+      1995
+    ],
+    "series_in_custody.start_dt": [
+      1911
+    ],
+    "start_dt": "1911",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793164621,
+    "title": "Pupils' Registers\r\n"
+  },
+  {
+    "_id": "20E631A3-FCCC-11F0-8856-999640418C0B",
+    "_version_": 1880310784718798851,
+    "category": "Series",
+    "citation": "VPRS 22334",
+    "citation_sort": "22334",
+    "contents.date_range": [
+      "[1968 TO 1982]"
+    ],
+    "contents.end_dt": [
+      1982
+    ],
+    "contents.start_dt": [
+      1968
+    ],
+    "creating_agents.creating_agency_id": [
+      5801
+    ],
+    "creating_agents.date_ranges": [
+      "[1968 TO 1982]"
+    ],
+    "creating_agents.end_dt": [
+      1982
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1968
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Westmeadows Primary School (School No. 982; previously known as Broadmeadows Common School 1870 \u2013 c.1873; Broadmeadows State School c.1873 \u2013 1956; Westmeadows State School 1956 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1968 TO 1982]"
+    ],
+    "end_dt": "1982",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises a Register of Corporal Punishment, maintained by Westmeadows Primary School (School No. 982) (VA 5801). The Register of Corporal Punishment was a standardised register used in Victorian government schools from the early 20th century until at least the 1960s. &nbsp;<br />\r\n<br />\r\nEach school filled in their name and school number on the front cover of the register. Inside the front cover of the bound volume is a list of eight regulations relating to the implementation of corporal punishment in schools, including who may be authorised to deliver such punishment, what type of punishment is permitted, and the circumstances when corporal punishment may be applied.&nbsp;<br />\r\n<br />\r\nThe Head Teacher of the school was held responsible for the nature and extent of the punishment inflicted, and only the Head Teacher or those they authorised were permitted to inflict this punishment. Accordingly, the first few pages of the book are titled &lsquo;Names of Teachers Authorized to Inflict Corporal Punishment&rsquo;. In columns below are spaces for the Head Teacher to fill out the name and date of the teachers authorised.<br />\r\n<br />\r\nThe rest of the volume is made up of perforated pages that were used to record the circumstances of individual punishments. Each page contains columns for the teacher to fill out the student&rsquo;s details (full name, age, and grade), the date, the offence committed, the nature and extent of the punishment inflicted, and the initials of the teacher inflicting the punishment. Entries for each year were to be filled out on a separate leaf. According to the instructions listed inside the front cover of the register, these pages were to be kept in the Register for just two years before being removed and destroyed. As such, much of this register is filled with blank pages. Where entries do remain, the level of detail recorded varies.&nbsp;<br />\r\n<br />\r\nCorporal punishment was banned in Victorian state schools in 1983, though many schools had abolished the practice long before then."
+    ],
+    "how_to_use": [
+      "Researchers should browse through the volume to identify individual records of interest."
+    ],
+    "identifier.PID.id": "20E631A3-FCCC-11F0-8856-999640418C0B",
+    "identifier.PROV_ACM.id": "VPRS 22334",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Registers of Corporal Punishment are arranged chronologically by date of incident.&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22334",
+    "series_in_custody.date_range": [
+      "[1968 TO 1982]"
+    ],
+    "series_in_custody.end_dt": [
+      1982
+    ],
+    "series_in_custody.start_dt": [
+      1968
+    ],
+    "start_dt": "1968",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793164803,
+    "title": "Register of Corporal Punishment\r\n"
+  },
+  {
+    "_id": "57CDFAE5-FCCC-11F0-8856-CB9D8F4A7284",
+    "_version_": 1880310784721944576,
+    "category": "Series",
+    "citation": "VPRS 22335",
+    "citation_sort": "22335",
+    "contents.date_range": [
+      "[2001 TO 2003]"
+    ],
+    "contents.end_dt": [
+      2003
+    ],
+    "contents.start_dt": [
+      2001
+    ],
+    "creating_agents.creating_agency_id": [
+      5801
+    ],
+    "creating_agents.date_ranges": [
+      "[2001 TO 2003]"
+    ],
+    "creating_agents.end_dt": [
+      2003
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2001
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Westmeadows Primary School (School No. 982; previously known as Broadmeadows Common School 1870 \u2013 c.1873; Broadmeadows State School c.1873 \u2013 1956; Westmeadows State School 1956 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2001 TO 2003]"
+    ],
+    "end_dt": "2003",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of School Charters prepared by Westmeadows Primary School (School No. 982) (VA 5801).&nbsp;<br />\r\n<br />\r\nIn 1994, as part of the Jeff Kennett government&#39;s Schools of the Future program, the Department of Education (VA 3098) introduced Quality Assurance in Victorian Schools: An Accountability Framework. This framework aimed to shift school management from centralised Department control to self-management by local school communities. It applied to all primary and secondary schools in Victoria, allowing them to make decisions regarding effective learning provision and resource allocation, both human and financial, to meet local priorities.<br />\r\n<br />\r\nSelf-management was guided by school councils and region-approved school charters, implemented through global budgets and school-based program budgeting. School charters outlined a school&#39;s vision, ethos, objectives, and priorities over a three-year period, detailing strategies for achieving goals and evaluating progress. Program budgeting allocated funds across curriculum areas based on school-identified needs, balancing government funding with local fundraising efforts while adhering to state-wide guidelines. A Code of Conduct defined expected student behaviour and disciplinary measures for misconduct.&nbsp;<br />\r\n<br />\r\nThe accountability framework consisted of three key elements: the school charter, an annual report, and a triennial school review. The charter functioned as a formal agreement between the school council president, the principal, and the Director of School Education (later the Secretary of the Department). School Charters are no longer produced, likely due to legislative changes in 2006. School Charters went on to be replaced by the School Strategic Plan.&nbsp;<br />\r\n<br />\r\nThe focus of each charter was on planned, coherent, and continuous improvement, presented in a standardised format specified by the Department of Education (VA 5283) or its predecessors. Each charter provided information under five key sections:<br />\r\n<br />\r\n1. School profile (background on the school, such as history, demographics, etc);<br />\r\n2. Core purpose statements (goals);<br />\r\n3. Planning for improvement (priorities, curriculum, budget, accountability);<br />\r\n4. Codes of practice (school council, principal class, staff and community);<br />\r\n5. Code of conduct for students."
+    ],
+    "how_to_use": [
+      "Researchers should browse within the series by dates of interest.<br />\r\n&nbsp;"
+    ],
+    "identifier.PID.id": "57CDFAE5-FCCC-11F0-8856-CB9D8F4A7284",
+    "identifier.PROV_ACM.id": "VPRS 22335",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "School Charters are arranged in chronological order by year of report. &nbsp;<br />\r\n<br />\r\nSchool Charter records are sporadic and there may not be a charter for every three-year period the school is in operation. &nbsp;If a specific charter cannot be located in this series, consult VPRS 17783 School Charters which contains school charters that were accumulated by the Department of Education (VA 5283) or its predecessors. &nbsp; &nbsp; &nbsp;<br />\r\n<br />\r\nSchool Charters are no longer produced, likely due to legislative changes in 2006. School Charters were replaced by the School Strategic Plan."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22335",
+    "series_in_custody.date_range": [
+      "[2001 TO 2003]"
+    ],
+    "series_in_custody.end_dt": [
+      2003
+    ],
+    "series_in_custody.start_dt": [
+      2001
+    ],
+    "start_dt": "2001",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793164962,
+    "title": "School Charters\r\n"
+  },
+  {
+    "_id": "8D5AEF18-FCCC-11F0-8856-F30BEBCB10D2",
+    "_version_": 1880310784728236032,
+    "category": "Series",
+    "citation": "VPRS 22336",
+    "citation_sort": "22336",
+    "contents.date_range": [
+      "[1923 TO 2020]"
+    ],
+    "contents.end_dt": [
+      2020
+    ],
+    "contents.start_dt": [
+      1923
+    ],
+    "creating_agents.creating_agency_id": [
+      5801
+    ],
+    "creating_agents.date_ranges": [
+      "[1923 TO 2020]"
+    ],
+    "creating_agents.end_dt": [
+      2020
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1923
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Westmeadows Primary School (School No. 982; previously known as Broadmeadows Common School 1870 \u2013 c.1873; Broadmeadows State School c.1873 \u2013 1956; Westmeadows State School 1956 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1923 TO 2020]"
+    ],
+    "end_dt": "2020",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the official annual school group photographs of the staff, classes/forms, year levels and/or entire school and form a visual record of the students and teachers at Westmeadows Primary School (School No. 982) (VA 5801) at a point in time.<br />\r\n<br />\r\nThere are not always photographs for every year and within a year period, there may or may not be a photograph for every class/form. The extent of the photographs within the series will vary depending on the school. Additionally, while most photographs list the names of the students and staff members included in the photograph there are some that are unidentified.&nbsp;<br />\r\n&nbsp;"
+    ],
+    "how_to_use": [
+      "Search for specific photographs by year.&nbsp;"
+    ],
+    "identifier.PID.id": "8D5AEF18-FCCC-11F0-8856-F30BEBCB10D2",
+    "identifier.PROV_ACM.id": "VPRS 22336",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Class photographs are grouped by year or year period in files and are typically ordered by year level within each file. The photographs were likely originally stored in photo albums and plastic sleeves.<br />\r\n<br />\r\nWithin a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staffs included by name."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22336",
+    "series_in_custody.date_range": [
+      "[1923 TO 2020]"
+    ],
+    "series_in_custody.end_dt": [
+      2020
+    ],
+    "series_in_custody.start_dt": [
+      1923
+    ],
+    "start_dt": "1923",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793165136,
+    "title": "School Photographs\r\n"
+  },
+  {
+    "_id": "CE2292DA-FCCE-11F0-8856-8985A30A3A1F",
+    "_version_": 1880310784731381760,
+    "category": "Series",
+    "citation": "VPRS 22337",
+    "citation_sort": "22337",
+    "contents.date_range": [
+      "[1970 TO 1995]"
+    ],
+    "contents.end_dt": [
+      1995
+    ],
+    "contents.start_dt": [
+      1970
+    ],
+    "creating_agents.creating_agency_id": [
+      5801
+    ],
+    "creating_agents.date_ranges": [
+      "[1970 TO 1995]"
+    ],
+    "creating_agents.end_dt": [
+      1995
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1970
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Westmeadows Primary School (School No. 982; previously known as Broadmeadows Common School 1870 \u2013 c.1873; Broadmeadows State School c.1873 \u2013 1956; Westmeadows State School 1956 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1970 TO 1995]"
+    ],
+    "end_dt": "1995",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The publications in this series were produced by Westmeadows Primary School (School No. 982) (VA 5801) and provide an insight into the activities, culture and curriculum of the school at a certain point in time.&nbsp;<br />\r\n<br />\r\nThe series may include yearbooks, sometimes referred to as &lsquo;school magazines&rsquo;, prospectus publications and other typically annual publications as well as one-off publications of school histories, milestone celebrations and student work anthologies.&nbsp;<br />\r\n<br />\r\nYearbooks were published annually and may feature staff lists with qualifications, highlights of major events, photographs, sports teams, clubs and prefects, new buildings, major excursions, autographs and stories, poetry and art by students.<br />\r\n<br />\r\nProspectus were typically published annually to provide a guide to prospective students about the operations and curriculum of the school and may include information on courses, organisational structure, enrolment procedures, maps, school policy and transport options."
+    ],
+    "how_to_use": [
+      "Researchers should browse within the series by publication type and year. Searches can also be conducted by publication or magazine title."
+    ],
+    "identifier.PID.id": "CE2292DA-FCCE-11F0-8856-8985A30A3A1F",
+    "identifier.PROV_ACM.id": "VPRS 22337",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records are organised by publication type and ordered chronologically by publication date, though gaps may exist within the collection."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22337",
+    "series_in_custody.date_range": [
+      "[1970 TO 1995]"
+    ],
+    "series_in_custody.end_dt": [
+      1995
+    ],
+    "series_in_custody.start_dt": [
+      1970
+    ],
+    "start_dt": "1970",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793165298,
+    "title": "School Publications\r\n"
   },
   {
     "_id": "B46627F2-FFC1-11F0-8856-01C101E99025",
