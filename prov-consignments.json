@@ -44226,30 +44226,30 @@
   },
   {
     "_id": "AF1FFA9A-F1AF-11E9-AE98-EBF1253AEF92",
-    "_version_": 1816040214028615680,
+    "_version_": 1880401382329024512,
     "category": "Consignment",
     "citation": "VPRS 556/P0000",
     "citation_sort": "0000VPRS 556/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1870 TO 1943]"
     ],
     "contents.end_dt": [
-      3000
+      1943
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1870
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1870 TO 1943]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1943",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -44276,10 +44276,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1870",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614307507,
+    "timestamp": 1793281541,
     "title": "Consignment 556/P0000"
   },
   {
@@ -173784,30 +173784,30 @@
   },
   {
     "_id": "ED67E356-F1AF-11E9-AE98-234AF3E83FEE",
-    "_version_": 1816040192282198016,
+    "_version_": 1880401382162300928,
     "category": "Consignment",
     "citation": "VPRS 2504/P0000",
     "citation_sort": "0000VPRS 2504/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1884 TO 1920]"
     ],
     "contents.end_dt": [
-      3000
+      1920
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1884
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1884 TO 1920]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1920",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -173834,38 +173834,38 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1884",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299767,
+    "timestamp": 1793281080,
     "title": "Consignment 2504/P0000"
   },
   {
     "_id": "ED6E9A17-F1AF-11E9-AE98-59639C313CDC",
-    "_version_": 1816040192282198017,
+    "_version_": 1880401382160203776,
     "category": "Consignment",
     "citation": "VPRS 2505/P0000",
     "citation_sort": "0000VPRS 2505/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1912 TO 1920]"
     ],
     "contents.end_dt": [
-      3000
+      1920
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1912
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1912 TO 1920]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1920",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -173892,38 +173892,38 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1912",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299767,
+    "timestamp": 1793281010,
     "title": "Consignment 2505/P0000"
   },
   {
     "_id": "ED713228-F1AF-11E9-AE98-D530D960051A",
-    "_version_": 1816040192287440896,
+    "_version_": 1880401382189563904,
     "category": "Consignment",
     "citation": "VPRS 2506/P0000",
     "citation_sort": "0000VPRS 2506/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1914 TO 1920]"
     ],
     "contents.end_dt": [
-      3000
+      1920
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1914
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1914 TO 1920]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1920",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -173950,38 +173950,38 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1914",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299768,
+    "timestamp": 1793281428,
     "title": "Consignment 2506/P0000"
   },
   {
     "_id": "ED7291B9-F1AF-11E9-AE98-1FAEC2D96F5C",
-    "_version_": 1816040192287440897,
+    "_version_": 1880401382163349504,
     "category": "Consignment",
     "citation": "VPRS 2507/U0000",
     "citation_sort": "0000VPRS 2507/U0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "U0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1912 TO 1916]"
     ],
     "contents.end_dt": [
-      3000
+      1916
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1912
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1912 TO 1916]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1916",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -174008,38 +174008,38 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1912",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299768,
+    "timestamp": 1793281132,
     "title": "Consignment 2507/U0000"
   },
   {
     "_id": "ED7502BA-F1AF-11E9-AE98-2B75C893FD77",
-    "_version_": 1816040192287440898,
+    "_version_": 1880401382156009473,
     "category": "Consignment",
     "citation": "VPRS 2508/P0000",
     "citation_sort": "0000VPRS 2508/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1917 TO 1919]"
     ],
     "contents.end_dt": [
-      3000
+      1919
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1917
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1917 TO 1919]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1919",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -174066,38 +174066,38 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1917",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299768,
+    "timestamp": 1793280837,
     "title": "Consignment 2508/P0000"
   },
   {
     "_id": "ED796F8B-F1AF-11E9-AE98-0DC88207B053",
-    "_version_": 1816040192295829504,
+    "_version_": 1880401382174883841,
     "category": "Consignment",
     "citation": "VPRS 2509/P0000",
     "citation_sort": "0000VPRS 2509/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1913 TO 1920]"
     ],
     "contents.end_dt": [
-      3000
+      1920
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1913
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1913 TO 1920]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1920",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -174124,38 +174124,38 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1913",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299769,
+    "timestamp": 1793281220,
     "title": "Consignment 2509/P0000"
   },
   {
     "_id": "ED7B6B5C-F1AF-11E9-AE98-A38032FE7911",
-    "_version_": 1816040192295829505,
+    "_version_": 1880401382173835264,
     "category": "Consignment",
     "citation": "VPRS 2510/P0000",
     "citation_sort": "0000VPRS 2510/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1916 TO 1925]"
     ],
     "contents.end_dt": [
-      3000
+      1925
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1916
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1916 TO 1925]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1925",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -174182,10 +174182,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1916",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299769,
+    "timestamp": 1793281171,
     "title": "Consignment 2510/P0000"
   },
   {
@@ -174248,7 +174248,7 @@
   },
   {
     "_id": "ED82974E-F1AF-11E9-AE98-A76547345C86",
-    "_version_": 1816040192300023808,
+    "_version_": 1880401382187466752,
     "category": "Consignment",
     "citation": "VPRS 2512/P0000",
     "citation_sort": "0000VPRS 2512/P0000",
@@ -174301,7 +174301,7 @@
     "start_dt": "1860",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299770,
+    "timestamp": 1793281394,
     "title": "Consignment 2512/P0000"
   },
   {
@@ -381013,30 +381013,30 @@
   },
   {
     "_id": "4019EE9D-F1B0-11E9-AE98-E76F3CED9605",
-    "_version_": 1816040192357695489,
+    "_version_": 1880401382138183680,
     "category": "Consignment",
     "citation": "VPRS 5941/P0000",
     "citation_sort": "0000VPRS 5941/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1864 TO 1892]"
     ],
     "contents.end_dt": [
-      3000
+      1892
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1864
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1864 TO 1892]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1892",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -381063,10 +381063,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1864",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299784,
+    "timestamp": 1793234575,
     "title": "Consignment 5941/P0000"
   },
   {
@@ -411907,30 +411907,30 @@
   },
   {
     "_id": "4C37BD4F-F1B0-11E9-AE98-8FC2EB3630C2",
-    "_version_": 1816040186253934593,
+    "_version_": 1880401382152863745,
     "category": "Consignment",
     "citation": "VPRS 6439/P0000",
     "citation_sort": "0000VPRS 6439/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1943 TO 1963]"
     ],
     "contents.end_dt": [
-      3000
+      1963
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1943
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1943 TO 1963]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1963",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -411943,7 +411943,7 @@
       "Registers Of Inquests And Coronal Inquiries"
     ],
     "location": [
-      "Ballarat"
+      "North Melbourne"
     ],
     "parents.ids": [
       "VPRS6439"
@@ -411957,10 +411957,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1943",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299346,
+    "timestamp": 1793280801,
     "title": "Consignment 6439/P0000"
   },
   {
@@ -412023,30 +412023,30 @@
   },
   {
     "_id": "4C3AA281-F1B0-11E9-AE98-B5226D38B69B",
-    "_version_": 1816040186254983169,
+    "_version_": 1880401382158106624,
     "category": "Consignment",
     "citation": "VPRS 6441/P0000",
     "citation_sort": "0000VPRS 6441/P0000",
     "consignment_category": "AMS ACM",
     "consignment_id": "P0000",
     "contents.date_range": [
-      "[1753 TO 3000]"
+      "[1967 TO 1972]"
     ],
     "contents.end_dt": [
-      3000
+      1972
     ],
     "contents.end_dt_qual": null,
     "contents.start_dt": [
-      1753
+      1967
     ],
     "contents.start_dt_qual": null,
     "control_symbol_from": null,
     "control_symbol_to": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1967 TO 1972]"
     ],
     "description": null,
-    "end_dt": "3000",
+    "end_dt": "1972",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
@@ -412073,10 +412073,10 @@
     "rights_status": [
       "Open"
     ],
-    "start_dt": "1753",
+    "start_dt": "1967",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299346,
+    "timestamp": 1793280924,
     "title": "Consignment 6441/P0000"
   },
   {
@@ -915728,7 +915728,7 @@
   },
   {
     "_id": "1584C976-F1B1-11E9-AE98-25E2298DFC44",
-    "_version_": 1816040202943070209,
+    "_version_": 1880401382396133376,
     "category": "Consignment",
     "citation": "VPRS 12324/P0001",
     "citation_sort": "0000VPRS 12324/P0001",
@@ -915741,13 +915741,13 @@
       1990
     ],
     "contents.end_dt_qual": [
-      "?"
+      "Circa"
     ],
     "contents.start_dt": [
       1986
     ],
     "contents.start_dt_qual": [
-      "?"
+      "Circa"
     ],
     "control_symbol_from": null,
     "control_symbol_to": null,
@@ -915756,7 +915756,7 @@
     ],
     "description": null,
     "end_dt": "1990",
-    "end_dt_qual": "?",
+    "end_dt_qual": "Circa",
     "entity": "Record",
     "format": "Physical",
     "identifier.PID.id": "1584C976-F1B1-11E9-AE98-25E2298DFC44",
@@ -915783,9 +915783,9 @@
       "Open"
     ],
     "start_dt": "1986",
-    "start_dt_qual": "?",
+    "start_dt_qual": "Circa",
     "status": "Published",
-    "timestamp": 1614300748,
+    "timestamp": 1793281661,
     "title": "Consignment 12324/P0001"
   },
   {
@@ -939284,6 +939284,62 @@
     "status": "Published",
     "timestamp": 1789437786,
     "title": "Consignment 12643/C13"
+  },
+  {
+    "_id": "55DF15C4-6A05-11F1-9CAC-91948BA83AA0",
+    "_version_": 1880401382174883840,
+    "category": "Consignment",
+    "citation": "VPRS 12643/C14",
+    "citation_sort": "0000VPRS 12643/C14",
+    "consignment_category": "AMS",
+    "consignment_id": "C14",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "55DF15C4-6A05-11F1-9CAC-91948BA83AA0",
+    "identifier.PROV_ACM.id": "VPRS 12643/C14",
+    "is_part_of_series.id": [
+      "VPRS12643"
+    ],
+    "is_part_of_series.title": [
+      "Cabinet Office Submissions, Agendas, and Briefs"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS12643"
+    ],
+    "parents.titles": [
+      "Cabinet Office Submissions, Agendas, and Briefs"
+    ],
+    "quantity": [
+      7431
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281200,
+    "title": "Consignment 12643/C14"
   },
   {
     "_id": "FC851713-7DE4-11EE-BADD-F9967FB09CDC",
@@ -980243,7 +980299,7 @@
   },
   {
     "_id": "338859D8-F1B1-11E9-AE98-330B14EC1679",
-    "_version_": 1816040201928048640,
+    "_version_": 1880401382369918976,
     "category": "Consignment",
     "citation": "VPRS 13028/P0001",
     "citation_sort": "0000VPRS 13028/P0001",
@@ -980296,7 +980352,7 @@
     "start_dt": "1947",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614300740,
+    "timestamp": 1793281614,
     "title": "Consignment 13028/P0001"
   },
   {
@@ -983905,7 +983961,7 @@
   },
   {
     "_id": "34B4F339-F1B1-11E9-AE98-9D30A0AFD265",
-    "_version_": 1816040203206262785,
+    "_version_": 1880401382335315968,
     "category": "Consignment",
     "citation": "VPRS 13085/P0001",
     "citation_sort": "0000VPRS 13085/P0001",
@@ -983958,7 +984014,7 @@
     "start_dt": "1966",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614300829,
+    "timestamp": 1793281580,
     "title": "Consignment 13085/P0001"
   },
   {
@@ -1536941,6 +1536997,64 @@
     "title": "Consignment 21945/C1"
   },
   {
+    "_id": "9A9944C5-AED8-11F0-8856-239DDC2004F0",
+    "_version_": 1880401382147620864,
+    "category": "Consignment",
+    "citation": "VPRS 21946/C1",
+    "citation_sort": "0000VPRS 21946/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[2003 TO 2005]"
+    ],
+    "contents.end_dt": [
+      2005
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2003
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[2003 TO 2005]"
+    ],
+    "description": null,
+    "end_dt": "2005",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "9A9944C5-AED8-11F0-8856-239DDC2004F0",
+    "identifier.PROV_ACM.id": "VPRS 21946/C1",
+    "is_part_of_series.id": [
+      "VPRS21946"
+    ],
+    "is_part_of_series.title": [
+      "Building Files\r\n"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS21946"
+    ],
+    "parents.titles": [
+      "Building Files\r\n"
+    ],
+    "quantity": [
+      3
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "2003",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793246424,
+    "title": "Consignment 21946/C1"
+  },
+  {
     "_id": "2A5F2577-AED9-11F0-8856-43C81F722607",
     "_version_": 1879857816804524032,
     "category": "Consignment",
@@ -1553147,6 +1553261,180 @@
     "status": "Published",
     "timestamp": 1792383134,
     "title": "Consignment 22394/C1"
+  },
+  {
+    "_id": "5532B5D3-1C1A-11F1-8856-533BA11AFE15",
+    "_version_": 1880401382181175296,
+    "category": "Consignment",
+    "citation": "VPRS 22425/C1",
+    "citation_sort": "0000VPRS 22425/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1976 TO 1989]"
+    ],
+    "contents.end_dt": [
+      1989
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1976
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1976 TO 1989]"
+    ],
+    "description": null,
+    "end_dt": "1989",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "5532B5D3-1C1A-11F1-8856-533BA11AFE15",
+    "identifier.PROV_ACM.id": "VPRS 22425/C1",
+    "is_part_of_series.id": [
+      "VPRS22425"
+    ],
+    "is_part_of_series.title": [
+      "School Council Minute Books"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22425"
+    ],
+    "parents.titles": [
+      "School Council Minute Books"
+    ],
+    "quantity": [
+      3
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1976",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281358,
+    "title": "Consignment 22425/C1"
+  },
+  {
+    "_id": "819F8B25-1C1A-11F1-8856-0B2E9957CB9F",
+    "_version_": 1880401382179078144,
+    "category": "Consignment",
+    "citation": "VPRS 22426/C1",
+    "citation_sort": "0000VPRS 22426/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1948 TO 1982]"
+    ],
+    "contents.end_dt": [
+      1982
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1948
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1948 TO 1982]"
+    ],
+    "description": null,
+    "end_dt": "1982",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "819F8B25-1C1A-11F1-8856-0B2E9957CB9F",
+    "identifier.PROV_ACM.id": "VPRS 22426/C1",
+    "is_part_of_series.id": [
+      "VPRS22426"
+    ],
+    "is_part_of_series.title": [
+      "Register of Corporal Punishment"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22426"
+    ],
+    "parents.titles": [
+      "Register of Corporal Punishment"
+    ],
+    "quantity": [
+      1
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1948",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281326,
+    "title": "Consignment 22426/C1"
+  },
+  {
+    "_id": "B309D7B7-1C1A-11F1-8856-CB65589BC417",
+    "_version_": 1880401382175932417,
+    "category": "Consignment",
+    "citation": "VPRS 22427/C1",
+    "citation_sort": "0000VPRS 22427/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1865 TO 1995]"
+    ],
+    "contents.end_dt": [
+      1995
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1865
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1865 TO 1995]"
+    ],
+    "description": null,
+    "end_dt": "1995",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "B309D7B7-1C1A-11F1-8856-CB65589BC417",
+    "identifier.PROV_ACM.id": "VPRS 22427/C1",
+    "is_part_of_series.id": [
+      "VPRS22427"
+    ],
+    "is_part_of_series.title": [
+      "Pupils' Registers"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22427"
+    ],
+    "parents.titles": [
+      "Pupils' Registers"
+    ],
+    "quantity": [
+      10
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1865",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281290,
+    "title": "Consignment 22427/C1"
   },
   {
     "_id": "DE72AA89-1C1A-11F1-8856-0D4EA2699E73",

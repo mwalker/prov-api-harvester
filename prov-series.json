@@ -202640,6 +202640,476 @@
     "title": "Specifications, Contracts and Tenders"
   },
   {
+    "_id": "5438C19B-F1AE-11E9-AE98-D1146D9DACC0",
+    "_version_": 1880401382162300929,
+    "category": "Series",
+    "citation": "VPRS 2504",
+    "citation_sort": "02504",
+    "contents.date_range": [
+      "[1884 TO 1920]"
+    ],
+    "contents.end_dt": [
+      1920
+    ],
+    "contents.start_dt": [
+      1884
+    ],
+    "creating_agents.creating_agency_id": [
+      478
+    ],
+    "creating_agents.date_ranges": [
+      "[1884 TO 1920]"
+    ],
+    "creating_agents.end_dt": [
+      1920
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1884
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballaarat (Municipal District 1855-1863; Borough 1863-1870; City 1870-1994)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1884 TO 1920]"
+    ],
+    "end_dt": "1920",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": null,
+    "how_to_use": null,
+    "identifier.PID.id": "5438C19B-F1AE-11E9-AE98-D1146D9DACC0",
+    "identifier.PROV_ACM.id": "VPRS 2504",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "2504",
+    "series_in_custody.date_range": [
+      "[1884 TO 1920]"
+    ],
+    "series_in_custody.end_dt": [
+      1920
+    ],
+    "series_in_custody.start_dt": [
+      1884
+    ],
+    "start_dt": "1884",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281115,
+    "title": "Ballarat Gas Company - Inwards Letters and Lamp Locality Lists"
+  },
+  {
+    "_id": "543A965C-F1AE-11E9-AE98-CFD4525B82CD",
+    "_version_": 1880401382160203777,
+    "category": "Series",
+    "citation": "VPRS 2505",
+    "citation_sort": "02505",
+    "contents.date_range": [
+      "[1912 TO 1920]"
+    ],
+    "contents.end_dt": [
+      1920
+    ],
+    "contents.start_dt": [
+      1912
+    ],
+    "creating_agents.creating_agency_id": [
+      478
+    ],
+    "creating_agents.date_ranges": [
+      "[1912 TO 1920]"
+    ],
+    "creating_agents.end_dt": [
+      1920
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1912
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballaarat (Municipal District 1855-1863; Borough 1863-1870; City 1870-1994)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1912 TO 1920]"
+    ],
+    "end_dt": "1920",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": null,
+    "how_to_use": null,
+    "identifier.PID.id": "543A965C-F1AE-11E9-AE98-CFD4525B82CD",
+    "identifier.PROV_ACM.id": "VPRS 2505",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "2505",
+    "series_in_custody.date_range": [
+      "[1912 TO 1920]"
+    ],
+    "series_in_custody.end_dt": [
+      1920
+    ],
+    "series_in_custody.start_dt": [
+      1912
+    ],
+    "start_dt": "1912",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281062,
+    "title": "Ballarat Football Clubs - Correspondence"
+  },
+  {
+    "_id": "543CB93D-F1AE-11E9-AE98-A97B2BCED158",
+    "_version_": 1880401382189563905,
+    "category": "Series",
+    "citation": "VPRS 2506",
+    "citation_sort": "02506",
+    "contents.date_range": [
+      "[1914 TO 1920]"
+    ],
+    "contents.end_dt": [
+      1920
+    ],
+    "contents.start_dt": [
+      1914
+    ],
+    "creating_agents.creating_agency_id": [
+      478
+    ],
+    "creating_agents.date_ranges": [
+      "[1914 TO 1920]"
+    ],
+    "creating_agents.end_dt": [
+      1920
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1914
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballaarat (Municipal District 1855-1863; Borough 1863-1870; City 1870-1994)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1914 TO 1920]"
+    ],
+    "end_dt": "1920",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": null,
+    "how_to_use": null,
+    "identifier.PID.id": "543CB93D-F1AE-11E9-AE98-A97B2BCED158",
+    "identifier.PROV_ACM.id": "VPRS 2506",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "2506",
+    "series_in_custody.date_range": [
+      "[1914 TO 1920]"
+    ],
+    "series_in_custody.end_dt": [
+      1920
+    ],
+    "series_in_custody.start_dt": [
+      1914
+    ],
+    "start_dt": "1914",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281446,
+    "title": "Fire Brigades - Correspondence and Minutes"
+  },
+  {
+    "_id": "543E3FDE-F1AE-11E9-AE98-6100732EFEE5",
+    "_version_": 1880401382163349505,
+    "category": "Series",
+    "citation": "VPRS 2507",
+    "citation_sort": "02507",
+    "contents.date_range": [
+      "[1912 TO 1916]"
+    ],
+    "contents.end_dt": [
+      1916
+    ],
+    "contents.start_dt": [
+      1912
+    ],
+    "creating_agents.creating_agency_id": [
+      478
+    ],
+    "creating_agents.date_ranges": [
+      "[1912 TO 1916]"
+    ],
+    "creating_agents.end_dt": [
+      1916
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1912
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballaarat (Municipal District 1855-1863; Borough 1863-1870; City 1870-1994)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1912 TO 1916]"
+    ],
+    "end_dt": "1916",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": null,
+    "how_to_use": null,
+    "identifier.PID.id": "543E3FDE-F1AE-11E9-AE98-6100732EFEE5",
+    "identifier.PROV_ACM.id": "VPRS 2507",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "2507",
+    "series_in_custody.date_range": [
+      "[1912 TO 1916]"
+    ],
+    "series_in_custody.end_dt": [
+      1916
+    ],
+    "series_in_custody.start_dt": [
+      1912
+    ],
+    "start_dt": "1912",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281150,
+    "title": "Ballarat Milk Supply - Correspondence, Memoranda, Notices"
+  },
+  {
+    "_id": "54403BAF-F1AE-11E9-AE98-0924EA61EB8B",
+    "_version_": 1880401382157058048,
+    "category": "Series",
+    "citation": "VPRS 2508",
+    "citation_sort": "02508",
+    "contents.date_range": [
+      "[1917 TO 1919]"
+    ],
+    "contents.end_dt": [
+      1919
+    ],
+    "contents.start_dt": [
+      1917
+    ],
+    "creating_agents.creating_agency_id": [
+      478
+    ],
+    "creating_agents.date_ranges": [
+      "[1917 TO 1919]"
+    ],
+    "creating_agents.end_dt": [
+      1919
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1917
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballaarat (Municipal District 1855-1863; Borough 1863-1870; City 1870-1994)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1917 TO 1919]"
+    ],
+    "end_dt": "1919",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series was received with minimal documentation. Further research is required to determine the exact content and function of these records."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "54403BAF-F1AE-11E9-AE98-0924EA61EB8B",
+    "identifier.PROV_ACM.id": "VPRS 2508",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "2508",
+    "series_in_custody.date_range": [
+      "[1917 TO 1919]"
+    ],
+    "series_in_custody.end_dt": [
+      1919
+    ],
+    "series_in_custody.start_dt": [
+      1917
+    ],
+    "start_dt": "1917",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793280906,
+    "title": "Building Lease For Corner Yarrowee Channell and Bridge Street - Inwards Letters and Plans"
+  },
+  {
+    "_id": "54419B40-F1AE-11E9-AE98-97A77C27B334",
+    "_version_": 1880401382175932416,
+    "category": "Series",
+    "citation": "VPRS 2509",
+    "citation_sort": "02509",
+    "contents.date_range": [
+      "[1913 TO 1920]"
+    ],
+    "contents.end_dt": [
+      1920
+    ],
+    "contents.start_dt": [
+      1913
+    ],
+    "creating_agents.creating_agency_id": [
+      478
+    ],
+    "creating_agents.date_ranges": [
+      "[1913 TO 1920]"
+    ],
+    "creating_agents.end_dt": [
+      1920
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1913
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballaarat (Municipal District 1855-1863; Borough 1863-1870; City 1870-1994)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1913 TO 1920]"
+    ],
+    "end_dt": "1920",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": null,
+    "how_to_use": null,
+    "identifier.PID.id": "54419B40-F1AE-11E9-AE98-97A77C27B334",
+    "identifier.PROV_ACM.id": "VPRS 2509",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "2509",
+    "series_in_custody.date_range": [
+      "[1913 TO 1920]"
+    ],
+    "series_in_custody.end_dt": [
+      1920
+    ],
+    "series_in_custody.start_dt": [
+      1913
+    ],
+    "start_dt": "1913",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281272,
+    "title": "Department Of Lands and Survey - Inwards Correspondence and Memoranda"
+  },
+  {
     "_id": "54437001-F1AE-11E9-AE98-D576ECE1C002",
     "_version_": 1816040157170630656,
     "category": "Series",
@@ -202724,6 +203194,113 @@
     "status": "Published",
     "timestamp": 1614290493,
     "title": "Ballarat Recruiting Committee, First World War - Minutes, Memoranda, Circulars, Inwards Letters"
+  },
+  {
+    "_id": "54471983-F1AE-11E9-AE98-854E76A25F17",
+    "_version_": 1880401382159155200,
+    "category": "Series",
+    "citation": "VPRS 2512",
+    "citation_sort": "02512",
+    "contents.date_range": [
+      "1860"
+    ],
+    "contents.end_dt": [
+      1860
+    ],
+    "contents.start_dt": [
+      1860
+    ],
+    "creating_agents.creating_agency_id": [
+      706
+    ],
+    "creating_agents.date_ranges": [
+      "[1860 TO 1918]"
+    ],
+    "creating_agents.end_dt": [
+      1918
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1860
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballaarat East (Municipal District 1857-1863; Borough 1863-1870; Town 1872-1921)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1860 TO 1918]"
+    ],
+    "end_dt": "1918",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "One bundle of correspondence relating to markets in Ballarat East, plan of market reserve, 1860, &amp; regulations and by-laws from various councils."
+    ],
+    "how_to_use": [
+      "Order record to view in reading room and then browse chronological sequence to find the correspondence you are seeking."
+    ],
+    "identifier.PID.id": "54471983-F1AE-11E9-AE98-854E76A25F17",
+    "identifier.PROV_ACM.id": "VPRS 2512",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": [
+      "Chronological"
+    ],
+    "resp_agency_id": [
+      "3731"
+    ],
+    "resp_agency_title": [
+      "Ballarat II (City 1994-ct)"
+    ],
+    "resp_agency_title_facet": [
+      "Ballarat II (City 1994-ct)"
+    ],
+    "responsible_agents.date_ranges": [
+      "[1994 TO 3000]",
+      "[1855 TO 1994]"
+    ],
+    "responsible_agents.end_dt": [
+      3000,
+      1994
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      3731,
+      478
+    ],
+    "responsible_agents.start_dt": [
+      1994,
+      1855
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Ballarat II (City 1994-ct)",
+      "Ballaarat (Municipal District 1855-1863; Borough 1863-1870; City 1870-1994)"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "2512",
+    "series_in_custody.date_range": [
+      "1860"
+    ],
+    "series_in_custody.end_dt": [
+      1860
+    ],
+    "series_in_custody.start_dt": [
+      1860
+    ],
+    "start_dt": "1860",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793280993,
+    "title": "Ballarat East Markets - Plans, Correspondence and Regulations From Various Councils"
   },
   {
     "_id": "544BFB86-F1AE-11E9-AE98-6F3B88F45C7D",
@@ -244980,6 +245557,102 @@
     "title": "Waterworks Drawings"
   },
   {
+    "_id": "62A2F1FF-F1AE-11E9-AE98-B937ED504827",
+    "_version_": 1880401382551322624,
+    "category": "Series",
+    "citation": "VPRS 3244",
+    "citation_sort": "03244",
+    "contents.date_range": [
+      "[1871 TO 1961]"
+    ],
+    "contents.end_dt": [
+      1961
+    ],
+    "contents.start_dt": [
+      1871
+    ],
+    "creating_agents.creating_agency_id": [
+      642
+    ],
+    "creating_agents.date_ranges": [
+      "[1871 TO 1961]"
+    ],
+    "creating_agents.end_dt": [
+      1961
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1871
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Stawell I (Road District 1861-1864; Shire 1864-1995)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1871 TO 1961]"
+    ],
+    "end_dt": "1961",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series was received with minimal documentation. Further research is required to determine the exact content and function of these records.<br />\r\n&nbsp;"
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "62A2F1FF-F1AE-11E9-AE98-B937ED504827",
+    "identifier.PROV_ACM.id": "VPRS 3244",
+    "jurisdictional_coverage": null,
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": [
+      "3715"
+    ],
+    "resp_agency_title": [
+      "Northern Grampians (Shire 1995-ct)"
+    ],
+    "resp_agency_title_facet": [
+      "Northern Grampians (Shire 1995-ct)"
+    ],
+    "responsible_agents.date_ranges": [
+      "[1995 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      3715
+    ],
+    "responsible_agents.start_dt": [
+      1995
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Northern Grampians (Shire 1995-ct)"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "3244",
+    "series_in_custody.date_range": [
+      "[1871 TO 1961]"
+    ],
+    "series_in_custody.end_dt": [
+      1961
+    ],
+    "series_in_custody.start_dt": [
+      1871
+    ],
+    "start_dt": "1871",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281914,
+    "title": "Architectural Drawings - Stawell Town Hall"
+  },
+  {
     "_id": "62A5FE41-F1AE-11E9-AE98-8342EE831CE2",
     "_version_": 1816040155189870593,
     "category": "Series",
@@ -269905,6 +270578,102 @@
     "title": "Judge's Note Book County Court, Creswick (1888-1890) and Special Complaints, Ballarat  (1932-1935)"
   },
   {
+    "_id": "6996E169-F1AE-11E9-AE98-A7745E3C1798",
+    "_version_": 1880401382548176896,
+    "category": "Series",
+    "citation": "VPRS 3590",
+    "citation_sort": "03590",
+    "contents.date_range": [
+      "[1910 TO 1940]"
+    ],
+    "contents.end_dt": [
+      1940
+    ],
+    "contents.start_dt": [
+      1910
+    ],
+    "creating_agents.creating_agency_id": [
+      678
+    ],
+    "creating_agents.date_ranges": [
+      "[1910 TO 1940]"
+    ],
+    "creating_agents.end_dt": [
+      1940
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1910
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1910 TO 1940]"
+    ],
+    "end_dt": "1940",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series was received with minimal documentation. Further research is required to determine the exact content and function of these records."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "6996E169-F1AE-11E9-AE98-A7745E3C1798",
+    "identifier.PROV_ACM.id": "VPRS 3590",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": [
+      "678"
+    ],
+    "resp_agency_title": [
+      "Ballarat Courts"
+    ],
+    "resp_agency_title_facet": [
+      "Ballarat Courts"
+    ],
+    "responsible_agents.date_ranges": [
+      "[1910 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      678
+    ],
+    "responsible_agents.start_dt": [
+      1910
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Ballarat Courts"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "3590",
+    "series_in_custody.date_range": [
+      "[1910 TO 1940]"
+    ],
+    "series_in_custody.end_dt": [
+      1940
+    ],
+    "series_in_custody.start_dt": [
+      1910
+    ],
+    "start_dt": "1910",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281809,
+    "title": "Warden's Note Book"
+  },
+  {
     "_id": "699819EA-F1AE-11E9-AE98-116F45A82F24",
     "_version_": 1878408248746311680,
     "category": "Series",
@@ -277334,6 +278103,106 @@
     "status": "Published",
     "timestamp": 1642039818,
     "title": "Court of Petty Sessions Register of Second-Hand Dealers"
+  },
+  {
+    "_id": "6B9A2BE2-F1AE-11E9-AE98-2BD5B030A20B",
+    "_version_": 1880401382549225473,
+    "category": "Series",
+    "citation": "VPRS 3696",
+    "citation_sort": "03696",
+    "contents.date_range": [
+      "[1917 TO 1936]"
+    ],
+    "contents.end_dt": [
+      1936
+    ],
+    "contents.start_dt": [
+      1917
+    ],
+    "creating_agents.creating_agency_id": [
+      479
+    ],
+    "creating_agents.date_ranges": [
+      "[1917 TO 1936]"
+    ],
+    "creating_agents.end_dt": [
+      1936
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1917
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Daylesford Courts (previously known as Hepburn(\u2019s) Courts 1853-1931)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1917 TO 1936]"
+    ],
+    "end_dt": "1936",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "Two volumes detailing Worker's Compensation cases including the claimant's name and financial details."
+    ],
+    "how_to_use": [
+      "To order records please consult Consignments under access the Records. A listing is not yet available online but a paper version is available in the Reading Room."
+    ],
+    "identifier.PID.id": "6B9A2BE2-F1AE-11E9-AE98-2BD5B030A20B",
+    "identifier.PROV_ACM.id": "VPRS 3696",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": [
+      "Chronological."
+    ],
+    "resp_agency_id": [
+      "518"
+    ],
+    "resp_agency_title": [
+      "Melbourne Courts"
+    ],
+    "resp_agency_title_facet": [
+      "Melbourne Courts"
+    ],
+    "responsible_agents.date_ranges": [
+      "[1990 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      518
+    ],
+    "responsible_agents.start_dt": [
+      1990
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Melbourne Courts"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "3696",
+    "series_in_custody.date_range": [
+      "[1917 TO 1936]"
+    ],
+    "series_in_custody.end_dt": [
+      1936
+    ],
+    "series_in_custody.start_dt": [
+      1917
+    ],
+    "start_dt": "1917",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281862,
+    "title": "Suitors Cash Books, Workers Compensation"
   },
   {
     "_id": "6B9BB283-F1AE-11E9-AE98-355C0125D523",
@@ -400926,6 +401795,88 @@
     "title": "Court of Insolvency Register of Insolvencies"
   },
   {
+    "_id": "8CC205CB-F1AE-11E9-AE98-EF1F35CDFBCD",
+    "_version_": 1880401382547128320,
+    "category": "Series",
+    "citation": "VPRS 5308",
+    "citation_sort": "05308",
+    "contents.date_range": [
+      "[1882 TO 1919]"
+    ],
+    "contents.end_dt": [
+      1919
+    ],
+    "contents.start_dt": [
+      1882
+    ],
+    "creating_agents.creating_agency_id": [
+      990
+    ],
+    "creating_agents.date_ranges": [
+      "[1882 TO 1919]"
+    ],
+    "creating_agents.end_dt": [
+      1919
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1882
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Nhill Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1882 TO 1919]"
+    ],
+    "end_dt": "1919",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series was received with minimal documentation. Further research is required to determine the exact content and function of these records."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "8CC205CB-F1AE-11E9-AE98-EF1F35CDFBCD",
+    "identifier.PROV_ACM.id": "VPRS 5308",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5308",
+    "series_in_custody.date_range": [
+      "[1882 TO 1919]"
+    ],
+    "series_in_custody.end_dt": [
+      1919
+    ],
+    "series_in_custody.start_dt": [
+      1882
+    ],
+    "start_dt": "1882",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281775,
+    "title": "Register Of Protection Certificates Granted For Unemployed Occupies And Formers"
+  },
+  {
     "_id": "8CC3B37C-F1AE-11E9-AE98-B16DD64251B4",
     "_version_": 1816040147827818496,
     "category": "Series",
@@ -401974,6 +402925,88 @@
     "status": "Published",
     "timestamp": 1614289770,
     "title": "Licensing Court Registers"
+  },
+  {
+    "_id": "8CD7FED9-F1AE-11E9-AE98-DB2D4D2A0369",
+    "_version_": 1880401382550274048,
+    "category": "Series",
+    "citation": "VPRS 5322",
+    "citation_sort": "05322",
+    "contents.date_range": [
+      "[1934 TO 1955]"
+    ],
+    "contents.end_dt": [
+      1955
+    ],
+    "contents.start_dt": [
+      1934
+    ],
+    "creating_agents.creating_agency_id": [
+      996
+    ],
+    "creating_agents.date_ranges": [
+      "[1934 TO 1955]"
+    ],
+    "creating_agents.end_dt": [
+      1955
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1934
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Beaufort Courts (previously known as Fiery Creek Courts, 1855-1863, Raglan Courts 1856-1863)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1934 TO 1955]"
+    ],
+    "end_dt": "1955",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series was received with minimal documentation. Further research is required to determine the exact content and function of these records."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "8CD7FED9-F1AE-11E9-AE98-DB2D4D2A0369",
+    "identifier.PROV_ACM.id": "VPRS 5322",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5322",
+    "series_in_custody.date_range": [
+      "[1934 TO 1955]"
+    ],
+    "series_in_custody.end_dt": [
+      1955
+    ],
+    "series_in_custody.start_dt": [
+      1934
+    ],
+    "start_dt": "1934",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281897,
+    "title": "Warden's Note Book"
   },
   {
     "_id": "8CD9857A-F1AE-11E9-AE98-8D6C2536CA6C",
@@ -448854,6 +449887,86 @@
     "title": "Regulation Cash Book"
   },
   {
+    "_id": "9940E083-F1AE-11E9-AE98-B9048104E19C",
+    "_version_": 1880401382549225472,
+    "category": "Series",
+    "citation": "VPRS 5941",
+    "citation_sort": "05941",
+    "contents.date_range": [
+      "[1864 TO 1892]"
+    ],
+    "contents.end_dt": [
+      1892
+    ],
+    "contents.start_dt": [
+      1864
+    ],
+    "creating_agents.creating_agency_id": [
+      1252
+    ],
+    "creating_agents.date_ranges": [
+      "[1864 TO 1892]"
+    ],
+    "creating_agents.end_dt": [
+      1892
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1864
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Oakleigh District Community Hospital"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1949 TO 1983]"
+    ],
+    "end_dt": "1983",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "These records were received with minimal documentation. Further research is required to determine their function and content."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "9940E083-F1AE-11E9-AE98-B9048104E19C",
+    "identifier.PROV_ACM.id": "VPRS 5941",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "5941",
+    "series_in_custody.date_range": [
+      "[1864 TO 1892]"
+    ],
+    "series_in_custody.end_dt": [
+      1892
+    ],
+    "series_in_custody.start_dt": [
+      1864
+    ],
+    "start_dt": "1949",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281844,
+    "title": "Annual Statements Oakleigh District Community Hospital"
+  },
+  {
     "_id": "99448A05-F1AE-11E9-AE98-99E57E1410AA",
     "_version_": 1816059721265709056,
     "category": "Series",
@@ -487848,6 +488961,168 @@
     "status": "Published",
     "timestamp": 1791505020,
     "title": "Permit And Booth Licensing Applications"
+  },
+  {
+    "_id": "A37D6BD5-F1AE-11E9-AE98-A5ED27ECC504",
+    "_version_": 1880401382153912320,
+    "category": "Series",
+    "citation": "VPRS 6439",
+    "citation_sort": "06439",
+    "contents.date_range": [
+      "[1943 TO 1963]"
+    ],
+    "contents.end_dt": [
+      1963
+    ],
+    "contents.start_dt": [
+      1943
+    ],
+    "creating_agents.creating_agency_id": [
+      678
+    ],
+    "creating_agents.date_ranges": [
+      "[1943 TO 1963]"
+    ],
+    "creating_agents.end_dt": [
+      1963
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1943
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1943 TO 1963]"
+    ],
+    "end_dt": "1963",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series was transferred with minimal documentation. Further research required to determine exact content and function."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "A37D6BD5-F1AE-11E9-AE98-A5ED27ECC504",
+    "identifier.PROV_ACM.id": "VPRS 6439",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "6439",
+    "series_in_custody.date_range": [
+      "[1943 TO 1963]"
+    ],
+    "series_in_custody.end_dt": [
+      1963
+    ],
+    "series_in_custody.start_dt": [
+      1943
+    ],
+    "start_dt": "1943",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793280819,
+    "title": "Registers Of Inquests And Coronal Inquiries"
+  },
+  {
+    "_id": "A3805207-F1AE-11E9-AE98-9D2626ED8680",
+    "_version_": 1880401382158106625,
+    "category": "Series",
+    "citation": "VPRS 6441",
+    "citation_sort": "06441",
+    "contents.date_range": [
+      "[1967 TO 1972]"
+    ],
+    "contents.end_dt": [
+      1972
+    ],
+    "contents.start_dt": [
+      1967
+    ],
+    "creating_agents.creating_agency_id": [
+      678
+    ],
+    "creating_agents.date_ranges": [
+      "[1753 TO 3000]"
+    ],
+    "creating_agents.end_dt": [
+      3000
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1753
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Ballarat Courts"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1967 TO 1972]"
+    ],
+    "end_dt": "1972",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series was received with minimal documentation. Further research is required to determine the exact content and function of these records."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "A3805207-F1AE-11E9-AE98-9D2626ED8680",
+    "identifier.PROV_ACM.id": "VPRS 6441",
+    "jurisdictional_coverage": null,
+    "location": [
+      "Ballarat"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "6441",
+    "series_in_custody.date_range": [
+      "[1967 TO 1972]"
+    ],
+    "series_in_custody.end_dt": [
+      1972
+    ],
+    "series_in_custody.start_dt": [
+      1967
+    ],
+    "start_dt": "1967",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793280958,
+    "title": "Inwards Letter Book"
   },
   {
     "_id": "A381FFB8-F1AE-11E9-AE98-45248F875EB1",
@@ -1016514,7 +1017789,7 @@
   },
   {
     "_id": "186E4064-F1AF-11E9-AE98-D96F65D87012",
-    "_version_": 1816040162731229184,
+    "_version_": 1880401382395084800,
     "category": "Series",
     "citation": "VPRS 12324",
     "citation_sort": "12324",
@@ -1016607,7 +1017882,7 @@
     "start_dt": "1986",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614290884,
+    "timestamp": 1793281644,
     "title": "Shire Secretary's General Correspondence Subject Files"
   },
   {
@@ -1092245,7 +1093520,7 @@
   },
   {
     "_id": "275ABF3D-F1AF-11E9-AE98-A14176D1361A",
-    "_version_": 1816040173123665920,
+    "_version_": 1880401382334267393,
     "category": "Series",
     "citation": "VPRS 13085",
     "citation_sort": "13085",
@@ -1092348,7 +1093623,7 @@
     "start_dt": "1966",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614291682,
+    "timestamp": 1793281563,
     "title": "General Correspondence Subject Files"
   },
   {
@@ -1904611,6 +1905886,108 @@
     "title": "Supreme Court, Register of Applications under the Unemployed Occupiers and Farmers Relief Act"
   },
   {
+    "_id": "6D7AF9C4-AED8-11F0-8856-9DCD536F54AF",
+    "_version_": 1880401382146572289,
+    "category": "Series",
+    "citation": "VPRS 21946",
+    "citation_sort": "21946",
+    "contents.date_range": [
+      "[2003 TO 2005]"
+    ],
+    "contents.end_dt": [
+      2005
+    ],
+    "contents.start_dt": [
+      2003
+    ],
+    "creating_agents.creating_agency_id": [
+      5761
+    ],
+    "creating_agents.date_ranges": [
+      "[2003 TO 2005]"
+    ],
+    "creating_agents.end_dt": [
+      2005
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2003
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Specimen Hill Primary School (School No. 1316; previously known as Specimen Hill State School 1874 \u2013 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2003 TO 2005]"
+    ],
+    "end_dt": "2005",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series may comprise reports, papers and plans relating to the construction and/or renovation of Specimen Hill Primary School (School No. 1316) (VA 5761). &nbsp;<br />\r\n<br />\r\nMuch of the building work was undertaken by the Public Works Department (VA 669) on behalf of the Department of Education III (VA 5283) or its predecessors. In some cases, files and plans may have been compiled by private architects.&nbsp;"
+    ],
+    "how_to_use": [
+      "Researchers should browse or keyword search within the series to find relevant information. Searching can also be done on dates or project type.&nbsp;"
+    ],
+    "identifier.PID.id": "6D7AF9C4-AED8-11F0-8856-9DCD536F54AF",
+    "identifier.PROV_ACM.id": "VPRS 21946",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Before coming into the custody of Public Record Office Victoria, this series was held by the school and reflect only what was kept there. &nbsp;The records in this series are in a range of formats, such as reports, papers and plans relating to the construction and renovation of the school.<br />\r\n<br />\r\nRelated records may have been held by the Department of Education III (VA 5283) or its predecessors or the Public Works Department (VA 669) and may include series such as:&nbsp;<br />\r\n<br />\r\nVPRS 795 Building Files: Primary School&nbsp;<br />\r\nVPRS 3916 Building Files: High Schools&nbsp;<br />\r\nVPRS 3686 Pre-Metric Building Plans &nbsp;<br />\r\nVPRS 11388 School Property Files&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21946",
+    "series_in_custody.date_range": [
+      "[2003 TO 2005]"
+    ],
+    "series_in_custody.end_dt": [
+      2005
+    ],
+    "series_in_custody.start_dt": [
+      2003
+    ],
+    "start_dt": "2003",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793246407,
+    "title": "Building Files\r\n"
+  },
+  {
     "_id": "F7EBF466-AED8-11F0-8856-8D73001EB559",
     "_version_": 1879857816802426880,
     "category": "Series",
@@ -1932108,6 +1933485,312 @@
     "status": "Published",
     "timestamp": 1792383154,
     "title": "School Council Papers"
+  },
+  {
+    "_id": "2BF638E2-1C1A-11F1-8856-C30E8EA667D2",
+    "_version_": 1880401382181175297,
+    "category": "Series",
+    "citation": "VPRS 22425",
+    "citation_sort": "22425",
+    "contents.date_range": [
+      "[1976 TO 1989]"
+    ],
+    "contents.end_dt": [
+      1989
+    ],
+    "contents.start_dt": [
+      1976
+    ],
+    "creating_agents.creating_agency_id": [
+      5808
+    ],
+    "creating_agents.date_ranges": [
+      "[1976 TO 1989]"
+    ],
+    "creating_agents.end_dt": [
+      1989
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1976
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Yea Primary School (School No. 699; previously known as Yea School 1860 \u2013 c.1873; Yea State School c.1873 \u2013 1970; also known as Yea Higher Elementary School 1923 - 1960)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1976 TO 1989]"
+    ],
+    "end_dt": "1989",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises volumes recording the minutes of meetings held by the School Council for Yea Primary School (School No. 699) (VA 5808).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983 the Education Act was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n&nbsp;&nbsp; &nbsp;<br />\r\nFor each meeting of the school council, minutes of all proceedings are recorded together with the names of all members present and all who vote for and against motions. The minutes relate to the wide range of activities for which the council is responsible. They are written under agenda item headings and circulated by the principal prior to the next meeting of council, where they are confirmed as accurate and signed by the school council president presiding at the meeting.<br />\r\n<br />\r\nRecords created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Researchers should consult the consignment details to identify a relevant time period and browse through the volume to locate the required information."
+    ],
+    "identifier.PID.id": "2BF638E2-1C1A-11F1-8856-C30E8EA667D2",
+    "identifier.PROV_ACM.id": "VPRS 22425",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Minutes of meetings are arranged in chronological order by date of meeting.&nbsp;<br />\r\n<br />\r\nFor additional records of School Council activities, see VPRS 22424 School Council Papers."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22425",
+    "series_in_custody.date_range": [
+      "[1976 TO 1989]"
+    ],
+    "series_in_custody.end_dt": [
+      1989
+    ],
+    "series_in_custody.start_dt": [
+      1976
+    ],
+    "start_dt": "1976",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281376,
+    "title": "School Council Minute Books"
+  },
+  {
+    "_id": "606F7324-1C1A-11F1-8856-C1A0E2AA83C3",
+    "_version_": 1880401382179078145,
+    "category": "Series",
+    "citation": "VPRS 22426",
+    "citation_sort": "22426",
+    "contents.date_range": [
+      "[1948 TO 1982]"
+    ],
+    "contents.end_dt": [
+      1982
+    ],
+    "contents.start_dt": [
+      1948
+    ],
+    "creating_agents.creating_agency_id": [
+      5808
+    ],
+    "creating_agents.date_ranges": [
+      "[1948 TO 1982]"
+    ],
+    "creating_agents.end_dt": [
+      1982
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1948
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Yea Primary School (School No. 699; previously known as Yea School 1860 \u2013 c.1873; Yea State School c.1873 \u2013 1970; also known as Yea Higher Elementary School 1923 - 1960)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1948 TO 1982]"
+    ],
+    "end_dt": "1982",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises a Register of Corporal Punishment, maintained by Yea Primary School (School No. 699) (VA 5808). The Register of Corporal Punishment was a standardised register used in Victorian government schools from the early 20th century until at least the 1960s. &nbsp;<br />\r\n<br />\r\nEach school filled in their name and school number on the front cover of the register. Inside the front cover of the bound volume is a list of eight regulations relating to the implementation of corporal punishment in schools, including who may be authorised to deliver such punishment, what type of punishment is permitted, and the circumstances when corporal punishment may be applied.&nbsp;<br />\r\n<br />\r\nThe Head Teacher of the school was held responsible for the nature and extent of the punishment inflicted, and only the Head Teacher or those they authorised were permitted to inflict this punishment. Accordingly, the first few pages of the book are titled &lsquo;Names of Teachers Authorized to Inflict Corporal Punishment&rsquo;. In columns below are spaces for the Head Teacher to fill out the name and date of the teachers authorised.<br />\r\n<br />\r\nThe rest of the volume is made up of perforated pages that were used to record the circumstances of individual punishments. Each page contains columns for the teacher to fill out the student&rsquo;s details (full name, age, and grade), the date, the offence committed, the nature and extent of the punishment inflicted, and the initials of the teacher inflicting the punishment. &nbsp;Entries for each year were to be filled out on a separate leaf. According to the instructions listed inside the front cover of the register, these pages were to be kept in the Register for just two years before being removed and destroyed. As such, much of this register is filled with blank pages. Where entries do remain, the level of detail recorded varies.&nbsp;<br />\r\n<br />\r\nCorporal punishment was banned in Victorian state schools in 1983, though many schools had abolished the practice long before then."
+    ],
+    "how_to_use": [
+      "Researchers should browse through the volume to identify individual records of interest."
+    ],
+    "identifier.PID.id": "606F7324-1C1A-11F1-8856-C1A0E2AA83C3",
+    "identifier.PROV_ACM.id": "VPRS 22426",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">Registers of Corporal Punishment are arranged chronologically by date of incident.</span></span></span>"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22426",
+    "series_in_custody.date_range": [
+      "[1948 TO 1982]"
+    ],
+    "series_in_custody.end_dt": [
+      1982
+    ],
+    "series_in_custody.start_dt": [
+      1948
+    ],
+    "start_dt": "1948",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281341,
+    "title": "Register of Corporal Punishment"
+  },
+  {
+    "_id": "8FC78186-1C1A-11F1-8856-AFDC50A69BF2",
+    "_version_": 1880401382176980992,
+    "category": "Series",
+    "citation": "VPRS 22427",
+    "citation_sort": "22427",
+    "contents.date_range": [
+      "[1865 TO 1995]"
+    ],
+    "contents.end_dt": [
+      1995
+    ],
+    "contents.start_dt": [
+      1865
+    ],
+    "creating_agents.creating_agency_id": [
+      5808
+    ],
+    "creating_agents.date_ranges": [
+      "[1865 TO 1995]"
+    ],
+    "creating_agents.end_dt": [
+      1995
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1865
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Yea Primary School (School No. 699; previously known as Yea School 1860 \u2013 c.1873; Yea State School c.1873 \u2013 1970; also known as Yea Higher Elementary School 1923 - 1960)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1865 TO 1995]"
+    ],
+    "end_dt": "1995",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Pupils&rsquo; Registers for Yea Primary School (School No. 699) (VA 5808). Pupil registers were a standardised register in which to record student enrolment data, used by all Victorian government primary schools and at times adapted for use at other types of schools.&nbsp;<br />\r\n<br />\r\nThe front cover typically featured titles such as &quot;Pupils&#39; Register State Primary School&quot; or &quot;Register of the Common School,&quot; with space to record the school number and name. Additional instructions on the cover outlined the required information to be recorded in the register.<br />\r\n<br />\r\nThe information entered into the register was typically derived from admission forms completed by parents prior to admission or, in the case of transfers from other government schools, from transfer notes completed by the previous school. While the level of detail listed for students varies, the information recorded may include a registration number (a sequential number assigned upon enrolment at the school); the student&rsquo;s full name and date of birth; date of enrolment; name, residence and occupation of parent or guardian; school last attended (school number and name) with grade and date of last attendance; number of meetings attended (sectioned by year); date, month and year of obtaining Merit Certificate, and Merit Certificate number; date, month, and year of last attendance; and destination of pupil (either the number and name of a school, or nature of occupation, and name and address of employer).<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series to identify dates of interest.<br />\r\n<br />\r\nConsult the VPRS 22429 Index to Pupils&rsquo; Register to assist with identifying entries. Researchers should search for the full name or registration number of the pupil to identify the appropriate entry in the register.&nbsp;"
+    ],
+    "identifier.PID.id": "8FC78186-1C1A-11F1-8856-AFDC50A69BF2",
+    "identifier.PROV_ACM.id": "VPRS 22427",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Pupils&rsquo; registers are arranged in numerical order by register number, which is a sequential numerical identifier (eg. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) assigned to each student at the time of their enrolment.<br />\r\n<br />\r\nAn Index to Pupils&rsquo; Register would have also been maintained by the school, to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, see VPRS 22429 Index to Pupils&rsquo; Register.&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22427",
+    "series_in_custody.date_range": [
+      "[1865 TO 1995]"
+    ],
+    "series_in_custody.end_dt": [
+      1995
+    ],
+    "series_in_custody.start_dt": [
+      1865
+    ],
+    "start_dt": "1865",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793281309,
+    "title": "Pupils' Registers"
   },
   {
     "_id": "BE4BEC38-1C1A-11F1-8856-8D4092F19318",
