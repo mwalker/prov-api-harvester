@@ -69249,13 +69249,13 @@
   },
   {
     "_id": "53239A98-F3AB-11E9-AE98-4791EBE1609A",
-    "_version_": 1839092942317289472,
+    "_version_": 1881035560403861504,
     "category": "Agency",
     "citation": "VA 3932",
     "date_range": [
       "[1895 TO 1993]"
     ],
-    "description": null,
+    "description": "Nayook Primary School (School No. 3227) (VA 3932) was a rural primary school located in West Gippsland.<br />\r\n<br />\r\nThe school first opened in 1895 as Nayook State School.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Nayook Primary School.<br />\r\n<br />\r\nAt the end of 1993, Nayook Primary School was closed and merged with Neerim East Primary School (School No. 3158) (VA 3933) to form Neerim District Rural Primary School (School No. 5394) (VA 5708). The new school was established on the Nayook Primary School site on Nayook-Powelltown Road, and the Neerim East site closed.",
     "end_dt": "1993",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -69274,22 +69274,22 @@
     "name.official_title.end_dt_qual": null,
     "name.official_title.start_dt": "1895",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Nayook (Primary School No.3227)",
+    "name.official_title.title": "ayook Primary School (School No. 3227; previously known as Nayook State School 1895 - 1970)",
     "start_dt": "1895",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857936,
-    "title": "Nayook (Primary School No.3227)"
+    "timestamp": 1793852117,
+    "title": "Nayook Primary School (School No. 3227; previously known as Nayook State School 1895 - 1970)"
   },
   {
     "_id": "5325BD79-F3AB-11E9-AE98-15A3650C9FDB",
-    "_version_": 1839092942318338048,
+    "_version_": 1881035560402812928,
     "category": "Agency",
     "citation": "VA 3933",
     "date_range": [
       "[1892 TO 1993]"
     ],
-    "description": null,
+    "description": "Neerim East Primary School (School No. 3158) (VA 3933) was a rural primary school located in West Gippsland.<br />\r\n<br />\r\nThe school first opened in 1892 as Neerim East State School, operating out of temporary accommodations until a new building was erected in 1901 on Neerim East Road.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Neerim East Primary School.<br />\r\n<br />\r\nAt the end of 1993, Neerim East Primary School was closed and merged with Nayook Primary School (School No. 3227) (VA 3932) to form Neerim District Rural Primary School (School No. 5394) (VA 5708). The new school was established on the Nayook Primary School site, and the Neerim East site closed.",
     "end_dt": "1993",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -69308,12 +69308,12 @@
     "name.official_title.end_dt_qual": null,
     "name.official_title.start_dt": "1892",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Neerim East (Primary School No.3158)",
+    "name.official_title.title": "Neerim East Primary School (School No. 3158; previously known as Neerim East State School 1892 \u2013 1970)",
     "start_dt": "1892",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857936,
-    "title": "Neerim East (Primary School No.3158)"
+    "timestamp": 1793852108,
+    "title": "Neerim East Primary School (School No. 3158; previously known as Neerim East State School 1892 \u2013 1970)"
   },
   {
     "_id": "5328F1CA-F3AB-11E9-AE98-A5A6E951DB4D",
@@ -122472,6 +122472,142 @@
     "title": "Williamstown High School (School No. 8475)"
   },
   {
+    "_id": "3EE22A69-596E-11F1-8856-F5617EFDD5C4",
+    "_version_": 1881035560398618624,
+    "category": "Agency",
+    "citation": "VA 5843",
+    "date_range": [
+      "[1850 TO 3000]"
+    ],
+    "description": "Bacchus Marsh Primary School (School No. 28) (VA 5843) is a government primary school located in the Central Highlands, northwest of Melbourne. It is the oldest continuously operating public school in Victoria.&nbsp;<br />\r\n<br />\r\nTh school was first established by the NSW government in 1850, when the area was still known as the Port Phillip District of the colony of New South Wales. It became Bacchus Marsh National School from 1851, when the new Victorian government adopted the same NSW system of National Schools and Denominational Schools. It originally operated out of a rented building.<br />\r\n<br />\r\nIn 1862, through the Common Schools Act, the Victorian Parliament abolished the two existing centralised boards and created a single Board of Education (VA 713). &nbsp;In 1863, under this new Board, Bacchus Marsh National School was combined with Korkuperrimul National School, Maddingley National School and The Church of England School to form Bacchus Marsh Central Common School (School No. 28). In 1865, the school moved into a new brick schoolhouse on Lerderderg Street, Bacchus Marsh.<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Bacchus Marsh State School. &nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Bacchus Marsh Primary School.<br />\r\n<br />\r\nAs of 2026, Bacchus Marsh Primary School continues to operate, with the 1865 schoolhouse on Lerderderg Street still in use.<br />\r\n<br />\r\nBacchus Marsh Primary School (School No. 28) should not be confused with Bacchus Marsh Church of England School (School No. 53), which operated from 1855 to 1864, or Bacchus Marsh Catholic School (School No. 92), which operated from 1851 to 1874.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "3EE22A69-596E-11F1-8856-F5617EFDD5C4",
+    "identifier.PROV_ACM.id": "VA 5843",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1850 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1850",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)",
+    "start_dt": "1850",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793852066,
+    "title": "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+  },
+  {
+    "_id": "4A019BBA-596E-11F1-8856-CB57CDB4E9B7",
+    "_version_": 1881035560397570048,
+    "category": "Agency",
+    "citation": "VA 5844",
+    "date_range": [
+      "[1953 TO 2001]"
+    ],
+    "description": "Kaniva Consolidated School (School No. 6227) (VA 5844) was a government primary school located in the northern Wimmera region of north-western Victoria.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1953, following the closure of several smaller surrounding schools, with the intent to provide schooling to the whole region. The closed schools included Cove Estate (School No. 4457) (VA 4457), Kaniva (School No. 2531) (VA 5847), Kaniva South (School No. 2557), Lillimur (School No. 2400) (VA 4547), Lillimur South (School No. 2399) (VA 4409), Miram (School No. 2983), Miram East (School No. 4539), Serviceton (School No. 2831) (VA 4477), and Yearinga (School No. &nbsp;2706) (VA 4493) State Schools.&nbsp;<br />\r\n<br />\r\nAt the end of 2001, Kaniva Consolidated School was closed and merged with Kaniva Secondary College (School No. 7935) to form Kaniva P-12 College (School No. 8842) (VA 5731), which continues to operate as of 2026.",
+    "end_dt": "2001",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "4A019BBA-596E-11F1-8856-CB57CDB4E9B7",
+    "identifier.PROV_ACM.id": "VA 5844",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1953 TO 2001]",
+    "name.official_title.end_dt": "2001",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1953",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Kaniva Consolidated School (School No. 6227)",
+    "start_dt": "1953",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793852053,
+    "title": "Kaniva Consolidated School (School No. 6227)"
+  },
+  {
+    "_id": "585CB2D3-5EF3-11F1-8856-19DAFDE3F6B5",
+    "_version_": 1881035560401764352,
+    "category": "Agency",
+    "citation": "VA 5846",
+    "date_range": [
+      "[1860 TO 3000]"
+    ],
+    "description": "Footscray Primary School (School No. 253) (VA 5846) is a government primary school located in Footscray, in Melbourne&rsquo;s inner west.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1860 as Footscray National School, out of a single-room schoolhouse. In 1862, through the Common Schools Act, the Victorian Parliament created a single Board of Education (VA 713). &nbsp;With the passing of this act, the school became Footscray Common School and was given the number 253. Around the same time, night classes were commenced and in 1865, a new school building was erected.&nbsp;<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Footscray State School. &nbsp;New buildings were erected or developed in 1877, 1910 and in the 1970s.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Footscray Primary School.&nbsp;<br />\r\n<br />\r\nAs of 2026, Footscray Primary School continues to operate. It is sometimes referred to as Footscray City Primary School.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "585CB2D3-5EF3-11F1-8856-19DAFDE3F6B5",
+    "identifier.PROV_ACM.id": "VA 5846",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1860 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1860",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Footscray Primary School (School No. 253; previously known as Footscray National School 1860 \u2013 1862; Footscray Common School 1862 \u2013 c.1873; Footscray State School c.1873 \u2013 1970; also known as Footscray City Primary School)",
+    "start_dt": "1860",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793852097,
+    "title": "Footscray Primary School (School No. 253; previously known as Footscray National School 1860 \u2013 1862; Footscray Common School 1862 \u2013 c.1873; Footscray State School c.1873 \u2013 1970; also known as Footscray City Primary School)"
+  },
+  {
+    "_id": "7C5DEC37-5EF3-11F1-8856-0B9534FDA732",
+    "_version_": 1881035560400715776,
+    "category": "Agency",
+    "citation": "VA 5847",
+    "date_range": [
+      "[1883 TO 1953]"
+    ],
+    "description": "Kaniva State School (School No. 2531) (VA 5847) was a government primary school located in the northern Wimmera region of north-western Victoria.<br />\r\n<br />\r\nThe school first opened in 1883, initially operating out of the leased Mechanics Institute building until a one-room school building was erected in 1885.<br />\r\n<br />\r\nIn 1953, Kaniva State School was closed and merged with a number of other small school in the region to form the new Kaniva Consolidated School (School No. 6227) (VA 5844). The other schools that closed included Cove Estate (School No. 4457) (VA 4457), Kaniva (School No. 2531) (VA 5847), Kaniva South (School No. 2557), Lillimur (School No. 2400) (VA 4547), Lillimur South (School No. 2399) (VA 4409), Miram (School No. 2983), Miram East (School No. 4539), Serviceton (School No. 2831) (VA 4477), and Yearinga (School No. &nbsp;2706) (VA 4493) State Schools. The Kaniva State School building was renovated and retained for an attached infant school.",
+    "end_dt": "1953",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "7C5DEC37-5EF3-11F1-8856-0B9534FDA732",
+    "identifier.PROV_ACM.id": "VA 5847",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1883 TO 1953]",
+    "name.official_title.end_dt": "1953",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1883",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Kaniva State School (School No. 2531)",
+    "start_dt": "1883",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793852079,
+    "title": "Kaniva State School (School No. 2531)"
+  },
+  {
     "_id": "8572C079-5EF3-11F1-8856-E30B58741761",
     "_version_": 1873157399458611204,
     "category": "Agency",
@@ -122504,6 +122640,40 @@
     "status": "Published",
     "timestamp": 1786320221,
     "title": "Myrrhee Primary School (School No. 2677; previously known as Boggy Creek Upper School; Myrrhee State School 1885 \u2013 circa 1970)"
+  },
+  {
+    "_id": "9787816C-5EF3-11F1-8856-D9EE6C27DCB4",
+    "_version_": 1881035560404910080,
+    "category": "Agency",
+    "citation": "VA 5849",
+    "date_range": [
+      "[1867 TO 3000]"
+    ],
+    "description": "Linton Primary School (School No. 880) (VA 5849) is a small rural primary school located in the township of Linton, southwest of Ballarat.<br />\r\n<br />\r\nThe school first opened in 1867 as Linton Common School, operating out of a red brick school building. The Education Act of 1872 established the Victorian Education Department (VA 714) which marked a change to school naming conventions, with the school becoming Linton State School. &nbsp;Additional classrooms were added in the following decades.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Linton Primary School.<br />\r\n<br />\r\nAs of 2026, Linton Primary School continues to operate.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "9787816C-5EF3-11F1-8856-D9EE6C27DCB4",
+    "identifier.PROV_ACM.id": "VA 5849",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1867 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1867",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Linton Primary School (School No. 880; previously known as Linton Common School 1867 \u2013 1873; Linton State School 1873 - 1970)",
+    "start_dt": "1867",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793852127,
+    "title": "Linton Primary School (School No. 880; previously known as Linton Common School 1867 \u2013 1873; Linton State School 1873 - 1970)"
   },
   {
     "_id": "0C254E19-6EA0-11F1-9CAC-EBB0C9203D43",
