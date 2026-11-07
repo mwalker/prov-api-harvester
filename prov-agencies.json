@@ -45815,13 +45815,13 @@
   },
   {
     "_id": "EFC0A406-F3AA-11E9-AE98-8FB517D18B3E",
-    "_version_": 1839092943362719744,
+    "_version_": 1881126158695661568,
     "category": "Agency",
     "citation": "VA 3241",
     "date_range": [
       "[1886 TO 1988]"
     ],
-    "description": null,
+    "description": "Chetwynd Primary School (School No. 2738) (VA 3241) was a government primary school located north of Casterton, in south-west Victoria.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1886 as Chetwynd State School. It was worked part-time with Koolomert State School (School No. 1893) for a period in 1886. In the school&rsquo;s early years, it may have been also known as Chetwynd Township and Chetwynd East State School.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Chetwynd Primary School.&nbsp;<br />\r\n<br />\r\nChetwynd Primary School was closed in 1989, due to declining enrolments.<br />\r\n<br />\r\nChetwynd Primary School (School No. 2738) should not be confused with Chetwynd Junction State School (School No. 177), which operated from 1876 to 1896, or Chetwynd East State School (School No. 2975), which operated from 1889 to 1906.&nbsp;",
     "end_dt": "1988",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -45840,12 +45840,12 @@
     "name.official_title.end_dt_qual": null,
     "name.official_title.start_dt": "1886",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Chetwynd (Primary School No. 2738; previously known as Chetwynd Township, Chetwynd East)",
+    "name.official_title.title": "Chetwynd Primary School (School No. 2738; previously known as Chetwynd State School 1886 \u2013 1970; also known as Chetwynd Township State School; Chetwynd East State School)",
     "start_dt": "1886",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753858054,
-    "title": "Chetwynd (Primary School No. 2738; previously known as Chetwynd Township, Chetwynd East)"
+    "timestamp": 1793939658,
+    "title": "Chetwynd Primary School (School No. 2738; previously known as Chetwynd State School 1886 \u2013 1970; also known as Chetwynd Township State School; Chetwynd East State School)"
   },
   {
     "_id": "EFC29FD8-F3AA-11E9-AE98-9187FB5D8C7F",
@@ -86555,13 +86555,13 @@
   },
   {
     "_id": "9B37E727-F3AB-11E9-AE98-A19B790647F6",
-    "_version_": 1839092941635715072,
+    "_version_": 1881126158700904448,
     "category": "Agency",
     "citation": "VA 4519",
     "date_range": [
       "[1871 TO 1963]"
     ],
-    "description": null,
+    "description": "Springfield State School (School No. 1077) (VA 4519) was a government primary school located in the Macedon Ranges, north of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1871 as Springfield Common School, operating out of a timber schoolhouse. The Education Act of 1872 established the Victorian Education Department (VA 714) which marked a change to school naming conventions, with the school becoming Springfield State School. &nbsp;<br />\r\n<br />\r\nIn 1935, due to low enrolments, Springfield State School was worked part-time with Willowmavin State School (School No. 3479), returning to full-time in June 1936.<br />\r\n<br />\r\nFrom 1960, Springfield State School became unstaffed and in 1963 it officially closed.",
     "end_dt": "1963",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -86580,12 +86580,12 @@
     "name.official_title.end_dt_qual": null,
     "name.official_title.start_dt": "1871",
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Springfield (Primary School No. 1007)",
+    "name.official_title.title": "Springfield State School (School No. 1007; previously known as Springfield Common School 1871 \u2013 c.1873)",
     "start_dt": "1871",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1753857833,
-    "title": "Springfield (Primary School No. 1007)"
+    "timestamp": 1793939683,
+    "title": "Springfield State School (School No. 1007; previously known as Springfield Common School 1871 \u2013 c.1873)"
   },
   {
     "_id": "9B391FA9-F3AB-11E9-AE98-41FEA8313AE0",
@@ -89986,6 +89986,40 @@
     "status": "Published",
     "timestamp": 1788923383,
     "title": "Eastmoor Primary School (School No. 4790; previously known as Eastmoor State School 1957 - 1970)"
+  },
+  {
+    "_id": "B73E47A9-F3AB-11E9-AE98-B502F59CAA65",
+    "_version_": 1881126158354874368,
+    "category": "Agency",
+    "citation": "VA 4660",
+    "date_range": [
+      "[1854 TO 1996]"
+    ],
+    "description": "Bulla Primary School (School No. 46) (VA 4660) was a government primary school located near Deep Creek, near the Bulla Bluestone Bridge.<br />\r\n<br />\r\nThe school first opened in 1854, likely as Bulla National School. In 1862, through the Common Schools Act, the Victorian Parliament created a single Board of Education (VA 713). With the passing of this act, the school would have been re-named Bulla Common School and given the number 46. &nbsp;<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked further change to school naming conventions, with the school becoming Bulla State School. &nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Bulla Primary School.&nbsp;<br />\r\n<br />\r\nThe bluestone school building was added to the Victorian Heritage Register in 1982, however by 1996 enrolments had declined and Bulla Primary School was closed. The site was sold to private interests.<br />\r\n<br />\r\nBulla Primary School (School No. 46) should not be confused with Bulla State School (School No. 42), which operated from 1854 to 1876.",
+    "end_dt": "1996",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "B73E47A9-F3AB-11E9-AE98-B502F59CAA65",
+    "identifier.PROV_ACM.id": "VA 4660",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1854 TO 1996]",
+    "name.official_title.end_dt": "1996",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1854",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Bulla Primary School (School No. 46; previously known as Bulla National School 1854 \u2013 1862; Bulla Common School 1862 \u2013 c.1873; Bulla State School c.1873 - 1970)",
+    "start_dt": "1854",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793938790,
+    "title": "Bulla Primary School (School No. 46; previously known as Bulla National School 1854 \u2013 1862; Bulla Common School 1862 \u2013 c.1873; Bulla State School c.1873 - 1970)"
   },
   {
     "_id": "B74B8E26-F3AB-11E9-AE98-EB42DD2E98E1",
@@ -122676,6 +122710,176 @@
     "title": "Linton Primary School (School No. 880; previously known as Linton Common School 1867 \u2013 1873; Linton State School 1873 - 1970)"
   },
   {
+    "_id": "A0A2BE4E-5EF3-11F1-8856-ED64BF39E6A7",
+    "_version_": 1881126158213316608,
+    "category": "Agency",
+    "citation": "VA 5850",
+    "date_range": [
+      "[1904 TO 3000]"
+    ],
+    "description": "Wesburn Primary School (School No. 3466) (VA 5850) is a semi-rural primary school located in the Upper Yarra Valley, north-east of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1904 as Warburton West State School. It replaced the previous Warburton West State School (School No. 1485), which had been operating since 1875. The original wooden portable was moved to a new site on the Warburton-Lilydale Road for the new school, with several additions made to it over the years.<br />\r\n<br />\r\nIn 1925 the school name was changed to Wesburn State School.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Wesburn Primary School.<br />\r\n<br />\r\nAs of 2026, Wesburn Primary School continues to operate.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "A0A2BE4E-5EF3-11F1-8856-ED64BF39E6A7",
+    "identifier.PROV_ACM.id": "VA 5850",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1904 TO 3000]",
+    "name.official_title.end_dt": "3000",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1904",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Wesburn Primary School (School No. 3466; previously known as Warburton West State School 1904 \u2013 1925; Wesburn State School 1925 - 1970)",
+    "start_dt": "1904",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793936778,
+    "title": "Wesburn Primary School (School No. 3466; previously known as Warburton West State School 1904 \u2013 1925; Wesburn State School 1925 - 1970)"
+  },
+  {
+    "_id": "B2C9F5D1-5EF3-11F1-8856-CFFF2A17B813",
+    "_version_": 1881126158223802368,
+    "category": "Agency",
+    "citation": "VA 5851",
+    "date_range": [
+      "[1874 TO 1951]"
+    ],
+    "description": "Drumborg State School (School No. 3466) (VA 5850) was a co-educational primary school in the Glenelg region of south-west Victoria. It opened in 1874 and operated until its closure in 1951 as part of the government&#39;s consolidation policy for rural schools which saw the closure and consolidation of a number of primary schools in the region.<br />\r\n<br />\r\nDiscussions about merging state schools in the area began from 1944, when it was represented by parents to the Minister of Public Instruction that students would benefit from communal facilities such as libraries, art rooms, cafeterias, and sports facilities, that would otherwise not be available at small, often single-teacher, rural schools. This discussion included existing schools at Heywood, Heathmere, Myamyn, Drumborg and Homerton.<br />\r\n<br />\r\nIn 1951, the official process of consolidation began, with schools progressively closing and students moving to the Heywood State School (School No. 297) site to join the newly established Heywood Consolidated School (School No. 5226) (VA 5369). As well as Drumborg, these schools included Condah State School (School No. 1019), Mount Eckersley State School (School No. 1720), Hotspur State School (School No. 1260) (VA 5440) and Myamyn State School (School No. 1692) (VA 5403).&nbsp;<br />\r\n<br />\r\nDrumborg State School was officially closed in 1951, and the school building was relocated to the Heywood Consolidated School site.&nbsp;",
+    "end_dt": "1951",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "B2C9F5D1-5EF3-11F1-8856-CFFF2A17B813",
+    "identifier.PROV_ACM.id": "VA 5851",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1874 TO 1951]",
+    "name.official_title.end_dt": "1951",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1874",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Drumborg State School (School No. 1240)",
+    "start_dt": "1874",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793936799,
+    "title": "Drumborg State School (School No. 1240)"
+  },
+  {
+    "_id": "E6947402-6E9F-11F1-9CAC-F3A000E03C95",
+    "_version_": 1881126158691467264,
+    "category": "Agency",
+    "citation": "VA 5855",
+    "date_range": [
+      "[1907 TO 1996]"
+    ],
+    "description": "Carrajung Primary School (School No. 3545) (VA 5855) was a government primary school located in the Latrobe Valley, east of Melbourne.<br />\r\n<br />\r\nThe school first opened in 1907 as Carrajung State School. It likely operated out of the supper room of Carrajung hall until a new building was erected in 1914.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Carrajung Primary School.<br />\r\n<br />\r\nIn 1994, Carrajung Primary School became as annexe of Gormandale East Primary School (School No. 2877) before closing at the end of 1997 as part of a merger with Gormandale Primary School (School No. 2482) and Gormandale East Primary School. The result of the merger was the new Gormandale and District Primary School (School No. 5442) (VA 5728), which opened on a new site. The Carrajung School site was closed and later sold to private interests.&nbsp;",
+    "end_dt": "1996",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "E6947402-6E9F-11F1-9CAC-F3A000E03C95",
+    "identifier.PROV_ACM.id": "VA 5855",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1907 TO 1996]",
+    "name.official_title.end_dt": "1996",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1907",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Carrajung Primary School (School No. 3545; previously known as Carrajung State School 1907 - 1970)",
+    "start_dt": "1907",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793939651,
+    "title": "Carrajung Primary School (School No. 3545; previously known as Carrajung State School 1907 - 1970)"
+  },
+  {
+    "_id": "EFFDD0E4-6E9F-11F1-9CAC-AFA90AC07807",
+    "_version_": 1881126158697758720,
+    "category": "Agency",
+    "citation": "VA 5856",
+    "date_range": [
+      "[1902 TO 1972]"
+    ],
+    "description": "Cravensville Primary School (School No. 3099) (VA 5856) was a small government primary school located in the Tallangatta Valley, in north-east Victoria.<br />\r\n<br />\r\nThe school first opened in 1902 as Cravensville State School, out of a pine school building erected by the local community. It burned down in 1910, with the school not reopening until 1912. It burned down again in 1935, this time not reopening again until 1951 due to insufficient numbers of students. In 1951, the reopened school operated out of a house until a new building was erected.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Cravensville Primary School.&nbsp;<br />\r\n<br />\r\nIn 1972, Cravensville Primary School closed for the final time, likely due to low enrolments.&nbsp;",
+    "end_dt": "1972",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "EFFDD0E4-6E9F-11F1-9CAC-AFA90AC07807",
+    "identifier.PROV_ACM.id": "VA 5856",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1902 TO 1972]",
+    "name.official_title.end_dt": "1972",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1902",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Cravensville Primary School (School No. 3099; previously known as Cravensville State School 1902 - 1970)",
+    "start_dt": "1902",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793939667,
+    "title": "Cravensville Primary School (School No. 3099; previously known as Cravensville State School 1902 - 1970)"
+  },
+  {
+    "_id": "F96ECEE6-6E9F-11F1-9CAC-4F992A71C449",
+    "_version_": 1881126158699855872,
+    "category": "Agency",
+    "citation": "VA 5857",
+    "date_range": [
+      "[1874 TO 2015]"
+    ],
+    "description": "Drummartin Primary School (School No. 1473) (VA 5857) was a small government primary school located in the township of Drummartin, north of Bendigo.<br />\r\n<br />\r\nThe school first opened in 1874 as Drummartin State School. It was sometimes also referred to as Kamarooka State School. In 1910, the school building was moved to Kamarooka East, where it was later destroyed by fire. After a period of closure Drummartin State School reopened in 1922 out of the Drummartin Church, until a new school building was erected in 1926.&nbsp;<br />\r\n<br />\r\nFrom 1946 to 1958, Drummartin State School was closed once more, as a school bus operating in the district took students instead to Elmore State School (School No. 1515). It reopened in 1958.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Drummartin Primary School.&nbsp;<br />\r\n<br />\r\nIn 2015, Drummartin Primary School closed for the final time, at which point there were just six students enrolled.&nbsp;",
+    "end_dt": "2015",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "F96ECEE6-6E9F-11F1-9CAC-4F992A71C449",
+    "identifier.PROV_ACM.id": "VA 5857",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1874 TO 2015]",
+    "name.official_title.end_dt": "2015",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1874",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Drummartin Primary School (School No. 1473; previously known as Drummartin State School 1874 \u2013 1970; also known as Kamarooka State School)",
+    "start_dt": "1874",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793939674,
+    "title": "Drummartin Primary School (School No. 1473; previously known as Drummartin State School 1874 \u2013 1970; also known as Kamarooka State School)"
+  },
+  {
     "_id": "0C254E19-6EA0-11F1-9CAC-EBB0C9203D43",
     "_version_": 1879133024582369282,
     "category": "Agency",
@@ -122742,6 +122946,40 @@
     "status": "Published",
     "timestamp": 1792017005,
     "title": "Harrietville Primary School (School No. 843; previously known as Harrietville Common School 1866 \u2013 1873; Harrietville State School 1873 \u2013 1970)"
+  },
+  {
+    "_id": "28DB9DCE-6EA0-11F1-9CAC-C351C9C1019A",
+    "_version_": 1881126158701953024,
+    "category": "Agency",
+    "citation": "VA 5860",
+    "date_range": [
+      "[1890 TO 1993]"
+    ],
+    "description": "Welshpool Primary School (School No. 3011) (VA 5860) was a government primary school located in South Gippsland.<br />\r\n<br />\r\nThe school first opened in 1890 as Welshpool Railway Station State School. From 1892 to 1898 it was worked part-time with Binginwarri State School (School No. 2863) (VA 3814).&nbsp;<br />\r\n<br />\r\nIn 1906, the building from Toora State School (School No. 2253) was moved to Welshpool, and Welshpool Railway Station State School commenced teaching there from August. A new wooden school was built in 1914 and the old building was moved to Port Welshpool State School (School No. 3375) (VA 3870).<br />\r\n<br />\r\nIn 1949, the school name was changed to Welshpool State School.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed again to Welshpool Primary School.&nbsp;<br />\r\n<br />\r\nEnrolment numbers declined and at the end of 1993, Welshpool Primary School was closed and merged with Port Welshpool Primary School (School No. 3375) (VA 3870) to form the new Welshpool and District Primary School (School No. 5396) (VA 5775). The new school took over the former Welshpool Primary school site, and the Port Welshpool school building was demolished to make way for a private residence.",
+    "end_dt": "1993",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "28DB9DCE-6EA0-11F1-9CAC-C351C9C1019A",
+    "identifier.PROV_ACM.id": "VA 5860",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": "[1890 TO 1993]",
+    "name.official_title.end_dt": "1993",
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": "1890",
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": "Welshpool Primary School (School No. 3011; previously known as Welshpool Railway Station State School 1890 \u2013 1949; Welshpool State School 1949 - 1970)",
+    "start_dt": "1890",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1793939690,
+    "title": "Welshpool Primary School (School No. 3011; previously known as Welshpool Railway Station State School 1890 \u2013 1949; Welshpool State School 1949 - 1970)"
   },
   {
     "_id": "2D36EE28-898B-11F1-9CAC-0368D77A3C25",
