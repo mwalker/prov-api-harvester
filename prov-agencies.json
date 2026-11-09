@@ -52921,7 +52921,7 @@
   },
   {
     "_id": "0661F1EC-F3AB-11E9-AE98-1FE62B0E25A5",
-    "_version_": 1867721581587857409,
+    "_version_": 1881397948120563714,
     "category": "Agency",
     "citation": "VA 3451",
     "date_range": [
@@ -52941,17 +52941,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1875 TO 1980]",
-    "name.official_title.end_dt": "1980",
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": "1875",
+    "name.official_title.start_dt": null,
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Sandford Primary School (School No. 1654; previously known as Sandford State School 1875-1970)",
+    "name.official_title.title": null,
     "start_dt": "1875",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1781157003,
-    "title": "Sandford Primary School (School No. 1654; previously known as Sandford State School 1875-1970)"
+    "timestamp": 1794186547,
+    "title": "Sandford Primary School (School No. 1654; previously known as Sandford State School 1875 - 1970)"
   },
   {
     "_id": "0663517D-F3AB-11E9-AE98-05FA6312B464",
@@ -59109,7 +59109,7 @@
   },
   {
     "_id": "27E1B036-F3AB-11E9-AE98-5DD166197DED",
-    "_version_": 1878498845015408640,
+    "_version_": 1881397948177186818,
     "category": "Agency",
     "citation": "VA 3633",
     "date_range": [
@@ -59138,7 +59138,7 @@
     "start_dt": "1968",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1791411546,
+    "timestamp": 1794188352,
     "title": "Narmara Primary School (School No. 4953; previously known as Narmara State School 1968 \u2013 1970)"
   },
   {
@@ -87507,7 +87507,7 @@
   },
   {
     "_id": "A4423455-F3AB-11E9-AE98-B5169ED9C3A3",
-    "_version_": 1879133024579223552,
+    "_version_": 1881397948180332546,
     "category": "Agency",
     "citation": "VA 4547",
     "date_range": [
@@ -87536,7 +87536,7 @@
     "start_dt": "1881",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1792015473,
+    "timestamp": 1794188687,
     "title": "Lillimur State School (School No. 2400; previously known as Kaniva State School 1881 \u2013 1882; Lillimur North State School 1882 \u2013 c.1887)"
   },
   {
@@ -100497,7 +100497,7 @@
   },
   {
     "_id": "DD0C0443-F3AB-11E9-AE98-25A486CDDA42",
-    "_version_": 1878498845048963073,
+    "_version_": 1881397948138389506,
     "category": "Agency",
     "citation": "VA 5042",
     "date_range": [
@@ -100526,7 +100526,7 @@
     "start_dt": "1869",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1791426309,
+    "timestamp": 1794187294,
     "title": "Lilliput State School (School No. 1015; previously known as Lilliput Common School 1869 \u2013 1873)"
   },
   {
@@ -112391,7 +112391,7 @@
   },
   {
     "_id": "5E5C5590-08EF-11EF-BADD-430F4040F5BF",
-    "_version_": 1878408248650891264,
+    "_version_": 1881397948154118144,
     "category": "Agency",
     "citation": "VA 5447",
     "date_range": [
@@ -112420,7 +112420,7 @@
     "start_dt": "1895",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1791363584,
+    "timestamp": 1794187728,
     "title": "Buffalo Primary School (School No. 3240; previously known as Meenyan East State School 1895 \u2013 1907; Buffalo State School 1907 \u2013 1970)"
   },
   {
@@ -116798,6 +116798,40 @@
     "title": "Fairley Primary School (School No. 3991; previously known as Fairley State School 1919 \u2013 1970)"
   },
   {
+    "_id": "C5EEE9CB-DF63-11EF-80A4-8B5673AD1CE9",
+    "_version_": 1881397948196061185,
+    "category": "Agency",
+    "citation": "VA 5631",
+    "date_range": [
+      "[2011 TO 2019]"
+    ],
+    "description": "Goongerah Tubbut P-8 College (School No. 5547) (VA 3298) was a co-educational dual campus school catering for students from Prep to Year 8. &nbsp;It was established in January 2011 through the merger of Goongerah Primary School (School No. 4545) (VA 3298) and Tubbut Primary School (School No. 4593) (VA 5645). The school was located in East Gippsland, between Orbost and Bendoc.&nbsp;<br />\r\n<br />\r\nThe former Goongerah Primary School became the Goongerah Campus on Bonang Road, Goongerah while the former Tubbut Primary School became the Tubbut Campus on Bonang-Gelantipy Road, Tubbut. By 2016, classes operated from the Goongerah Campus on Monday to Wednesday, and from the Tubbut Campus on Thursday and Friday.<br />\r\n<br />\r\nIn 2018, enrolments had declined to just five students and Goongerah Tubbut P-8 College was permanently closed in 2019.&nbsp;<br />\r\n&nbsp;",
+    "end_dt": "2019",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "C5EEE9CB-DF63-11EF-80A4-8B5673AD1CE9",
+    "identifier.PROV_ACM.id": "VA 5631",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "2011",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1794202274,
+    "title": "Goongerah Tubbut P-8 College (School No. 5547)"
+  },
+  {
     "_id": "39D9E6AC-DF64-11EF-80A4-2F95BECF8F67",
     "_version_": 1839092942983135232,
     "category": "Agency",
@@ -118293,7 +118327,7 @@
   },
   {
     "_id": "168D3D92-18F3-11F0-8D1F-B359D45544BC",
-    "_version_": 1878498845041623040,
+    "_version_": 1881397948088057856,
     "category": "Agency",
     "citation": "VA 5677",
     "date_range": [
@@ -118322,7 +118356,7 @@
     "start_dt": "1874",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1791426230,
+    "timestamp": 1794181740,
     "title": "Christmas Hills Primary School (School No. 1362; previously known as Christmas Hills State School 1874 \u2013 1970; also known as Watson\u2019s Creek State School 1874 \u2013 1876)"
   },
   {
@@ -120909,7 +120943,7 @@
   },
   {
     "_id": "7108B06B-BDF4-11F0-8856-F95F9211859D",
-    "_version_": 1878498845058400257,
+    "_version_": 1881397948213886977,
     "category": "Agency",
     "citation": "VA 5773",
     "date_range": [
@@ -120938,7 +120972,7 @@
     "start_dt": "1869",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1791426344,
+    "timestamp": 1794202626,
     "title": "Redesdale North State School (School No. 967; previously known as Redesdale North Common School 1869 \u2013 c.1873)"
   },
   {
