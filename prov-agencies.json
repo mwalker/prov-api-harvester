@@ -50201,13 +50201,13 @@
   },
   {
     "_id": "FD28F34A-F3AA-11E9-AE98-2BC1C13F021C",
-    "_version_": 1879042426987872259,
+    "_version_": 1881488545401536512,
     "category": "Agency",
     "citation": "VA 3371",
     "date_range": [
       "[1869 TO 1991]"
     ],
-    "description": "Mia Mia Primary School (School No. 952) (VA 3371) was a small rural primary school located in Mia Mia, 56 kilometres south of Bendigo in Central Victoria.<br />\r\n<br />\r\nThe school was first established as Mia Mia Common School on land set aside on the Heathcote-Kyneton Road, in a stone building erected at local expense and handed over to the Board of Education (VA 713) on the 15th of January 1869. School commenced later the same year.<br />\r\n<br />\r\nThe original stone building was badly in need of repair by 1873. It was eventually replaced in 1915 by a new timber building comprising of a classroom, entrance and small office.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school&rsquo;s name was changed to Mia Mia Primary School.<br />\r\n<br />\r\nIn the early 1970s a portable classroom was moved to the school to compliment the 1915 schoolhouse. By the late 1980s, the teacher&rsquo;s residence had been left empty for some time and subject to vandalism. The School Committee therefore sought approval from the Education Department (VA 714) to demolish it.<br />\r\n<br />\r\nIn 1991, Mia Mia Primary School was closed and merged with Redesdale Primary School (School No. 2571) (VA 5740) due to low enrolments,&nbsp;forming Redesdale Mia Mia Primary School. The new school retained the Redesdale site and school number, while the Mia Mia site was closed.",
+    "description": "Mia Mia Primary School (School No. 952) (VA 3371) was a small rural primary school located in Mia Mia, 56 kilometres south of Bendigo in Central Victoria.<br />\r\n<br />\r\nThe school was first established as Mia Mia Common School on land set aside on the Heathcote-Kyneton Road, in a stone building erected at local expense and handed over to the Board of Education (VA 713) on the 15th of January 1869. School commenced later the same year.<br />\r\n<br />\r\nThe Education Act of 1872 established the Victorian Education Department (VA 714) which marked a change to school naming conventions, with the school becoming Mia Mia State School. &nbsp;<br />\r\n<br />\r\nThe original stone building was badly in need of repair by 1873. It was eventually replaced in 1915 by a new timber building comprising of a classroom, entrance and small office.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school&rsquo;s name was changed to Mia Mia Primary School.<br />\r\n<br />\r\nIn the early 1970s a portable classroom was moved to the school to compliment the 1915 schoolhouse. By the late 1980s, the teacher&rsquo;s residence had been left empty for some time and subject to vandalism. The School Committee therefore sought approval from the Education Department (VA 714) to demolish it.<br />\r\n<br />\r\nIn 1991, Mia Mia Primary School was closed and merged with Redesdale Primary School (School No. 2571) (VA 5740) due to low enrolments,&nbsp;forming Redesdale Mia Mia Primary School. The new school retained the Redesdale site and school number, while the Mia Mia site was closed.",
     "end_dt": "1991",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -50230,8 +50230,8 @@
     "start_dt": "1869",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1791951527,
-    "title": "Mia Mia Primary School (School No. 952; previously known as Mia Mia State School)"
+    "timestamp": 1794262782,
+    "title": "Mia Mia Primary School (School No. 952; previously known as Mia Mia Common School 1869 - c.1872; Mia Mia State School c.1872 - 1970)"
   },
   {
     "_id": "FD2AA0FB-F3AA-11E9-AE98-39482084C83F",
@@ -87541,7 +87541,7 @@
   },
   {
     "_id": "A4440918-F3AB-11E9-AE98-03D60E768C39",
-    "_version_": 1879495412294877189,
+    "_version_": 1881488545684652034,
     "category": "Agency",
     "citation": "VA 4548",
     "date_range": [
@@ -87570,7 +87570,7 @@
     "start_dt": "1871",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1792383181,
+    "timestamp": 1794290701,
     "title": "Lindenow Primary School (School No. 1120; previously known as Lindenow Common School 1871 \u2013 c.1873; Lindenow State School c.1873 \u2013 1970)"
   },
   {
@@ -122405,7 +122405,7 @@
   },
   {
     "_id": "263D24B1-393F-11F1-8856-697D1B75D2A6",
-    "_version_": 1880129590433677318,
+    "_version_": 1881488545579794432,
     "category": "Agency",
     "citation": "VA 5836",
     "date_range": [
@@ -122434,7 +122434,7 @@
     "start_dt": "1873",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1792988131,
+    "timestamp": 1794281020,
     "title": "Timor Primary School (School No. 1207; previously known as Timor State School 1873 \u2013 1970)"
   },
   {
