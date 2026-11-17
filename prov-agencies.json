@@ -57919,13 +57919,13 @@
   },
   {
     "_id": "1521940D-F3AB-11E9-AE98-114844A7B4B4",
-    "_version_": 1866996806636797952,
+    "_version_": 1882122723686088707,
     "category": "Agency",
     "citation": "VA 3598",
     "date_range": [
       "[1881 TO 3000]"
     ],
-    "description": null,
+    "description": "Ivanhoe Primary School (School No. 2436) (VA 3598) is a government primary school located in the inner north-east suburbs of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1881 as Ivanhoe State School, replacing the previous Ivanhoe State School (School No. 324) on a new site. In 1923 a new red brick building was erected on Waterdale Road, and between 1931 and 1943 the school offered classes for higher grades as a Central School.&nbsp;<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Ivanhoe Primary School.<br />\r\n<br />\r\nAs of 2026, Ivanhoe Primary School continues to operate.&nbsp;",
     "end_dt": "3000",
     "end_dt_qual": null,
     "entity": "Agent",
@@ -57939,17 +57939,17 @@
     "name.aka.end_dt_qual": null,
     "name.aka.start_dt": null,
     "name.aka.title": null,
-    "name.official_title.date_range": "[1881 TO 3000]",
-    "name.official_title.end_dt": "3000",
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
     "name.official_title.end_dt_qual": null,
-    "name.official_title.start_dt": "1881",
+    "name.official_title.start_dt": null,
     "name.official_title.start_dt_qual": null,
-    "name.official_title.title": "Ivanhoe (Primary School No.2436 and Central School 1931-1948)",
+    "name.official_title.title": null,
     "start_dt": "1881",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1780478490,
-    "title": "Ivanhoe (Primary School No.2436 and Central School 1931-1948)"
+    "timestamp": 1794872405,
+    "title": "Ivanhoe Primary School (School No. 2436; previously known as Ivanhoe State School 1881 \u2013 1970; also known as Ivanhoe Central School 1931 - 1948)"
   },
   {
     "_id": "152368CE-F3AB-11E9-AE98-93FFFEA24750",
@@ -121960,6 +121960,108 @@
     "status": "Published",
     "timestamp": 1791952097,
     "title": "Essendon High School (School No. 7815; previously known as Essendon Higher Elementary School 1913 - 1914)"
+  },
+  {
+    "_id": "68D5ACB0-15BA-11F1-8856-FB2EF6902C42",
+    "_version_": 1882122723693428741,
+    "category": "Agency",
+    "citation": "VA 5812",
+    "date_range": [
+      "[1885 TO 3000]"
+    ],
+    "description": "Forrest Primary School (School No. 2708) (VA 5812) is a rural primary school located in the Otway Ranges, 35 kilometres south-east of Colac. It services the communities of Barwon Downs, Gerangamete, Barramunga and Forrest.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1885 as Forrest State School, out of a wooden portable building on a five-acre site. It predated the establishment of Forrest township, and the school site ended up being a mile out of town, prompting calls for it to be moved to a more accessible location in.<br />\r\n<br />\r\nIn 1903, a new site opposite the Public Hall was reserved, and classes were held in the hall from 1903 until 1906 when a new wooden school building was completed.<br />\r\n<br />\r\nIn 1970, there was a statewide decision to change the use of the term &lsquo;State School&rsquo; to refer to all primary, secondary and technical schools instead of just primary schools, and for all primary schools to use &lsquo;Primary School&rsquo; in the name. Accordingly, the school name was changed to Forrest Primary School.<br />\r\n<br />\r\nAs of 2026, Forrest Primary School continues to operate.&nbsp;",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "68D5ACB0-15BA-11F1-8856-FB2EF6902C42",
+    "identifier.PROV_ACM.id": "VA 5812",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1885",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1794872632,
+    "title": "Forrest Primary School (School No. 2708; previously known as Forrest State School 1885 - 1970)"
+  },
+  {
+    "_id": "76F73A71-15BA-11F1-8856-8B678C169317",
+    "_version_": 1882122723691331588,
+    "category": "Agency",
+    "citation": "VA 5813",
+    "date_range": [
+      "[1967 TO 1992]"
+    ],
+    "description": "Monterey Technical School (School No. 7254) (VA 5813) was a coeducational government technical secondary school in Frankston North, in Melbourne&rsquo;s south-east.<br />\r\n<br />\r\nThe school first opened in 1967. Its original name was Frankston North Technical School but was changed to Monterey Technical School within its first year. It initially operated out of temporary facilities at Monterey High School (School No. 8067) (VA 5818), which had opened the previous year, before moving to a new dedicated site on Silvertop Street in 1968.<br />\r\n<br />\r\nAt the end of 1992, Monterey Technical School was closed and merged with Monterey High School to form the new Monterey Secondary College (School No. 8809) (VA 5702). The technical school site initially became campus two of the new school, before Monterey Secondary College consolidated and moved to solely occupy the former technical school site on Silvertop Street at the end of 1994.",
+    "end_dt": "1992",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "76F73A71-15BA-11F1-8856-8B678C169317",
+    "identifier.PROV_ACM.id": "VA 5813",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1967",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1794872600,
+    "title": "Monterey Technical School (School No. 7254; previously known as Frankston North Technical School 1967 - 1967)"
+  },
+  {
+    "_id": "8B86103E-15C7-11F1-8856-91B9288A2B18",
+    "_version_": 1882122723671408640,
+    "category": "Agency",
+    "citation": "VA 5814",
+    "date_range": [
+      "[1963 TO 3000]"
+    ],
+    "description": "Monbulk College (School No. 8065) (VA 5814) is a government secondary school located in the Dandenong Ranges, east of Melbourne.&nbsp;<br />\r\n<br />\r\nThe school first opened in 1963 as Monbulk High School. It initially operated out of portable classrooms at Upwey High School (School No. 8415), before moving to a new building on David Hill Road in 1964.<br />\r\n<br />\r\nIn 1990 the school underwent a name change to Monbulk Secondary College following the Change of School Name and Reclassification of Schools Executive Memorandum No 314 from the Ministry of Education (VA 1112). In 1995 the name was changed once more to Monbulk College.&nbsp;<br />\r\n<br />\r\nAs of 2026, Monbulk College continues to operate.",
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Agent",
+    "identifier.PID.id": "8B86103E-15C7-11F1-8856-91B9288A2B18",
+    "identifier.PROV_ACM.id": "VA 5814",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1963",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1794870769,
+    "title": "Monbulk College (School No. 8065; previously known as Monbulk High School 1963 \u2013 1990; Monbulk Secondary College 1990 \u2013 1995)"
   },
   {
     "_id": "8BA5F44F-15C7-11F1-8856-A99A51670B94",
