@@ -1288833,7 +1288833,7 @@
   },
   {
     "_id": "C8C2E48C-77AC-11EE-BADD-B70A7E778104",
-    "_version_": 1875965922310619136,
+    "_version_": 1882213321334063104,
     "category": "Consignment",
     "citation": "VPRS 17860/C1",
     "citation_sort": "0000VPRS 17860/C1",
@@ -1288855,7 +1288855,7 @@
     "date_range": [
       "2019"
     ],
-    "description": "Digital Records - 2019 DHHS",
+    "description": "2019 Department of Health and Human Services",
     "end_dt": "2019",
     "end_dt_qual": null,
     "entity": "Record",
@@ -1288866,14 +1288866,14 @@
       "VPRS17860"
     ],
     "is_part_of_series.title": [
-      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan Government [Prevention of Family Violence]"
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Prevention of Family Violence]"
     ],
     "location": null,
     "parents.ids": [
       "VPRS17860"
     ],
     "parents.titles": [
-      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan Government [Prevention of Family Violence]"
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Prevention of Family Violence]"
     ],
     "quantity": [
       47
@@ -1288884,8 +1288884,8 @@
     "start_dt": "2019",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1789044425,
-    "title": "Consignment 17860/C1 Digital Records - 2019 DHHS"
+    "timestamp": 1794961435,
+    "title": "Consignment 17860/C1 2019 Department of Health and Human Services"
   },
   {
     "_id": "FA164DBD-77AC-11EE-BADD-95576728AF85",
@@ -1343960,7 +1343960,7 @@
   },
   {
     "_id": "D7B48C70-F1B1-11E9-AE98-2F723433ECF0",
-    "_version_": 1875965904805691392,
+    "_version_": 1882213321335111680,
     "category": "Consignment",
     "citation": "VPRS 18627/P0001",
     "citation_sort": "0000VPRS 18627/P0001",
@@ -1343982,7 +1343982,7 @@
     "date_range": [
       "[2014 TO 2018]"
     ],
-    "description": "Digital Records - 2014-2018",
+    "description": null,
     "end_dt": "2018",
     "end_dt_qual": null,
     "entity": "Record",
@@ -1343993,14 +1343993,14 @@
       "VPRS18627"
     ],
     "is_part_of_series.title": [
-      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan Government [Families and Children]"
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Families and Children]"
     ],
     "location": null,
     "parents.ids": [
       "VPRS18627"
     ],
     "parents.titles": [
-      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan Government [Families and Children]"
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Families and Children]"
     ],
     "quantity": [
       153
@@ -1344011,8 +1344011,8 @@
     "start_dt": "2014",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1788922921,
-    "title": "Consignment 18627/P0001 Digital Records - 2014-2018"
+    "timestamp": 1794961886,
+    "title": "Consignment 18627/P0001"
   },
   {
     "_id": "4ACB8722-783B-11EE-BADD-61F9C4EFEF4C",
