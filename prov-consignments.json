@@ -22255,7 +22255,7 @@
   },
   {
     "_id": "A4885654-F1AF-11E9-AE98-F7F7DC8A1549",
-    "_version_": 1882122723781509120,
+    "_version_": 1882303924067631105,
     "category": "Consignment",
     "citation": "VPRS 267/P0007",
     "citation_sort": "0000VPRS 267/P0007",
@@ -22300,7 +22300,7 @@
       "Civil Case Files"
     ],
     "quantity": [
-      377831
+      389147
     ],
     "rights_status": [
       "Open"
@@ -22308,7 +22308,7 @@
     "start_dt": "1862",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1794896553,
+    "timestamp": 1795069637,
     "title": "Consignment 267/P0007"
   },
   {
@@ -59733,6 +59733,64 @@
     "status": "Published",
     "timestamp": 1614298991,
     "title": "Consignment 773/P0001"
+  },
+  {
+    "_id": "B6E40BFC-F1AF-11E9-AE98-FD2D2B114238",
+    "_version_": 1882303921327702017,
+    "category": "Consignment",
+    "citation": "VPRS 774/P0000",
+    "citation_sort": "0000VPRS 774/P0000",
+    "consignment_category": "AMS ACM",
+    "consignment_id": "P0000",
+    "contents.date_range": [
+      "[1900 TO 1930]"
+    ],
+    "contents.end_dt": [
+      1930
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1900
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1900 TO 1930]"
+    ],
+    "description": null,
+    "end_dt": "1930",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "B6E40BFC-F1AF-11E9-AE98-FD2D2B114238",
+    "identifier.PROV_ACM.id": "VPRS 774/P0000",
+    "is_part_of_series.id": [
+      "VPRS774"
+    ],
+    "is_part_of_series.title": [
+      "Inward Registered Correspondence, Annual Single Number System"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS774"
+    ],
+    "parents.titles": [
+      "Inward Registered Correspondence, Annual Single Number System"
+    ],
+    "quantity": [
+      627
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1900",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795052554,
+    "title": "Consignment 774/P0000"
   },
   {
     "_id": "B6E6A40D-F1AF-11E9-AE98-11F3DC0117D0",
@@ -1331581,6 +1331639,170 @@
     "title": "Consignment 18593/C5"
   },
   {
+    "_id": "7BB43AB8-A503-11F1-9CAC-F3A1D566695A",
+    "_version_": 1882303924070776833,
+    "category": "Consignment",
+    "citation": "VPRS 18593/C6",
+    "citation_sort": "0000VPRS 18593/C6",
+    "consignment_category": "AMS",
+    "consignment_id": "C6",
+    "contents.date_range": [
+      "2023"
+    ],
+    "contents.end_dt": [
+      2023
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2023
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2023"
+    ],
+    "description": null,
+    "end_dt": "2023",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": null,
+    "identifier.PID.id": "7BB43AB8-A503-11F1-9CAC-F3A1D566695A",
+    "identifier.PROV_ACM.id": "VPRS 18593/C6",
+    "is_part_of_series.id": [
+      "VPRS18593"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Agriculture]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18593"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Agriculture]"
+    ],
+    "quantity": [
+      0
+    ],
+    "rights_status": null,
+    "start_dt": "2023",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795073977,
+    "title": "Consignment 18593/C6"
+  },
+  {
+    "_id": "0D4AC324-A66F-11F1-9CAC-47650F856B82",
+    "_version_": 1882303924073922562,
+    "category": "Consignment",
+    "citation": "VPRS 18593/C7",
+    "citation_sort": "0000VPRS 18593/C7",
+    "consignment_category": "AMS",
+    "consignment_id": "C7",
+    "contents.date_range": [
+      "2024"
+    ],
+    "contents.end_dt": [
+      2024
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2024
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2024"
+    ],
+    "description": null,
+    "end_dt": "2024",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": null,
+    "identifier.PID.id": "0D4AC324-A66F-11F1-9CAC-47650F856B82",
+    "identifier.PROV_ACM.id": "VPRS 18593/C7",
+    "is_part_of_series.id": [
+      "VPRS18593"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Agriculture]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18593"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Agriculture]"
+    ],
+    "quantity": [
+      0
+    ],
+    "rights_status": null,
+    "start_dt": "2024",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074084,
+    "title": "Consignment 18593/C7"
+  },
+  {
+    "_id": "9B14DE69-A670-11F1-9CAC-13E98FBE3C66",
+    "_version_": 1882303924077068288,
+    "category": "Consignment",
+    "citation": "VPRS 18593/C8",
+    "citation_sort": "0000VPRS 18593/C8",
+    "consignment_category": "AMS",
+    "consignment_id": "C8",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "9B14DE69-A670-11F1-9CAC-13E98FBE3C66",
+    "identifier.PROV_ACM.id": "VPRS 18593/C8",
+    "is_part_of_series.id": [
+      "VPRS18593"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Agriculture]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18593"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Agriculture]"
+    ],
+    "quantity": [
+      101
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074190,
+    "title": "Consignment 18593/C8"
+  },
+  {
     "_id": "D55678C9-F1B1-11E9-AE98-01BCD6F7A315",
     "_version_": 1816061996647317504,
     "category": "Consignment",
@@ -1338539,6 +1338761,62 @@
     "title": "Consignment 18613/C6"
   },
   {
+    "_id": "14AF52B4-A29F-11F1-9CAC-11DDA3D634F0",
+    "_version_": 1882303924079165440,
+    "category": "Consignment",
+    "citation": "VPRS 18613/C7",
+    "citation_sort": "0000VPRS 18613/C7",
+    "consignment_category": "AMS",
+    "consignment_id": "C7",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "14AF52B4-A29F-11F1-9CAC-11DDA3D634F0",
+    "identifier.PROV_ACM.id": "VPRS 18613/C7",
+    "is_part_of_series.id": [
+      "VPRS18613"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Public Transport (previously Public and Active Transport)]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18613"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Public Transport (previously Public and Active Transport)]"
+    ],
+    "quantity": [
+      1091
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074259,
+    "title": "Consignment 18613/C7"
+  },
+  {
     "_id": "D68F4620-F1B1-11E9-AE98-3D5E9B4DCB43",
     "_version_": 1816061996714426369,
     "category": "Consignment",
@@ -1342303,6 +1342581,174 @@
     "title": "Consignment 18623/C4"
   },
   {
+    "_id": "B2CEA227-A502-11F1-9CAC-0DA9D31B169E",
+    "_version_": 1882303924070776834,
+    "category": "Consignment",
+    "citation": "VPRS 18623/C5",
+    "citation_sort": "0000VPRS 18623/C5",
+    "consignment_category": "AMS",
+    "consignment_id": "C5",
+    "contents.date_range": [
+      "2023"
+    ],
+    "contents.end_dt": [
+      2023
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2023
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2023"
+    ],
+    "description": null,
+    "end_dt": "2023",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "B2CEA227-A502-11F1-9CAC-0DA9D31B169E",
+    "identifier.PROV_ACM.id": "VPRS 18623/C5",
+    "is_part_of_series.id": [
+      "VPRS18623"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Water]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18623"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Water]"
+    ],
+    "quantity": [
+      8
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2023",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795073994,
+    "title": "Consignment 18623/C5"
+  },
+  {
+    "_id": "42F63BD5-A66F-11F1-9CAC-CF587FEE4C6D",
+    "_version_": 1882303924074971136,
+    "category": "Consignment",
+    "citation": "VPRS 18623/C6",
+    "citation_sort": "0000VPRS 18623/C6",
+    "consignment_category": "AMS",
+    "consignment_id": "C6",
+    "contents.date_range": [
+      "2024"
+    ],
+    "contents.end_dt": [
+      2024
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2024
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2024"
+    ],
+    "description": null,
+    "end_dt": "2024",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "42F63BD5-A66F-11F1-9CAC-CF587FEE4C6D",
+    "identifier.PROV_ACM.id": "VPRS 18623/C6",
+    "is_part_of_series.id": [
+      "VPRS18623"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Water]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18623"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Water]"
+    ],
+    "quantity": [
+      64
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2024",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074101,
+    "title": "Consignment 18623/C6"
+  },
+  {
+    "_id": "C70C359A-A670-11F1-9CAC-9B2BA09179FD",
+    "_version_": 1882303924077068289,
+    "category": "Consignment",
+    "citation": "VPRS 18623/C7",
+    "citation_sort": "0000VPRS 18623/C7",
+    "consignment_category": "AMS",
+    "consignment_id": "C7",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "C70C359A-A670-11F1-9CAC-9B2BA09179FD",
+    "identifier.PROV_ACM.id": "VPRS 18623/C7",
+    "is_part_of_series.id": [
+      "VPRS18623"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Water]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18623"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Water]"
+    ],
+    "quantity": [
+      84
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074207,
+    "title": "Consignment 18623/C7"
+  },
+  {
     "_id": "D6C08F70-F1B1-11E9-AE98-AF968404E9C6",
     "_version_": 1816061996551897088,
     "category": "Consignment",
@@ -1343725,6 +1344171,64 @@
     "status": "Published",
     "timestamp": 1785479762,
     "title": "Consignment 18626/C7"
+  },
+  {
+    "_id": "80981B3F-4AA4-11F1-8856-FB5770BC5821",
+    "_version_": 1882303924079165441,
+    "category": "Consignment",
+    "citation": "VPRS 18626/C8",
+    "citation_sort": "0000VPRS 18626/C8",
+    "consignment_category": "AMS",
+    "consignment_id": "C8",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital and physical",
+    "identifier.PID.id": "80981B3F-4AA4-11F1-8856-FB5770BC5821",
+    "identifier.PROV_ACM.id": "VPRS 18626/C8",
+    "is_part_of_series.id": [
+      "VPRS18626"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Planning]"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS18626"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Planning]"
+    ],
+    "quantity": [
+      4544
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074278,
+    "title": "Consignment 18626/C8"
   },
   {
     "_id": "D7AE71EC-F1B1-11E9-AE98-73F1DE96B538",
@@ -1349055,6 +1349559,62 @@
     "title": "Consignment 18660/C7"
   },
   {
+    "_id": "1DE879D0-4AA5-11F1-8856-29A08888277C",
+    "_version_": 1882303924080214016,
+    "category": "Consignment",
+    "citation": "VPRS 18660/C8",
+    "citation_sort": "0000VPRS 18660/C8",
+    "consignment_category": "AMS",
+    "consignment_id": "C8",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "1DE879D0-4AA5-11F1-8856-29A08888277C",
+    "identifier.PROV_ACM.id": "VPRS 18660/C8",
+    "is_part_of_series.id": [
+      "VPRS18660"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Ports and Freight]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18660"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Ports and Freight]"
+    ],
+    "quantity": [
+      83
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074298,
+    "title": "Consignment 18660/C8"
+  },
+  {
     "_id": "7CB8366A-7DD4-11EE-BADD-C15C9D0C15F1",
     "_version_": 1872160832304971779,
     "category": "Consignment",
@@ -1349611,6 +1350171,62 @@
     "status": "Published",
     "timestamp": 1785998929,
     "title": "Consignment 18663/C7"
+  },
+  {
+    "_id": "626FCF91-4AA5-11F1-8856-BD48D64C004A",
+    "_version_": 1882303924080214017,
+    "category": "Consignment",
+    "citation": "VPRS 18663/C8",
+    "citation_sort": "0000VPRS 18663/C8",
+    "consignment_category": "AMS",
+    "consignment_id": "C8",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "626FCF91-4AA5-11F1-8856-BD48D64C004A",
+    "identifier.PROV_ACM.id": "VPRS 18663/C8",
+    "is_part_of_series.id": [
+      "VPRS18663"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Transport Infrastructure]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18663"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Transport Infrastructure]"
+    ],
+    "quantity": [
+      3151
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074316,
+    "title": "Consignment 18663/C8"
   },
   {
     "_id": "895EC781-7DD5-11EE-BADD-8F30DDC4B378",
@@ -1356669,6 +1357285,62 @@
     "title": "Consignment 18692/C6"
   },
   {
+    "_id": "ADBD0082-4AA5-11F1-8856-9946EB464B56",
+    "_version_": 1882303924081262592,
+    "category": "Consignment",
+    "citation": "VPRS 18692/C7",
+    "citation_sort": "0000VPRS 18692/C7",
+    "consignment_category": "AMS",
+    "consignment_id": "C7",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "ADBD0082-4AA5-11F1-8856-9946EB464B56",
+    "identifier.PROV_ACM.id": "VPRS 18692/C7",
+    "is_part_of_series.id": [
+      "VPRS18692"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Roads and Road Safety II]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18692"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Roads and Road Safety II]"
+    ],
+    "quantity": [
+      208
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074335,
+    "title": "Consignment 18692/C7"
+  },
+  {
     "_id": "4FD2B301-97E4-11EE-BADD-6D11FD87E529",
     "_version_": 1850051400418983940,
     "category": "Consignment",
@@ -1357059,6 +1357731,62 @@
     "status": "Published",
     "timestamp": 1785479881,
     "title": "Consignment 18694/C6"
+  },
+  {
+    "_id": "F1D20C73-4AA5-11F1-8856-BBBE0D9BD597",
+    "_version_": 1882303924081262593,
+    "category": "Consignment",
+    "citation": "VPRS 18694/C7",
+    "citation_sort": "0000VPRS 18694/C7",
+    "consignment_category": "AMS",
+    "consignment_id": "C7",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "F1D20C73-4AA5-11F1-8856-BBBE0D9BD597",
+    "identifier.PROV_ACM.id": "VPRS 18694/C7",
+    "is_part_of_series.id": [
+      "VPRS18694"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Suburban Rail Loop]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS18694"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Suburban Rail Loop]"
+    ],
+    "quantity": [
+      125
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074352,
+    "title": "Consignment 18694/C7"
   },
   {
     "_id": "EEF85FD1-77A8-11EE-BADD-7DC0C48D8121",
@@ -1397583,6 +1398311,674 @@
     "status": "Published",
     "timestamp": 1789430898,
     "title": "Consignment 19583/C3"
+  },
+  {
+    "_id": "7C94FA95-A4FF-11F1-9CAC-FB0CCF2EEA2D",
+    "_version_": 1882303924071825408,
+    "category": "Consignment",
+    "citation": "VPRS 19584/C1",
+    "citation_sort": "0000VPRS 19584/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "2023"
+    ],
+    "contents.end_dt": [
+      2023
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2023
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2023"
+    ],
+    "description": null,
+    "end_dt": "2023",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "7C94FA95-A4FF-11F1-9CAC-FB0CCF2EEA2D",
+    "identifier.PROV_ACM.id": "VPRS 19584/C1",
+    "is_part_of_series.id": [
+      "VPRS19584"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Climate Action]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19584"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Climate Action]"
+    ],
+    "quantity": [
+      10
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2023",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074011,
+    "title": "Consignment 19584/C1"
+  },
+  {
+    "_id": "A39B98E6-A66F-11F1-9CAC-37DBEB8598B2",
+    "_version_": 1882303924074971137,
+    "category": "Consignment",
+    "citation": "VPRS 19584/C2",
+    "citation_sort": "0000VPRS 19584/C2",
+    "consignment_category": "AMS",
+    "consignment_id": "C2",
+    "contents.date_range": [
+      "2024"
+    ],
+    "contents.end_dt": [
+      2024
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2024
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2024"
+    ],
+    "description": null,
+    "end_dt": "2024",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "A39B98E6-A66F-11F1-9CAC-37DBEB8598B2",
+    "identifier.PROV_ACM.id": "VPRS 19584/C2",
+    "is_part_of_series.id": [
+      "VPRS19584"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Climate Action]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19584"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Climate Action]"
+    ],
+    "quantity": [
+      52
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2024",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074119,
+    "title": "Consignment 19584/C2"
+  },
+  {
+    "_id": "F80EE6BB-A670-11F1-9CAC-49EC5978CF6C",
+    "_version_": 1882303924077068290,
+    "category": "Consignment",
+    "citation": "VPRS 19584/C3",
+    "citation_sort": "0000VPRS 19584/C3",
+    "consignment_category": "AMS",
+    "consignment_id": "C3",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "F80EE6BB-A670-11F1-9CAC-49EC5978CF6C",
+    "identifier.PROV_ACM.id": "VPRS 19584/C3",
+    "is_part_of_series.id": [
+      "VPRS19584"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Climate Action]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19584"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Climate Action]"
+    ],
+    "quantity": [
+      29
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074224,
+    "title": "Consignment 19584/C3"
+  },
+  {
+    "_id": "CA3B5333-A4FE-11F1-9CAC-F927590C5EC4",
+    "_version_": 1882303924069728256,
+    "category": "Consignment",
+    "citation": "VPRS 19585/C1",
+    "citation_sort": "0000VPRS 19585/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "2023"
+    ],
+    "contents.end_dt": [
+      2023
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2023
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2023"
+    ],
+    "description": null,
+    "end_dt": "2023",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "CA3B5333-A4FE-11F1-9CAC-F927590C5EC4",
+    "identifier.PROV_ACM.id": "VPRS 19585/C1",
+    "is_part_of_series.id": [
+      "VPRS19585"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Energy and Resources II]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19585"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Energy and Resources II]"
+    ],
+    "quantity": [
+      475
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2023",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795073942,
+    "title": "Consignment 19585/C1"
+  },
+  {
+    "_id": "4D06CADE-A66E-11F1-9CAC-675668AB4988",
+    "_version_": 1882303924073922560,
+    "category": "Consignment",
+    "citation": "VPRS 19585/C2",
+    "citation_sort": "0000VPRS 19585/C2",
+    "consignment_category": "AMS",
+    "consignment_id": "C2",
+    "contents.date_range": [
+      "2024"
+    ],
+    "contents.end_dt": [
+      2024
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2024
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2024"
+    ],
+    "description": null,
+    "end_dt": "2024",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "4D06CADE-A66E-11F1-9CAC-675668AB4988",
+    "identifier.PROV_ACM.id": "VPRS 19585/C2",
+    "is_part_of_series.id": [
+      "VPRS19585"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Energy and Resources II]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19585"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Energy and Resources II]"
+    ],
+    "quantity": [
+      1136
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2024",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074049,
+    "title": "Consignment 19585/C2"
+  },
+  {
+    "_id": "434A80E7-A670-11F1-9CAC-213516811E2D",
+    "_version_": 1882303924076019713,
+    "category": "Consignment",
+    "citation": "VPRS 19585/C3",
+    "citation_sort": "0000VPRS 19585/C3",
+    "consignment_category": "AMS",
+    "consignment_id": "C3",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "434A80E7-A670-11F1-9CAC-213516811E2D",
+    "identifier.PROV_ACM.id": "VPRS 19585/C3",
+    "is_part_of_series.id": [
+      "VPRS19585"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Energy and Resources II]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19585"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Energy and Resources II]"
+    ],
+    "quantity": [
+      1079
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074155,
+    "title": "Consignment 19585/C3"
+  },
+  {
+    "_id": "2BFCCEA4-A4FF-11F1-9CAC-67B540CFBB71",
+    "_version_": 1882303924070776832,
+    "category": "Consignment",
+    "citation": "VPRS 19586/C1",
+    "citation_sort": "0000VPRS 19586/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "2023"
+    ],
+    "contents.end_dt": [
+      2023
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2023
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2023"
+    ],
+    "description": null,
+    "end_dt": "2023",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "2BFCCEA4-A4FF-11F1-9CAC-67B540CFBB71",
+    "identifier.PROV_ACM.id": "VPRS 19586/C1",
+    "is_part_of_series.id": [
+      "VPRS19586"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Environment]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19586"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Environment]"
+    ],
+    "quantity": [
+      66
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2023",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795073960,
+    "title": "Consignment 19586/C1"
+  },
+  {
+    "_id": "0D2FC113-A66F-11F1-9CAC-218BFD08D433",
+    "_version_": 1882303924073922561,
+    "category": "Consignment",
+    "citation": "VPRS 19586/C2",
+    "citation_sort": "0000VPRS 19586/C2",
+    "consignment_category": "AMS",
+    "consignment_id": "C2",
+    "contents.date_range": [
+      "2024"
+    ],
+    "contents.end_dt": [
+      2024
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2024
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2024"
+    ],
+    "description": null,
+    "end_dt": "2024",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "0D2FC113-A66F-11F1-9CAC-218BFD08D433",
+    "identifier.PROV_ACM.id": "VPRS 19586/C2",
+    "is_part_of_series.id": [
+      "VPRS19586"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Environment]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19586"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Environment]"
+    ],
+    "quantity": [
+      2
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2024",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074067,
+    "title": "Consignment 19586/C2"
+  },
+  {
+    "_id": "6FE6A398-A670-11F1-9CAC-AB69E498072D",
+    "_version_": 1882303924076019714,
+    "category": "Consignment",
+    "citation": "VPRS 19586/C3",
+    "citation_sort": "0000VPRS 19586/C3",
+    "consignment_category": "AMS",
+    "consignment_id": "C3",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": null,
+    "identifier.PID.id": "6FE6A398-A670-11F1-9CAC-AB69E498072D",
+    "identifier.PROV_ACM.id": "VPRS 19586/C3",
+    "is_part_of_series.id": [
+      "VPRS19586"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Environment]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19586"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Environment]"
+    ],
+    "quantity": [
+      0
+    ],
+    "rights_status": null,
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074173,
+    "title": "Consignment 19586/C3"
+  },
+  {
+    "_id": "A8213D95-D349-11F1-827D-FF89ADF742B3",
+    "_version_": 1882303924072873984,
+    "category": "Consignment",
+    "citation": "VPRS 19587/C1",
+    "citation_sort": "0000VPRS 19587/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "2023"
+    ],
+    "contents.end_dt": [
+      2023
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2023
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2023"
+    ],
+    "description": null,
+    "end_dt": "2023",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": null,
+    "identifier.PID.id": "A8213D95-D349-11F1-827D-FF89ADF742B3",
+    "identifier.PROV_ACM.id": "VPRS 19587/C1",
+    "is_part_of_series.id": [
+      "VPRS19587"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [State Electricity Commission]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19587"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [State Electricity Commission]"
+    ],
+    "quantity": [
+      0
+    ],
+    "rights_status": null,
+    "start_dt": "2023",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074029,
+    "title": "Consignment 19587/C1"
+  },
+  {
+    "_id": "AAF1C2E8-D349-11F1-827D-5FFF1DB2AA94",
+    "_version_": 1882303924076019712,
+    "category": "Consignment",
+    "citation": "VPRS 19587/C2",
+    "citation_sort": "0000VPRS 19587/C2",
+    "consignment_category": "AMS",
+    "consignment_id": "C2",
+    "contents.date_range": [
+      "2024"
+    ],
+    "contents.end_dt": [
+      2024
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2024
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2024"
+    ],
+    "description": null,
+    "end_dt": "2024",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "AAF1C2E8-D349-11F1-827D-5FFF1DB2AA94",
+    "identifier.PROV_ACM.id": "VPRS 19587/C2",
+    "is_part_of_series.id": [
+      "VPRS19587"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [State Electricity Commission]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19587"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [State Electricity Commission]"
+    ],
+    "quantity": [
+      27
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2024",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074136,
+    "title": "Consignment 19587/C2"
+  },
+  {
+    "_id": "AB048799-D349-11F1-827D-ABB9E669C386",
+    "_version_": 1882303924078116864,
+    "category": "Consignment",
+    "citation": "VPRS 19587/C3",
+    "citation_sort": "0000VPRS 19587/C3",
+    "consignment_category": "AMS",
+    "consignment_id": "C3",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "AB048799-D349-11F1-827D-ABB9E669C386",
+    "identifier.PROV_ACM.id": "VPRS 19587/C3",
+    "is_part_of_series.id": [
+      "VPRS19587"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [State Electricity Commission]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS19587"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [State Electricity Commission]"
+    ],
+    "quantity": [
+      10
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074241,
+    "title": "Consignment 19587/C3"
   },
   {
     "_id": "81AB7D71-76BD-11EE-BADD-094436894CB0",
@@ -1545477,6 +1546873,62 @@
     "status": "Published",
     "timestamp": 1788397085,
     "title": "Consignment 22076/C1"
+  },
+  {
+    "_id": "74BF9CB6-A10C-11F1-9CAC-2360E84BBA86",
+    "_version_": 1882303924081262594,
+    "category": "Consignment",
+    "citation": "VPRS 22077/C1",
+    "citation_sort": "0000VPRS 22077/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "2025"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2025
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2025"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Digital",
+    "identifier.PID.id": "74BF9CB6-A10C-11F1-9CAC-2360E84BBA86",
+    "identifier.PROV_ACM.id": "VPRS 22077/C1",
+    "is_part_of_series.id": [
+      "VPRS22077"
+    ],
+    "is_part_of_series.title": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Development Victoria and Precincts]"
+    ],
+    "location": null,
+    "parents.ids": [
+      "VPRS22077"
+    ],
+    "parents.titles": [
+      "Departmental Cabinet-in-Confidence Working Records, Andrews/Allan/Carroll Government [Development Victoria and Precincts]"
+    ],
+    "quantity": [
+      36
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "2025",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795074369,
+    "title": "Consignment 22077/C1"
   },
   {
     "_id": "603E1AC8-DAD4-11F0-8856-0F0EAE52080B",
