@@ -116459,7 +116459,7 @@
   },
   {
     "_id": "CDEF12AB-B2B0-11EF-80A4-4D3332F8A558",
-    "_version_": 1852950501169037316,
+    "_version_": 1882394515268960256,
     "category": "Agency",
     "citation": "VA 5620",
     "date_range": [
@@ -116488,8 +116488,42 @@
     "start_dt": "1941",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1767061472,
+    "timestamp": 1795142695,
     "title": "State Coal Committee"
+  },
+  {
+    "_id": "C3DBE6C4-B2C3-11EF-80A4-B1F48B5CFC8D",
+    "_version_": 1882394515270008836,
+    "category": "Agency",
+    "citation": "VA 5621",
+    "date_range": [
+      "[1944 TO 1946]"
+    ],
+    "description": "<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">The Coal Production Council was established by the Commonwealth Coal Commission to act as an advisory committee regarding the availability of coal in Victoria. According to the minutes of the first meeting of the Council, its function was to &lsquo;enquire into and advise the Commission in any matter relating to the production of coal or any question as to the means by which the production of coal may be increased and which is referred to the Chairman of the Council by the Commission.&rsquo; Judging from the minutes, the Commission was not obliged to accept the recommendations of the Council.</span></span></span><br />\r\n<br />\r\n<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">The first Chairman of the Council was William Kingston, the Chief Mining Inspector of the Department of Mines and it appears that Department provided secretarial support. Other members were associated with the coal industry including a representative from the State Coal Mine Wonthaggi.</span></span></span><br />\r\n<br />\r\n<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Aptos,sans-serif\">Judging from the Council&rsquo;s minute book, it appears it held only eight meetings. The abolition of the Council is subject to further research.</span></span></span><br />\r\n&nbsp;",
+    "end_dt": "1946",
+    "end_dt_qual": "?",
+    "entity": "Agent",
+    "identifier.PID.id": "C3DBE6C4-B2C3-11EF-80A4-B1F48B5CFC8D",
+    "identifier.PROV_ACM.id": "VA 5621",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "name.aka.date_range": null,
+    "name.aka.end_dt": null,
+    "name.aka.end_dt_qual": null,
+    "name.aka.start_dt": null,
+    "name.aka.title": null,
+    "name.official_title.date_range": null,
+    "name.official_title.end_dt": null,
+    "name.official_title.end_dt_qual": null,
+    "name.official_title.start_dt": null,
+    "name.official_title.start_dt_qual": null,
+    "name.official_title.title": null,
+    "start_dt": "1944",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795142808,
+    "title": "Coal Production Council"
   },
   {
     "_id": "AC4C4B38-D940-11EF-80A4-41A94032F8F8",

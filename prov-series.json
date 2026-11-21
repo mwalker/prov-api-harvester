@@ -545615,6 +545615,84 @@
     "title": "Crown Solicitor Opinion Books"
   },
   {
+    "_id": "B328A6B0-F1AE-11E9-AE98-6B52C30E031F",
+    "_version_": 1882394515293077505,
+    "category": "Series",
+    "citation": "VPRS 7171",
+    "citation_sort": "07171",
+    "contents.date_range": null,
+    "contents.end_dt": null,
+    "contents.start_dt": null,
+    "creating_agents.creating_agency_id": [
+      2719,
+      2720,
+      612
+    ],
+    "creating_agents.date_ranges": [
+      "[1879 TO 1895]",
+      "[1895 TO 1909]",
+      "[1909 TO 1940]"
+    ],
+    "creating_agents.end_dt": [
+      1895,
+      1909,
+      1940
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1879,
+      1895,
+      1909
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Department of Mines (also known as the Mining Department)",
+      "Department of Mines and Water Supply",
+      "Mines Department (also known as Department of Mines and Mining Department)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1753 TO 3000]"
+    ],
+    "end_dt": "3000",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series has been cancelled. It was originally documented by a service provider but an investigation conducted in 2026 ascertained the record in question is the&nbsp;Index to Boring Records found within VPRS 7885.<br />\r\n<br />\r\n&nbsp;"
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "B328A6B0-F1AE-11E9-AE98-6B52C30E031F",
+    "identifier.PROV_ACM.id": "VPRS 7171",
+    "jurisdictional_coverage": null,
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": null,
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "7171",
+    "series_in_custody.date_range": null,
+    "series_in_custody.end_dt": null,
+    "series_in_custody.start_dt": null,
+    "start_dt": "1753",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795178851,
+    "title": "Book of Boring Records [series cancelled - refer to VPRS 7885]"
+  },
+  {
     "_id": "B333A337-F1AE-11E9-AE98-47080A910C09",
     "_version_": 1816040147157778432,
     "category": "Series",
@@ -610963,6 +611041,102 @@
     "status": "Published",
     "timestamp": 1614295321,
     "title": "Mining Warden's Register of Leases and Agreements for Mining on Private Property, Benalla Mining Warden"
+  },
+  {
+    "_id": "C0A73E5F-F1AE-11E9-AE98-6F11C517EA49",
+    "_version_": 1882394515303563264,
+    "category": "Series",
+    "citation": "VPRS 7885",
+    "citation_sort": "07885",
+    "contents.date_range": [
+      "[1879 TO 1972]"
+    ],
+    "contents.end_dt": [
+      1972
+    ],
+    "contents.start_dt": [
+      1879
+    ],
+    "creating_agents.creating_agency_id": [
+      612
+    ],
+    "creating_agents.date_ranges": [
+      "[1879 TO 1972]"
+    ],
+    "creating_agents.end_dt": [
+      1972
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1879
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Mines Department (also known as Department of Mines and Mining Department)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1879 TO 1972]"
+    ],
+    "end_dt": "1972",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of two different records that were filed in a folder.&nbsp;<br />\r\n<br />\r\nThe folder was intended to hold reports required by the Mines Department to be completed by companies operating quarries.The reports, headed &lsquo;Record of test by Sprengnether Seismograph&rsquo; appear to record the results of a test conducted to record, as recorded on the cover of the folder, &lsquo;blast vibrations&rsquo;.<br />\r\n<br />\r\nReports were arranged within the folder in alphabetical order by the name of the company that conducted the test. An index identifying the companies is also included.<br />\r\n<br />\r\nThe folder also contains two copies of a document headed &lsquo;Index to Boring Records&rsquo; which is in the form of a typed listing, of which an undetermined number of copies were made. Its function is to index information about bores recorded in either Annual Reports&rsquo; [presumably the Department of Mines?], &rsquo;Boring Records&rsquo; or &lsquo;Diamond Drill Reports&rsquo;.<br />\r\n<br />\r\nFor each bore, the index records the District, Parish Name, Bore number and a reference to the appropriate record using the initals A. R (for Annual Report) B. R (for Boring Record) and D.R (for Diamond Report). Each of these references is followed by a year and page reference suggesting these refer to published records, almost certainly the published Annual Report or addendums/content within these annual reports.&nbsp;<br />\r\n<br />\r\nThe preface to this index, which explains the meaning of these initials, also contains a statement that suggests it covers a reference to every bore from the &lsquo;inception of bores in 1879 to the 1st January 1940&rsquo;. A fuller version of the same index continues to 1947 is held at the GSV Library in Werribee which has placed a digitised version of it online. The preface also states the list is arranged according to parish followed by an index arranged according to district, but only two copies of the index arranged in district order is included.<br />\r\n<br />\r\nComparison of the information contained within this index and VPRS 6983, titled &lsquo;Boring Index&rsquo; (spanning the period 1889-1925) suggests this is not the case as both records contain references to bores not identified in the other.&nbsp;<br />\r\n<br />\r\nWhat appears to be another copy of the same index was registered as VPRS 7171 (titled Book Of Boring Records) although evidence exists to suggest that this series was created in error and it actually relates to the overall folder (i.e this series, VPRS 7885) in which it is located. It contains the same preface as the one in this series and is also arranged only in district order.<br />\r\n<br />\r\nThis series was originally transferred to PROV by a service provider. An assessment of teh supplied records during 2026 identified the issue relating to VPRS 7171, resulting in the change of series title and the creation of this s<br />\r\n&nbsp;"
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "C0A73E5F-F1AE-11E9-AE98-6F11C517EA49",
+    "identifier.PROV_ACM.id": "VPRS 7885",
+    "jurisdictional_coverage": null,
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": [
+      "5285"
+    ],
+    "resp_agency_title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "resp_agency_title_facet": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "responsible_agents.date_ranges": [
+      "[2023 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5285
+    ],
+    "responsible_agents.start_dt": [
+      2023
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "7885",
+    "series_in_custody.date_range": [
+      "[1879 TO 1972]"
+    ],
+    "series_in_custody.end_dt": [
+      1972
+    ],
+    "series_in_custody.start_dt": [
+      1879
+    ],
+    "start_dt": "1879",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795179492,
+    "title": "Reports of Tests by Sprengnetner Seismograph and District [1971-1972]; Index to Boring Records [1879 - 1940]"
   },
   {
     "_id": "C15B9940-F1AE-11E9-AE98-83F333F3AF74",
@@ -1935035,6 +1935209,200 @@
     "title": "School Council Minute Books"
   },
   {
+    "_id": "66B0E4B2-F28B-11F0-8856-6FFBC9B36840",
+    "_version_": 1882394515264765952,
+    "category": "Series",
+    "citation": "VPRS 22267",
+    "citation_sort": "22267",
+    "contents.date_range": [
+      "[1944 TO 1955]"
+    ],
+    "contents.end_dt": [
+      1955
+    ],
+    "contents.start_dt": [
+      1944
+    ],
+    "creating_agents.creating_agency_id": [
+      5620
+    ],
+    "creating_agents.date_ranges": [
+      "[1941 TO 1955]"
+    ],
+    "creating_agents.end_dt": [
+      1955
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1941
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "State Coal Committee"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1941 TO 1955]"
+    ],
+    "end_dt": "1955",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises the minute book documenting meetings of the State Coal Committee. This committee held meetings for the period 1941 - 1955 but volumes only spanning the period meeting no. 134 (4 July 1944) to meeting no. 314 (26 September 1949) and meeting no. 315 (10 October 1949) to meeting no. 370 (27 May 1955) have been located. A volume or volumes spanning the 133 meetings prior to July 1944 have not been located and transferred.&nbsp;<br />\r\n<br />\r\nThese volumes were originally transferred to PROV as part of VPRS 7078/P4 and were extracted to form this series after an evaluation was made during 2025 of the original documentation created by a service provider when VPRS 7078 was originally transferred.&nbsp;&nbsp;<br />\r\n<br />\r\nIt appears that meeting no. 370 on 27 May 1955 was the final meeting of the committee. On this date future committee meetings were adjoined sine die (that is, without fixing a day for future action). No further meetings are record in the final volume and the committee was abolished in 1957."
+    ],
+    "how_to_use": [
+      "Browse the item listing to identify and order the volume for the selected time period.&nbsp;"
+    ],
+    "identifier.PID.id": "66B0E4B2-F28B-11F0-8856-6FFBC9B36840",
+    "identifier.PROV_ACM.id": "VPRS 22267",
+    "jurisdictional_coverage": null,
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": [
+      "5285"
+    ],
+    "resp_agency_title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "resp_agency_title_facet": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "responsible_agents.date_ranges": [
+      "[2023 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5285
+    ],
+    "responsible_agents.start_dt": [
+      2023
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22267",
+    "series_in_custody.date_range": [
+      "[1944 TO 1955]"
+    ],
+    "series_in_custody.end_dt": [
+      1955
+    ],
+    "series_in_custody.start_dt": [
+      1944
+    ],
+    "start_dt": "1941",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795142061,
+    "title": "Minute Books"
+  },
+  {
+    "_id": "A324700D-F28D-11F0-8856-3BEECEAF5514",
+    "_version_": 1882394515267911680,
+    "category": "Series",
+    "citation": "VPRS 22268",
+    "citation_sort": "22268",
+    "contents.date_range": [
+      "[1944 TO 1946]"
+    ],
+    "contents.end_dt": [
+      1946
+    ],
+    "contents.start_dt": [
+      1944
+    ],
+    "creating_agents.creating_agency_id": [
+      5621
+    ],
+    "creating_agents.date_ranges": [
+      "[1944 TO 1946]"
+    ],
+    "creating_agents.end_dt": [
+      1946
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1944
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Coal Production Council"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1944 TO 1946]"
+    ],
+    "end_dt": "1946",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises the sole minute book documenting meetings of the Coal Production Council. This committee held only 8 meetings between July 1944 and early 1946.&nbsp;&nbsp;<br />\r\n<br />\r\nThis volume was originally transferred to PROV as part of VPRS 7078/P1 and was extracted to form this series after an evaluation was made during 2025 of the original documentation created by a service provider when VPRS 7078 was originally transferred.&nbsp;&nbsp;<br />\r\n<br />\r\nIt appears that meeting no.8 on 6 February 1946 was the final meeting of the committee. On this date future committee meetings were adjoined sine die (that is, without fixing a day for future action) and no further meetings were documented in the volume."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "A324700D-F28D-11F0-8856-3BEECEAF5514",
+    "identifier.PROV_ACM.id": "VPRS 22268",
+    "jurisdictional_coverage": null,
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": [
+      "5285"
+    ],
+    "resp_agency_title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "resp_agency_title_facet": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "responsible_agents.date_ranges": [
+      "[2023 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5285
+    ],
+    "responsible_agents.start_dt": [
+      2023
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22268",
+    "series_in_custody.date_range": [
+      "[1944 TO 1946]"
+    ],
+    "series_in_custody.end_dt": [
+      1946
+    ],
+    "series_in_custody.start_dt": [
+      1944
+    ],
+    "start_dt": "1944",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795142179,
+    "title": "Minute Book"
+  },
+  {
     "_id": "4847CD47-F4D2-11F0-8856-EB7B3141F7F9",
     "_version_": 1866815611924905985,
     "category": "Series",
@@ -1970953,6 +1971321,619 @@
     "status": "Published",
     "timestamp": 1792123225,
     "title": "School Photographs"
+  },
+  {
+    "_id": "EE403D7D-7457-11F1-9CAC-038886A82137",
+    "_version_": 1882394515466092545,
+    "category": "Series",
+    "citation": "VPRS 22706",
+    "citation_sort": "22706",
+    "contents.date_range": [
+      "[2004 TO 2013]"
+    ],
+    "contents.end_dt": [
+      2013
+    ],
+    "contents.start_dt": [
+      2004
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "[2004 TO 2013]"
+    ],
+    "creating_agents.end_dt": [
+      2013
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2004
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2004 TO 2013]"
+    ],
+    "end_dt": "2013",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the annual reports of Bacchus Marsh Primary School (School No. 28) (VA 5843).&nbsp;<br />\r\n<br />\r\nThe reports detail aspects such as school governance, achievement, and performance. They may include: Principal&rsquo;s report; School Council President&rsquo;s report; summary of student enrolment, attendance and wellbeing; summary of student progress and achievements; curriculum information; updates on school grounds; staff feedback; charter priorities; annual financial statements and more.<br />\r\n<br />\r\nAlthough the contents, emphasis and delivery mechanisms of annual reports have evolved over time, their fundamental purpose has remained largely unchanged. It provides information on a school&rsquo;s progress and achievements over the course of each year.<br />\r\n<br />\r\nThe content and size of annual reports varies, increasing in size and detail with the implementation of a formalised structure by the Department of Education (VA 3098) in the 1993 amendment to the Education Act 1958 (Vic).&nbsp;<br />\r\n<br />\r\nIn 1994, under the Schools of the Future program, the Department of Education (VA 3098) introduced a framework to provide an accountability mechanism in schools, known as Quality Assurance in Victorian Schools: An Accountability Framework. This framework was introduced to all primary and secondary schools in the state and was created to support the shift in school management from being centrally controlled by the Department to being managed by the local school community. The annual report was one of the three key elements of the framework, in addition to a school charter and a triennial review of the school. The preparation and publication of an annual report was a legislative and regulatory requirement for all schools under the Education and Training Reform Act 2006 (Vic), Ministerial Order 1280 and the National Education Agreement 2008."
+    ],
+    "how_to_use": [
+      "Researchers should search within the series by year of report.<br />\r\n<br />\r\nIf a report is not included in this series, consult VPRS 17782 School Annual Reports which contains the series of school annual reports that had been accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "identifier.PID.id": "EE403D7D-7457-11F1-9CAC-038886A82137",
+    "identifier.PROV_ACM.id": "VPRS 22706",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Annual reports are arranged in chronological order. &nbsp;<br />\r\n<br />\r\nNot every year of the school&rsquo;s operation may have a report. If a report is missing from this series, please refer to the VPRS 17782 School Annual Reports, which holds a collection of school reports accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22706",
+    "series_in_custody.date_range": [
+      "[2004 TO 2013]"
+    ],
+    "series_in_custody.end_dt": [
+      2013
+    ],
+    "series_in_custody.start_dt": [
+      2004
+    ],
+    "start_dt": "2004",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795180407,
+    "title": "Annual Reports\r\n"
+  },
+  {
+    "_id": "2A65461F-7458-11F1-9CAC-7B9562D5AD71",
+    "_version_": 1882394515499646976,
+    "category": "Series",
+    "citation": "VPRS 22707",
+    "citation_sort": "22707",
+    "contents.date_range": [
+      "2011"
+    ],
+    "contents.end_dt": [
+      2011
+    ],
+    "contents.start_dt": [
+      2011
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "2011"
+    ],
+    "creating_agents.end_dt": [
+      2011
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2011
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "2011"
+    ],
+    "end_dt": "2011",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series may comprise reports, papers and plans relating to the construction and/or renovation of Bacchus Marsh Primary School (School No. 28) (VA 5843). &nbsp;<br />\r\n<br />\r\nMuch of the building work was undertaken by the Public Works Department (VA 669) on behalf of the Department of Education III (VA 5283) or its predecessors. In some cases, files and plans may have been compiled by private architects.&nbsp;"
+    ],
+    "how_to_use": [
+      "Researchers should browse or keyword search within the series to find relevant information. Searching can also be done on dates or project type.&nbsp;"
+    ],
+    "identifier.PID.id": "2A65461F-7458-11F1-9CAC-7B9562D5AD71",
+    "identifier.PROV_ACM.id": "VPRS 22707",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Before coming into the custody of Public Record Office Victoria, this series was held by the school and reflect only what was kept there. &nbsp;The records in this series are in a range of formats, such as reports, papers and plans relating to the construction and renovation of the school.<br />\r\n<br />\r\nRelated records may have been held by the Department of Education III (VA 5283) or its predecessors or the Public Works Department (VA 669) and may include series such as:&nbsp;<br />\r\n<br />\r\nVPRS 795 Building Files: Primary School&nbsp;<br />\r\nVPRS 3916 Building Files: High Schools&nbsp;<br />\r\nVPRS 3686 Pre-Metric Building Plans &nbsp;<br />\r\nVPRS 11388 School Property Files&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22707",
+    "series_in_custody.date_range": [
+      "2011"
+    ],
+    "series_in_custody.end_dt": [
+      2011
+    ],
+    "series_in_custody.start_dt": [
+      2011
+    ],
+    "start_dt": "2011",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795180517,
+    "title": "Building Files\r\n"
+  },
+  {
+    "_id": "668E4563-7458-11F1-9CAC-3FDE1E1238F9",
+    "_version_": 1882394515504889856,
+    "category": "Series",
+    "citation": "VPRS 22708",
+    "citation_sort": "22708",
+    "contents.date_range": [
+      "[1963 TO 1985]"
+    ],
+    "contents.end_dt": [
+      1985
+    ],
+    "contents.start_dt": [
+      1963
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "[1963 TO 1985]"
+    ],
+    "creating_agents.end_dt": [
+      1985
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1963
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1963 TO 1985]"
+    ],
+    "end_dt": "1985",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises the Index to Pupils&rsquo; Registers for Bacchus Marsh Primary School (School No. 28) (VA 5843), maintained by Victorian government primary schools to facilitate the identification of students recorded in the Pupils&rsquo; Register. Both the Index to Pupils&rsquo; Register and the Pupils&rsquo; Register were standardized templates provided to schools by the Education Department (VA 714) and its successors.<br />\r\n<br />\r\nThe Pupils&rsquo; Register recorded student enrolment data and was arranged in numerical order by student registration number and date of admission. The register was used by all Victorian government primary schools and at times adapted for use at other types of schools.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the Index to locate the last name of the record of interest. Next to the name will be the student registration number to refer to in the related VPRS 22711 Pupils&rsquo; Register.&nbsp;"
+    ],
+    "identifier.PID.id": "668E4563-7458-11F1-9CAC-3FDE1E1238F9",
+    "identifier.PROV_ACM.id": "VPRS 22708",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records in this series were created to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, see VPRS 22711 Pupils&rsquo; Register.<br />\r\n<br />\r\nVolumes are arranged alphabetically and record the child&#39;s surname, first initial, and the registration number given to them upon admission to the school."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22708",
+    "series_in_custody.date_range": [
+      "[1963 TO 1985]"
+    ],
+    "series_in_custody.end_dt": [
+      1985
+    ],
+    "series_in_custody.start_dt": [
+      1963
+    ],
+    "start_dt": "1963",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795180606,
+    "title": "Index to Pupils' Registers\r\n"
+  },
+  {
+    "_id": "9938B315-7458-11F1-9CAC-B5D6AFBB8350",
+    "_version_": 1882394515505938433,
+    "category": "Series",
+    "citation": "VPRS 22709",
+    "citation_sort": "22709",
+    "contents.date_range": [
+      "[1975 TO 1979]"
+    ],
+    "contents.end_dt": [
+      1979
+    ],
+    "contents.start_dt": [
+      1975
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "[1975 TO 1979]"
+    ],
+    "creating_agents.end_dt": [
+      1979
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1975
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1975 TO 1979]"
+    ],
+    "end_dt": "1979",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of Inspector&#39;s Report Books which provide a detailed examination of the school building and grounds, student activities and teaching as observed by the Inspector at the time of their visit to Bacchus Marsh Primary School (School No. 28) (VA 5843).<br />\r\n<br />\r\nSchool Inspectors reported on teacher, student, and school performance and the implementation of Department policies at Victorian government schools from 1852 until 1984. Outside of their advisory and assessment duties, District Inspectors oversaw fielding, investigating and responding to complaints and concerns regarding teachers.&nbsp;<br />\r\n<br />\r\nInspectors, collectively known as the Inspectorate, were first appointed following a Report from the Select Committee on Education in 1852, and from 1853 were directly accountable to the National Board of Commissioners. From 1862, they were appointed by the Board of Education (VA 713), and from then until 1904 were accountable to the Board and its successors.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984 after which greater accountability was given to school councils and principals. &nbsp;<br />\r\n<br />\r\nThe Inspector&rsquo;s Report Book were issued to all schools by the Education Department (VA 714) and its successors. The Inspectors recorded the school number, date and time of visit, comments, and signed the books. Some books also contain official Departmental receipts for donations collected from the head teacher for textbooks.<br />\r\n<br />\r\nReports were created by Departmental Inspectors during annual and supplementary visits to government schools. Inspections (and comments) were made regarding the number of pupils present and their general appearance, the condition of the school grounds, buildings, furniture and recordkeeping, school organisation, standard of instruction, time and discipline, teacher accommodation and audits of the sale of textbooks supplied by the Education Department. Background knowledge about individual school management and routines was provided by the local community to the Inspector. During the &lsquo;payment by results&rsquo; system adopted in Victoria from 1864 &ndash; 1904, Inspectors also conducted regular examinations of pupils to assess the teacher&rsquo;s eligibility for bonus pay.<br />\r\n<br />\r\nInspection reports were prepared and forwarded to central officials, where the material was aggregated and presented in an annual report to parliament (See Original Papers Tabled in the Legislative Assembly, VPRS 3253). Edited summaries were made available for publishing in daily newspapers.<br />\r\n<br />\r\nIn the new decentralised model after 1984, regional directors were to oversee the new accountability measures administered by the schools, and the principal assumed greater authority for decision-making in all aspects of school operations and in this sense, assumed many of the duties of former inspectors. Many of these decisions can be found recorded in the school&rsquo;s annual report, or the minutes of the meetings of the school council."
+    ],
+    "how_to_use": [
+      "Browse the volume for the relevant information."
+    ],
+    "identifier.PID.id": "9938B315-7458-11F1-9CAC-B5D6AFBB8350",
+    "identifier.PROV_ACM.id": "VPRS 22709",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Reports within the books are made sequentially in date order. Books are labelled with the school name and number, and often the date range covered within.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984.<br />\r\n<br />\r\nFor further information about the school created by the Inspectorate, see VPRS 22710 Inspector&rsquo;s Report Papers."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22709",
+    "series_in_custody.date_range": [
+      "[1975 TO 1979]"
+    ],
+    "series_in_custody.end_dt": [
+      1979
+    ],
+    "series_in_custody.start_dt": [
+      1975
+    ],
+    "start_dt": "1975",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795180693,
+    "title": "Inspector's Report Books\r\n"
+  },
+  {
+    "_id": "CBD82447-7458-11F1-9CAC-570DEE7B3EF9",
+    "_version_": 1882394515508035585,
+    "category": "Series",
+    "citation": "VPRS 22710",
+    "citation_sort": "22710",
+    "contents.date_range": [
+      "1979"
+    ],
+    "contents.end_dt": [
+      1979
+    ],
+    "contents.start_dt": [
+      1979
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "1979"
+    ],
+    "creating_agents.end_dt": [
+      1979
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1979
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "1979"
+    ],
+    "end_dt": "1979",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of Inspector&#39;s Report Papers prepared during visits by the School Inspector to Bacchus Marsh Primary School (School No. 28) (VA 5843). These reports document inspections of school buildings and grounds, student activities, and teaching observed at the time. It can also include records created by the Head Teacher intended for the School Inspector to inform them about the school upon their visit.&nbsp;<br />\r\n<br />\r\nSchool Inspectors reported on teacher, student, and school performance and the implementation of Department policies at Victorian government schools from 1852 until 1984. Outside of their advisory and assessment duties, District Inspectors oversaw fielding, investigating and responding to complaints and concerns regarding teachers.&nbsp;<br />\r\n<br />\r\nInspectors, collectively known as the Inspectorate, were first appointed following a report from the Select Committee on Education in 1852, and from 1853 were directly accountable to the National Board of Commissioners. From 1862, they were appointed by the Board of Education (VA 713), and from then until 1904 were accountable to the Board and its successors.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984 after which greater accountability was given to school councils and principals. &nbsp;<br />\r\n<br />\r\nInspector&rsquo;s Report Papers are complementary to the Registers and Report Books and can include various documents related to school operations and performance:&nbsp;<br />\r\n<br />\r\nEnrolment Reports detail net attendance, new pupils, qualifications, bus services, classes with fewer than ten students, and projected enrolments for the next three years.<br />\r\n<br />\r\nThe Report of the Board of Inspectors of Secondary Schools covers attendance, accommodation, grounds, buildings, equipment, subjects, teaching, extracurricular activities, furniture inventories, and general comments. Renamed the Report of Inspectors of the Victorian Universities and Schools Examination Board by 1965, the report added individual and class-level exam results.<br />\r\n<br />\r\nHeadmaster&rsquo;s Report to Inspectors at their Annual Visit complements the Inspector&rsquo;s Report by providing overlapping school details and financial accounts. By 1970, this report was later renamed the Principal&rsquo;s Report to Inspectors at the Inspector&rsquo;s triennial visit.<br />\r\n<br />\r\nInformation about Teaching Staff was intended to be kept in the Inspector&rsquo;s Report Book for use by the District Inspector, including details about teachers (name, classification, tenure, and number of students taught), student grades, ages, enrolment duration, school efficiency marks, and higher education progression.<br />\r\n<br />\r\nIn the new decentralised model after 1984, regional directors were to oversee the new accountability measures administered by the schools, and the principal assumed greater authority for decision-making in all aspects of school operations and in this sense, assumed many of the duties of former inspectors. Many of these decisions can be found recorded in the school&rsquo;s annual report, or the minutes of the meetings of the school council."
+    ],
+    "how_to_use": [
+      "Browse the consignment details for relevant information.&nbsp;"
+    ],
+    "identifier.PID.id": "CBD82447-7458-11F1-9CAC-570DEE7B3EF9",
+    "identifier.PROV_ACM.id": "VPRS 22710",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Inspector&rsquo;s Report Papers are kept sequentially in date order.<br />\r\n<br />\r\nFor further information about the school created by the Inspectorate, see Inspector&rsquo;s Report Books VPRS 22709."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22710",
+    "series_in_custody.date_range": [
+      "1979"
+    ],
+    "series_in_custody.end_dt": [
+      1979
+    ],
+    "series_in_custody.start_dt": [
+      1979
+    ],
+    "start_dt": "1979",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795180799,
+    "title": "Inspector's Report Papers\r\n"
+  },
+  {
+    "_id": "06FF44EC-7459-11F1-9CAC-F376F76FC711",
+    "_version_": 1882394515510132736,
+    "category": "Series",
+    "citation": "VPRS 22711",
+    "citation_sort": "22711",
+    "contents.date_range": [
+      "[1914 TO 1998]"
+    ],
+    "contents.end_dt": [
+      1998
+    ],
+    "contents.start_dt": [
+      1914
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "[1914 TO 1998]"
+    ],
+    "creating_agents.end_dt": [
+      1998
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1914
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1914 TO 1998]"
+    ],
+    "end_dt": "1998",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Pupils&rsquo; Registers for Bacchus Marsh Primary School (School No. 28) (VA 5843). Pupil registers were a standardised register in which to record student enrolment data, used by all Victorian government primary schools and at times adapted for use at other types of schools.<br />\r\n<br />\r\nThe front cover typically featured titles such as &quot;Pupils&#39; Register State Primary School&quot; or &quot;Register of the Common School,&quot; with space to record the school number and name. Additional instructions on the cover outlined the required information to be recorded in the register.<br />\r\n<br />\r\nThe information entered into the register was typically derived from admission forms completed by parents prior to admission or, in the case of transfers from other government schools, from transfer notes completed by the previous school. While the level of detail listed for students varies, the information recorded may include a registration number (a sequential number assigned upon enrolment at the school); the student&rsquo;s full name and date of birth; date of enrolment; name, residence and occupation of parent or guardian; school last attended (school number and name) with grade and date of last attendance; number of meetings attended (sectioned by year); date, month and year of obtaining Merit Certificate, and Merit Certificate number; date, month, and year of last attendance; and destination of pupil (either the number and name of a school, or nature of occupation, and name and address of employer).<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series to identify dates of interest.<br />\r\n<br />\r\nConsult the VPRS 22708 Index to Pupils&rsquo; Register to assist with identifying entries. Researchers should search for the full name or registration number of the pupil to identify the appropriate entry in the register.&nbsp;"
+    ],
+    "identifier.PID.id": "06FF44EC-7459-11F1-9CAC-F376F76FC711",
+    "identifier.PROV_ACM.id": "VPRS 22711",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Pupils&rsquo; registers are arranged in numerical order by register number, which is a sequential numerical identifier (eg. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) assigned to each student at the time of their enrolment.<br />\r\n<br />\r\nAn Index to Pupils&rsquo; Register would have also been maintained by the school, to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, see VPRS 22708 Index to Pupils&rsquo; Register."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "series_id": "22711",
+    "series_in_custody.date_range": [
+      "[1914 TO 1998]"
+    ],
+    "series_in_custody.end_dt": [
+      1998
+    ],
+    "series_in_custody.start_dt": [
+      1914
+    ],
+    "start_dt": "1914",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795180852,
+    "title": "Pupils' Registers\r\n"
   },
   {
     "_id": "AC7D1DE4-745C-11F1-9CAC-35E078173C23",
