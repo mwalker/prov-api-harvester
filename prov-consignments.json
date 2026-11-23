@@ -454380,7 +454380,7 @@
   },
   {
     "_id": "5C36E3B2-F1B0-11E9-AE98-4B5D6187536B",
-    "_version_": 1816040186194165760,
+    "_version_": 1882666305805352961,
     "category": "Consignment",
     "citation": "VPRS 7070/P0001",
     "citation_sort": "0000VPRS 7070/P0001",
@@ -454413,7 +454413,7 @@
       "VPRS7070"
     ],
     "is_part_of_series.title": [
-      "Old File re Mining Registrar, Bendigo"
+      "Old File re Mining Registrar, Bendigo [CANCELLED, SEE VPRS 6815]"
     ],
     "location": [
       "North Melbourne"
@@ -454422,7 +454422,7 @@
       "VPRS7070"
     ],
     "parents.titles": [
-      "Old File re Mining Registrar, Bendigo"
+      "Old File re Mining Registrar, Bendigo [CANCELLED, SEE VPRS 6815]"
     ],
     "quantity": [
       1
@@ -454433,7 +454433,7 @@
     "start_dt": "1753",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614299334,
+    "timestamp": 1795426901,
     "title": "Consignment 7070/P0001"
   },
   {
@@ -1576225,6 +1576225,878 @@
     "status": "Published",
     "timestamp": 1792123196,
     "title": "Consignment 22682/C1"
+  },
+  {
+    "_id": "3B8C31E7-5F03-11F1-8856-ADDDE5878467",
+    "_version_": 1882666305722515456,
+    "category": "Consignment",
+    "citation": "VPRS 22683/C1",
+    "citation_sort": "0000VPRS 22683/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[2007 TO 2020]"
+    ],
+    "contents.end_dt": [
+      2020
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2007
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[2007 TO 2020]"
+    ],
+    "description": null,
+    "end_dt": "2020",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "3B8C31E7-5F03-11F1-8856-ADDDE5878467",
+    "identifier.PROV_ACM.id": "VPRS 22683/C1",
+    "is_part_of_series.id": [
+      "VPRS22683"
+    ],
+    "is_part_of_series.title": [
+      "Annual Reports"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22683"
+    ],
+    "parents.titles": [
+      "Annual Reports"
+    ],
+    "quantity": [
+      4
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "2007",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795425184,
+    "title": "Consignment 22683/C1"
+  },
+  {
+    "_id": "AFDFA1EE-5F05-11F1-8856-FDA12A11F7CA",
+    "_version_": 1882666305724612608,
+    "category": "Consignment",
+    "citation": "VPRS 22684/C1",
+    "citation_sort": "0000VPRS 22684/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1921 TO 2024]"
+    ],
+    "contents.end_dt": [
+      2024
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1921
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1921 TO 2024]"
+    ],
+    "description": null,
+    "end_dt": "2024",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "AFDFA1EE-5F05-11F1-8856-FDA12A11F7CA",
+    "identifier.PROV_ACM.id": "VPRS 22684/C1",
+    "is_part_of_series.id": [
+      "VPRS22684"
+    ],
+    "is_part_of_series.title": [
+      "School Photographs"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22684"
+    ],
+    "parents.titles": [
+      "School Photographs"
+    ],
+    "quantity": [
+      85
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "start_dt": "1921",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795425254,
+    "title": "Consignment 22684/C1"
+  },
+  {
+    "_id": "EF9D1397-5F05-11F1-8856-CD0D707F198D",
+    "_version_": 1882666305726709760,
+    "category": "Consignment",
+    "citation": "VPRS 22685/C1",
+    "citation_sort": "0000VPRS 22685/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "2016"
+    ],
+    "contents.end_dt": [
+      2016
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2016
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "2016"
+    ],
+    "description": null,
+    "end_dt": "2016",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "EF9D1397-5F05-11F1-8856-CD0D707F198D",
+    "identifier.PROV_ACM.id": "VPRS 22685/C1",
+    "is_part_of_series.id": [
+      "VPRS22685"
+    ],
+    "is_part_of_series.title": [
+      "Building Files"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22685"
+    ],
+    "parents.titles": [
+      "Building Files"
+    ],
+    "quantity": [
+      1
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "2016",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795425315,
+    "title": "Consignment 22685/C1"
+  },
+  {
+    "_id": "5C7D6425-5F06-11F1-8856-53A66404D32E",
+    "_version_": 1882666305728806912,
+    "category": "Consignment",
+    "citation": "VPRS 22686/C1",
+    "citation_sort": "0000VPRS 22686/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1971 TO 2023]"
+    ],
+    "contents.end_dt": [
+      2023
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1971
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1971 TO 2023]"
+    ],
+    "description": null,
+    "end_dt": "2023",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "5C7D6425-5F06-11F1-8856-53A66404D32E",
+    "identifier.PROV_ACM.id": "VPRS 22686/C1",
+    "is_part_of_series.id": [
+      "VPRS22686"
+    ],
+    "is_part_of_series.title": [
+      "School Council Papers"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22686"
+    ],
+    "parents.titles": [
+      "School Council Papers"
+    ],
+    "quantity": [
+      172
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1971",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795425381,
+    "title": "Consignment 22686/C1"
+  },
+  {
+    "_id": "9324A1FD-5F06-11F1-8856-750726087738",
+    "_version_": 1882666305731952640,
+    "category": "Consignment",
+    "citation": "VPRS 22687/C1",
+    "citation_sort": "0000VPRS 22687/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1915 TO 1980]"
+    ],
+    "contents.end_dt": [
+      1980
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1915
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1915 TO 1980]"
+    ],
+    "description": null,
+    "end_dt": "1980",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "9324A1FD-5F06-11F1-8856-750726087738",
+    "identifier.PROV_ACM.id": "VPRS 22687/C1",
+    "is_part_of_series.id": [
+      "VPRS22687"
+    ],
+    "is_part_of_series.title": [
+      "School Council Minute Books"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22687"
+    ],
+    "parents.titles": [
+      "School Council Minute Books"
+    ],
+    "quantity": [
+      6
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1915",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795425452,
+    "title": "Consignment 22687/C1"
+  },
+  {
+    "_id": "0098F52B-5F07-11F1-8856-092B20E2F103",
+    "_version_": 1882666305734049792,
+    "category": "Consignment",
+    "citation": "VPRS 22688/C1",
+    "citation_sort": "0000VPRS 22688/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[2001 TO 2002]"
+    ],
+    "contents.end_dt": [
+      2002
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2001
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[2001 TO 2002]"
+    ],
+    "description": null,
+    "end_dt": "2002",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "0098F52B-5F07-11F1-8856-092B20E2F103",
+    "identifier.PROV_ACM.id": "VPRS 22688/C1",
+    "is_part_of_series.id": [
+      "VPRS22688"
+    ],
+    "is_part_of_series.title": [
+      "School Charters"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22688"
+    ],
+    "parents.titles": [
+      "School Charters"
+    ],
+    "quantity": [
+      1
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "2001",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795425514,
+    "title": "Consignment 22688/C1"
+  },
+  {
+    "_id": "6DA0F1F9-5F07-11F1-8856-C519F95D8356",
+    "_version_": 1882666305735098368,
+    "category": "Consignment",
+    "citation": "VPRS 22689/C1",
+    "citation_sort": "0000VPRS 22689/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1920 TO 1973]"
+    ],
+    "contents.end_dt": [
+      1973
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1920
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1920 TO 1973]"
+    ],
+    "description": null,
+    "end_dt": "1973",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "6DA0F1F9-5F07-11F1-8856-C519F95D8356",
+    "identifier.PROV_ACM.id": "VPRS 22689/C1",
+    "is_part_of_series.id": [
+      "VPRS22689"
+    ],
+    "is_part_of_series.title": [
+      "Mark Sheets"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22689"
+    ],
+    "parents.titles": [
+      "Mark Sheets"
+    ],
+    "quantity": [
+      13
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1920",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795425640,
+    "title": "Consignment 22689/C1"
+  },
+  {
+    "_id": "9B45F930-5F07-11F1-8856-DD759ED7E0D4",
+    "_version_": 1882666305738244096,
+    "category": "Consignment",
+    "citation": "VPRS 22690/C1",
+    "citation_sort": "0000VPRS 22690/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1956 TO 1959]"
+    ],
+    "contents.end_dt": [
+      1959
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1956
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1956 TO 1959]"
+    ],
+    "description": null,
+    "end_dt": "1959",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "9B45F930-5F07-11F1-8856-DD759ED7E0D4",
+    "identifier.PROV_ACM.id": "VPRS 22690/C1",
+    "is_part_of_series.id": [
+      "VPRS22690"
+    ],
+    "is_part_of_series.title": [
+      "Inspector's Report Papers"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22690"
+    ],
+    "parents.titles": [
+      "Inspector's Report Papers"
+    ],
+    "quantity": [
+      11
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1956",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795426542,
+    "title": "Consignment 22690/C1"
+  },
+  {
+    "_id": "D1F12EA8-5F07-11F1-8856-B7045FF681BD",
+    "_version_": 1882666305741389824,
+    "category": "Consignment",
+    "citation": "VPRS 22691/C1",
+    "citation_sort": "0000VPRS 22691/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1915 TO 1957]"
+    ],
+    "contents.end_dt": [
+      1957
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1915
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1915 TO 1957]"
+    ],
+    "description": null,
+    "end_dt": "1957",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "D1F12EA8-5F07-11F1-8856-B7045FF681BD",
+    "identifier.PROV_ACM.id": "VPRS 22691/C1",
+    "is_part_of_series.id": [
+      "VPRS22691"
+    ],
+    "is_part_of_series.title": [
+      "Inspector's Report Books"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22691"
+    ],
+    "parents.titles": [
+      "Inspector's Report Books"
+    ],
+    "quantity": [
+      6
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1915",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795426604,
+    "title": "Consignment 22691/C1"
+  },
+  {
+    "_id": "1AABA6D2-5F08-11F1-8856-571EE8CB2431",
+    "_version_": 1882666305744535552,
+    "category": "Consignment",
+    "citation": "VPRS 22692/C1",
+    "citation_sort": "0000VPRS 22692/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1989 TO 1997]"
+    ],
+    "contents.end_dt": [
+      1997
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1989
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1989 TO 1997]"
+    ],
+    "description": null,
+    "end_dt": "1997",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "1AABA6D2-5F08-11F1-8856-571EE8CB2431",
+    "identifier.PROV_ACM.id": "VPRS 22692/C1",
+    "is_part_of_series.id": [
+      "VPRS22692"
+    ],
+    "is_part_of_series.title": [
+      "Student Information, Database Printout"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22692"
+    ],
+    "parents.titles": [
+      "Student Information, Database Printout"
+    ],
+    "quantity": [
+      9
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "1989",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795426664,
+    "title": "Consignment 22692/C1"
+  },
+  {
+    "_id": "48C20D79-5F08-11F1-8856-DB4E4EBF8DD0",
+    "_version_": 1882666305746632704,
+    "category": "Consignment",
+    "citation": "VPRS 22693/C1",
+    "citation_sort": "0000VPRS 22693/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1979 TO 1988]"
+    ],
+    "contents.end_dt": [
+      1988
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1979
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1979 TO 1988]"
+    ],
+    "description": null,
+    "end_dt": "1988",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "48C20D79-5F08-11F1-8856-DB4E4EBF8DD0",
+    "identifier.PROV_ACM.id": "VPRS 22693/C1",
+    "is_part_of_series.id": [
+      "VPRS22693"
+    ],
+    "is_part_of_series.title": [
+      "Class Lists"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22693"
+    ],
+    "parents.titles": [
+      "Class Lists"
+    ],
+    "quantity": [
+      9
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "1979",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795426733,
+    "title": "Consignment 22693/C1"
+  },
+  {
+    "_id": "A3847555-5F08-11F1-8856-BD5A11EEC838",
+    "_version_": 1882666305748729856,
+    "category": "Consignment",
+    "citation": "VPRS 22694/C1",
+    "citation_sort": "0000VPRS 22694/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1914 TO 1975]"
+    ],
+    "contents.end_dt": [
+      1975
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1914
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1914 TO 1975]"
+    ],
+    "description": null,
+    "end_dt": "1975",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "A3847555-5F08-11F1-8856-BD5A11EEC838",
+    "identifier.PROV_ACM.id": "VPRS 22694/C1",
+    "is_part_of_series.id": [
+      "VPRS22694"
+    ],
+    "is_part_of_series.title": [
+      "Student Information and Results Forms"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22694"
+    ],
+    "parents.titles": [
+      "Student Information and Results Forms"
+    ],
+    "quantity": [
+      21
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "1914",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795426789,
+    "title": "Consignment 22694/C1"
+  },
+  {
+    "_id": "DA0629CD-5F08-11F1-8856-230FD0D50E18",
+    "_version_": 1882666305806401536,
+    "category": "Consignment",
+    "citation": "VPRS 22695/C1",
+    "citation_sort": "0000VPRS 22695/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1971 TO 1974]"
+    ],
+    "contents.end_dt": [
+      1974
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1971
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1971 TO 1974]"
+    ],
+    "description": null,
+    "end_dt": "1974",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "DA0629CD-5F08-11F1-8856-230FD0D50E18",
+    "identifier.PROV_ACM.id": "VPRS 22695/C1",
+    "is_part_of_series.id": [
+      "VPRS22695"
+    ],
+    "is_part_of_series.title": [
+      "Student Admission Forms"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22695"
+    ],
+    "parents.titles": [
+      "Student Admission Forms"
+    ],
+    "quantity": [
+      5
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "start_dt": "1971",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795426901,
+    "title": "Consignment 22695/C1"
+  },
+  {
+    "_id": "199ADDC6-5F09-11F1-8856-6DF5BECAA373",
+    "_version_": 1882666305832615936,
+    "category": "Consignment",
+    "citation": "VPRS 22696/C1",
+    "citation_sort": "0000VPRS 22696/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[1921 TO 2022]"
+    ],
+    "contents.end_dt": [
+      2022
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      1921
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[1921 TO 2022]"
+    ],
+    "description": null,
+    "end_dt": "2022",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "199ADDC6-5F09-11F1-8856-6DF5BECAA373",
+    "identifier.PROV_ACM.id": "VPRS 22696/C1",
+    "is_part_of_series.id": [
+      "VPRS22696"
+    ],
+    "is_part_of_series.title": [
+      "School Publications"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22696"
+    ],
+    "parents.titles": [
+      "School Publications"
+    ],
+    "quantity": [
+      66
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "start_dt": "1921",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795426990,
+    "title": "Consignment 22696/C1"
+  },
+  {
+    "_id": "5026F27E-5F09-11F1-8856-FBBC5C45DF9F",
+    "_version_": 1882666305833664512,
+    "category": "Consignment",
+    "citation": "VPRS 22697/C1",
+    "citation_sort": "0000VPRS 22697/C1",
+    "consignment_category": "AMS",
+    "consignment_id": "C1",
+    "contents.date_range": [
+      "[2014 TO 2025]"
+    ],
+    "contents.end_dt": [
+      2025
+    ],
+    "contents.end_dt_qual": null,
+    "contents.start_dt": [
+      2014
+    ],
+    "contents.start_dt_qual": null,
+    "control_symbol_from": null,
+    "control_symbol_to": null,
+    "date_range": [
+      "[2014 TO 2025]"
+    ],
+    "description": null,
+    "end_dt": "2025",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "identifier.PID.id": "5026F27E-5F09-11F1-8856-FBBC5C45DF9F",
+    "identifier.PROV_ACM.id": "VPRS 22697/C1",
+    "is_part_of_series.id": [
+      "VPRS22697"
+    ],
+    "is_part_of_series.title": [
+      "School Policies"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "parents.ids": [
+      "VPRS22697"
+    ],
+    "parents.titles": [
+      "School Policies"
+    ],
+    "quantity": [
+      2
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "start_dt": "2014",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795427031,
+    "title": "Consignment 22697/C1"
   },
   {
     "_id": "0CAF60BE-7458-11F1-9CAC-49BA0CB34AF5",
