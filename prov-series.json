@@ -481276,7 +481276,7 @@
   },
   {
     "_id": "A17D0797-F1AE-11E9-AE98-9FA1DB653EC8",
-    "_version_": 1816040149784461312,
+    "_version_": 1882756903215300608,
     "category": "Series",
     "citation": "VPRS 6345",
     "citation_sort": "06345",
@@ -481314,7 +481314,9 @@
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
-    "function_content": null,
+    "function_content": [
+      "This series comprises files detailing policy and administrative matters handled by central administration of the Department of Health 1 (VA 695) and Health Commission (VA 652). &nbsp;In rare instances the contents of files may contain papers originally handled by the Department of Public Health (VA 2904).<br />\r\n<br />\r\nThese files were originally part of a number of different filing sequences that were created by these agencies. &nbsp;Ordinarily these sequences would have been transferred into archival custody as consignments of a number of series, each one reflecting a separate sequence.&nbsp;&nbsp;Unfortunately the files in this series were boxed in what appears to be a random order thus forming this artificial series. &nbsp;As the transferring Department prepared a Records Description List which lists the files in this consignment in alphabetical order, it has been decided not to attempt to re-establish the original sequences/series.&nbsp;<br />\r\n<br />\r\nThe series date range cited, therefore, identifies when the boxing and transfer of files into this series was completed. &nbsp;An examination of the files indicates that these were originally created between the late 1940&#39;s and 1981. &nbsp;It is believed that the contents of some files extend back to approximately 1920. &nbsp;However, this date appears to apply to only a very small number of files, if any."
+    ],
     "how_to_use": null,
     "identifier.PID.id": "A17D0797-F1AE-11E9-AE98-9FA1DB653EC8",
     "identifier.PROV_ACM.id": "VPRS 6345",
@@ -481322,32 +481324,34 @@
     "location": [
       "North Melbourne"
     ],
-    "recordkeeping_system": null,
+    "recordkeeping_system": [
+      "Due to the apparent random arrangement of files within the series, the identification of all possible series is difficult. &nbsp;Identification is further complicated because at present few control records have been transferred.<br />\r\n<br />\r\nDespite these difficulties, at least four main series are apparent: -&nbsp;<br />\r\n<br />\r\n&bull;&nbsp;&nbsp; &nbsp;<strong>A single number sequence established by the Department of Health I. </strong>File numbers for this series comprise merely a sequential number (and sometimes a part file number) allocated by the Department. &nbsp;There does not appear to be any logical order that has governed the allocation of these numbers (for example, the dates of creation of files in this series do not run in a chronological order).<br />\r\n<br />\r\nThe probable explanation is that file numbers were allocated by the Department as these files were removed from within the cental registry and retired to an alternative storage area because it was thought that the files were unlikely to be required for future action/reference. &nbsp;This explanation is supported by the placement of identification tags that have effectively sealed some of these files. &nbsp;(If this applies to a file you wish to consult, please approach the Reference Archivist for assistance.)<br />\r\n<br />\r\n&nbsp;Later files in this series also have orange covers affixed to them that refer users to previous files on the subject.<br />\r\n<br />\r\n&nbsp;The Department may have created more than one series of files in this manner. This is due to the duplication of file numbers in some instances. &nbsp;<br />\r\n<br />\r\n&bull;&nbsp;&nbsp; &nbsp;<strong>A multiple number filing sequence created by the Department of Health I.</strong> &nbsp;File numbers in this series usually comprise two numeric characters such as 1/1. &nbsp;The first (or primary) number appears to represent a broad subject area. &nbsp;(Primary number 1, for example, refers to accommodation). The second number represents the specific subject of the file as determined by the individual responsible for the file&#39;s creation.<br />\r\n<br />\r\n&bull;&nbsp;&nbsp; &nbsp;<strong>An annual single number sequence established by the Health Commission from 1978. </strong>&nbsp;(These files are mostly located in units 560 - 625). &nbsp;This sequence comprises general administrative and correspondence files created by the central registry which operated within the Commission&#39;s Central Administration Division. &nbsp;These files usually pertain to issues which were the responsibility of the various operational divisions of the Commission and general administrative issues arising between these Divisions and Central Administration.<br />\r\n<br />\r\nThe majority of the files in this series have been subsequently transferred as a separate archival series - refer to VPRS 14831.<br />\r\n<br />\r\n&bull;&nbsp;&nbsp; &nbsp;<strong>A multiple number `Executive&#39; filing sequence also established by the Health Commission from 1978.</strong> &nbsp;(These files are mostly located in units 626 - 640 of the 6345/P consignment). File numbers in this series comprise two numeric characters prefixed by the letters CA for Central Administration, for example CA 01-1. This series comprises files relating to policy and other issues handled by the Head Executive Committee of the Commission. &nbsp;<br />\r\n<br />\r\n&nbsp;The majority of the files in this series have been subsequently transferred as a separate archival series - refer to VPRS 14832.&nbsp;<br />\r\n<br />\r\n<strong>Other sequences: </strong>&nbsp;This series additionally contains a small number of files which appear to belong to other yet to be identified sequences. &nbsp;Further research is required on these files.<br />\r\n<br />\r\nDocument level control<br />\r\n<br />\r\nThe contents of files within the single and multiple number series indicate that the Department&#39;s central administration utilised a form of document level control for items of correspondence received between at least the late 1940s and 1978. &nbsp;The practices outlined below, however, do not appear to have been consistently applied.<br />\r\n<br />\r\nPeriod by 1944 - 1952: Documents received were registered by the allocation of an annual single number prefixed by the characters H.A (presumably standing for Health Administration). &nbsp;Items subsequently received on the same topic were also allocated a new number and the previous item attached to it to create a file. &nbsp;<br />\r\n<br />\r\nThis system would necessitate the creation of an index to correspondence received and a register. &nbsp;However, neither record has yet to be located.<br />\r\n<br />\r\nPeriod 1952 - 1978: The system outlined above appears to have been modified in late 1952. &nbsp;The new system was similar except that an alpha or numerical character was included between the year and file number reference of the annual single registration number. &nbsp;The alpha character appears to refer to the author of the item (either individual or organisation).<br />\r\n<br />\r\nThis system would necessitate the creation of an index to correspondence received in a register. &nbsp;The existence of the alpha character tends to suggest that a nominal index, identifying the author of specific items of correspondence, may also have been created. &nbsp;However, such records have yet to be located.<br />\r\n&nbsp;"
+    ],
     "resp_agency_id": [
-      "5037"
+      "5255"
     ],
     "resp_agency_title": [
-      "Department of Health and Human Services"
+      "Department of Health IV"
     ],
     "resp_agency_title_facet": [
-      "Department of Health and Human Services"
+      "Department of Health IV"
     ],
     "responsible_agents.date_ranges": [
-      "[2015 TO 3000]"
+      "[2021 TO 3000]"
     ],
     "responsible_agents.end_dt": [
       3000
     ],
     "responsible_agents.end_dt_qual": null,
     "responsible_agents.resp_agency_id": [
-      5037
+      5255
     ],
     "responsible_agents.start_dt": [
-      2015
+      2021
     ],
     "responsible_agents.start_dt_qual": null,
     "responsible_agents.title": [
-      "Department of Health and Human Services"
+      "Department of Health IV"
     ],
     "rights_status": [
       "Open"
@@ -481365,7 +481369,7 @@
     "start_dt": "1985",
     "start_dt_qual": "Circa",
     "status": "Published",
-    "timestamp": 1614289839,
+    "timestamp": 1795495162,
     "title": "General Correspondence Files"
   },
   {
@@ -519918,6 +519922,214 @@
     "title": "State-Commonwealth Mining Loan Scheme Files"
   },
   {
+    "_id": "AB9A730C-F1AE-11E9-AE98-17087A1D25D2",
+    "_version_": 1882756903180697600,
+    "category": "Series",
+    "citation": "VPRS 6814",
+    "citation_sort": "06814",
+    "contents.date_range": [
+      "[1971 TO 1976]"
+    ],
+    "contents.end_dt": [
+      1976
+    ],
+    "contents.start_dt": [
+      1971
+    ],
+    "creating_agents.creating_agency_id": [
+      611,
+      612
+    ],
+    "creating_agents.date_ranges": [
+      "1977",
+      "[1971 TO 1977]"
+    ],
+    "creating_agents.end_dt": [
+      1977,
+      1977
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1977,
+      1971
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Department of Minerals and Energy",
+      "Mines Department (also known as Department of Mines and Mining Department)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1971 TO 1976]"
+    ],
+    "end_dt": "1976",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "<br />\r\nMost of this series comprises copies of Land Conservation Council records retained by a departmental staff member who was a member of the Council. It is a loose accumulation of records, most probably received among the meeting papers for Committee papers and contains documents including meeting minutes, agenda, various reports, working drafts of Council study reports.<br />\r\n<br />\r\nThe records, by and large, were not maintained as files as indicated by the original title for this series and it appears the papers represented a sequence of papers that was simply boxed as found with an attempt subsequently made to generically describe the contents of boxes and thus only entire boxes can be ordered.&nbsp;<br />\r\n<br />\r\nProperly constructed departmental files, including copies of meeting minutes, are held within file classification 15/21 in VPRS 7074.(Refer especially to &nbsp;VPRS 7074/P1, boxes 121 - 123 and VPRS 7074/P5 boxes 56-59.) There is &nbsp;a degree of overlap between some of the contents in this series and the files in VPRS 7074, However, this series appears to contain papers from the early 1970s that are largely unrepresented in the files of VPRS 7074.&nbsp;<br />\r\n<br />\r\nOrdinarily, papers such as these would not be retained in the PROV collection, but this series has been as an interim measure until such time that the same records created by the Council itself are located and transferred.<br />\r\n<br />\r\nThis series was originally identified, titled and documented by a service provider. An evaluation of the supplied documentation in 2025 resulted in the amendment of the series title (from the original &#39;Files Relating to the Land Conservation Council) and the addition of this series description."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "AB9A730C-F1AE-11E9-AE98-17087A1D25D2",
+    "identifier.PROV_ACM.id": "VPRS 6814",
+    "jurisdictional_coverage": null,
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": [
+      "5285"
+    ],
+    "resp_agency_title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "resp_agency_title_facet": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "responsible_agents.date_ranges": [
+      "[2023 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5285
+    ],
+    "responsible_agents.start_dt": [
+      2023
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "6814",
+    "series_in_custody.date_range": [
+      "[1971 TO 1976]"
+    ],
+    "series_in_custody.end_dt": [
+      1976
+    ],
+    "series_in_custody.start_dt": [
+      1971
+    ],
+    "start_dt": "1971",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795493785,
+    "title": "Copies of Documents Received by Departmenal Representative on the Land Conservation Council"
+  },
+  {
+    "_id": "AB9BF9AD-F1AE-11E9-AE98-D5EB67141071",
+    "_version_": 1882756903170211841,
+    "category": "Series",
+    "citation": "VPRS 6815",
+    "citation_sort": "06815",
+    "contents.date_range": [
+      "[1868 TO 1975]"
+    ],
+    "contents.end_dt": [
+      1975
+    ],
+    "contents.start_dt": [
+      1868
+    ],
+    "creating_agents.creating_agency_id": [
+      2719,
+      2720,
+      612
+    ],
+    "creating_agents.date_ranges": [
+      "[1870 TO 1895]",
+      "[1895 TO 1909]",
+      "[1909 TO 1975]"
+    ],
+    "creating_agents.end_dt": [
+      1895,
+      1909,
+      1975
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1870,
+      1895,
+      1909
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Department of Mines (also known as the Mining Department)",
+      "Department of Mines and Water Supply",
+      "Mines Department (also known as Department of Mines and Mining Department)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1868 TO 1975]"
+    ],
+    "end_dt": "1975",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of relating to the position of Deputy Mining Registrars or Mining Registrars within mining divisions of the Mining Districts that existed until 1975. Each file relates to a specific mining division.<br />\r\n<br />\r\nThe contents of files can include documentation relating to the individuals considered for the position, papers relating to the individuals that were appointed,&nbsp; quereis about the registrar&#39;s bookkeeping, whereabouts and overall competence in the role and documecumentation relating to resignations from the position.<br />\r\n<br />\r\nThis series was originally documented by service provider. An evaluation of the suppliied documentation in 2026 resulted a minor amendment to the series title and the inclusion of the file that previously had been documented by the same provider as a separate series (VPRS7070) which was established as belonging to this series."
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "AB9BF9AD-F1AE-11E9-AE98-D5EB67141071",
+    "identifier.PROV_ACM.id": "VPRS 6815",
+    "jurisdictional_coverage": null,
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": [
+      "5285"
+    ],
+    "resp_agency_title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "resp_agency_title_facet": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "responsible_agents.date_ranges": [
+      "[2023 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5285
+    ],
+    "responsible_agents.start_dt": [
+      2023
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "series_id": "6815",
+    "series_in_custody.date_range": [
+      "[1868 TO 1975]"
+    ],
+    "series_in_custody.end_dt": [
+      1975
+    ],
+    "series_in_custody.start_dt": [
+      1868
+    ],
+    "start_dt": "1868",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795470869,
+    "title": "Mining Registrars' Appointment Files"
+  },
+  {
     "_id": "AB9D804E-F1AE-11E9-AE98-BDAF3F21A675",
     "_version_": 1816040152372346880,
     "category": "Series",
@@ -530297,7 +530509,7 @@
   },
   {
     "_id": "AE3DCD39-F1AE-11E9-AE98-8D5C323C158A",
-    "_version_": 1882666305934327809,
+    "_version_": 1882756903168114688,
     "category": "Series",
     "citation": "VPRS 6955",
     "citation_sort": "06955",
@@ -530330,7 +530542,7 @@
     "entity": "Record",
     "format": "Physical",
     "function_content": [
-      "This series was originally transferred to PROV by a service provoider. An examination of the contents of this series and the supplied documentation in 2026 revealed that it contains files identical to those in VPRS 6962. The tag attached to a significant number, but by no means all files in this series have the words &lsquo;Mining Development Act&rsquo; crossed out and replaced by the words &lsquo;Unemployment Relief Fund&rsquo;. Moreover, all of the files from this series and VPRS 6962 have been allocated file numbers from the same numerical sequence. In other words, these are part of the same series, a conclusion that has been confirmed by the index, VPRS 6979.<br />\r\n<br />\r\nThis series has thus been cancelled and its contents reprocessed as VPRS 6962/C1.<br />\r\n&nbsp;"
+      "This series was originally transferred to PROV by a service provider. An examination of the contents of this series and the supplied documentation in 2026 revealed that it contains files identical to those in VPRS 6962. The tag attached to a significant number, but by no means all files in this series have the words &lsquo;Mining Development Act&rsquo; crossed out and replaced by the words &lsquo;Unemployment Relief Fund&rsquo;. Moreover, all of the files from this series and VPRS 6962 have been allocated file numbers from the same numerical sequence. In other words, these are part of the same series, a conclusion that has been confirmed by the index, VPRS 6979.<br />\r\n<br />\r\nThis series has thus been cancelled and its contents reprocessed as VPRS 6962/C1.<br />\r\n&nbsp;"
     ],
     "how_to_use": null,
     "identifier.PID.id": "AE3DCD39-F1AE-11E9-AE98-8D5C323C158A",
@@ -530360,7 +530572,7 @@
     "start_dt": "1930",
     "start_dt_qual": "By",
     "status": "Published",
-    "timestamp": 1795427751,
+    "timestamp": 1795470269,
     "title": "Unemployment Relief Fund Files [CANCELLED, SEE VPRS 6962/C1]"
   },
   {
@@ -530544,6 +530756,109 @@
     "status": "Published",
     "timestamp": 1781586068,
     "title": "Index to Register of Applications for Factory Certificates [CANCELLED: SEE VPRS 7165/C1, unit 5]"
+  },
+  {
+    "_id": "AF082220-F1AE-11E9-AE98-FDB9CA33F706",
+    "_version_": 1882756903159726080,
+    "category": "Series",
+    "citation": "VPRS 6962",
+    "citation_sort": "06962",
+    "contents.date_range": [
+      "[1897 TO 1946]"
+    ],
+    "contents.end_dt": [
+      1946
+    ],
+    "contents.start_dt": [
+      1897
+    ],
+    "creating_agents.creating_agency_id": [
+      2720,
+      612
+    ],
+    "creating_agents.date_ranges": [
+      "[1897 TO 1909]",
+      "[1909 TO 1946]"
+    ],
+    "creating_agents.end_dt": [
+      1909,
+      1946
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1897,
+      1909
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Department of Mines and Water Supply",
+      "Mines Department (also known as Department of Mines and Mining Department)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1897 TO 1946]"
+    ],
+    "end_dt": "1946",
+    "end_dt_qual": "Circa",
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises files containing documentation relating to applications from individuals or companies for advances for mining activities specified in the Mining Development Act (No. 1461). The advances were in the form of Treasury loans authorised by the Department, free of interest and repayable under the Act.<br />\r\n<br />\r\nApplications under the Mining Development Act<br />\r\n<br />\r\nIn December 1896 the Victorian Government passed the Mining Development Act to subsidise and enable mining companies to further develop gold mining and to assist other specified mining activities. The act authorised the Government to raise and advance 140,000 pounds for the aforesaid purposes and specified six types of mostly advances, each having a specified limit of yearly expenditure, i.e.:<br />\r\n<br />\r\n1. advances to companies for development of mining by way of a loan for the purposes of carrying on pioneering mining, procuring machinery, working plant or appliances for carrying on such pioneering mining;<br />\r\n<br />\r\n2. construction of roads and tracks for mining;<br />\r\n<br />\r\n3. advances for the purpose of establishing plants for testing metalliferous material;<br />\r\n<br />\r\n4. advances for the purposes of constructing races and dams for water for sluicing gold;<br />\r\n<br />\r\n5. advances to miners for prospecting;<br />\r\n<br />\r\n6. advances specified under the miscellaneous section of the Act.<br />\r\n<br />\r\nTwo new types of advances where introduced by the 1908 version of the act. These were:<br />\r\n<br />\r\n-&nbsp;advances to companies for development of deep alluvial or deep quartz mining, and<br />\r\n-&nbsp;advances for the development of mining for coal and metals/minerals other than gold.<br />\r\n<br />\r\nFurther amendments revised the limit of expenditure.&nbsp;<br />\r\n<br />\r\nFiles may contain: application for loan, copies of applicant&#39;s (if a company) memorandum and rules, estimate of the cost of any machinery needed and working plant and appliances, Government geologist or other professional officer&#39;s report examining the land in which the company proposes to carry on mining operations, representation from Members of Parliament, correspondence with the applicant, mines/operation reports, inspector&#39;s memoranda and recommendations, accounts, payments and related correspondence, fire insurance policies, bonds, lease documents, letters of complaint from other miners or residents re loanee&#39;s abuse of the provisions of the Act and Departmental instructions, letters concerning transport, mining operation equipment and payment of the loan/instalments.<br />\r\n<br />\r\nDetails of payments made under this act can be located within VPRS 6969 Registers of Progress Payments Under the Mining Development Act.<br />\r\n<br />\r\nUnemployment Relief Fund Files&nbsp;<br />\r\n<br />\r\nThis series also includes files containing documentation relating to the application and maintenance of the Unemployment Relief Fund. These files are labelled with year and individual number allocated from the same numbering sequences as the Mining Development Act files.&nbsp;<br />\r\n<br />\r\nFiles can include the original and/or subsequent application for an unemployment relief fund loan, details of employees, grant approval, returns of work undertaken, Departmental vouchers advancing funds to miners, monitoring of work done under the grant, reports of inspectors of mines, record sheets of work executed, instalment and wages sheets, and related correspondence.<br />\r\n<br />\r\nThe bulk of correspondence is directed to the emanates from the Department. Subjects are varied and include eligibility under the conditions of loan, payment of accounts/advances, complaints received from residents of area or from other loanees as to the misuse of monies granted, requests for postponement on work, notifications of changes in members of the working party, disagreements as to amounts of money granted or owing, explosives grants and equipment and sustenance allowances.<br />\r\n<br />\r\nThe unemployment relief fund files were originally identified and documented by a service provider as a separate series, VPRS 6955. An evaluation of the supplied documentation in 2025 determined that, as both these files and the Mining Development Act Loan Application files were numbered in the same progressive numbering sequence, that the two sequences were part of one recordkeeping sequence and thus series. VPRS 6955 and its single consignment was reprocessed as the VPRS 6962/C1.&nbsp;<br />\r\n&nbsp;"
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "AF082220-F1AE-11E9-AE98-FDB9CA33F706",
+    "identifier.PROV_ACM.id": "VPRS 6962",
+    "jurisdictional_coverage": null,
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Each file raised was allocated a progressive single number. The indexes to these applications (VPRS 6979) contains evidence that suggests numbers were allocated in blocks according to the Part of the Act which relates to the type of advance sought.<br />\r\n<br />\r\nA Tag attached to the front of most files in this series records the application number and the specific purpose for which the advance was made. The tag for a significant number of the unemployed relief fund files are those used for the Mining Development Act files but the words &#39;Mining Development Act&#39; are crossed out and replaced with &#39;Unemployment Relief Fund&#39;.&nbsp; &nbsp; &nbsp;<br />\r\n<br />\r\n&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5285"
+    ],
+    "resp_agency_title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "resp_agency_title_facet": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "responsible_agents.date_ranges": [
+      "[2023 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5285
+    ],
+    "responsible_agents.start_dt": [
+      2023
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "6962",
+    "series_in_custody.date_range": [
+      "[1897 TO 1946]"
+    ],
+    "series_in_custody.end_dt": [
+      1946
+    ],
+    "series_in_custody.start_dt": [
+      1897
+    ],
+    "start_dt": "1897",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795469120,
+    "title": "Mining Development Act Loan Application Files (including Unemployment Relief Fund Application Files)"
   },
   {
     "_id": "AF09A8C1-F1AE-11E9-AE98-B50E3DAEB874",
@@ -531556,6 +531871,107 @@
     "status": "Published",
     "timestamp": 1781754800,
     "title": "Progress Payments of Advances to Miners from the Unemployment Relief Fund"
+  },
+  {
+    "_id": "AF21EBC1-F1AE-11E9-AE98-1BFFBEB8EB78",
+    "_version_": 1882756903177551872,
+    "category": "Series",
+    "citation": "VPRS 6979",
+    "citation_sort": "06979",
+    "contents.date_range": [
+      "[1896 TO 1930]"
+    ],
+    "contents.end_dt": [
+      1930
+    ],
+    "contents.start_dt": [
+      1896
+    ],
+    "creating_agents.creating_agency_id": [
+      2720,
+      612
+    ],
+    "creating_agents.date_ranges": [
+      "[1896 TO 1909]",
+      "[1909 TO 1930]"
+    ],
+    "creating_agents.end_dt": [
+      1909,
+      1930
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1896,
+      1909
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Department of Mines and Water Supply",
+      "Mines Department (also known as Department of Mines and Mining Department)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1896 TO 1930]"
+    ],
+    "end_dt": "1930",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is an index to the files created for applications made under the Mining Development Act (VPRS 6962). It can also be used to locate entries in VPRS 6969 Registers of Progress Payments Under the Mining Development Act.<br />\r\n<br />\r\nEach volume in this series records the number of the application, the part of the Act under which the application was made, the name of the applicant and the locality. Entries are arranged alphabetically by the surname of the applicant.<br />\r\n<br />\r\nThe entries reveal that a progressive single number was allocated to the files in VPRS 6962. A block numbering system was&nbsp; used under which individual applications were allocated numbers within designated number ranges pertaining to the various Parts of the act under which application could be made.&nbsp;<br />\r\n<br />\r\nThis series was originally identified and titled by a service provider. An evaluation of the supplied documentation in 2025 resulted in a minor amendment to the series title, the addition of this series description and the amendment of the series date range. The original date range to the series was given as 1925, but an inspection of the volumes in the series reveals that numbers were allocated in the series in custody until at least 1930. Entries continue beyond that date by the years in which these were allocated were not recorded, with numbers up to 6000 indexed.<br />\r\n<br />\r\n<br />\r\n&nbsp;"
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "AF21EBC1-F1AE-11E9-AE98-1BFFBEB8EB78",
+    "identifier.PROV_ACM.id": "VPRS 6979",
+    "jurisdictional_coverage": null,
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": [
+      "5285"
+    ],
+    "resp_agency_title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "resp_agency_title_facet": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "responsible_agents.date_ranges": [
+      "[2023 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5285
+    ],
+    "responsible_agents.start_dt": [
+      2023
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "6979",
+    "series_in_custody.date_range": [
+      "[1896 TO 1930]"
+    ],
+    "series_in_custody.end_dt": [
+      1930
+    ],
+    "series_in_custody.start_dt": [
+      1896
+    ],
+    "start_dt": "1896",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795493736,
+    "title": "Index to Mining Development Act Applications"
   },
   {
     "_id": "AF252013-F1AE-11E9-AE98-0B0B1BA5FB8A",
@@ -538074,31 +538490,51 @@
   },
   {
     "_id": "B122EC3C-F1AE-11E9-AE98-F9B210754A94",
-    "_version_": 1856846170736820224,
+    "_version_": 1882756903172309000,
     "category": "Series",
     "citation": "VPRS 7070",
     "citation_sort": "07070",
     "contents.date_range": null,
     "contents.end_dt": null,
     "contents.start_dt": null,
-    "creating_agents.creating_agency_id": null,
-    "creating_agents.date_ranges": null,
-    "creating_agents.end_dt": null,
+    "creating_agents.creating_agency_id": [
+      2719,
+      2720,
+      612
+    ],
+    "creating_agents.date_ranges": [
+      "[1882 TO 1895]",
+      "[1895 TO 1909]",
+      "[1909 TO 1937]"
+    ],
+    "creating_agents.end_dt": [
+      1895,
+      1909,
+      1937
+    ],
     "creating_agents.end_dt_qual": null,
-    "creating_agents.start_dt": null,
+    "creating_agents.start_dt": [
+      1882,
+      1895,
+      1909
+    ],
     "creating_agents.start_dt_qual": null,
-    "creating_agents.title": null,
+    "creating_agents.title": [
+      "Department of Mines (also known as the Mining Department)",
+      "Department of Mines and Water Supply",
+      "Mines Department (also known as Department of Mines and Mining Department)"
+    ],
     "date_descriptor": null,
     "date_range": [
-      "[1753 TO 3000]"
+      "[1882 TO 1937]"
     ],
-    "end_dt": "3000",
+    "end_dt": "1937",
     "end_dt_qual": null,
     "entity": "Record",
     "format": "Physical",
     "function_content": null,
     "how_to_use": [
-      "THIS TEXT HAS NOT BEEN EVALUATED BY CONTEXT CONTROL.<br />\r\n<br />\r\nNO DATA FOR THIS SERIES HAS BEEN ENTERED AS AT AUGUST 1990.<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\nSYSTEM OF ARRANGEMENT/CONTROL<br />\r\n<br />\r\nChronological by date of correspondence.<br />\r\n<br />\r\nRANGE OF CONTROL SYMBOLS<br />\r\n<br />\r\n1882 - 1937<br />\r\n<br />\r\nThe file contains correspondence from and about matters concerning, the Mining Registration at Bendigo. These include complaints made, investigations, reports, appointments, applications for leave etc, and salary matters. There is also correspondence with other Government Departments e.g. Crown Lands about the position. Frequently the same person held the positions of Warden&#39;s Clerk, Clerk of Court and Mining Registrar and some of the complaints concerned alleged abuse of powers.<br />\r\n&nbsp;"
+      "This series has been cancelled. The file in this series was determined in 2026 to be part of another series, VPRS 6185 Mining Registrars&#39; Application Files, and was added to it.<br />\r\n&nbsp;"
     ],
     "identifier.PID.id": "B122EC3C-F1AE-11E9-AE98-F9B210754A94",
     "identifier.PROV_ACM.id": "VPRS 7070",
@@ -538107,32 +538543,16 @@
       "North Melbourne"
     ],
     "recordkeeping_system": null,
-    "resp_agency_id": [
-      "2661"
-    ],
-    "resp_agency_title": [
-      "Department of Industry, Technology and Resources"
-    ],
-    "resp_agency_title_facet": [
-      "Department of Industry, Technology and Resources"
-    ],
-    "responsible_agents.date_ranges": [
-      "1985"
-    ],
-    "responsible_agents.end_dt": [
-      1985
-    ],
+    "resp_agency_id": null,
+    "resp_agency_title": null,
+    "resp_agency_title_facet": null,
+    "responsible_agents.date_ranges": null,
+    "responsible_agents.end_dt": null,
     "responsible_agents.end_dt_qual": null,
-    "responsible_agents.resp_agency_id": [
-      2661
-    ],
-    "responsible_agents.start_dt": [
-      1985
-    ],
+    "responsible_agents.resp_agency_id": null,
+    "responsible_agents.start_dt": null,
     "responsible_agents.start_dt_qual": null,
-    "responsible_agents.title": [
-      "Department of Industry, Technology and Resources"
-    ],
+    "responsible_agents.title": null,
     "rights_status": [
       "Open"
     ],
@@ -538140,11 +538560,11 @@
     "series_in_custody.date_range": null,
     "series_in_custody.end_dt": null,
     "series_in_custody.start_dt": null,
-    "start_dt": "1753",
+    "start_dt": "1882",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1770780482,
-    "title": "Old File re Mining Registrar, Bendigo CANCELLED, SEE VPRS 6815"
+    "timestamp": 1795471319,
+    "title": "Old File re Mining Registrar, Bendigo [CANCELLED, SEE VPRS 6815]"
   },
   {
     "_id": "B125F97E-F1AE-11E9-AE98-5390C4BDCF31",
@@ -538583,6 +539003,104 @@
     "status": "Published",
     "timestamp": 1781826613,
     "title": "General Correspondence Files"
+  },
+  {
+    "_id": "B12EAC14-F1AE-11E9-AE98-4359ACD4D255",
+    "_version_": 1882756903174406147,
+    "category": "Series",
+    "citation": "VPRS 7078",
+    "citation_sort": "07078",
+    "contents.date_range": [
+      "[1941 TO 1957]"
+    ],
+    "contents.end_dt": [
+      1957
+    ],
+    "contents.start_dt": [
+      1941
+    ],
+    "creating_agents.creating_agency_id": [
+      5620
+    ],
+    "creating_agents.date_ranges": [
+      "[1941 TO 1957]"
+    ],
+    "creating_agents.end_dt": [
+      1957
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1941
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "State Coal Committee"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1941 TO 1957]"
+    ],
+    "end_dt": "1957",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises files and reports created or received by the State Coal Committee (VA 5620) relavent to its activities.Refer to the listing of items for specific records.<br />\r\n<br />\r\nThis series was originally transferred to PROV by a service provide. The documentation provided was reviewed during 2026 which resulted in a redrafting of this description and an amendment to the series title. The minute books for the Committee and a different body, the Coal Production Council&nbsp; (VA 5261) were also removed and placed as series in their own right (VPRS 22267 and VPRS 2268) respectively).&nbsp;<br />\r\n&nbsp;"
+    ],
+    "how_to_use": null,
+    "identifier.PID.id": "B12EAC14-F1AE-11E9-AE98-4359ACD4D255",
+    "identifier.PROV_ACM.id": "VPRS 7078",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": null,
+    "resp_agency_id": [
+      "5285"
+    ],
+    "resp_agency_title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "resp_agency_title_facet": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "responsible_agents.date_ranges": [
+      "[2023 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5285
+    ],
+    "responsible_agents.start_dt": [
+      2023
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Energy, Environment and Climate Action "
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "7078",
+    "series_in_custody.date_range": [
+      "[1941 TO 1957]"
+    ],
+    "series_in_custody.end_dt": [
+      1957
+    ],
+    "series_in_custody.start_dt": [
+      1941
+    ],
+    "start_dt": "1941",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795493702,
+    "title": "Files and Reports "
   },
   {
     "_id": "B131B956-F1AE-11E9-AE98-014D405B99B6",
@@ -799886,7 +800404,7 @@
   },
   {
     "_id": "E8387BD7-F1AE-11E9-AE98-F5670360AA0F",
-    "_version_": 1816040160269172736,
+    "_version_": 1882756903198523392,
     "category": "Series",
     "citation": "VPRS 9869",
     "citation_sort": "09869",
@@ -799914,7 +800432,7 @@
     ],
     "creating_agents.start_dt_qual": null,
     "creating_agents.title": [
-      "Glen Iris (Primary School No.1148)"
+      "Glen Iris Primary School (School No. 1148; previously known as Glen Iris Common School 1872 \u2013 c.1873; Glen Iris State School c.1873 - 1970)"
     ],
     "date_descriptor": null,
     "date_range": [
@@ -799936,30 +800454,30 @@
     ],
     "recordkeeping_system": null,
     "resp_agency_id": [
-      "3926"
+      "5283"
     ],
     "resp_agency_title": [
-      "Glen Iris (Primary School No.1148)"
+      "Department of Education III"
     ],
     "resp_agency_title_facet": [
-      "Glen Iris (Primary School No.1148)"
+      "Department of Education III"
     ],
     "responsible_agents.date_ranges": [
-      "[1872 TO 3000]"
+      "[2023 TO 3000]"
     ],
     "responsible_agents.end_dt": [
       3000
     ],
     "responsible_agents.end_dt_qual": null,
     "responsible_agents.resp_agency_id": [
-      3926
+      5283
     ],
     "responsible_agents.start_dt": [
-      1872
+      2023
     ],
     "responsible_agents.start_dt_qual": null,
     "responsible_agents.title": [
-      "Glen Iris (Primary School No.1148)"
+      "Department of Education III"
     ],
     "rights_status": [
       "Open"
@@ -799977,7 +800495,7 @@
     "start_dt": "1969",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1614290792,
+    "timestamp": 1795494879,
     "title": "School Records"
   },
   {
@@ -1756021,6 +1756539,108 @@
     "title": "School Policies"
   },
   {
+    "_id": "25546AAA-3A87-11EF-A95C-D3BD4E569C57",
+    "_version_": 1882756903217397761,
+    "category": "Series",
+    "citation": "VPRS 20379",
+    "citation_sort": "20379",
+    "contents.date_range": [
+      "[1959 TO 1985]"
+    ],
+    "contents.end_dt": [
+      1985
+    ],
+    "contents.start_dt": [
+      1959
+    ],
+    "creating_agents.creating_agency_id": [
+      5482
+    ],
+    "creating_agents.date_ranges": [
+      "[1959 TO 1985]"
+    ],
+    "creating_agents.end_dt": [
+      1985
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1959
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Casterton Primary School (School No. 2058; previously known as Casterton Church of England School 1857 \u2013 1862; Casterton Common School No. 134 1862 \u2013 1878; Casterton State School 1878 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1959 TO 1985]"
+    ],
+    "end_dt": "1985",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series consists of Inspector&#39;s Report Books which provide a detailed examination of the school building and grounds, student activities and teaching as observed by the Inspector at the time of their visit to Casterton Primary School (School No. 2058) (VA 5482).<br />\r\n<br />\r\nSchool Inspectors reported on teacher, student, and school performance and the implementation of Department policies at Victorian government schools from 1852 until 1984. Outside of their advisory and assessment duties, District Inspectors oversaw fielding, investigating and responding to complaints and concerns regarding teachers.&nbsp;<br />\r\n<br />\r\nInspectors, collectively known as the Inspectorate, were first appointed following a Report from the Select Committee on Education in 1852, and from 1853 were directly accountable to the National Board of Commissioners. From 1862, they were appointed by the Board of Education (VA 713), and from then until 1904 were accountable to the Board and its successors.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984 after which greater accountability was given to school councils and principals. &nbsp;<br />\r\n<br />\r\nThe Inspector&rsquo;s Report Book were issued to all schools by the Education Department (VA 714) and its successors. The Inspectors recorded the school number, date and time of visit, comments, and signed the books. Some books also contain official Departmental receipts for donations collected from the head teacher for textbooks.<br />\r\n<br />\r\nReports were created by Departmental Inspectors during annual and supplementary visits to government schools. Inspections (and comments) were made regarding the number of pupils present and their general appearance, the condition of the school grounds, buildings, furniture and recordkeeping, school organisation, standard of instruction, time and discipline, teacher accommodation and audits of the sale of textbooks supplied by the Education Department. Background knowledge about individual school management and routines was provided by the local community to the Inspector. During the &lsquo;payment by results&rsquo; system adopted in Victoria from 1864 &ndash; 1904, Inspectors also conducted regular examinations of pupils to assess the teacher&rsquo;s eligibility for bonus pay.<br />\r\n<br />\r\nInspection reports were prepared and forwarded to central officials, where the material was aggregated and presented in an annual report to parliament (See Original Papers Tabled in the Legislative Assembly, VPRS 3253). Edited summaries were made available for publishing in daily newspapers.<br />\r\n<br />\r\nIn the new decentralised model after 1984, regional directors were to oversee the new accountability measures administered by the schools, and the principal assumed greater authority for decision-making in all aspects of school operations and in this sense, assumed many of the duties of former inspectors. Many of these decisions can be found recorded in the school&rsquo;s annual report, or the minutes of the meetings of the school council."
+    ],
+    "how_to_use": [
+      "Browse the volume for the relevant information."
+    ],
+    "identifier.PID.id": "25546AAA-3A87-11EF-A95C-D3BD4E569C57",
+    "identifier.PROV_ACM.id": "VPRS 20379",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Reports within the books are made sequentially in date order. Books are labelled with the school name and number, and often the date range covered within.<br />\r\n<br />\r\nReports were made by the Inspector in Inspector&rsquo;s Registers from approximately 1862 until the late 19th century, when they were replaced by Inspector&rsquo;s Report Books until end of the Inspectorial System in 1984.&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "20379",
+    "series_in_custody.date_range": [
+      "[1959 TO 1985]"
+    ],
+    "series_in_custody.end_dt": [
+      1985
+    ],
+    "series_in_custody.start_dt": [
+      1959
+    ],
+    "start_dt": "1959",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795495255,
+    "title": "Inspector's Report Books"
+  },
+  {
     "_id": "F7449E4D-3A87-11EF-A95C-6D0E07617B89",
     "_version_": 1863191734338453505,
     "category": "Series",
@@ -1756213,6 +1756833,108 @@
     "title": "Index to Pupils' Registers"
   },
   {
+    "_id": "449769F8-3A90-11EF-A95C-BD752137DFFC",
+    "_version_": 1882756903220543489,
+    "category": "Series",
+    "citation": "VPRS 20382",
+    "citation_sort": "20382",
+    "contents.date_range": [
+      "[1992 TO 1995]"
+    ],
+    "contents.end_dt": [
+      1995
+    ],
+    "contents.start_dt": [
+      1992
+    ],
+    "creating_agents.creating_agency_id": [
+      5482
+    ],
+    "creating_agents.date_ranges": [
+      "[1992 TO 1995]"
+    ],
+    "creating_agents.end_dt": [
+      1995
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1992
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Casterton Primary School (School No. 2058; previously known as Casterton Church of England School 1857 \u2013 1862; Casterton Common School No. 134 1862 \u2013 1878; Casterton State School 1878 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1992 TO 1995]"
+    ],
+    "end_dt": "1995",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the annual reports of Casterton Primary School (School No. 2058) (VA 5482).&nbsp;<br />\r\n<br />\r\nThe reports detail aspects such as school governance, achievement, and performance. They may include: Principal&rsquo;s report; School Council President&rsquo;s report; summary of student enrolment, attendance and wellbeing; summary of student progress and achievements; curriculum information; updates on school grounds; staff feedback; charter priorities; annual financial statements and more.<br />\r\n<br />\r\nAlthough the contents, emphasis and delivery mechanisms of annual reports have evolved over time, their fundamental purpose has remained largely unchanged. It provides information on a school&rsquo;s progress and achievements over the course of each year.<br />\r\n<br />\r\nThe content and size of annual reports varies, increasing in size and detail with the implementation of a formalised structure by the Department of Education (VA 3098) in the 1993 amendment to the <em>Education Act 1958</em> (Vic).&nbsp;<br />\r\n<br />\r\nIn 1994, under the Schools of the Future program, the Department of Education (VA 3098) introduced a framework to provide an accountability mechanism in schools, known as Quality Assurance in Victorian Schools: An Accountability Framework. This framework was introduced to all primary and secondary schools in the state and was created to support the shift in school management from being centrally controlled by the Department to being managed by the local school community. The annual report was one of the three key elements of the framework, in addition to a school charter and a triennial review of the school. The preparation and publication of an annual report was a legislative and regulatory requirement for all schools under the<em> Education and Training Reform Act 2006</em> (Vic), Ministerial Order 1280 and the National Education Agreement 2008."
+    ],
+    "how_to_use": [
+      "Researchers should search within the series by year of report.<br />\r\n&nbsp;"
+    ],
+    "identifier.PID.id": "449769F8-3A90-11EF-A95C-BD752137DFFC",
+    "identifier.PROV_ACM.id": "VPRS 20382",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Annual reports are arranged in chronological order. &nbsp;<br />\r\n<br />\r\nNot every year of the school&rsquo;s operation may have a report. If a report is missing from this series, please refer to the VPRS 17782 School Annual Reports, which holds a collection of school reports accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "20382",
+    "series_in_custody.date_range": [
+      "[1992 TO 1995]"
+    ],
+    "series_in_custody.end_dt": [
+      1995
+    ],
+    "series_in_custody.start_dt": [
+      1992
+    ],
+    "start_dt": "1992",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795495304,
+    "title": "Annual Reports"
+  },
+  {
     "_id": "C5D6445A-3A90-11EF-A95C-17AEEE850639",
     "_version_": 1863191734406610947,
     "category": "Series",
@@ -1756313,6 +1757035,108 @@
     "status": "Published",
     "timestamp": 1776832568,
     "title": "Teachers' Time Book and Absence Registers"
+  },
+  {
+    "_id": "FFDF4ACC-3A90-11EF-A95C-0FB8B569E330",
+    "_version_": 1882756903222640640,
+    "category": "Series",
+    "citation": "VPRS 20384",
+    "citation_sort": "20384",
+    "contents.date_range": [
+      "[1977 TO 1990]"
+    ],
+    "contents.end_dt": [
+      1990
+    ],
+    "contents.start_dt": [
+      1977
+    ],
+    "creating_agents.creating_agency_id": [
+      5482
+    ],
+    "creating_agents.date_ranges": [
+      "[1977 TO 1990]"
+    ],
+    "creating_agents.end_dt": [
+      1990
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1977
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Casterton Primary School (School No. 2058; previously known as Casterton Church of England School 1857 \u2013 1862; Casterton Common School No. 134 1862 \u2013 1878; Casterton State School 1878 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1977 TO 1990]"
+    ],
+    "end_dt": "1990",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises volumes recording the minutes of meetings held by the School Council for Casterton Primary School (School No. 2058) (VA 5482).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the <em>Education Act 1958</em> allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983 the <em>Education Act </em>was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the <em>Education and Training Reform Act 2006</em>, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n&nbsp;&nbsp; &nbsp;<br />\r\nFor each meeting of the school council, minutes of all proceedings are recorded together with the names of all members present and all who vote for and against motions. The minutes relate to the wide range of activities for which the council is responsible. They are written under agenda item headings and circulated by the principal prior to the next meeting of council, where they are confirmed as accurate and signed by the school council president presiding at the meeting.<br />\r\n<br />\r\nRecords created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Researchers should consult the consignment details to identify a relevant time period, and browse through the volume to locate the required information."
+    ],
+    "identifier.PID.id": "FFDF4ACC-3A90-11EF-A95C-0FB8B569E330",
+    "identifier.PROV_ACM.id": "VPRS 20384",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Minutes of meetings are arranged in chronological order by date of meeting.&nbsp;<br />\r\n<br />\r\nFor additional records of School Council activities, see VPRS 20388 School Council Papers."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "20384",
+    "series_in_custody.date_range": [
+      "[1977 TO 1990]"
+    ],
+    "series_in_custody.end_dt": [
+      1990
+    ],
+    "series_in_custody.start_dt": [
+      1977
+    ],
+    "start_dt": "1977",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795495352,
+    "title": "School Council Minute Books"
   },
   {
     "_id": "2F988BFE-3A91-11EF-A95C-01839509161C",
@@ -1756417,6 +1757241,108 @@
     "title": "Student Transfer Notes and Exit Forms"
   },
   {
+    "_id": "669515C0-3A91-11EF-A95C-493F07BB9621",
+    "_version_": 1882756903224737792,
+    "category": "Series",
+    "citation": "VPRS 20386",
+    "citation_sort": "20386",
+    "contents.date_range": [
+      "1981"
+    ],
+    "contents.end_dt": [
+      1981
+    ],
+    "contents.start_dt": [
+      1981
+    ],
+    "creating_agents.creating_agency_id": [
+      5482
+    ],
+    "creating_agents.date_ranges": [
+      "1981"
+    ],
+    "creating_agents.end_dt": [
+      1981
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1981
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Casterton Primary School (School No. 2058; previously known as Casterton Church of England School 1857 \u2013 1862; Casterton Common School No. 134 1862 \u2013 1878; Casterton State School 1878 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "1981"
+    ],
+    "end_dt": "1981",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises a Register of Corporal Punishment, maintained by Casterton Primary School (School No. 2058) (VA 5482). The Register of Corporal Punishment was a standardised register used in Victorian government schools from the early 20th century until at least the 1960s. &nbsp;<br />\r\n<br />\r\nEach school filled in their name and school number on the front cover of the register. Inside the front cover of the bound volume is a list of eight regulations relating to the implementation of corporal punishment in schools, including who may be authorised to deliver such punishment, what type of punishment is permitted, and the circumstances when corporal punishment may be applied.&nbsp;<br />\r\n<br />\r\nThe Head Teacher of the school was held responsible for the nature and extent of the punishment inflicted, and only the Head Teacher or those they authorised were permitted to inflict this punishment. Accordingly, the first few pages of the book are titled &lsquo;Names of Teachers Authorized to Inflict Corporal Punishment&rsquo;. In columns below are spaces for the Head Teacher to fill out the name and date of the teachers authorised.<br />\r\n<br />\r\nThe rest of the volume is made up of perforated pages that were used to record the circumstances of individual punishments. Each page contains columns for the teacher to fill out the student&rsquo;s details (full name, age, and grade), the date, the offence committed, the nature and extent of the punishment inflicted, and the initials of the teacher inflicting the punishment. &nbsp;Entries for each year were to be filled out on a separate leaf. According to the instructions listed inside the front cover of the register, these pages were to be kept in the Register for just two years before being removed and destroyed. As such, much of this register is filled with blank pages. Where entries do remain, the level of detail recorded varies.&nbsp;<br />\r\n<br />\r\nCorporal punishment was banned in Victorian state schools in 1983, though many schools had abolished the practice long before then."
+    ],
+    "how_to_use": [
+      "Researchers should browse through the volume to identify individual records of interest."
+    ],
+    "identifier.PID.id": "669515C0-3A91-11EF-A95C-493F07BB9621",
+    "identifier.PROV_ACM.id": "VPRS 20386",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Registers of Corporal Punishment are arranged chronologically by date of incident.&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "20386",
+    "series_in_custody.date_range": [
+      "1981"
+    ],
+    "series_in_custody.end_dt": [
+      1981
+    ],
+    "series_in_custody.start_dt": [
+      1981
+    ],
+    "start_dt": "1981",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795495397,
+    "title": "Register of Corporal Punishment"
+  },
+  {
     "_id": "99919B12-3A91-11EF-A95C-F16FDE66EA48",
     "_version_": 1863191734409756672,
     "category": "Series",
@@ -1756517,6 +1757443,108 @@
     "status": "Published",
     "timestamp": 1776833115,
     "title": "Student Information and Enrolment Forms"
+  },
+  {
+    "_id": "DCFD47A4-3A91-11EF-A95C-37D80FB582CD",
+    "_version_": 1882756903227883520,
+    "category": "Series",
+    "citation": "VPRS 20388",
+    "citation_sort": "20388",
+    "contents.date_range": [
+      "[1983 TO 2020]"
+    ],
+    "contents.end_dt": [
+      2020
+    ],
+    "contents.start_dt": [
+      1983
+    ],
+    "creating_agents.creating_agency_id": [
+      5482
+    ],
+    "creating_agents.date_ranges": [
+      "[1983 TO 2020]"
+    ],
+    "creating_agents.end_dt": [
+      2020
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1983
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Casterton Primary School (School No. 2058; previously known as Casterton Church of England School 1857 \u2013 1862; Casterton Common School No. 134 1862 \u2013 1878; Casterton State School 1878 \u2013 c.1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1983 TO 2020]"
+    ],
+    "end_dt": "2020",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises school council records documenting the organisation and operation of Casterton Primary School (School No. 2058) (VA 5482).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the <em>Education Act 1958 </em>allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983, the <em>Education Act</em> was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the <em>Education and Training Reform Act 2006</em>, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included: maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n<br />\r\nThis series may include the following records: minutes, agendas, correspondence, policies, financial statements and reports from principals and other staff members. Records created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Browse within the series to find relevant information."
+    ],
+    "identifier.PID.id": "DCFD47A4-3A91-11EF-A95C-37D80FB582CD",
+    "identifier.PROV_ACM.id": "VPRS 20388",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are organised sequentially by date and separated into files by year. Some may span multiple years within a single file, while others are spread over multiple files per year. The content, date range and volume of records differs for each school.<br />\r\n<br />\r\nFor additional records of school council activities, see VPRS 20384 School Council Minute Books."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "20388",
+    "series_in_custody.date_range": [
+      "[1983 TO 2020]"
+    ],
+    "series_in_custody.end_dt": [
+      2020
+    ],
+    "series_in_custody.start_dt": [
+      1983
+    ],
+    "start_dt": "1983",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795495448,
+    "title": "School Council Papers"
   },
   {
     "_id": "50428B19-3CB5-11EF-A95C-13A7BA54A299",
@@ -1772524,7 +1773552,7 @@
   },
   {
     "_id": "4A0EFFBC-5B76-11EF-80A4-2FEEFE6BDF77",
-    "_version_": 1864278905422086144,
+    "_version_": 1882756903229980672,
     "category": "Series",
     "citation": "VPRS 20553",
     "citation_sort": "20553",
@@ -1772608,8 +1773636,7 @@
       "Department of Education III"
     ],
     "rights_status": [
-      "Closed",
-      "Not set"
+      "Closed"
     ],
     "series_id": "20553",
     "series_in_custody.date_range": [
@@ -1772624,7 +1773651,7 @@
     "start_dt": "1880",
     "start_dt_qual": "circa",
     "status": "Published",
-    "timestamp": 1777868548,
+    "timestamp": 1795495485,
     "title": "School Photographs"
   },
   {
@@ -1867896,6 +1868923,108 @@
     "status": "Published",
     "timestamp": 1787279825,
     "title": "Class Lists\r\n"
+  },
+  {
+    "_id": "D3791843-4FEC-11F0-8856-F16B2F9C9FD4",
+    "_version_": 1882756903320158208,
+    "category": "Series",
+    "citation": "VPRS 21546",
+    "citation_sort": "21546",
+    "contents.date_range": [
+      "[1905 TO 1994]"
+    ],
+    "contents.end_dt": [
+      1994
+    ],
+    "contents.start_dt": [
+      1905
+    ],
+    "creating_agents.creating_agency_id": [
+      5705
+    ],
+    "creating_agents.date_ranges": [
+      "[1905 TO 1994]"
+    ],
+    "creating_agents.end_dt": [
+      1994
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1905
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Camberwell Primary School (School No. 888; previously known as Camberwell Common School 1867 \u2013 circa 1875; Camberwell State School circa 1875 \u2013 1926; Camberwell Central School 1926 \u2013 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1905 TO 1994]"
+    ],
+    "end_dt": "1994",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises the Index to Pupils&rsquo; Registers for Camberwell Primary School (School No. 888) (VA 5705), maintained by Victorian government primary schools to facilitate the identification of students recorded in the Pupils&rsquo; Register. Both the Index to Pupils&rsquo; Register and the Pupils&rsquo; Register were standardised templates provided to schools by the Education Department (VA 714) and its successors.<br />\r\n<br />\r\nThe Pupils&rsquo; Register recorded student enrolment data and was arranged in numerical order by student registration number and date of admission. The register was used by all Victorian government primary schools and at times adapted for use at other types of schools.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system.<br />\r\n&nbsp;"
+    ],
+    "how_to_use": [
+      "Researchers should browse the Index to locate the last name of the record of interest. Next to the name will be the student registration number to refer to in the related VPRS 21549 Pupils&rsquo; Register.&nbsp;"
+    ],
+    "identifier.PID.id": "D3791843-4FEC-11F0-8856-F16B2F9C9FD4",
+    "identifier.PROV_ACM.id": "VPRS 21546",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records in this series were created to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, see VPRS 21549 Pupils&rsquo; Register.&nbsp;<br />\r\n<br />\r\nVolumes are arranged alphabetically and record the child&#39;s surname, first initial, and the registration number given to them upon admission to the school.<br />\r\n&nbsp;"
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "21546",
+    "series_in_custody.date_range": [
+      "[1905 TO 1994]"
+    ],
+    "series_in_custody.end_dt": [
+      1994
+    ],
+    "series_in_custody.start_dt": [
+      1905
+    ],
+    "start_dt": "1905",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795495582,
+    "title": "Index to Pupils' Registers\r\n"
   },
   {
     "_id": "249EB725-4FED-11F0-8856-B19E12450508",
