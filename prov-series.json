@@ -982326,7 +982326,7 @@
   },
   {
     "_id": "112F160F-F1AF-11E9-AE98-538B06D2EB6F",
-    "_version_": 1851319754942316544,
+    "_version_": 1882847512498274304,
     "category": "Series",
     "citation": "VPRS 11948",
     "citation_sort": "11948",
@@ -982406,7 +982406,7 @@
       "Cabinet Office [known as Cabinet & Executive Branch 1991-1992; Cabinet Secretariat 1992 - 2015]"
     ],
     "rights_status": [
-      "Closed"
+      "Open"
     ],
     "series_id": "11948",
     "series_in_custody.date_range": [
@@ -982421,7 +982421,7 @@
     "start_dt": "1982",
     "start_dt_qual": null,
     "status": "Published",
-    "timestamp": 1765491753,
+    "timestamp": 1795583907,
     "title": "Cabinet Record, Cain/Kirner Government"
   },
   {
@@ -1974579,6 +1974579,722 @@
     "status": "Published",
     "timestamp": 1795180852,
     "title": "Pupils' Registers\r\n"
+  },
+  {
+    "_id": "37636C21-7459-11F1-9CAC-1D4A7F0417CA",
+    "_version_": 1882847512486739968,
+    "category": "Series",
+    "citation": "VPRS 22712",
+    "citation_sort": "22712",
+    "contents.date_range": [
+      "[2003 TO 2005]"
+    ],
+    "contents.end_dt": [
+      2005
+    ],
+    "contents.start_dt": [
+      2003
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "[2003 TO 2005]"
+    ],
+    "creating_agents.end_dt": [
+      2005
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2003
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2003 TO 2005]"
+    ],
+    "end_dt": "2005",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of School Charters prepared by Bacchus Marsh Primary School (School No. 28) (VA 5843).&nbsp;<br />\r\n<br />\r\nIn 1994, as part of the Jeff Kennett government&#39;s Schools of the Future program, the Department of Education (VA 3098) introduced Quality Assurance in Victorian Schools: An Accountability Framework. This framework aimed to shift school management from centralised Department control to self-management by local school communities. It applied to all primary and secondary schools in Victoria, allowing them to make decisions regarding effective learning provision and resource allocation, both human and financial, to meet local priorities.<br />\r\n<br />\r\nSelf-management was guided by school councils and region-approved school charters, implemented through global budgets and school-based program budgeting. School charters outlined a school&#39;s vision, ethos, objectives, and priorities over a three-year period, detailing strategies for achieving goals and evaluating progress. Program budgeting allocated funds across curriculum areas based on school-identified needs, balancing government funding with local fundraising efforts while adhering to state-wide guidelines. A Code of Conduct defined expected student behaviour and disciplinary measures for misconduct.&nbsp;<br />\r\n<br />\r\nThe accountability framework consisted of three key elements: the school charter, an annual report, and a triennial school review. The charter functioned as a formal agreement between the school council president, the principal, and the Director of School Education (later the Secretary of the Department). &nbsp;School Charters are no longer produced, likely due to legislative changes in 2006. &nbsp;School Charters went on to be replaced by the School Strategic Plan.&nbsp;<br />\r\n<br />\r\nThe focus of each charter was on planned, coherent, and continuous improvement, presented in a standardised format specified by the Department of Education (VA 5283) or its predecessors. Each charter provided information under five key sections:<br />\r\n<br />\r\n1. School profile (background on the school, such as history, demographics, etc);<br />\r\n2. Core purpose statements (goals);<br />\r\n3. Planning for improvement (priorities, curriculum, budget, accountability);<br />\r\n4. Codes of practice (school council, principal class, staff and community);<br />\r\n5. Code of conduct for students."
+    ],
+    "how_to_use": [
+      "Researchers should browse within the series by dates of interest.<br />\r\n<br />\r\nIf a specific charter cannot be located in this series, consult VPRS 17783 School Charters which contains school charters that were accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "identifier.PID.id": "37636C21-7459-11F1-9CAC-1D4A7F0417CA",
+    "identifier.PROV_ACM.id": "VPRS 22712",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "School Charters are arranged in chronological order by year of report. &nbsp;<br />\r\n<br />\r\nSchool Charter records are sporadic and there may not be a charter for every three-year period the school is in operation. &nbsp;If a specific charter cannot be located in this series, consult VPRS 17783 School Charters which contains school charters that were accumulated by the Department of Education (VA 5283) or its predecessors. &nbsp; &nbsp; &nbsp;<br />\r\n<br />\r\nSchool Charters are no longer produced, likely due to legislative changes in 2006. School Charters were replaced by the School Strategic Plan."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22712",
+    "series_in_custody.date_range": [
+      "[2003 TO 2005]"
+    ],
+    "series_in_custody.end_dt": [
+      2005
+    ],
+    "series_in_custody.start_dt": [
+      2003
+    ],
+    "start_dt": "2003",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795583805,
+    "title": "School Charters\r\n"
+  },
+  {
+    "_id": "734F1545-7459-11F1-9CAC-3B4564714F49",
+    "_version_": 1882847512502468609,
+    "category": "Series",
+    "citation": "VPRS 22713",
+    "citation_sort": "22713",
+    "contents.date_range": [
+      "[1932 TO 1976]"
+    ],
+    "contents.end_dt": [
+      1976
+    ],
+    "contents.start_dt": [
+      1932
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "[1932 TO 1976]"
+    ],
+    "creating_agents.end_dt": [
+      1976
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1932
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1932 TO 1976]"
+    ],
+    "end_dt": "1976",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises volumes recording the minutes of meetings held by the School Council for Bacchus Marsh Primary School (School No. 28) (VA 5843).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983 the Education Act was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n&nbsp;&nbsp; &nbsp;<br />\r\nFor each meeting of the school council, minutes of all proceedings are recorded together with the names of all members present and all who vote for and against motions. The minutes relate to the wide range of activities for which the council is responsible. They are written under agenda item headings and circulated by the principal prior to the next meeting of council, where they are confirmed as accurate and signed by the school council president presiding at the meeting.<br />\r\n<br />\r\nRecords created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Researchers should consult the consignment details to identify a relevant time period and browse through the volume to locate the required information."
+    ],
+    "identifier.PID.id": "734F1545-7459-11F1-9CAC-3B4564714F49",
+    "identifier.PROV_ACM.id": "VPRS 22713",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Minutes of meetings are arranged in chronological order by date of meeting.&nbsp;<br />\r\n<br />\r\nFor additional records of School Council activities, see VPRS 22714 School Council Papers."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22713",
+    "series_in_custody.date_range": [
+      "[1932 TO 1976]"
+    ],
+    "series_in_custody.end_dt": [
+      1976
+    ],
+    "series_in_custody.start_dt": [
+      1932
+    ],
+    "start_dt": "1932",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795584127,
+    "title": "School Council Minute Books\r\n"
+  },
+  {
+    "_id": "A5463887-7459-11F1-9CAC-47DF489BB07A",
+    "_version_": 1882847512504565761,
+    "category": "Series",
+    "citation": "VPRS 22714",
+    "citation_sort": "22714",
+    "contents.date_range": [
+      "[1987 TO 2024]"
+    ],
+    "contents.end_dt": [
+      2024
+    ],
+    "contents.start_dt": [
+      1987
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "[1987 TO 2024]"
+    ],
+    "creating_agents.end_dt": [
+      2024
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1987
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1987 TO 2024]"
+    ],
+    "end_dt": "2024",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises school council records documenting the organisation and operation of Bacchus Marsh Primary School (School No. 28) (VA 5843).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.&nbsp;<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983, the Education Act was amended to give the school council responsibility for determining the general education policy of the school withing the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included: maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n<br />\r\nThis series may include the following records: minutes, agendas, correspondence, policies, financial statements and reports from principals and other staff members. Records created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Browse within the series to find relevant information."
+    ],
+    "identifier.PID.id": "A5463887-7459-11F1-9CAC-47DF489BB07A",
+    "identifier.PROV_ACM.id": "VPRS 22714",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are organised sequentially by date and separated into files by year. Some may span multiple years within a single file, while others are spread over multiple files per year. The content, date range and volume of records differs for each school.<br />\r\n<br />\r\nFor additional records of school council activities, see VPRS 22713 School Council Minute Books."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22714",
+    "series_in_custody.date_range": [
+      "[1987 TO 2024]"
+    ],
+    "series_in_custody.end_dt": [
+      2024
+    ],
+    "series_in_custody.start_dt": [
+      1987
+    ],
+    "start_dt": "1987",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795584200,
+    "title": "School Council Papers\r\n"
+  },
+  {
+    "_id": "EC1868AB-7459-11F1-9CAC-3BCF5BA588B6",
+    "_version_": 1882847512507711488,
+    "category": "Series",
+    "citation": "VPRS 22715",
+    "citation_sort": "22715",
+    "contents.date_range": [
+      "[1868 TO 2015]"
+    ],
+    "contents.end_dt": [
+      2015
+    ],
+    "contents.start_dt": [
+      1868
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "[1868 TO 2015]"
+    ],
+    "creating_agents.end_dt": [
+      2015
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1868
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1868 TO 2015]"
+    ],
+    "end_dt": "2015",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the official annual school group photographs of the staff, classes/forms, year levels and/or entire school and form a visual record of the students and teachers at Bacchus Marsh Primary School (School No. 28) (VA 5843) at a point in time.<br />\r\n<br />\r\nThere are not always photographs for every year and within a year period, there may or may not be a photograph for every class / form. The extent of the photographs within the series will vary depending on the school. Additionally, while most photographs list the names of the students and staff members included in the photograph there are some that are unidentified."
+    ],
+    "how_to_use": [
+      "Search for specific photographs by year. Within a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staff included by name."
+    ],
+    "identifier.PID.id": "EC1868AB-7459-11F1-9CAC-3BCF5BA588B6",
+    "identifier.PROV_ACM.id": "VPRS 22715",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Class photographs are grouped by year or year period in files and are typically ordered by year level within each file. The photographs were likely originally stored in photo albums and plastic sleeves.<br />\r\n<br />\r\nWithin a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staffs included by name."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "series_id": "22715",
+    "series_in_custody.date_range": [
+      "[1868 TO 2015]"
+    ],
+    "series_in_custody.end_dt": [
+      2015
+    ],
+    "series_in_custody.start_dt": [
+      1868
+    ],
+    "start_dt": "1868",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795584218,
+    "title": "School Photographs\r\n"
+  },
+  {
+    "_id": "26BE4B60-745A-11F1-9CAC-45EC127FB512",
+    "_version_": 1882847512508760065,
+    "category": "Series",
+    "citation": "VPRS 22716",
+    "citation_sort": "22716",
+    "contents.date_range": [
+      "[2008 TO 2011]"
+    ],
+    "contents.end_dt": [
+      2011
+    ],
+    "contents.start_dt": [
+      2008
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "[2008 TO 2011]"
+    ],
+    "creating_agents.end_dt": [
+      2011
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2008
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2008 TO 2011]"
+    ],
+    "end_dt": "2011",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of school policy and strategic planning files from Bacchus Marsh Primary School (School No. 28) (VA 5843). These files are distinct from the general policies and operational guidance distributed to all government schools by the Department of Education III (VA 5283) or its predecessors.<br />\r\n<br />\r\nSchool policies are developed by the school council, which is responsible for reflecting the school&rsquo;s values and support the school&rsquo;s broad direction, as outlined in its Strategic Plan. The Strategic Plan replaced the School Charter.<br />\r\n<br />\r\nThe Strategic Plan is a 4-year plan for school improvement, completed by schools after their school review. It is a document which outlines the school&rsquo;s vision and values, sets goals and targets for improved student outcomes, lists the key improvement strategies that will help achieve these goals and targets and is sensitive to local needs of the school community.<br />\r\n<br />\r\nSome policies are required by legislation or Departmental directives, while others may be created by the school council to address local needs. Under the Education and Training Reform Act 2006 (Vic), all Victorian government schools are required to have a Strategic Plan as part of their registration with the Victorian Qualifications and Registration Authority.<br />\r\n<br />\r\nThese policies cover a wide range of topics common to most schools, including camps, excursions, and outdoor activities; canteen and other school food services; community use of school facilities; dress code; homework; inclusion practices; strategic plans; and student behaviour management.<br />\r\n<br />\r\nUnder the Education and Training Reform Act 2006 (Vic) and Ministerial Order 1359: Implementing the Child Safe Standards &ndash; Managing the Risk of Child Abuse in Schools, government schools are mandated to create policies that comply with Victoria&rsquo;s Child Safe Standards. As of 2024, the Department of Education (VA 5283) required schools to have policies about certain topics, for example education maintenance allowance, investments, parent complaints and payments, student engagement and wellbeing, visitors to schools, criminal record checks, and anaphylaxis management.<br />\r\n<br />\r\nPrior to the legislative establishment of School Councils, records of schools&rsquo; governance may be contained in the records of other committees, including school committees, advisory committees, welfare clubs or parent committees."
+    ],
+    "how_to_use": [
+      "Browse the consignment details and select the relevant policy based on the topic or year.&nbsp;"
+    ],
+    "identifier.PID.id": "26BE4B60-745A-11F1-9CAC-45EC127FB512",
+    "identifier.PROV_ACM.id": "VPRS 22716",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Policy files are arranged in chronological order by year of policy. One policy may span many years and may or may not form a component of a broader general policy document for the school.<br />\r\n<br />\r\nSome school policies may include dates showing the period they cover; however, it is common for policy documents to lack specific date details or a clear start period."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22716",
+    "series_in_custody.date_range": [
+      "[2008 TO 2011]"
+    ],
+    "series_in_custody.end_dt": [
+      2011
+    ],
+    "series_in_custody.start_dt": [
+      2008
+    ],
+    "start_dt": "2008",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795584250,
+    "title": "School Policies"
+  },
+  {
+    "_id": "62CDA922-745A-11F1-9CAC-753F5C37E775",
+    "_version_": 1882847512510857217,
+    "category": "Series",
+    "citation": "VPRS 22717",
+    "citation_sort": "22717",
+    "contents.date_range": [
+      "[1990 TO 2024]"
+    ],
+    "contents.end_dt": [
+      2024
+    ],
+    "contents.start_dt": [
+      1990
+    ],
+    "creating_agents.creating_agency_id": [
+      5843
+    ],
+    "creating_agents.date_ranges": [
+      "[1990 TO 2024]"
+    ],
+    "creating_agents.end_dt": [
+      2024
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1990
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Bacchus Marsh Primary School (School No. 28; previously known as the Bacchus Marsh School 1850 \u2013 1851; Bacchus Marsh National School 1851 \u2013 1863; Bacchus Marsh Central Common School 1863 \u2013 c.1873; Bacchus Marsh State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1990 TO 2024]"
+    ],
+    "end_dt": "2024",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The publications in this series were produced by Bacchus Marsh Primary School (School No. 28) (VA 5843) and provide an insight into the activities, culture and curriculum of the school at a certain point in time.<br />\r\n<br />\r\nThe series may include yearbooks, sometimes referred to as &lsquo;school magazines&rsquo;, prospectus publications and other typically annual publications as well as one-off publications of school histories, milestone celebrations and student work anthologies.<br />\r\n<br />\r\nYearbooks were published annually and may feature staff lists with qualifications, highlights of major events, photographs, sports teams, clubs and prefects, new buildings, major excursions, autographs and stories, poetry and art by students.<br />\r\n<br />\r\nProspectus were typically published annually to provide a guide to prospective students about the operations and curriculum of the school and may include information on courses, organisational structure, enrolment procedures, maps, school policy and transport options."
+    ],
+    "how_to_use": [
+      "Researchers should browse within the series by publication type and year. Searches can also be conducted by publication or magazine title."
+    ],
+    "identifier.PID.id": "62CDA922-745A-11F1-9CAC-753F5C37E775",
+    "identifier.PROV_ACM.id": "VPRS 22717",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records are organised by publication type and ordered chronologically by publication date, though gaps may exist within the collection."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "series_id": "22717",
+    "series_in_custody.date_range": [
+      "[1990 TO 2024]"
+    ],
+    "series_in_custody.end_dt": [
+      2024
+    ],
+    "series_in_custody.start_dt": [
+      1990
+    ],
+    "start_dt": "1990",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795584285,
+    "title": "School Publications\r\n"
+  },
+  {
+    "_id": "94DDF9B4-745A-11F1-9CAC-17B7DEF37F9D",
+    "_version_": 1882847512512954368,
+    "category": "Series",
+    "citation": "VPRS 22718",
+    "citation_sort": "22718",
+    "contents.date_range": [
+      "[1983 TO 1995]"
+    ],
+    "contents.end_dt": [
+      1995
+    ],
+    "contents.start_dt": [
+      1983
+    ],
+    "creating_agents.creating_agency_id": [
+      5844
+    ],
+    "creating_agents.date_ranges": [
+      "[1983 TO 1995]"
+    ],
+    "creating_agents.end_dt": [
+      1995
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1983
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Kaniva Consolidated School (School No. 6227)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1983 TO 1995]"
+    ],
+    "end_dt": "1995",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the annual reports of Kaniva Consolidated School (School No. 6227) (VA 5844).<br />\r\n<br />\r\nThe reports detail aspects such as school governance, achievement, and performance. They may include: Principal&rsquo;s report; School Council President&rsquo;s report; summary of student enrolment, attendance and wellbeing; summary of student progress and achievements; curriculum information; updates on school grounds; staff feedback; charter priorities; annual financial statements and more.<br />\r\n<br />\r\nAlthough the contents, emphasis and delivery mechanisms of annual reports have evolved over time, their fundamental purpose has remained largely unchanged. It provides information on a school&rsquo;s progress and achievements over the course of each year.<br />\r\n<br />\r\nThe content and size of annual reports varies, increasing in size and detail with the implementation of a formalised structure by the Department of Education (VA 3098) in the 1993 amendment to the Education Act 1958 (Vic).<br />\r\n<br />\r\nIn 1994, under the Schools of the Future program, the Department of Education (VA 3098) introduced a framework to provide an accountability mechanism in schools, known as Quality Assurance in Victorian Schools: An Accountability Framework. This framework was introduced to all primary and secondary schools in the state and was created to support the shift in school management from being centrally controlled by the Department to being managed by the local school community. The annual report was one of the three key elements of the framework, in addition to a school charter and a triennial review of the school. The preparation and publication of an annual report was a legislative and regulatory requirement for all schools under the Education and Training Reform Act 2006 (Vic), Ministerial Order 1280 and the National Education Agreement 2008."
+    ],
+    "how_to_use": [
+      "Researchers should search within the series by year of report.<br />\r\n<br />\r\nIf a report is not included in this series, consult VPRS 17782 School Annual Reports which contains the series of school annual reports that had been accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "identifier.PID.id": "94DDF9B4-745A-11F1-9CAC-17B7DEF37F9D",
+    "identifier.PROV_ACM.id": "VPRS 22718",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Annual reports are arranged in chronological order.<br />\r\n<br />\r\nNot every year of the school&rsquo;s operation may have a report. If a report is missing from this series, please refer to the VPRS 17782 School Annual Reports, which holds a collection of school reports accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22718",
+    "series_in_custody.date_range": [
+      "[1983 TO 1995]"
+    ],
+    "series_in_custody.end_dt": [
+      1995
+    ],
+    "series_in_custody.start_dt": [
+      1983
+    ],
+    "start_dt": "1983",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795584317,
+    "title": "Annual Reports\r\n"
   },
   {
     "_id": "AC7D1DE4-745C-11F1-9CAC-35E078173C23",
