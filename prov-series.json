@@ -1977353,6 +1977353,618 @@
     "title": "Inspector's Report Books\r\n"
   },
   {
+    "_id": "691CDBD6-745F-11F1-9CAC-13E5D2619D66",
+    "_version_": 1883028698495451136,
+    "category": "Series",
+    "citation": "VPRS 22741",
+    "citation_sort": "22741",
+    "contents.date_range": [
+      "[1905 TO 1950]"
+    ],
+    "contents.end_dt": [
+      1950
+    ],
+    "contents.start_dt": [
+      1905
+    ],
+    "creating_agents.creating_agency_id": [
+      5845
+    ],
+    "creating_agents.date_ranges": [
+      "[1905 TO 1950]"
+    ],
+    "creating_agents.end_dt": [
+      1950
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1905
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Riddells Creek Primary School (School No. 528; previously known as Riddells Creek Church of England School 1859 \u2013 1862; Riddells Creek Common School 1862 \u2013 c.1873; Riddells Creek State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1905 TO 1950]"
+    ],
+    "end_dt": "1950",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Pupils&rsquo; Registers for Riddells Creek Primary School (School No. 528) (VA 5845). Pupil registers were a standardised register in which to record student enrolment data, used by all Victorian government primary schools and at times adapted for use at other types of schools.<br />\r\n<br />\r\nThe front cover typically featured titles such as &quot;Pupils&#39; Register State Primary School&quot; or &quot;Register of the Common School,&quot; with space to record the school number and name. Additional instructions on the cover outlined the required information to be recorded in the register.<br />\r\n<br />\r\nThe information entered into the register was typically derived from admission forms completed by parents prior to admission or, in the case of transfers from other government schools, from transfer notes completed by the previous school. While the level of detail listed for students varies, the information recorded may include a registration number (a sequential number assigned upon enrolment at the school); the student&rsquo;s full name and date of birth; date of enrolment; name, residence and occupation of parent or guardian; school last attended (school number and name) with grade and date of last attendance; number of meetings attended (sectioned by year); date, month and year of obtaining Merit Certificate, and Merit Certificate number; date, month, and year of last attendance; and destination of pupil (either the number and name of a school, or nature of occupation, and name and address of employer).<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series to identify dates of interest."
+    ],
+    "identifier.PID.id": "691CDBD6-745F-11F1-9CAC-13E5D2619D66",
+    "identifier.PROV_ACM.id": "VPRS 22741",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Pupils&rsquo; registers are arranged in numerical order by register number, which is a sequential numerical identifier (eg. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) assigned to each student at the time of their enrolment.<br />\r\n<br />\r\nAn Index to Pupils&rsquo; Register would have also been maintained by the school, to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, however Public Record Office Victoria does not hold the Index to Pupils&rsquo; Register for this school."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22741",
+    "series_in_custody.date_range": [
+      "[1905 TO 1950]"
+    ],
+    "series_in_custody.end_dt": [
+      1950
+    ],
+    "series_in_custody.start_dt": [
+      1905
+    ],
+    "start_dt": "1905",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795736161,
+    "title": "Pupils' Registers\r\n"
+  },
+  {
+    "_id": "901E0ECA-745F-11F1-9CAC-BDF7EFC8463D",
+    "_version_": 1883028704589774848,
+    "category": "Series",
+    "citation": "VPRS 22742",
+    "citation_sort": "22742",
+    "contents.date_range": [
+      "[1985 TO 1992]"
+    ],
+    "contents.end_dt": [
+      1992
+    ],
+    "contents.start_dt": [
+      1985
+    ],
+    "creating_agents.creating_agency_id": [
+      5845
+    ],
+    "creating_agents.date_ranges": [
+      "[1985 TO 1992]"
+    ],
+    "creating_agents.end_dt": [
+      1992
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1985
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Riddells Creek Primary School (School No. 528; previously known as Riddells Creek Church of England School 1859 \u2013 1862; Riddells Creek Common School 1862 \u2013 c.1873; Riddells Creek State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1985 TO 1992]"
+    ],
+    "end_dt": "1992",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises volumes recording the minutes of meetings held by the School Council for Riddells Creek Primary School (School No. 528) (VA 5845).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983 the Education Act was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n&nbsp;&nbsp; &nbsp;<br />\r\nFor each meeting of the school council, minutes of all proceedings are recorded together with the names of all members present and all who vote for and against motions. The minutes relate to the wide range of activities for which the council is responsible. They are written under agenda item headings and circulated by the principal prior to the next meeting of council, where they are confirmed as accurate and signed by the school council president presiding at the meeting.<br />\r\n<br />\r\nRecords created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Researchers should consult the consignment details to identify a relevant time period and browse through the volume to locate the required information."
+    ],
+    "identifier.PID.id": "901E0ECA-745F-11F1-9CAC-BDF7EFC8463D",
+    "identifier.PROV_ACM.id": "VPRS 22742",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Minutes of meetings are arranged in chronological order by date of meeting.&nbsp;<br />\r\n<br />\r\nFor additional records of School Council activities, see VPRS 22743 School Council Papers."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22742",
+    "series_in_custody.date_range": [
+      "[1985 TO 1992]"
+    ],
+    "series_in_custody.end_dt": [
+      1992
+    ],
+    "series_in_custody.start_dt": [
+      1985
+    ],
+    "start_dt": "1985",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795739283,
+    "title": "School Council Minute Books\r\n"
+  },
+  {
+    "_id": "DCE2C491-745F-11F1-9CAC-5BF6EC31D500",
+    "_version_": 1883028704828850178,
+    "category": "Series",
+    "citation": "VPRS 22743",
+    "citation_sort": "22743",
+    "contents.date_range": [
+      "[1970 TO 2017]"
+    ],
+    "contents.end_dt": [
+      2017
+    ],
+    "contents.start_dt": [
+      1970
+    ],
+    "creating_agents.creating_agency_id": [
+      5845
+    ],
+    "creating_agents.date_ranges": [
+      "[1970 TO 2017]"
+    ],
+    "creating_agents.end_dt": [
+      2017
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1970
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Riddells Creek Primary School (School No. 528; previously known as Riddells Creek Church of England School 1859 \u2013 1862; Riddells Creek Common School 1862 \u2013 c.1873; Riddells Creek State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1970 TO 2017]"
+    ],
+    "end_dt": "2017",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises school council records documenting the organisation and operation of Riddells Creek Primary School (School No. 528) (VA 5845).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983, the Education Act was amended to give the school council responsibility for determining the general education policy of the school withing the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included: maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n<br />\r\nThis series may include the following records: minutes, agendas, correspondence, policies, financial statements and reports from principals and other staff members. Records created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Browse within the series to find relevant information."
+    ],
+    "identifier.PID.id": "DCE2C491-745F-11F1-9CAC-5BF6EC31D500",
+    "identifier.PROV_ACM.id": "VPRS 22743",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are organised sequentially by date and separated into files by year. Some may span multiple years within a single file, while others are spread over multiple files per year. The content, date range and volume of records differs for each school.<br />\r\n<br />\r\nFor additional records of school council activities, see VPRS 22742 School Council Minute Books."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22743",
+    "series_in_custody.date_range": [
+      "[1970 TO 2017]"
+    ],
+    "series_in_custody.end_dt": [
+      2017
+    ],
+    "series_in_custody.start_dt": [
+      1970
+    ],
+    "start_dt": "1970",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795739498,
+    "title": "School Council Papers\r\n"
+  },
+  {
+    "_id": "18442F15-7460-11F1-9CAC-B72500302C98",
+    "_version_": 1883028704830947331,
+    "category": "Series",
+    "citation": "VPRS 22744",
+    "citation_sort": "22744",
+    "contents.date_range": [
+      "[1979 TO 2003]"
+    ],
+    "contents.end_dt": [
+      2003
+    ],
+    "contents.start_dt": [
+      1979
+    ],
+    "creating_agents.creating_agency_id": [
+      5845
+    ],
+    "creating_agents.date_ranges": [
+      "[1979 TO 2003]"
+    ],
+    "creating_agents.end_dt": [
+      2003
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1979
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Riddells Creek Primary School (School No. 528; previously known as Riddells Creek Church of England School 1859 \u2013 1862; Riddells Creek Common School 1862 \u2013 c.1873; Riddells Creek State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1979 TO 2003]"
+    ],
+    "end_dt": "2003",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the official annual school group photographs of the staff, classes/forms, year levels and/or entire school and form a visual record of the students and teachers at Riddells Creek Primary School (School No. 528) (VA 5845) at a point in time.<br />\r\n<br />\r\nThere are not always photographs for every year and within a year period, there may or may not be a photograph for every class / form. The extent of the photographs within the series will vary depending on the school. Additionally, while most photographs list the names of the students and staff members included in the photograph there are some that are unidentified."
+    ],
+    "how_to_use": [
+      "Search for specific photographs by year. Within a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staff included by name."
+    ],
+    "identifier.PID.id": "18442F15-7460-11F1-9CAC-B72500302C98",
+    "identifier.PROV_ACM.id": "VPRS 22744",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Class photographs are grouped by year or year period in files and are typically ordered by year level within each file. The photographs were likely originally stored in photo albums and plastic sleeves.<br />\r\n<br />\r\nWithin a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staffs included by name."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22744",
+    "series_in_custody.date_range": [
+      "[1979 TO 2003]"
+    ],
+    "series_in_custody.end_dt": [
+      2003
+    ],
+    "series_in_custody.start_dt": [
+      1979
+    ],
+    "start_dt": "1979",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795740033,
+    "title": "School Photographs\r\n"
+  },
+  {
+    "_id": "48C0E75A-7460-11F1-9CAC-51F69FE58E34",
+    "_version_": 1883028704836190208,
+    "category": "Series",
+    "citation": "VPRS 22745",
+    "citation_sort": "22745",
+    "contents.date_range": [
+      "1986"
+    ],
+    "contents.end_dt": [
+      1986
+    ],
+    "contents.start_dt": [
+      1986
+    ],
+    "creating_agents.creating_agency_id": [
+      5845
+    ],
+    "creating_agents.date_ranges": [
+      "1986"
+    ],
+    "creating_agents.end_dt": [
+      1986
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1986
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Riddells Creek Primary School (School No. 528; previously known as Riddells Creek Church of England School 1859 \u2013 1862; Riddells Creek Common School 1862 \u2013 c.1873; Riddells Creek State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "1986"
+    ],
+    "end_dt": "1986",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises the student admission forms of Riddells Creek Primary School (School No. 528) (VA 5845). These forms were required to be completed to enable the admission of a student into a State school and were typically in a standardised card format specified by the Department of Education (VA 714) or its successors.<br />\r\n<br />\r\nThe earlier forms contained the following information: School name, student name, class or form number, date of birth, date of admission, sibling details and parent or guardian details, including address and occupation.<br />\r\n<br />\r\nLater versions of the form included student&rsquo;s and parents&rsquo; country of birth, phone number, language, preferred doctor&rsquo;s name and address, information about any disabilities or special considerations the child may have, and if they agree to be provided milk and religious instruction from the school.<br />\r\n<br />\r\nIn addition, many schools also used their own tailored admission forms to gather more information about the care of the children when at school."
+    ],
+    "how_to_use": [
+      "Browse the consignment for the relevant year and name range."
+    ],
+    "identifier.PID.id": "48C0E75A-7460-11F1-9CAC-51F69FE58E34",
+    "identifier.PROV_ACM.id": "VPRS 22745",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Student admission forms are grouped alphabetically by year.<br />\r\n<br />\r\nThe records in this series have been retained because the summary enrolment / admission record for this school could not be located at time of transfer to PROV and it is not known if they still exist. &nbsp;They provide some information about students that were enrolled at the school, though likely only for some classes or for a particular time period."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22745",
+    "series_in_custody.date_range": [
+      "1986"
+    ],
+    "series_in_custody.end_dt": [
+      1986
+    ],
+    "series_in_custody.start_dt": [
+      1986
+    ],
+    "start_dt": "1986",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795740902,
+    "title": "Student Admission Forms\r\n"
+  },
+  {
+    "_id": "839E7BDE-7460-11F1-9CAC-E5F500AA3B60",
+    "_version_": 1883028704843530240,
+    "category": "Series",
+    "citation": "VPRS 22746",
+    "citation_sort": "22746",
+    "contents.date_range": [
+      "[1988 TO 1993]"
+    ],
+    "contents.end_dt": [
+      1993
+    ],
+    "contents.start_dt": [
+      1988
+    ],
+    "creating_agents.creating_agency_id": [
+      5845
+    ],
+    "creating_agents.date_ranges": [
+      "[1988 TO 1993]"
+    ],
+    "creating_agents.end_dt": [
+      1993
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1988
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Riddells Creek Primary School (School No. 528; previously known as Riddells Creek Church of England School 1859 \u2013 1862; Riddells Creek Common School 1862 \u2013 c.1873; Riddells Creek State School c.1873 - 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1988 TO 1993]"
+    ],
+    "end_dt": "1993",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Student Transfer Notes and Exit Forms from Riddells Creek Primary School (School No. 528) (VA 5845).<br />\r\n<br />\r\nThese records capture details of students who transferred to or from the school and are not a complete record of all the students that attended this school. &nbsp;Schools used various formats to record this information over time. Standardised &lsquo;Transfer Notes&rsquo; volumes were used initially before being replaced in the 1990s with more varied formats, such as &lsquo;Transfer Cards,&rsquo; &lsquo;Exit Forms,&rsquo; and &lsquo;Exit Lists.&rsquo;<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system.<br />\r\n<br />\r\n<u>Transfer Notes:</u><br />\r\n<br />\r\nFrom 1928, the Education Department (VA 714) or its successors provided standardised volumes, titled &lsquo;Transfer Notes&rsquo; to document student transfers between state government schools.<br />\r\n<br />\r\nTwo copies of the form were completed for each pupil or group of siblings as legislated in Section 43 of the Education Act 1928 (Vic). &nbsp;One was for the parent to deliver to the receiving school, and one was retained by the originating school. &nbsp;<br />\r\n<br />\r\nThe receiving school&rsquo;s Head Teacher was expected to return a detachable segment to confirm the student&#39;s start date. Students without a Transfer Note were admitted, but their previous school was contacted for documentation, and their names were not added to the Attendance Roll until the paperwork was completed. &nbsp;The Transfer Notes typically recorded details such as the current and destination schools, the student&rsquo;s name, date of birth, attendance, grade level, register number, and parent information.&nbsp;<br />\r\n<br />\r\nStarting in 1961, schools were required to send copies of each transfer to the Director of Child Health (Medical) in the Department of Health (VA 695), though the purpose and end date of this requirement remain unclear.<br />\r\n<br />\r\nIt appears that in the 1990s the Ministry of Education and Training (VA 1112) phased out the use of the standardised volumes and they were replaced with school-managed systems. Many schools implemented forms titled &lsquo;Student Transfer Notes&rsquo; which appear to be from the student management database, likely CASES database or similar. These forms include mostly the same details and process that were in the original standardised volumes, including a detachable segment signed by the receiving school. In some cases, only the returned segment remains. This form also indicates that a duplicate of the student&rsquo;s school record at the school would be sent alongside the note to the new school.<br />\r\n<br />\r\n<u>Transfer Cards:</u><br />\r\n<br />\r\nAs an alternative to Student Transfer Notes, a school may have created Transfer Cards which contained less information and consisted largely of personal details of the student such as parent or guardian details, medical information and emergency contact details. It is not known if a copy of these cards were given to the transferring school.&nbsp;<br />\r\n<br />\r\n<u>Exit Forms:</u><br />\r\n<br />\r\nIn the early 2000s, Student Exit Forms (also called &lsquo;Exit a Student from the School&rsquo; form) were introduced. Unlike transfer notes, these forms appear to have been kept solely for the files of the school, even if transferring to another school.<br />\r\n<br />\r\nThis form was required to be filled out by students prior to departing the school and content varied between schools. Student Exit Forms typically included current enrolment details such as the student&rsquo;s name, address, year level, and date of birth, along with new address details if applicable. Parents or guardians were often required to provide a declaration confirming the student&rsquo;s last day of attendance and their intended destination, whether employment, transferring to another school, or pursuing further education. For students completing the Victorian Certificate of Education (VCE), an additional declaration was required to either withdraw from VCE or transfer their enrolment and VCE records to their new school. The form also usually featured a checklist of actions to complete before departure, such as returning borrowed books, clearing lockers, and settling outstanding fees.<br />\r\n<br />\r\n<u>Exit Lists:</u><br />\r\n<br />\r\nExit Lists follow a standardised format and appear to be a printed report generated from a digital database, likely CASES or similar for a certain date. The printed report has been kept where the original born digital record is unlikely to exist or is no longer accessible.&nbsp;<br />\r\n<br />\r\nThese lists typically include information such as the student&#39;s name, gender, date of birth, date of enrolment, and date of transfer. They may also provide details such as the student&#39;s old and new addresses, current and previous form or class, destination school, previous school, and the names of their parents or guardians."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series for the year or name range of interest."
+    ],
+    "identifier.PID.id": "839E7BDE-7460-11F1-9CAC-E5F500AA3B60",
+    "identifier.PROV_ACM.id": "VPRS 22746",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records in this series are arranged by date within volumes or are arranged alphabetically by surname of student.<br />\r\n<br />\r\nThis records in this series have been retained because the summary enrolment / admission record for this school could not be located at time of transfer to PROV and it is not known if they still exist. &nbsp;They provide some information about students that were enrolled at the school, though likely only for some classes or for a particular time period."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22746",
+    "series_in_custody.date_range": [
+      "[1988 TO 1993]"
+    ],
+    "series_in_custody.end_dt": [
+      1993
+    ],
+    "series_in_custody.start_dt": [
+      1988
+    ],
+    "start_dt": "1988",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795741675,
+    "title": "Student Transfer Notes and Exit Forms\r\n"
+  },
+  {
     "_id": "80E82C62-78E1-11F1-9CAC-1193A8766FCF",
     "_version_": 1881760336095215616,
     "category": "Series",
@@ -1977759,6 +1978371,726 @@
     "status": "Published",
     "timestamp": 1794552974,
     "title": "Inspector's Report Books"
+  },
+  {
+    "_id": "737C8E40-78F1-11F1-9CAC-6B296C8ECC20",
+    "_version_": 1883028704859258880,
+    "category": "Series",
+    "citation": "VPRS 22751",
+    "citation_sort": "22751",
+    "contents.date_range": [
+      "[1997 TO 2021]"
+    ],
+    "contents.end_dt": [
+      2021
+    ],
+    "contents.start_dt": [
+      1997
+    ],
+    "creating_agents.creating_agency_id": [
+      5846
+    ],
+    "creating_agents.date_ranges": [
+      "[1997 TO 2021]"
+    ],
+    "creating_agents.end_dt": [
+      2021
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1997
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Footscray Primary School (School No. 253; previously known as Footscray National School 1860 \u2013 1862; Footscray Common School 1862 \u2013 c.1873; Footscray State School c.1873 \u2013 1970; also known as Footscray City Primary School)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1997 TO 2021]"
+    ],
+    "end_dt": "2021",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises school council records documenting the organisation and operation of Footscray Primary School (School No. 253) (VA 5846).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983, the Education Act was amended to give the school council responsibility for determining the general education policy of the school withing the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included: maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n<br />\r\nThis series may include the following records: minutes, agendas, correspondence, policies, financial statements and reports from principals and other staff members. Records created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Browse within the series to find relevant information."
+    ],
+    "identifier.PID.id": "737C8E40-78F1-11F1-9CAC-6B296C8ECC20",
+    "identifier.PROV_ACM.id": "VPRS 22751",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are organised sequentially by date and separated into files by year. Some may span multiple years within a single file, while others are spread over multiple files per year. The content, date range and volume of records differs for each school.<br />\r\n<br />\r\nFor additional records of school council activities, see VPRS 22756 School Council Minute Books."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22751",
+    "series_in_custody.date_range": [
+      "[1997 TO 2021]"
+    ],
+    "series_in_custody.end_dt": [
+      2021
+    ],
+    "series_in_custody.start_dt": [
+      1997
+    ],
+    "start_dt": "1997",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795753718,
+    "title": "School Council Papers"
+  },
+  {
+    "_id": "705E3DCB-78F9-11F1-9CAC-41E16535F705",
+    "_version_": 1883028704861356035,
+    "category": "Series",
+    "citation": "VPRS 22752",
+    "citation_sort": "22752",
+    "contents.date_range": [
+      "[1983 TO 2010]"
+    ],
+    "contents.end_dt": [
+      2010
+    ],
+    "contents.start_dt": [
+      1983
+    ],
+    "creating_agents.creating_agency_id": [
+      5846
+    ],
+    "creating_agents.date_ranges": [
+      "[1983 TO 2010]"
+    ],
+    "creating_agents.end_dt": [
+      2010
+    ],
+    "creating_agents.end_dt_qual": [
+      "circa"
+    ],
+    "creating_agents.start_dt": [
+      1983
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Footscray Primary School (School No. 253; previously known as Footscray National School 1860 \u2013 1862; Footscray Common School 1862 \u2013 c.1873; Footscray State School c.1873 \u2013 1970; also known as Footscray City Primary School)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1983 TO 2010]"
+    ],
+    "end_dt": "2010",
+    "end_dt_qual": "circa",
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "The publications in this series were produced by Footscray Primary School (School No. 253) (VA 5846) and provide an insight into the activities, culture and curriculum of the school at a certain point in time.<br />\r\n<br />\r\nThe series may include yearbooks, sometimes referred to as &lsquo;school magazines&rsquo;, prospectus publications and other typically annual publications as well as one-off publications of school histories, milestone celebrations and student work anthologies.<br />\r\n<br />\r\nYearbooks were published annually and may feature staff lists with qualifications, highlights of major events, photographs, sports teams, clubs and prefects, new buildings, major excursions, autographs and stories, poetry and art by students.<br />\r\n<br />\r\nProspectus were typically published annually to provide a guide to prospective students about the operations and curriculum of the school and may include information on courses, organisational structure, enrolment procedures, maps, school policy and transport options."
+    ],
+    "how_to_use": [
+      "Researchers should browse within the series by publication type and year. Searches can also be conducted by publication or magazine title."
+    ],
+    "identifier.PID.id": "705E3DCB-78F9-11F1-9CAC-41E16535F705",
+    "identifier.PROV_ACM.id": "VPRS 22752",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records are organised by publication type and ordered chronologically by publication date, though gaps may exist within the collection."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22752",
+    "series_in_custody.date_range": [
+      "[1983 TO 2010]"
+    ],
+    "series_in_custody.end_dt": [
+      2010
+    ],
+    "series_in_custody.start_dt": [
+      1983
+    ],
+    "start_dt": "1983",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795753883,
+    "title": "School Publications"
+  },
+  {
+    "_id": "AE94C08F-78F9-11F1-9CAC-812A1BCB575D",
+    "_version_": 1883028704865550336,
+    "category": "Series",
+    "citation": "VPRS 22753",
+    "citation_sort": "22753",
+    "contents.date_range": [
+      "[1890 TO 2021]"
+    ],
+    "contents.end_dt": [
+      2021
+    ],
+    "contents.start_dt": [
+      1890
+    ],
+    "creating_agents.creating_agency_id": [
+      5846
+    ],
+    "creating_agents.date_ranges": [
+      "[1890 TO 2021]"
+    ],
+    "creating_agents.end_dt": [
+      2021
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1890
+    ],
+    "creating_agents.start_dt_qual": [
+      "circa"
+    ],
+    "creating_agents.title": [
+      "Footscray Primary School (School No. 253; previously known as Footscray National School 1860 \u2013 1862; Footscray Common School 1862 \u2013 c.1873; Footscray State School c.1873 \u2013 1970; also known as Footscray City Primary School)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1890 TO 2021]"
+    ],
+    "end_dt": "2021",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the official annual school group photographs of the staff, classes/forms, year levels and/or entire school and form a visual record of the students and teachers at Footscray Primary School (School No. 253) (VA 5846) at a point in time.<br />\r\n<br />\r\nThere are not always photographs for every year and within a year period, there may or may not be a photograph for every class / form. The extent of the photographs within the series will vary depending on the school. Additionally, while most photographs list the names of the students and staff members included in the photograph there are some that are unidentified."
+    ],
+    "how_to_use": [
+      "Search for specific photographs by year. Within a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staff included by name."
+    ],
+    "identifier.PID.id": "AE94C08F-78F9-11F1-9CAC-812A1BCB575D",
+    "identifier.PROV_ACM.id": "VPRS 22753",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Class photographs are grouped by year or year period in files and are typically ordered by year level within each file. The photographs were likely originally stored in photo albums and plastic sleeves.<br />\r\n<br />\r\nWithin a year period, there may or may not be a photograph for every class/form and not every photograph lists the students and staffs included by name."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "series_id": "22753",
+    "series_in_custody.date_range": [
+      "[1890 TO 2021]"
+    ],
+    "series_in_custody.end_dt": [
+      2021
+    ],
+    "series_in_custody.start_dt": [
+      1890
+    ],
+    "start_dt": "1890",
+    "start_dt_qual": "circa",
+    "status": "Published",
+    "timestamp": 1795754210,
+    "title": "School Photographs"
+  },
+  {
+    "_id": "E4077605-78F9-11F1-9CAC-0BCEA619849C",
+    "_version_": 1883028704872890368,
+    "category": "Series",
+    "citation": "VPRS 22754",
+    "citation_sort": "22754",
+    "contents.date_range": [
+      "[1978 TO 1992]"
+    ],
+    "contents.end_dt": [
+      1992
+    ],
+    "contents.start_dt": [
+      1978
+    ],
+    "creating_agents.creating_agency_id": [
+      5846
+    ],
+    "creating_agents.date_ranges": [
+      "[1978 TO 1992]"
+    ],
+    "creating_agents.end_dt": [
+      1992
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1978
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Footscray Primary School (School No. 253; previously known as Footscray National School 1860 \u2013 1862; Footscray Common School 1862 \u2013 c.1873; Footscray State School c.1873 \u2013 1970; also known as Footscray City Primary School)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1978 TO 1992]"
+    ],
+    "end_dt": "1992",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises the Index to Pupils&rsquo; Registers for Footscray Primary School (School No. 253) (VA 5846), maintained by Victorian government primary schools to facilitate the identification of students recorded in the Pupils&rsquo; Register. Both the Index to Pupils&rsquo; Register and the Pupils&rsquo; Register were standardized templates provided to schools by the Education Department (VA 714) and its successors.<br />\r\n<br />\r\nThe Pupils&rsquo; Register recorded student enrolment data and was arranged in numerical order by student registration number and date of admission. The register was used by all Victorian government primary schools and at times adapted for use at other types of schools.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the Index to locate the last name of the record of interest. Next to the name will be the student registration number to refer to in the related VPRS 22755 Pupils&rsquo; Register."
+    ],
+    "identifier.PID.id": "E4077605-78F9-11F1-9CAC-0BCEA619849C",
+    "identifier.PROV_ACM.id": "VPRS 22754",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "The records in this series were created to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, see VPRS 22755 Pupils&rsquo; Register.<br />\r\n<br />\r\nVolumes are arranged alphabetically and record the child&#39;s surname, first initial, and the registration number given to them upon admission to the school."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22754",
+    "series_in_custody.date_range": [
+      "[1978 TO 1992]"
+    ],
+    "series_in_custody.end_dt": [
+      1992
+    ],
+    "series_in_custody.start_dt": [
+      1978
+    ],
+    "start_dt": "1978",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795754815,
+    "title": "Index to Pupils' Registers"
+  },
+  {
+    "_id": "2586BBE7-78FA-11F1-9CAC-25FE515B7511",
+    "_version_": 1883028704928464896,
+    "category": "Series",
+    "citation": "VPRS 22755",
+    "citation_sort": "22755",
+    "contents.date_range": [
+      "[1914 TO 1998]"
+    ],
+    "contents.end_dt": [
+      1998
+    ],
+    "contents.start_dt": [
+      1914
+    ],
+    "creating_agents.creating_agency_id": [
+      5846
+    ],
+    "creating_agents.date_ranges": [
+      "[1914 TO 1998]"
+    ],
+    "creating_agents.end_dt": [
+      1998
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1914
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Footscray Primary School (School No. 253; previously known as Footscray National School 1860 \u2013 1862; Footscray Common School 1862 \u2013 c.1873; Footscray State School c.1873 \u2013 1970; also known as Footscray City Primary School)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1914 TO 1998]"
+    ],
+    "end_dt": "1998",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Pupils&rsquo; Registers for Footscray Primary School (School No. 253) (VA 5846). Pupil registers were a standardised register in which to record student enrolment data, used by all Victorian government primary schools and at times adapted for use at other types of schools.<br />\r\n<br />\r\nThe front cover typically featured titles such as &quot;Pupils&#39; Register State Primary School&quot; or &quot;Register of the Common School,&quot; with space to record the school number and name. Additional instructions on the cover outlined the required information to be recorded in the register.<br />\r\n<br />\r\nThe information entered into the register was typically derived from admission forms completed by parents prior to admission or, in the case of transfers from other government schools, from transfer notes completed by the previous school. While the level of detail listed for students varies, the information recorded may include a registration number (a sequential number assigned upon enrolment at the school); the student&rsquo;s full name and date of birth; date of enrolment; name, residence and occupation of parent or guardian; school last attended (school number and name) with grade and date of last attendance; number of meetings attended (sectioned by year); date, month and year of obtaining Merit Certificate, and Merit Certificate number; date, month, and year of last attendance; and destination of pupil (either the number and name of a school, or nature of occupation, and name and address of employer).<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system."
+    ],
+    "how_to_use": [
+      "Researchers should browse the series to identify dates of interest.<br />\r\n<br />\r\nConsult the VPRS 22754 Index to Pupils&rsquo; Register to assist with identifying entries. Researchers should search for the full name or registration number of the pupil to identify the appropriate entry in the register."
+    ],
+    "identifier.PID.id": "2586BBE7-78FA-11F1-9CAC-25FE515B7511",
+    "identifier.PROV_ACM.id": "VPRS 22755",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Pupils&rsquo; registers are arranged in numerical order by register number, which is a sequential numerical identifier (eg. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) assigned to each student at the time of their enrolment.<br />\r\n<br />\r\nAn Index to Pupils&rsquo; Register would have also been maintained by the school, to facilitate the identification of students in the Pupils&rsquo; Register by name rather than register number, see VPRS 22754 Index to Pupils&rsquo; Register."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open",
+      "Closed"
+    ],
+    "series_id": "22755",
+    "series_in_custody.date_range": [
+      "[1914 TO 1998]"
+    ],
+    "series_in_custody.end_dt": [
+      1998
+    ],
+    "series_in_custody.start_dt": [
+      1914
+    ],
+    "start_dt": "1914",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795755480,
+    "title": "Pupils' Registers"
+  },
+  {
+    "_id": "75E5D679-78FA-11F1-9CAC-C174C8FDBBAF",
+    "_version_": 1883028704931610624,
+    "category": "Series",
+    "citation": "VPRS 22756",
+    "citation_sort": "22756",
+    "contents.date_range": [
+      "[1992 TO 2008]"
+    ],
+    "contents.end_dt": [
+      2008
+    ],
+    "contents.start_dt": [
+      1992
+    ],
+    "creating_agents.creating_agency_id": [
+      5846
+    ],
+    "creating_agents.date_ranges": [
+      "[1992 TO 2008]"
+    ],
+    "creating_agents.end_dt": [
+      2008
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1992
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Footscray Primary School (School No. 253; previously known as Footscray National School 1860 \u2013 1862; Footscray Common School 1862 \u2013 c.1873; Footscray State School c.1873 \u2013 1970; also known as Footscray City Primary School)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1992 TO 2008]"
+    ],
+    "end_dt": "2008",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises volumes recording the minutes of meetings held by the School Council for Footscray Primary School (School No. 253) (VA 5846).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983 the Education Act was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n&nbsp;&nbsp; &nbsp;<br />\r\nFor each meeting of the school council, minutes of all proceedings are recorded together with the names of all members present and all who vote for and against motions. The minutes relate to the wide range of activities for which the council is responsible. They are written under agenda item headings and circulated by the principal prior to the next meeting of council, where they are confirmed as accurate and signed by the school council president presiding at the meeting.<br />\r\n<br />\r\nRecords created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Researchers should consult the consignment details to identify a relevant time period and browse through the volume to locate the required information."
+    ],
+    "identifier.PID.id": "75E5D679-78FA-11F1-9CAC-C174C8FDBBAF",
+    "identifier.PROV_ACM.id": "VPRS 22756",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Minutes of meetings are arranged in chronological order by date of meeting.<br />\r\n<br />\r\nFor additional records of School Council activities, see VPRS 22751 School Council Papers."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22756",
+    "series_in_custody.date_range": [
+      "[1992 TO 2008]"
+    ],
+    "series_in_custody.end_dt": [
+      2008
+    ],
+    "series_in_custody.start_dt": [
+      1992
+    ],
+    "start_dt": "1992",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795755950,
+    "title": "School Council Minute Books"
+  },
+  {
+    "_id": "BFA7AC7B-78FA-11F1-9CAC-BFC2909327EA",
+    "_version_": 1883028704933707778,
+    "category": "Series",
+    "citation": "VPRS 22757",
+    "citation_sort": "22757",
+    "contents.date_range": [
+      "[2004 TO 2011]"
+    ],
+    "contents.end_dt": [
+      2011
+    ],
+    "contents.start_dt": [
+      2004
+    ],
+    "creating_agents.creating_agency_id": [
+      5846
+    ],
+    "creating_agents.date_ranges": [
+      "[2004 TO 2011]"
+    ],
+    "creating_agents.end_dt": [
+      2011
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      2004
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Footscray Primary School (School No. 253; previously known as Footscray National School 1860 \u2013 1862; Footscray Common School 1862 \u2013 c.1873; Footscray State School c.1873 \u2013 1970; also known as Footscray City Primary School)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[2004 TO 2011]"
+    ],
+    "end_dt": "2011",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series is comprised of the annual reports of Footscray Primary School (School No. 253) (VA 5846).<br />\r\n<br />\r\nThe reports detail aspects such as school governance, achievement, and performance. They may include: Principal&rsquo;s report; School Council President&rsquo;s report; summary of student enrolment, attendance and wellbeing; summary of student progress and achievements; curriculum information; updates on school grounds; staff feedback; charter priorities; annual financial statements and more.<br />\r\n<br />\r\nAlthough the contents, emphasis and delivery mechanisms of annual reports have evolved over time, their fundamental purpose has remained largely unchanged. It provides information on a school&rsquo;s progress and achievements over the course of each year.<br />\r\n<br />\r\nThe content and size of annual reports varies, increasing in size and detail with the implementation of a formalised structure by the Department of Education (VA 3098) in the 1993 amendment to the Education Act 1958 (Vic).<br />\r\n<br />\r\nIn 1994, under the Schools of the Future program, the Department of Education (VA 3098) introduced a framework to provide an accountability mechanism in schools, known as Quality Assurance in Victorian Schools: An Accountability Framework. This framework was introduced to all primary and secondary schools in the state and was created to support the shift in school management from being centrally controlled by the Department to being managed by the local school community. The annual report was one of the three key elements of the framework, in addition to a school charter and a triennial review of the school. The preparation and publication of an annual report was a legislative and regulatory requirement for all schools under the Education and Training Reform Act 2006 (Vic), Ministerial Order 1280 and the National Education Agreement 2008."
+    ],
+    "how_to_use": [
+      "Researchers should search within the series by year of report.<br />\r\n<br />\r\nIf a report is not included in this series, consult VPRS 17782 School Annual Reports which contains the series of school annual reports that had been accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "identifier.PID.id": "BFA7AC7B-78FA-11F1-9CAC-BFC2909327EA",
+    "identifier.PROV_ACM.id": "VPRS 22757",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Annual reports are arranged in chronological order.<br />\r\n<br />\r\nNot every year of the school&rsquo;s operation may have a report. If a report is missing from this series, please refer to the VPRS 17782 School Annual Reports, which holds a collection of school reports accumulated by the Department of Education (VA 5283) or its predecessors."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22757",
+    "series_in_custody.date_range": [
+      "[2004 TO 2011]"
+    ],
+    "series_in_custody.end_dt": [
+      2011
+    ],
+    "series_in_custody.start_dt": [
+      2004
+    ],
+    "start_dt": "2004",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795756592,
+    "title": "Annual Reports"
   },
   {
     "_id": "1EDC899D-78FB-11F1-9CAC-2D2FE4B9B916",
@@ -1980829,6 +1982161,414 @@
     "status": "Published",
     "timestamp": 1794550983,
     "title": "Attendance Roll and Examination Registers"
+  },
+  {
+    "_id": "29897B81-79A0-11F1-9CAC-3DDD2A74C030",
+    "_version_": 1883028704936853504,
+    "category": "Series",
+    "citation": "VPRS 22793",
+    "citation_sort": "22793",
+    "contents.date_range": [
+      "[1990 TO 1993]"
+    ],
+    "contents.end_dt": [
+      1993
+    ],
+    "contents.start_dt": [
+      1990
+    ],
+    "creating_agents.creating_agency_id": [
+      3933
+    ],
+    "creating_agents.date_ranges": [
+      "[1990 TO 1993]"
+    ],
+    "creating_agents.end_dt": [
+      1993
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1990
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Neerim East Primary School (School No. 3158; previously known as Neerim East State School 1892 \u2013 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1990 TO 1993]"
+    ],
+    "end_dt": "1993",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises school council records documenting the organisation and operation of Neerim East Primary School (School No. 3158) (VA 3933).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983, the Education Act was amended to give the school council responsibility for determining the general education policy of the school withing the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included: maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n<br />\r\nThis series may include the following records: minutes, agendas, correspondence, policies, financial statements and reports from principals and other staff members. Records created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Browse within the series to find relevant information."
+    ],
+    "identifier.PID.id": "29897B81-79A0-11F1-9CAC-3DDD2A74C030",
+    "identifier.PROV_ACM.id": "VPRS 22793",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Records are organised sequentially by date and separated into files by year. Some may span multiple years within a single file, while others are spread over multiple files per year. The content, date range and volume of records differs for each school.<br />\r\n<br />\r\nFor additional records of school council activities, see VPRS 22796 School Council Minute Books.<br />\r\n<br />\r\nFurther records from this school can be found at VPRS 9876 School Records, a series containing records collected by the Department of Education (VA 3098) or its counterparts at the time of the school&rsquo;s closure and transferred to Public Record Office Victoria in the 1990s."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22793",
+    "series_in_custody.date_range": [
+      "[1990 TO 1993]"
+    ],
+    "series_in_custody.end_dt": [
+      1993
+    ],
+    "series_in_custody.start_dt": [
+      1990
+    ],
+    "start_dt": "1990",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795757285,
+    "title": "School Council Papers"
+  },
+  {
+    "_id": "E55BF2F3-79A1-11F1-9CAC-79E0994B22B1",
+    "_version_": 1883028704938950657,
+    "category": "Series",
+    "citation": "VPRS 22794",
+    "citation_sort": "22794",
+    "contents.date_range": [
+      "[1987 TO 1993]"
+    ],
+    "contents.end_dt": [
+      1993
+    ],
+    "contents.start_dt": [
+      1987
+    ],
+    "creating_agents.creating_agency_id": [
+      3933
+    ],
+    "creating_agents.date_ranges": [
+      "[1987 TO 1993]"
+    ],
+    "creating_agents.end_dt": [
+      1993
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1987
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Neerim East Primary School (School No. 3158; previously known as Neerim East State School 1892 \u2013 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1987 TO 1993]"
+    ],
+    "end_dt": "1993",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises the student admission forms of Neerim East Primary School (School No. 3158) (VA 3933). These forms were required to be completed to enable the admission of a student into a State school and were typically in a standardised card format specified by the Department of Education (VA 714) or its successors.<br />\r\n<br />\r\nThe earlier forms contained the following information: School name, student name, class or form number, date of birth, date of admission, sibling details and parent or guardian details, including address and occupation.<br />\r\n<br />\r\nLater versions of the form included student&rsquo;s and parents&rsquo; country of birth, phone number, language, preferred doctor&rsquo;s name and address, information about any disabilities or special considerations the child may have, and if they agree to be provided milk and religious instruction from the school.<br />\r\n<br />\r\nIn addition, many schools also used their own tailored admission forms to gather more information about the care of the children when at school."
+    ],
+    "how_to_use": [
+      "Browse the consignment for the relevant year and name range.&nbsp;"
+    ],
+    "identifier.PID.id": "E55BF2F3-79A1-11F1-9CAC-79E0994B22B1",
+    "identifier.PROV_ACM.id": "VPRS 22794",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Student admission forms are grouped alphabetically by year.<br />\r\n<br />\r\nThe records in this series have been retained because the summary enrolment / admission record for this school could not be located at time of transfer to PROV and it is not known if they still exist. &nbsp;They provide some information about students that were enrolled at the school, though likely only for some classes or for a particular time period.<br />\r\n<br />\r\nFurther records from this school can be found at VPRS 9876 School Records, a series containing records collected by the Department of Education (VA 3098) or its counterparts at the time of the school&rsquo;s closure and transferred to Public Record Office Victoria in the 1990s."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Closed"
+    ],
+    "series_id": "22794",
+    "series_in_custody.date_range": [
+      "[1987 TO 1993]"
+    ],
+    "series_in_custody.end_dt": [
+      1993
+    ],
+    "series_in_custody.start_dt": [
+      1987
+    ],
+    "start_dt": "1987",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795757640,
+    "title": "Student Admission Forms"
+  },
+  {
+    "_id": "6F3BAA89-79A2-11F1-9CAC-89C20DC4C811",
+    "_version_": 1883028704941047812,
+    "category": "Series",
+    "citation": "VPRS 22795",
+    "citation_sort": "22795",
+    "contents.date_range": [
+      "[1982 TO 1993]"
+    ],
+    "contents.end_dt": [
+      1993
+    ],
+    "contents.start_dt": [
+      1982
+    ],
+    "creating_agents.creating_agency_id": [
+      3933
+    ],
+    "creating_agents.date_ranges": [
+      "[1982 TO 1993]"
+    ],
+    "creating_agents.end_dt": [
+      1993
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1982
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Neerim East Primary School (School No. 3158; previously known as Neerim East State School 1892 \u2013 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1982 TO 1993]"
+    ],
+    "end_dt": "1993",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises Attendance Roll and Examination Registers maintained by Neerim East Primary School (School No. 3158) (VA 3933). These records document the personal information, attendance and academic assessment of enrolled students.<br />\r\n<br />\r\nThe series is made up of two primary record types, the &lsquo;Attendance Roll and Examination Register&rsquo;, and the subsequent &lsquo;Attendance Roll and Teacher Reports&rsquo;. Both record types have the same form number, produced by the Education Department (VA 5283) or its predecessors. This series does not include &lsquo;Attendance Rolls&rsquo;, which serve a separate function of recording student attendance only, and did not record student personal information or teacher comments.<br />\r\n<br />\r\nThe register&#39;s front cover provides space for the school&rsquo;s name, number, date, class/group, teacher name, and includes &lsquo;General Instructions&rsquo; and &lsquo;Directions for Filling Up the Rolls&rsquo;. The instructions specify using a new register annually and destroying it five years after completion.<br />\r\n<br />\r\nInside the register there is space to record the register number, student name, date of birth, age, date of admission to class/form, date of admission to school, name of parent or guardian, address of parent or guardian, occupation, distance from school by nearest road, religious instruction, private and emergency phone numbers and an area for additional notes.<br />\r\n<br />\r\nA further series of smaller pages contain space to record the attendance of each student for morning and afternoon using symbols outlined in the directions on the cover of the register. Additional pages are also provided for teacher reports which may include additional information on individuals such as any special abilities and interests, problems, levels of student achievement etc.<br />\r\n<br />\r\nFurther information regarding school closures and holidays is printed on the reverse of the register.<br />\r\n<br />\r\nSchool attendance became mandatory in Victoria in 1873, with the Education Department (VA 714) responsible for regulating attendance. From 1971 this responsibility shifted to the Social Welfare Department (VA 946) before returning to the Ministry of Education and Training (VA 1112) in 1982. Around 1993, the Department of Education (VA 3098) stopped employing regional attendance officers, and the responsibility for regulating attendance shifted to individual schools.<br />\r\n<br />\r\nAttendance Roll and Examination Registers appear to have been in use from approximately the 1950s to the late 1980s. Subsequent iterations of these records, titled &lsquo;Attendance Roll and Teacher Reports&rsquo;, were introduced in approximately the 1970s, with some overlap of both record types being used throughout the 1980s. Earlier attendance and examination records are subject to further research.<br />\r\n<br />\r\nFrom the 1980s, schools began transitioning to the Computerised Administrative System Environment in Schools (CASES) database, a centralised digital enrolment system maintained by the Education Department (VA 714) or its successors. Initially not widely used, the then Department of Education (VA 3098) introduced an updated CASES21, which became the mandatory system of record for financial information and reporting for all Victorian government schools from 2006. While CASES21 was also used for student and school administration processes, including recording attendance, schools were permitted to utilise other third-party software to meet their needs in conjunction with the system. This system provided the means through which digital records capturing similar information could be created. Prior to the mandatory use of CASES21, &lsquo;Attendance Roll and Teacher Reports&rsquo; remained in use."
+    ],
+    "how_to_use": [
+      "Researchers should search or browse within the series by date and then by class or form."
+    ],
+    "identifier.PID.id": "6F3BAA89-79A2-11F1-9CAC-89C20DC4C811",
+    "identifier.PROV_ACM.id": "VPRS 22795",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Attendance Roll and Examination Registers are arranged in chronological order by year and class/form.<br />\r\n<br />\r\nEach student is assigned a &ldquo;consecutive number&rdquo; (a sequential numerical identifier, e.g. &ldquo;1&rdquo;, &ldquo;2&rdquo;, &ldquo;3&rdquo;, etc.) and a &ldquo;register number&rdquo;. The register number provides access to the student&rsquo;s entry in the school&rsquo;s Pupils&rsquo; Register.<br />\r\n<br />\r\nThe records in this series have been retained because the summary enrolment / admission record for this school could not be located at time of transfer to PROV and it is not known if they still exist. &nbsp;They provide some information about students that were enrolled at the school, though likely only for some classes or for a particular time period.<br />\r\n<br />\r\nThis series does not include &lsquo;Attendance Rolls&rsquo;, which serve a separate function of recording student attendance only, and did not record student personal information or teacher comments.<br />\r\n<br />\r\nFurther records from this school can be found at VPRS 9876 School Records, a series containing records collected by the Department of Education (VA 3098) or its counterparts at the time of the school&rsquo;s closure and transferred to Public Record Office Victoria in the 1990s."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2024 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2024
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22795",
+    "series_in_custody.date_range": [
+      "[1982 TO 1993]"
+    ],
+    "series_in_custody.end_dt": [
+      1993
+    ],
+    "series_in_custody.start_dt": [
+      1982
+    ],
+    "start_dt": "1982",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795758055,
+    "title": "Attendance Roll and Examination Registers"
+  },
+  {
+    "_id": "4B443F67-79A3-11F1-9CAC-6B52215461BC",
+    "_version_": 1883028704944193536,
+    "category": "Series",
+    "citation": "VPRS 22796",
+    "citation_sort": "22796",
+    "contents.date_range": [
+      "[1912 TO 1985]"
+    ],
+    "contents.end_dt": [
+      1985
+    ],
+    "contents.start_dt": [
+      1912
+    ],
+    "creating_agents.creating_agency_id": [
+      3933
+    ],
+    "creating_agents.date_ranges": [
+      "[1912 TO 1985]"
+    ],
+    "creating_agents.end_dt": [
+      1985
+    ],
+    "creating_agents.end_dt_qual": null,
+    "creating_agents.start_dt": [
+      1912
+    ],
+    "creating_agents.start_dt_qual": null,
+    "creating_agents.title": [
+      "Neerim East Primary School (School No. 3158; previously known as Neerim East State School 1892 \u2013 1970)"
+    ],
+    "date_descriptor": null,
+    "date_range": [
+      "[1912 TO 1985]"
+    ],
+    "end_dt": "1985",
+    "end_dt_qual": null,
+    "entity": "Record",
+    "format": "Physical",
+    "function_content": [
+      "This series comprises volumes recording the minutes of meetings held by the School Council for Neerim East Primary School (School No. 3158) (VA 3933).<br />\r\n<br />\r\nLocal school committees and councils have existed in some form since the beginning of State education in Victoria. Until 1974, each primary school had a school committee made up of parents, while high schools and technical schools had councils comprised of parents and other community members. In 1975, changes to the Education Act 1958 allowed the establishment of school councils with common powers across State schools.<br />\r\n<br />\r\nIn 1983, the Minister of Education released several new policies shifting the responsibility of decision-making from the State onto individual schools, with the principal and staff to report on and explain their education programs to their local school community. In late 1983 the Education Act was amended to give the school council responsibility for determining the general education policy of the school within the guidelines set by the Minister. The amendment became effective in 1984, by which time all school councils were re-constituted to fit government guidelines on membership.<br />\r\n<br />\r\nSchool councils in Victoria operate under the Education and Training Reform Act 2006, the Education and Training Reform Regulations 2017, Ministerial Orders, and the school council&rsquo;s own constituting Order of the Minister of Education. Under this Order, the council&rsquo;s membership, size and configuration, objectives, powers, functions and accountabilities, and the role of its executive officer (the school principal), is laid out.<br />\r\n<br />\r\nMembers comprise the School Principal, representatives of the teaching staff, parents and the wider community. They share governance responsibilities with the Department of Education (VA 5283). Councils are responsible for a range of matters including the condition of the school grounds and buildings (including the organisation of maintenance, improvement and cleaning work), forming opinions about the school&#39;s conduct and management and other duties prescribed by regulations.<br />\r\n<br />\r\nThe school council has functions in setting and monitoring the school&rsquo;s direction, with primary responsibilities around governance, strategic planning, finance, policy and review.<br />\r\n<br />\r\nCritical functions of school councils also included maintaining school grounds and facilities; entering into contracts such as regulating and facilitating after-hours use of school premises and grounds; reporting annually to the school community and the Department; and representing and taking the views of the community into account.<br />\r\n&nbsp;&nbsp; &nbsp;<br />\r\nFor each meeting of the school council, minutes of all proceedings are recorded together with the names of all members present and all who vote for and against motions. The minutes relate to the wide range of activities for which the council is responsible. They are written under agenda item headings and circulated by the principal prior to the next meeting of council, where they are confirmed as accurate and signed by the school council president presiding at the meeting.<br />\r\n<br />\r\nRecords created by the former school committee, prior to the formal establishment of school councils, and sub-committees of the school council may also be included."
+    ],
+    "how_to_use": [
+      "Researchers should consult the consignment details to identify a relevant time period and browse through the volume to locate the required information."
+    ],
+    "identifier.PID.id": "4B443F67-79A3-11F1-9CAC-6B52215461BC",
+    "identifier.PROV_ACM.id": "VPRS 22796",
+    "jurisdictional_coverage": [
+      "Victoria"
+    ],
+    "location": [
+      "North Melbourne"
+    ],
+    "recordkeeping_system": [
+      "Minutes of meetings are arranged in chronological order by date of meeting.<br />\r\n<br />\r\nFor additional records of School Council activities, see VPRS 22793 School Council Papers."
+    ],
+    "resp_agency_id": [
+      "5283"
+    ],
+    "resp_agency_title": [
+      "Department of Education III"
+    ],
+    "resp_agency_title_facet": [
+      "Department of Education III"
+    ],
+    "responsible_agents.date_ranges": [
+      "[2026 TO 3000]"
+    ],
+    "responsible_agents.end_dt": [
+      3000
+    ],
+    "responsible_agents.end_dt_qual": null,
+    "responsible_agents.resp_agency_id": [
+      5283
+    ],
+    "responsible_agents.start_dt": [
+      2026
+    ],
+    "responsible_agents.start_dt_qual": null,
+    "responsible_agents.title": [
+      "Department of Education III"
+    ],
+    "rights_status": [
+      "Open"
+    ],
+    "series_id": "22796",
+    "series_in_custody.date_range": [
+      "[1912 TO 1985]"
+    ],
+    "series_in_custody.end_dt": [
+      1985
+    ],
+    "series_in_custody.start_dt": [
+      1912
+    ],
+    "start_dt": "1912",
+    "start_dt_qual": null,
+    "status": "Published",
+    "timestamp": 1795758460,
+    "title": "School Council Minute Books"
   },
   {
     "_id": "931430B3-79A3-11F1-9CAC-8F0713552D1C",
